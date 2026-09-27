@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-27T15:23:53Z",
+ "generated": "2026-09-27T15:51:45Z",
  "months": [
   "2026-09"
  ],
@@ -96,6 +96,44 @@
    "paywall": true,
    "categories": [
     "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "9d970f4c2453",
+   "date": "2026-09-26",
+   "tickers": [
+    "CRM"
+   ],
+   "direction": "unclear",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Salesforce เผยผลลัพธ์ประจำไตรมาส Q4 2026 ต้องเข้าไปดูรายละเอียดว่ามีการเปลี่ยนแปลง guidance หรือไม่",
+   "title": "Salesforce (CRM) Q4 2026 Earnings Call Transcript",
+   "source": "Fortune",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRdVRiVnNPeTRFeW4zOTNyTHo1OXVnZUhKNWZmWWpaWERpNTg4MEk0RE4wVmJTYlJhaGljUHBPWGs5VDh3UWwwVUJBTzlGUllEbEgxOW9yMGFQa29wZXBWQ2tabGpBSktvcUJjRQ?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "670f1fb60ce2",
+   "date": "2026-09-26",
+   "tickers": [
+    "MACRO"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "macro",
+   "reason": "US Fed วางแผนยกระดับ oversight thresholds สำหรับธนาคาร ส่งผลต่อสภาวะเศรษฐกิจมหภาค",
+   "title": "US Fed plans to raise bank oversight thresholds, sources say",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUWp2cWtUeTRqUnMtdGU0NElzbE9lV2N5QllabnBYYlhyRVk5TnU4ckJhSUc3aVZmRmxadmVoRTBsM2xfSWdpR19JMlVLMlg4eG1SdDdaSXRvT1RKNE5kS3d6NjgwS2l3ZGxqSW5Tc2x3RFJQYm1nV3RTN3NpZVBPbzhjekxzdlp0djdiNHVFckt5UDFCY2Ixajc0bVhaSkNDUEJvYm9iUWprUkFINVpGWGdR?oc=5",
+   "paywall": false,
+   "categories": [
+    "fed"
    ],
    "model": "claude-haiku-4-5"
   },

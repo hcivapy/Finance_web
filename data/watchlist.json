@@ -1,0 +1,564 @@
+{
+ "generated": "2026-09-27T15:50:55Z",
+ "stocks": [
+  {
+   "id": "AMD",
+   "name": "AMD",
+   "tickers": [
+    "AMD"
+   ],
+   "country": "US",
+   "tradingview": "NASDAQ-AMD",
+   "keywords": [
+    "Advanced Micro Devices",
+    "Lisa Su",
+    "Ryzen",
+    "Radeon"
+   ],
+   "weak_words": [
+    "AMD",
+    "AMD's"
+   ],
+   "context": [
+    "chip*",
+    "GPU*",
+    "processor*",
+    "CPU*",
+    "semiconductor*",
+    "stock*",
+    "shares",
+    "AI",
+    "data center*",
+    "Instinct",
+    "Nvidia",
+    "Intel",
+    "earnings",
+    "OpenAI",
+    "server*"
+   ],
+   "search": "AMD OR \"Advanced Micro Devices\"",
+   "file": "stocks/AMD.json"
+  },
+  {
+   "id": "AMZN",
+   "name": "Amazon",
+   "tickers": [
+    "AMZN"
+   ],
+   "country": "US",
+   "tradingview": "NASDAQ-AMZN",
+   "keywords": [
+    "Amazon",
+    "AWS",
+    "Amazon Web Services",
+    "Andy Jassy"
+   ],
+   "exact_words": [
+    "AMZN"
+   ],
+   "exclude": [
+    "Amazon rainforest",
+    "Amazon River",
+    "Amazonia",
+    "Amazon basin",
+    "Amazon forest"
+   ],
+   "search": "Amazon OR AWS",
+   "file": "stocks/AMZN.json"
+  },
+  {
+   "id": "ASML",
+   "name": "ASML",
+   "tickers": [
+    "ASML"
+   ],
+   "country": "US",
+   "tradingview": "NASDAQ-ASML",
+   "keywords": [
+    "ASML"
+   ],
+   "search": "ASML",
+   "file": "stocks/ASML.json"
+  },
+  {
+   "id": "AVGO",
+   "name": "Broadcom",
+   "tickers": [
+    "AVGO"
+   ],
+   "country": "US",
+   "tradingview": "NASDAQ-AVGO",
+   "keywords": [
+    "Broadcom",
+    "VMware",
+    "Hock Tan"
+   ],
+   "exact_words": [
+    "AVGO"
+   ],
+   "search": "Broadcom",
+   "file": "stocks/AVGO.json"
+  },
+  {
+   "id": "CRM",
+   "name": "Salesforce",
+   "tickers": [
+    "CRM"
+   ],
+   "country": "US",
+   "tradingview": "NYSE-CRM",
+   "keywords": [
+    "Salesforce",
+    "Benioff",
+    "Agentforce"
+   ],
+   "search": "Salesforce",
+   "file": "stocks/CRM.json"
+  },
+  {
+   "id": "GEV",
+   "name": "GE Vernova",
+   "tickers": [
+    "GEV"
+   ],
+   "country": "US",
+   "tradingview": "NYSE-GEV",
+   "keywords": [
+    "GE Vernova"
+   ],
+   "exact_words": [
+    "GEV"
+   ],
+   "search": "\"GE Vernova\"",
+   "file": "stocks/GEV.json"
+  },
+  {
+   "id": "GOOG",
+   "name": "Alphabet",
+   "tickers": [
+    "GOOG",
+    "GOOGL"
+   ],
+   "country": "US",
+   "tradingview": "NASDAQ-GOOG",
+   "keywords": [
+    "Alphabet",
+    "Google",
+    "Waymo",
+    "YouTube",
+    "DeepMind"
+   ],
+   "exact_words": [
+    "GOOG",
+    "GOOGL"
+   ],
+   "search": "Alphabet OR Google",
+   "file": "stocks/GOOG.json"
+  },
+  {
+   "id": "META",
+   "name": "Meta Platforms",
+   "tickers": [
+    "META"
+   ],
+   "country": "US",
+   "tradingview": "NASDAQ-META",
+   "keywords": [
+    "Meta Platforms",
+    "Facebook",
+    "Instagram",
+    "WhatsApp",
+    "Zuckerberg"
+   ],
+   "exact_words": [
+    "Meta",
+    "Meta's",
+    "META"
+   ],
+   "exclude": [
+    "meta-analysis"
+   ],
+   "search": "\"Meta Platforms\" OR Meta OR Facebook OR Instagram",
+   "file": "stocks/META.json"
+  },
+  {
+   "id": "MSFT",
+   "name": "Microsoft",
+   "tickers": [
+    "MSFT"
+   ],
+   "country": "US",
+   "tradingview": "NASDAQ-MSFT",
+   "keywords": [
+    "Microsoft",
+    "Azure",
+    "Satya Nadella"
+   ],
+   "exact_words": [
+    "MSFT"
+   ],
+   "search": "Microsoft",
+   "file": "stocks/MSFT.json"
+  },
+  {
+   "id": "MU",
+   "name": "Micron Technology",
+   "tickers": [
+    "MU"
+   ],
+   "country": "US",
+   "tradingview": "NASDAQ-MU",
+   "keywords": [
+    "Micron"
+   ],
+   "weak_words": [
+    "MU"
+   ],
+   "context": [
+    "memory",
+    "chip*",
+    "DRAM",
+    "HBM",
+    "NAND",
+    "semiconductor*",
+    "stock*",
+    "shares",
+    "earnings"
+   ],
+   "search": "\"Micron Technology\" OR Micron",
+   "file": "stocks/MU.json"
+  },
+  {
+   "id": "NOW",
+   "name": "ServiceNow",
+   "tickers": [
+    "NOW"
+   ],
+   "country": "US",
+   "tradingview": "NYSE-NOW",
+   "keywords": [
+    "ServiceNow",
+    "Bill McDermott"
+   ],
+   "search": "ServiceNow",
+   "file": "stocks/NOW.json"
+  },
+  {
+   "id": "NVDA",
+   "name": "Nvidia",
+   "tickers": [
+    "NVDA"
+   ],
+   "country": "US",
+   "tradingview": "NASDAQ-NVDA",
+   "keywords": [
+    "Nvidia",
+    "Jensen Huang"
+   ],
+   "exact_words": [
+    "NVDA"
+   ],
+   "search": "Nvidia",
+   "file": "stocks/NVDA.json"
+  },
+  {
+   "id": "OUST",
+   "name": "Ouster",
+   "tickers": [
+    "OUST"
+   ],
+   "country": "US",
+   "tradingview": "NYSE-OUST",
+   "keywords": [
+    "Ouster Inc"
+   ],
+   "weak_words": [
+    "Ouster",
+    "OUST"
+   ],
+   "context": [
+    "lidar",
+    "sensor*",
+    "OUST",
+    "stock*",
+    "shares",
+    "earnings",
+    "revenue",
+    "autonomous",
+    "robot*",
+    "Velodyne"
+   ],
+   "search": "\"Ouster Inc\" OR \"Ouster lidar\" OR OUST",
+   "file": "stocks/OUST.json"
+  },
+  {
+   "id": "SMR",
+   "name": "NuScale Power",
+   "tickers": [
+    "SMR"
+   ],
+   "country": "US",
+   "tradingview": "NYSE-SMR",
+   "keywords": [
+    "NuScale"
+   ],
+   "search": "NuScale",
+   "file": "stocks/SMR.json"
+  },
+  {
+   "id": "SPCX",
+   "name": "SpaceX",
+   "tickers": [
+    "SPCX"
+   ],
+   "country": "US",
+   "tradingview": "NASDAQ-SPCX",
+   "keywords": [
+    "SpaceX",
+    "Starlink",
+    "Space Exploration Technologies"
+   ],
+   "exact_words": [
+    "SPCX"
+   ],
+   "search": "SpaceX OR Starlink",
+   "file": "stocks/SPCX.json"
+  },
+  {
+   "id": "TSM",
+   "name": "TSMC",
+   "tickers": [
+    "TSM",
+    "2330"
+   ],
+   "country": "US",
+   "tradingview": "NYSE-TSM",
+   "keywords": [
+    "TSMC",
+    "Taiwan Semiconductor"
+   ],
+   "exact_words": [
+    "TSM"
+   ],
+   "search": "TSMC OR \"Taiwan Semiconductor\"",
+   "file": "stocks/TSM.json"
+  },
+  {
+   "id": "6758",
+   "name": "Sony Group",
+   "tickers": [
+    "6758",
+    "SONY"
+   ],
+   "country": "JP",
+   "tradingview": "TSE-6758",
+   "keywords": [
+    "Sony",
+    "PlayStation"
+   ],
+   "search": "Sony",
+   "file": "stocks/6758.json"
+  },
+  {
+   "id": "6981",
+   "name": "Murata Manufacturing",
+   "tickers": [
+    "6981"
+   ],
+   "country": "JP",
+   "tradingview": "TSE-6981",
+   "keywords": [
+    "Murata Manufacturing"
+   ],
+   "weak_words": [
+    "Murata"
+   ],
+   "context": [
+    "capacitor*",
+    "component*",
+    "electronic*",
+    "MLCC",
+    "stock*",
+    "shares",
+    "earnings",
+    "supplier*",
+    "Apple",
+    "iPhone",
+    "6981"
+   ],
+   "search": "\"Murata Manufacturing\"",
+   "search_all_sources": true,
+   "file": "stocks/6981.json"
+  },
+  {
+   "id": "TYOYY",
+   "name": "Taiyo Yuden",
+   "tickers": [
+    "TYOYY",
+    "6976"
+   ],
+   "country": "JP",
+   "tradingview": "OTC-TYOYY",
+   "keywords": [
+    "Taiyo Yuden"
+   ],
+   "search": "\"Taiyo Yuden\"",
+   "search_all_sources": true,
+   "file": "stocks/TYOYY.json"
+  },
+  {
+   "id": "RYCEY",
+   "name": "Rolls-Royce Holdings",
+   "tickers": [
+    "RYCEY",
+    "RYCEF",
+    "RR."
+   ],
+   "country": "UK",
+   "tradingview": "OTC-RYCEY",
+   "keywords": [
+    "Rolls-Royce",
+    "Rolls Royce",
+    "Rolls-Royce Holdings"
+   ],
+   "exact_words": [
+    "RYCEY",
+    "RYCEF"
+   ],
+   "exclude": [
+    "Rolls-Royce Motor Cars",
+    "Rolls-Royce Motors",
+    "Cullinan",
+    "Phantom",
+    "Spectre",
+    "Black Badge",
+    "Goodwood",
+    "BMW",
+    "car",
+    "cars",
+    "vintage",
+    "classic",
+    "luxury car*",
+    "coachbuil*",
+    "supercar*",
+    "chauffeur*"
+   ],
+   "search": "\"Rolls-Royce\"",
+   "file": "stocks/RYCEY.json"
+  }
+ ],
+ "assets": [
+  {
+   "id": "BTCUSD",
+   "name": "Bitcoin",
+   "tradingview": "BTCUSD",
+   "keywords": [
+    "Bitcoin",
+    "bitcoin ETF*",
+    "spot bitcoin"
+   ],
+   "exact_words": [
+    "BTC"
+   ],
+   "exclude": [
+    "altcoin*",
+    "meme coin*",
+    "memecoin*",
+    "Dogecoin",
+    "Shiba",
+    "XRP",
+    "Solana",
+    "Cardano",
+    "Pepe",
+    "presale",
+    "airdrop*"
+   ]
+  },
+  {
+   "id": "XAUUSD",
+   "name": "ทองคำ (Gold)",
+   "tradingview": "XAUUSD",
+   "keywords": [
+    "gold",
+    "bullion"
+   ],
+   "exact_words": [
+    "XAU",
+    "XAU/USD"
+   ],
+   "context": [
+    "price*",
+    "ounce*",
+    "bullion",
+    "ETF*",
+    "central bank*",
+    "futures",
+    "rall*",
+    "record",
+    "spot",
+    "demand",
+    "reserve*",
+    "haven",
+    "Fed",
+    "rate*",
+    "yield*",
+    "dollar",
+    "XAU",
+    "precious metal*",
+    "loss*",
+    "gain*",
+    "weekly",
+    "investor*",
+    "inflation",
+    "World Gold Council",
+    "support",
+    "slip*",
+    "climb*",
+    "fall*",
+    "rise*",
+    "jump*"
+   ],
+   "exclude": [
+    "medal*",
+    "Olympic*",
+    "Paralympic*",
+    "wins gold",
+    "won gold",
+    "claims",
+    "marathon",
+    "century of gold",
+    "Asian Games",
+    "Asiad",
+    "championship*",
+    "gold rush",
+    "gold standard",
+    "gold card",
+    "Gold Coast",
+    "gold star",
+    "Gold Fields",
+    "gold mine*",
+    "gold miner*",
+    "gold-plated",
+    "gold record"
+   ]
+  }
+ ],
+ "indexes": [
+  {
+   "id": "QQQ",
+   "name": "Nasdaq-100 (QQQ)",
+   "tradingview": "NASDAQ-QQQ"
+  },
+  {
+   "id": "VOO",
+   "name": "S&P 500 (VOO)",
+   "tradingview": "AMEX-VOO"
+  },
+  {
+   "id": "SPX",
+   "name": "S&P 500 Index",
+   "tradingview": "SP-SPX"
+  }
+ ],
+ "errors": []
+}

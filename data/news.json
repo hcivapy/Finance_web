@@ -1,20 +1,20 @@
 {
- "generated": "2026-09-27T15:22:55Z",
+ "generated": "2026-09-27T15:50:55Z",
  "ai": {
   "ok": true,
-  "sent": 70,
-  "labeled": 68,
+  "sent": 12,
+  "labeled": 12,
   "over_cap": 0,
   "model": "claude-haiku-4-5",
-  "input_tokens": 4584,
-  "output_tokens": 1003,
-  "cost_usd": 0.0096,
-  "month_to_date_usd": 0.0096
+  "input_tokens": 2019,
+  "output_tokens": 255,
+  "cost_usd": 0.00329,
+  "month_to_date_usd": 0.0304
  },
  "stats": {
-  "new_items": 70,
-  "total_items": 70,
-  "history_added": 6,
+  "new_items": 10,
+  "total_items": 80,
+  "history_added": 2,
   "sources_ok": 67,
   "sources_total": 68,
   "deleted_old_files": []
@@ -108,7 +108,7 @@
    "name": "Bloomberg Technology",
    "ok": true,
    "error": null,
-   "fetched": 10,
+   "fetched": 9,
    "relevant": 3
   },
   {
@@ -270,13 +270,13 @@
    "ok": true,
    "error": null,
    "fetched": 36,
-   "relevant": 2
+   "relevant": 1
   },
   {
    "name": "Reuters (Fed)",
    "ok": true,
    "error": null,
-   "fetched": 61,
+   "fetched": 58,
    "relevant": 7
   },
   {
@@ -290,98 +290,21 @@
    "name": "Reuters (Bitcoin)",
    "ok": true,
    "error": null,
-   "fetched": 30,
+   "fetched": 29,
    "relevant": 0
   },
   {
    "name": "Kitco (ทองคำ)",
    "ok": true,
    "error": null,
-   "fetched": 31,
+   "fetched": 29,
    "relevant": 5
   },
   {
    "name": "AP (ภาพรวมตลาด)",
    "ok": true,
    "error": null,
-   "fetched": 12,
-   "relevant": 2
-  },
-  {
-   "name": "Google News: GOOG",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
-   "relevant": 4
-  },
-  {
-   "name": "Google News: SPCX",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
-   "relevant": 0
-  },
-  {
-   "name": "Google News: META",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
-   "relevant": 11
-  },
-  {
-   "name": "Google News: NVDA",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
-   "relevant": 4
-  },
-  {
-   "name": "Google News: MU",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
-   "relevant": 3
-  },
-  {
-   "name": "Google News: TSM",
-   "ok": true,
-   "error": null,
-   "fetched": 44,
-   "relevant": 0
-  },
-  {
-   "name": "Google News: ASML",
-   "ok": true,
-   "error": null,
-   "fetched": 40,
-   "relevant": 0
-  },
-  {
-   "name": "Google News: MSFT",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
-   "relevant": 3
-  },
-  {
-   "name": "Google News: GEV",
-   "ok": true,
-   "error": null,
-   "fetched": 19,
-   "relevant": 0
-  },
-  {
-   "name": "Google News: SMR",
-   "ok": true,
-   "error": null,
-   "fetched": 12,
-   "relevant": 0
-  },
-  {
-   "name": "Google News: AMZN",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "fetched": 13,
    "relevant": 2
   },
   {
@@ -392,11 +315,67 @@
    "relevant": 0
   },
   {
-   "name": "Google News: OUST",
+   "name": "Google News: AMZN",
    "ok": true,
    "error": null,
-   "fetched": 39,
+   "fetched": 100,
+   "relevant": 2
+  },
+  {
+   "name": "Google News: ASML",
+   "ok": true,
+   "error": null,
+   "fetched": 42,
    "relevant": 0
+  },
+  {
+   "name": "Google News: AVGO",
+   "ok": true,
+   "error": null,
+   "fetched": 44,
+   "relevant": 0
+  },
+  {
+   "name": "Google News: CRM",
+   "ok": true,
+   "error": null,
+   "fetched": 47,
+   "relevant": 1
+  },
+  {
+   "name": "Google News: GEV",
+   "ok": true,
+   "error": null,
+   "fetched": 18,
+   "relevant": 0
+  },
+  {
+   "name": "Google News: GOOG",
+   "ok": true,
+   "error": null,
+   "fetched": 100,
+   "relevant": 5
+  },
+  {
+   "name": "Google News: META",
+   "ok": true,
+   "error": null,
+   "fetched": 100,
+   "relevant": 14
+  },
+  {
+   "name": "Google News: MSFT",
+   "ok": true,
+   "error": null,
+   "fetched": 100,
+   "relevant": 3
+  },
+  {
+   "name": "Google News: MU",
+   "ok": true,
+   "error": null,
+   "fetched": 100,
+   "relevant": 4
   },
   {
    "name": "Google News: NOW",
@@ -406,17 +385,38 @@
    "relevant": 0
   },
   {
-   "name": "Google News: CRM",
+   "name": "Google News: NVDA",
    "ok": true,
    "error": null,
-   "fetched": 46,
+   "fetched": 100,
+   "relevant": 4
+  },
+  {
+   "name": "Google News: OUST",
+   "ok": true,
+   "error": null,
+   "fetched": 36,
    "relevant": 0
   },
   {
-   "name": "Google News: AVGO",
+   "name": "Google News: SMR",
    "ok": true,
    "error": null,
-   "fetched": 45,
+   "fetched": 11,
+   "relevant": 0
+  },
+  {
+   "name": "Google News: SPCX",
+   "ok": true,
+   "error": null,
+   "fetched": 100,
+   "relevant": 1
+  },
+  {
+   "name": "Google News: TSM",
+   "ok": true,
+   "error": null,
+   "fetched": 42,
    "relevant": 0
   },
   {
@@ -448,45 +448,45 @@
    "relevant": 0
   },
   {
-   "name": "Reuters: GOOG,SPCX,META",
+   "name": "Reuters: AMD,AMZN,ASML",
+   "ok": true,
+   "error": null,
+   "fetched": 47,
+   "relevant": 2
+  },
+  {
+   "name": "Reuters: AVGO,CRM,GEV",
+   "ok": true,
+   "error": null,
+   "fetched": 1,
+   "relevant": 0
+  },
+  {
+   "name": "Reuters: GOOG,META,MSFT",
    "ok": true,
    "error": null,
    "fetched": 99,
-   "relevant": 6
+   "relevant": 8
   },
   {
-   "name": "Reuters: NVDA,MU,TSM",
+   "name": "Reuters: MU,NOW,NVDA",
    "ok": true,
    "error": null,
-   "fetched": 41,
-   "relevant": 4
+   "fetched": 45,
+   "relevant": 5
   },
   {
-   "name": "Reuters: ASML,MSFT,GEV",
+   "name": "Reuters: OUST,SMR,SPCX",
    "ok": true,
    "error": null,
-   "fetched": 26,
+   "fetched": 32,
    "relevant": 3
   },
   {
-   "name": "Reuters: SMR,AMZN,AMD",
+   "name": "Reuters: TSM,6758,6981",
    "ok": true,
    "error": null,
-   "fetched": 49,
-   "relevant": 2
-  },
-  {
-   "name": "Reuters: OUST,NOW,CRM",
-   "ok": true,
-   "error": null,
-   "fetched": 29,
-   "relevant": 2
-  },
-  {
-   "name": "Reuters: AVGO,6758,6981",
-   "ok": true,
-   "error": null,
-   "fetched": 4,
+   "fetched": 6,
    "relevant": 0
   },
   {
@@ -815,6 +815,27 @@
    }
   },
   {
+   "id": "27651ada3a5b",
+   "title": "Inside the workforce housing attracting Meta's data center workers",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdWJsZEk3emJIR05kVUgzT0M3dkhhMUJISWtXc21YTTlobFdDZVk4VVdhcXNUa1kwbzNObGdoRWNCS3d2RklsRjVZV21YemQzV01KMUhxcHBqUDFBdGdrcWdSNEptYldGamw5WDQ5QUs0aVZEU1BmT2V0Nlk1eDFyTGlERkpmN3Y2SVJ1eXIxa3EwRTVMNklucVk4UVA2WkJCZVE?oc=5",
+   "source": "Business Insider",
+   "paywall": true,
+   "published": "2026-09-27T10:41:28Z",
+   "first_seen": "2026-09-27T15:50:55Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "META"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
    "id": "a9fe19bcf705",
    "title": "Riot Platforms repays $200M credit facility, releases collateral",
    "summary": "The Bitcoin miner has continued to expand its data-center business as well.",
@@ -1133,6 +1154,27 @@
    }
   },
   {
+   "id": "f82880fd63f2",
+   "title": "Nvidia and these other stocks are on sale, Bank of America says",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUjQxOVFhR3ZKMmxDSG9CSGMtTHctdFFuTmF2Q1lST2c0dTdNNFEtcHVyX0duMTlHcnI1eG12Tk5QdVByRXF4OWR5UDA5TGFpbHo5SG1ZWk9tVHJndy1XZjcxaDhjbE5fNXJENm1xbnBsLWdrNy1KU0U0WUpwbzliSGJvUW9rZk9ERDFUX2U3YUttbkFzNjQ2OUZINXJ0WC1N?oc=5",
+   "source": "CNBC",
+   "paywall": false,
+   "published": "2026-09-26T13:43:15Z",
+   "first_seen": "2026-09-27T15:50:55Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "NVDA"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
    "id": "65d3bc7ea940",
    "title": "The 10-year Treasury yield is at its highest in nearly two decades. How we got here",
    "summary": "The benchmark yield has climbed to a 19-year high, fueled by sticky inflation, heavy bond issuance and an AI-fueled investment boom.",
@@ -1213,6 +1255,34 @@
    }
   },
   {
+   "id": "9d970f4c2453",
+   "title": "Salesforce (CRM) Q4 2026 Earnings Call Transcript",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRdVRiVnNPeTRFeW4zOTNyTHo1OXVnZUhKNWZmWWpaWERpNTg4MEk0RE4wVmJTYlJhaGljUHBPWGs5VDh3UWwwVUJBTzlGUllEbEgxOW9yMGFQa29wZXBWQ2tabGpBSktvcUJjRQ?oc=5",
+   "source": "Fortune",
+   "paywall": true,
+   "published": "2026-09-26T11:10:50Z",
+   "first_seen": "2026-09-27T15:50:55Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "CRM"
+   ],
+   "also": [],
+   "ai": {
+    "label": "fundamental",
+    "tickers": [
+     "CRM"
+    ],
+    "direction": "unclear",
+    "impact_area": "other",
+    "importance": "low",
+    "reason": "Salesforce เผยผลลัพธ์ประจำไตรมาส Q4 2026 ต้องเข้าไปดูรายละเอียดว่ามีการเปลี่ยนแปลง guidance หรือไม่",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
    "id": "08e8fcea6f2a",
    "title": "Swiss National Bank's Schlegel watching hot weather impact on food price inflation",
    "summary": "",
@@ -1225,6 +1295,27 @@
     "fed"
    ],
    "tickers": [],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "c5ccf60b6f0e",
+   "title": "I was laid off by Google, then offered a new role. I chose to move cross-country to bet on my startup.",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQUF4WmdtaHl0Y2d0OU9YeVFyZjhIZFZDV2RNMGJNcDVsdmg3Z2F2eHQwd1pIckh0eVRYb3JBcFdvWkRWbWZseVhQX09WLTNkQjRfaWV1NkVzUHduaWFTZ2wwai1RbVlpQnpNbXhud1g1V2NTWmVVMGhXa2hlM1NQNDRPOFNOMlE4SEJyamkwOER0S0pzXzhZWEVKd1V2UQ?oc=5",
+   "source": "Business Insider",
+   "paywall": true,
+   "published": "2026-09-26T09:38:00Z",
+   "first_seen": "2026-09-27T15:50:55Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "GOOG"
+   ],
    "also": [],
    "ai": {
     "label": "noise",
@@ -1275,7 +1366,10 @@
      "paywall": false
     }
    ],
-   "ai": null
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
   },
   {
    "id": "549fb14ab812",
@@ -1370,6 +1464,27 @@
    }
   },
   {
+   "id": "755f7412ddf0",
+   "title": "Chart Master: Micron technicals ahead of earnings",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOS3BmbnQ2X1hCU0txYTkwUXp3LWZmLUotOWk5QTUzckNWelVQUGFuekNVMjN2NTJrcXJkRjhlQXphRlgtc0tpMWcxNldHeTJlb3hJNkJoQlJfMmk5ZTVUMTNtdmFqd0JHM3AyVmN6cXl1b0o3bHhfYzlmU1Z6R1FPeV91LTF5VFZITUF2SFU3M25CV0dqeHc?oc=5",
+   "source": "CNBC",
+   "paywall": false,
+   "published": "2026-09-25T21:47:00Z",
+   "first_seen": "2026-09-27T15:50:55Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "MU"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
    "id": "a560a03bb121",
    "title": "Fed's Hammack worried inflation expectations could deteriorate",
    "summary": "",
@@ -1432,6 +1547,27 @@
     "impact_area": "regulation",
     "importance": "medium",
     "reason": "New Mexico jury ตัดสินว่า Facebook หลอกผู้ใช้เกี่ยวกับ privacy protections อาจนำไปสู่อุทธรณ์และค่าเสียหายที่มีสาระสำคัญ",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "25f013f04e0e",
+   "title": "BMO's Harsh Kumar looks ahead to Micron Q4 results",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ2l3c09HWWl4ZEMxUmNSZGNHb3JwbUZjaVR3NE1NMkVRenNQUjh2ak1GWHhXUHY4djNoZ05pWUJmQzJJLVFUYV9WSlRnTVVlaE9pVE9zTW5yX2VMSXZKand4YUZkemJDWHUzRU1KcFByMjV1UmJwRHQzREllX2RtQ20zWEx2bVd0eU1aS3Q1U0IweVcxT3pr?oc=5",
+   "source": "CNBC",
+   "paywall": false,
+   "published": "2026-09-25T21:05:25Z",
+   "first_seen": "2026-09-27T15:50:55Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "MU"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
     "model": "claude-haiku-4-5"
    }
   },
@@ -1751,6 +1887,28 @@
    }
   },
   {
+   "id": "116d4a2376a9",
+   "title": "Microsoft gives Copilot a much-needed overhaul, and the stock deservedly soars",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUjdfSnQzcEdXalBJMlVyTldYb0Vzdkpqb1poTEdPVWFVbHowODBseHJSZHhLTkl3U0JHVGhYbUNuTWFPZmxSYVF6Vjl2Nmc2NXhQV2tLM0dtQWtkdGoxV2NNTmhIcU5BWUlqY3Bja1N2QU44UmhGaWVpd2RPcm1rSnZ6bjA1RXJrM3VhQlZ0RDNNN1J5TlN4MGMtZjR5c1ZFaXdGYnNGMVF5LThoQ2xpdktxbXY?oc=5",
+   "source": "CNBC",
+   "paywall": false,
+   "published": "2026-09-25T18:38:38Z",
+   "first_seen": "2026-09-27T15:50:55Z",
+   "categories": [
+    "watchlist",
+    "products"
+   ],
+   "tickers": [
+    "MSFT"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
    "id": "6c4167d9a77a",
    "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
    "summary": "The funding, which comes from Third Point, Nvidia, and others, will fuel the company's massive AI data center buildout.",
@@ -1814,6 +1972,27 @@
    }
   },
   {
+   "id": "040ba87cbc62",
+   "title": "SpaceX has a 'cash cow' hiding in plain sight. Here’s why I’m buying the stock",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWFRpQzBTMk5PcnhmVW9JOEhzZEQyU25WY29MMVBrWEEzejJkczFwa0loNDZ5ZGRYRklDbHhvZnNSTkpHaW9JTklyUG4yZFhWLUwwMW05MktZRUIydXdETXA0UlFOMDQ4d2p5LUFOUDFxc0hqZ2ZsS0hSZTZwWkJEYmwtam5uTkpZdkQwWVFfdG9ZQ3ZXblNZY1JyVmxyWWt0T0xvdjdVenZpUUdVajNz?oc=5",
+   "source": "CNBC",
+   "paywall": false,
+   "published": "2026-09-25T18:28:22Z",
+   "first_seen": "2026-09-27T15:50:55Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "SPCX"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
    "id": "32612b55aa72",
    "title": "Amazon data center communities: Here’s what’s happening near data centers across the US",
    "summary": "Get the latest updates on how Amazon supports small businesses, creates jobs, sets up sustainability initiatives, and develops educational programs near AWS data centers.",
@@ -1835,6 +2014,27 @@
    }
   },
   {
+   "id": "3703e5af88d7",
+   "title": "Meta's 'powerful breakout' sets up a unique trading strategy, says Mike Khouw",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZlNDbm54a1ZDTTRLWWczUzhZRjdMdDRMV1YwWXNleU5KSF9pbGhKTDJmTFRsVzNEZlNIXzdrWkFneUpUNHJVVWI3QVZtU3ZMcFU5d3hXZDJFOHYwaFlvNEJoYXFzS2JFSGZfNHVjRXZOMmVSNUJYYV91X1hWcWNRY01SZktIRlZsMmgzSHJtdU9VNnoyR2FfWXctYk9UYUc0LWo5YjBka25qRHY2MjFLStIBtgFBVV95cUxPUTJIVGo1cnM0UmdWbEd4RF9CV0NyekFtUmgxYTZUSjA0TmlySnFJTW41MnRodjF0VU1zQlo1Zk8yWnpwS3g4b0haUlptTHlBcHBzdU5JcXZ2aWk2bWN2bVIyMXNoMUpTUUdJQXpjTWUtbzh4emxxOUVsMlU0TElSQWpHTG1qUFlDNFZUNk55VGJJdVdqaDVVcUltN2R2OVhnYjQ3dHFFNmxWUkF4RzdGUEVEUGlndw?oc=5",
+   "source": "CNBC",
+   "paywall": false,
+   "published": "2026-09-25T17:56:49Z",
+   "first_seen": "2026-09-27T15:50:55Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "META"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
    "id": "670f1fb60ce2",
    "title": "US Fed plans to raise bank oversight thresholds, sources say",
    "summary": "",
@@ -1848,7 +2048,17 @@
    ],
    "tickers": [],
    "also": [],
-   "ai": null
+   "ai": {
+    "label": "fundamental",
+    "tickers": [
+     "MACRO"
+    ],
+    "direction": "positive",
+    "impact_area": "macro",
+    "importance": "high",
+    "reason": "US Fed วางแผนยกระดับ oversight thresholds สำหรับธนาคาร ส่งผลต่อสภาวะเศรษฐกิจมหภาค",
+    "model": "claude-haiku-4-5"
+   }
   },
   {
    "id": "a25b9becdb08",
@@ -1885,6 +2095,27 @@
    ],
    "tickers": [
     "XAUUSD"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "5e965fa90f1e",
+   "title": "Google employee says he quit because aiming for superintelligent AI is 'inherently irresponsible'",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYk5YMGVEdEJWelVFOW4zbXlfRzAxZFlhcGphRy0wbmFXMm03X29CcXdQLTdDdmpxdXRTcTBkV2FFWGlYMmdkdVlYU3dLUWFfTHRPQmlrNVdIWWotcU43YndlNzR0VGRBWDhUanVONnFCZTJFUWwyR2tqRVY5ZktJYlNNRVZBRGtIbEhKMEFsV3NUQy1waXR0T0t2TW9iOGN5V2YxcjlHRVVKb2JNMlE?oc=5",
+   "source": "Business Insider",
+   "paywall": true,
+   "published": "2026-09-25T16:30:00Z",
+   "first_seen": "2026-09-27T15:50:55Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "GOOG"
    ],
    "also": [],
    "ai": {
