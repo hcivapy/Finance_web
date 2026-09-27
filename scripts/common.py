@@ -1,4 +1,5 @@
 """Shared helpers: paths, config loading, time, keyword matching, file writing."""
+import glob
 import json
 import os
 import re
@@ -16,7 +17,8 @@ BKK = timezone(timedelta(hours=7), "Asia/Bangkok")
 
 def load_json(path, default=None):
     try:
-        with open(path, encoding="utf-8") as f:
+        # utf-8-sig also accepts files saved with a BOM (some Windows editors add one)
+        with open(path, encoding="utf-8-sig") as f:
             return json.load(f)
     except FileNotFoundError:
         if default is not None:
@@ -24,11 +26,58 @@ def load_json(path, default=None):
         raise
 
 
+STOCKS_DIR = os.path.join(ROOT, "stocks")
+STOCK_ID_RE = re.compile(r"^[A-Z0-9][A-Z0-9._-]{0,11}$")
+COUNTRY_ORDER = {"US": 0, "JP": 1, "UK": 2}
+
+
+def _check_stock(s):
+    """Return an error message for a malformed stock file, or None if it is usable."""
+    if not isinstance(s, dict):
+        return "ไม่ใช่ข้อมูลหุ้น"
+    if not isinstance(s.get("id"), str) or not STOCK_ID_RE.match(s["id"]):
+        return "ช่อง id ต้องเป็นตัวพิมพ์ใหญ่/ตัวเลข เช่น AAPL"
+    if not isinstance(s.get("name"), str) or not s["name"].strip():
+        return "ไม่มีช่อง name"
+    for k in ("keywords", "exact_words", "weak_words", "context", "exclude", "tickers"):
+        if k in s and not (isinstance(s[k], list) and all(isinstance(x, str) for x in s[k])):
+            return f"ช่อง {k} ต้องเป็นรายการข้อความ [\"...\", \"...\"]"
+    if not (s.get("keywords") or s.get("exact_words") or s.get("weak_words")):
+        return "ต้องมีอย่างน้อยหนึ่งช่อง: keywords / exact_words / weak_words"
+    return None
+
+
+def load_watchlist():
+    """watchlist.json (assets, indexes) + one file per stock in stocks/.
+
+    A broken stock file is skipped and reported in "errors" — it never stops the daily run.
+    """
+    wl = load_json(os.path.join(ROOT, "watchlist.json"))
+    stocks, errors = {}, []
+    for s in wl.get("stocks", []):  # older layout: stocks listed inside watchlist.json
+        stocks[s["id"]] = s
+    for path in sorted(glob.glob(os.path.join(STOCKS_DIR, "*.json"))):
+        name = os.path.basename(path)
+        try:
+            s = load_json(path)
+        except (ValueError, OSError) as e:
+            errors.append({"file": f"stocks/{name}", "error": f"รูปแบบ JSON ผิด ({str(e)[:80]})"})
+            continue
+        err = _check_stock(s)
+        if err:
+            errors.append({"file": f"stocks/{name}", "error": err})
+            continue
+        stocks[s["id"]] = {**s, "file": f"stocks/{name}"}
+    wl["stocks"] = sorted(stocks.values(), key=lambda s: (COUNTRY_ORDER.get(s.get("country"), 9), s.get("added", ""), s["id"]))
+    wl["errors"] = errors
+    return wl
+
+
 def load_configs():
     return (
         load_json(os.path.join(ROOT, "config.json")),
         load_json(os.path.join(ROOT, "sources.json")),
-        load_json(os.path.join(ROOT, "watchlist.json")),
+        load_watchlist(),
     )
 
 

@@ -8,7 +8,9 @@ from datetime import timedelta
 
 from ai import AIError, cost_usd, label_items
 from classify import Classifier, collect
-from common import iso, load_configs, parse_iso, utcnow
+import os
+
+from common import DATA_DIR, iso, load_configs, parse_iso, utcnow, write_json
 from fetch import build_jobs, fetch_all
 import storage
 
@@ -65,6 +67,13 @@ def main():
         storage.rebuild_weekly_index()
     storage.write_expiring(months, config["expiry_warning_days"], now)
 
+    # The app reads this merged list (stocks/ folder + assets) for names, chart links and the Stocks tab.
+    write_json(os.path.join(DATA_DIR, "watchlist.json"), {
+        "generated": iso(now),
+        "stocks": watchlist["stocks"], "assets": watchlist["assets"], "indexes": watchlist.get("indexes", []),
+        "errors": watchlist["errors"],
+    })
+
     storage.save_news({
         "generated": iso(now),
         "ai": ai_status,
@@ -77,6 +86,9 @@ def main():
     })
 
     # Log for the GitHub Actions page
+    print(f"Stocks: {len(watchlist['stocks'])}")
+    for e in watchlist["errors"]:
+        print(f"  skipped stock file {e['file']}: {e['error']}")
     print(f"Sources OK: {sum(s['ok'] for s in source_status)}/{len(source_status)}")
     for s in source_status:
         if not s["ok"]:
