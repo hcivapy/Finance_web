@@ -1,0 +1,25 @@
+{
+  "id": "META",
+  "name": "Meta Platforms",
+  "tickers": [
+    "META"
+  ],
+  "country": "US",
+  "tradingview": "NASDAQ-META",
+  "keywords": [
+    "Meta Platforms",
+    "Facebook",
+    "Instagram",
+    "WhatsApp",
+    "Zuckerberg"
+  ],
+  "exact_words": [
+    "Meta",
+    "Meta's",
+    "META"
+  ],
+  "exclude": [
+    "meta-analysis"
+  ],
+  "search": "\"Meta Platforms\" OR Meta OR Facebook OR Instagram"
+}

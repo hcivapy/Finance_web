@@ -1,0 +1,15 @@
+{
+  "id": "TYOYY",
+  "name": "Taiyo Yuden",
+  "tickers": [
+    "TYOYY",
+    "6976"
+  ],
+  "country": "JP",
+  "tradingview": "OTC-TYOYY",
+  "keywords": [
+    "Taiyo Yuden"
+  ],
+  "search": "\"Taiyo Yuden\"",
+  "search_all_sources": true
+}

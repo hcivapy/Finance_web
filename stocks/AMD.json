@@ -1,0 +1,37 @@
+{
+  "id": "AMD",
+  "name": "AMD",
+  "tickers": [
+    "AMD"
+  ],
+  "country": "US",
+  "tradingview": "NASDAQ-AMD",
+  "keywords": [
+    "Advanced Micro Devices",
+    "Lisa Su",
+    "Ryzen",
+    "Radeon"
+  ],
+  "weak_words": [
+    "AMD",
+    "AMD's"
+  ],
+  "context": [
+    "chip*",
+    "GPU*",
+    "processor*",
+    "CPU*",
+    "semiconductor*",
+    "stock*",
+    "shares",
+    "AI",
+    "data center*",
+    "Instinct",
+    "Nvidia",
+    "Intel",
+    "earnings",
+    "OpenAI",
+    "server*"
+  ],
+  "search": "AMD OR \"Advanced Micro Devices\""
+}

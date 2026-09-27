@@ -1,0 +1,18 @@
+{
+  "id": "SPCX",
+  "name": "SpaceX",
+  "tickers": [
+    "SPCX"
+  ],
+  "country": "US",
+  "tradingview": "NASDAQ-SPCX",
+  "keywords": [
+    "SpaceX",
+    "Starlink",
+    "Space Exploration Technologies"
+  ],
+  "exact_words": [
+    "SPCX"
+  ],
+  "search": "SpaceX OR Starlink"
+}

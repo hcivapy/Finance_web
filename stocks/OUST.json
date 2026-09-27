@@ -1,0 +1,29 @@
+{
+  "id": "OUST",
+  "name": "Ouster",
+  "tickers": [
+    "OUST"
+  ],
+  "country": "US",
+  "tradingview": "NYSE-OUST",
+  "keywords": [
+    "Ouster Inc"
+  ],
+  "weak_words": [
+    "Ouster",
+    "OUST"
+  ],
+  "context": [
+    "lidar",
+    "sensor*",
+    "OUST",
+    "stock*",
+    "shares",
+    "earnings",
+    "revenue",
+    "autonomous",
+    "robot*",
+    "Velodyne"
+  ],
+  "search": "\"Ouster Inc\" OR \"Ouster lidar\" OR OUST"
+}

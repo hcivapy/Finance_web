@@ -1,0 +1,13 @@
+{
+  "id": "SMR",
+  "name": "NuScale Power",
+  "tickers": [
+    "SMR"
+  ],
+  "country": "US",
+  "tradingview": "NYSE-SMR",
+  "keywords": [
+    "NuScale"
+  ],
+  "search": "NuScale"
+}

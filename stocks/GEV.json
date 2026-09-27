@@ -1,0 +1,16 @@
+{
+  "id": "GEV",
+  "name": "GE Vernova",
+  "tickers": [
+    "GEV"
+  ],
+  "country": "US",
+  "tradingview": "NYSE-GEV",
+  "keywords": [
+    "GE Vernova"
+  ],
+  "exact_words": [
+    "GEV"
+  ],
+  "search": "\"GE Vernova\""
+}

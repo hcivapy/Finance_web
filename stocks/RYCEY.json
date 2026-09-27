@@ -1,0 +1,39 @@
+{
+  "id": "RYCEY",
+  "name": "Rolls-Royce Holdings",
+  "tickers": [
+    "RYCEY",
+    "RYCEF",
+    "RR."
+  ],
+  "country": "UK",
+  "tradingview": "OTC-RYCEY",
+  "keywords": [
+    "Rolls-Royce",
+    "Rolls Royce",
+    "Rolls-Royce Holdings"
+  ],
+  "exact_words": [
+    "RYCEY",
+    "RYCEF"
+  ],
+  "exclude": [
+    "Rolls-Royce Motor Cars",
+    "Rolls-Royce Motors",
+    "Cullinan",
+    "Phantom",
+    "Spectre",
+    "Black Badge",
+    "Goodwood",
+    "BMW",
+    "car",
+    "cars",
+    "vintage",
+    "classic",
+    "luxury car*",
+    "coachbuil*",
+    "supercar*",
+    "chauffeur*"
+  ],
+  "search": "\"Rolls-Royce\""
+}

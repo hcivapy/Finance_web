@@ -1,0 +1,18 @@
+{
+  "id": "TSM",
+  "name": "TSMC",
+  "tickers": [
+    "TSM",
+    "2330"
+  ],
+  "country": "US",
+  "tradingview": "NYSE-TSM",
+  "keywords": [
+    "TSMC",
+    "Taiwan Semiconductor"
+  ],
+  "exact_words": [
+    "TSM"
+  ],
+  "search": "TSMC OR \"Taiwan Semiconductor\""
+}

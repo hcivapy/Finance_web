@@ -1,0 +1,30 @@
+{
+  "id": "6981",
+  "name": "Murata Manufacturing",
+  "tickers": [
+    "6981"
+  ],
+  "country": "JP",
+  "tradingview": "TSE-6981",
+  "keywords": [
+    "Murata Manufacturing"
+  ],
+  "weak_words": [
+    "Murata"
+  ],
+  "context": [
+    "capacitor*",
+    "component*",
+    "electronic*",
+    "MLCC",
+    "stock*",
+    "shares",
+    "earnings",
+    "supplier*",
+    "Apple",
+    "iPhone",
+    "6981"
+  ],
+  "search": "\"Murata Manufacturing\"",
+  "search_all_sources": true
+}

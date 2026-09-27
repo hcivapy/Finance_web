@@ -1,0 +1,18 @@
+{
+  "id": "MSFT",
+  "name": "Microsoft",
+  "tickers": [
+    "MSFT"
+  ],
+  "country": "US",
+  "tradingview": "NASDAQ-MSFT",
+  "keywords": [
+    "Microsoft",
+    "Azure",
+    "Satya Nadella"
+  ],
+  "exact_words": [
+    "MSFT"
+  ],
+  "search": "Microsoft"
+}

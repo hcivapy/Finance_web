@@ -1,0 +1,26 @@
+{
+  "id": "AMZN",
+  "name": "Amazon",
+  "tickers": [
+    "AMZN"
+  ],
+  "country": "US",
+  "tradingview": "NASDAQ-AMZN",
+  "keywords": [
+    "Amazon",
+    "AWS",
+    "Amazon Web Services",
+    "Andy Jassy"
+  ],
+  "exact_words": [
+    "AMZN"
+  ],
+  "exclude": [
+    "Amazon rainforest",
+    "Amazon River",
+    "Amazonia",
+    "Amazon basin",
+    "Amazon forest"
+  ],
+  "search": "Amazon OR AWS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "NOW",
+  "name": "ServiceNow",
+  "tickers": [
+    "NOW"
+  ],
+  "country": "US",
+  "tradingview": "NYSE-NOW",
+  "keywords": [
+    "ServiceNow",
+    "Bill McDermott"
+  ],
+  "search": "ServiceNow"
+}

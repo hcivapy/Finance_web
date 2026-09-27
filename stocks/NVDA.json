@@ -1,0 +1,17 @@
+{
+  "id": "NVDA",
+  "name": "Nvidia",
+  "tickers": [
+    "NVDA"
+  ],
+  "country": "US",
+  "tradingview": "NASDAQ-NVDA",
+  "keywords": [
+    "Nvidia",
+    "Jensen Huang"
+  ],
+  "exact_words": [
+    "NVDA"
+  ],
+  "search": "Nvidia"
+}

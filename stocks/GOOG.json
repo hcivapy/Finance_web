@@ -1,0 +1,22 @@
+{
+  "id": "GOOG",
+  "name": "Alphabet",
+  "tickers": [
+    "GOOG",
+    "GOOGL"
+  ],
+  "country": "US",
+  "tradingview": "NASDAQ-GOOG",
+  "keywords": [
+    "Alphabet",
+    "Google",
+    "Waymo",
+    "YouTube",
+    "DeepMind"
+  ],
+  "exact_words": [
+    "GOOG",
+    "GOOGL"
+  ],
+  "search": "Alphabet OR Google"
+}

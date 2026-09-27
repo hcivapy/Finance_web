@@ -1,0 +1,27 @@
+{
+  "id": "MU",
+  "name": "Micron Technology",
+  "tickers": [
+    "MU"
+  ],
+  "country": "US",
+  "tradingview": "NASDAQ-MU",
+  "keywords": [
+    "Micron"
+  ],
+  "weak_words": [
+    "MU"
+  ],
+  "context": [
+    "memory",
+    "chip*",
+    "DRAM",
+    "HBM",
+    "NAND",
+    "semiconductor*",
+    "stock*",
+    "shares",
+    "earnings"
+  ],
+  "search": "\"Micron Technology\" OR Micron"
+}

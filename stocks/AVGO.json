@@ -1,0 +1,18 @@
+{
+  "id": "AVGO",
+  "name": "Broadcom",
+  "tickers": [
+    "AVGO"
+  ],
+  "country": "US",
+  "tradingview": "NASDAQ-AVGO",
+  "keywords": [
+    "Broadcom",
+    "VMware",
+    "Hock Tan"
+  ],
+  "exact_words": [
+    "AVGO"
+  ],
+  "search": "Broadcom"
+}
