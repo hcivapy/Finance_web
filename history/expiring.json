@@ -1,11 +1,11 @@
 {
- "generated": "2026-09-27T15:22:55Z",
+ "generated": "2026-09-27T15:28:59Z",
  "history_months": 12,
  "warning_days": 7,
  "next_deletion": {
   "month": "2026-09",
   "delete_on": "2027-09-01",
   "history_csv": "history/2026-09.csv",
-  "weekly_csv": null
+  "weekly_csv": "weekly/2026-09.csv"
  }
 }

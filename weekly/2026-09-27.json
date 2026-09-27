@@ -1,0 +1,37 @@
+{
+ "date": "2026-09-27",
+ "period_start": "2026-09-20",
+ "period_end": "2026-09-26",
+ "generated": "2026-09-27T15:28:59Z",
+ "news_count": 8,
+ "model": "claude-sonnet-5",
+ "summary": {
+  "headline": "สัปดาห์นี้: Meta เผชิญคำตัดสินคดี privacy, Sony ถูกฟ้อง copyright แต่เดินหน้า AI, Amazon ขยายตลาดอินเดีย และ Bitcoin ETF ไหลเข้าสูงสุด",
+  "overview": "สัปดาห์นี้มีข่าวหลากหลายด้าน legal และ business expansion ที่กระทบ fundamentals ระยะยาว โดย Meta เผชิญคำตัดสินจาก jury เรื่อง privacy ในขณะที่ Sony ถูกฟ้องเรื่อง copyright แต่ก็เดินหน้าขยายทีมงานด้าน AI chip อีกด้าน Amazon ประกาศลงทุนขยาย fast delivery ในอินเดีย และ Nvidia อาจได้ประโยชน์จากการผ่อนคลาย export controls ของจีน ส่วน Bitcoin ETF มี inflow สูงสุดในรอบหลายเดือน",
+  "companies": [
+   {
+    "t": "META",
+    "direction": "negative",
+    "summary": "New Mexico jury ตัดสินว่า Meta หลอกลวงผู้ใช้เกี่ยวกับ privacy protections ของ Facebook ซึ่งอาจนำไปสู่การอุทธรณ์และค่าเสียหายที่มีสาระสำคัญต่อบริษัท"
+   },
+   {
+    "t": "6758",
+    "direction": "mixed",
+    "summary": "Sony ร่วมกับ UMG ยื่นฟ้อง Suno อีกครั้งในข้อหาละเมิด copyright เพลง ขณะเดียวกันหน่วยธุรกิจ chip ของ Sony เรียกพนักงาน 8,000 คนกลับเข้าสำนักงานเพื่อเร่งพัฒนาโครงการ physical AI"
+   },
+   {
+    "t": "AMZN",
+    "direction": "positive",
+    "summary": "Amazon ประกาศลงทุน 3,000 ล้านดอลลาร์ในบริการ fast delivery ที่อินเดีย เพื่อขยายความสามารถในการแข่งขันในตลาด ecommerce ที่กำลังเติบโต"
+   },
+   {
+    "t": "NVDA",
+    "direction": "positive",
+    "summary": "มีรายงานว่าจีนกำลังพิจารณาอนุญาตให้ ByteDance และ Alibaba ซื้อ Nvidia chips รุ่นใหม่ ซึ่งอาจช่วยบรรเทาผลกระทบจาก export controls ที่มีต่อ Nvidia"
+   }
+  ],
+  "macro": "",
+  "crypto_gold": "Bitcoin ETFs มี weekly inflow สูงถึง 2,400 ล้านดอลลาร์ ซึ่งเป็นระดับสูงสุดนับตั้งแต่เดือนตุลาคม ส่งผลให้ yearly flows ของ Bitcoin ETF กลับมาเป็นบวกในปี 2026",
+  "watch_next": "ติดตามความคืบหน้าของคดี Meta ในชั้นอุทธรณ์ ผลกระทบของคดีฟ้อง Suno ต่อ Sony/UMG และการตัดสินใจของจีนเรื่องการอนุญาตซื้อ Nvidia chips อย่างเป็นทางการ"
+ }
+}
