@@ -8,6 +8,8 @@
   <meta name="theme-color" content="#f6f7f9" media="(prefers-color-scheme: light)">
   <meta name="theme-color" content="#111418" media="(prefers-color-scheme: dark)">
   <meta name="color-scheme" content="light dark">
+  <!-- GitHub repository (owner/name) used by the "add stock" button. Left empty = detect from the web address. -->
+  <meta name="github-repo" content="hcivapy/Finance_web">
   <link rel="manifest" href="manifest.webmanifest">
   <link rel="icon" type="image/png" sizes="32x32" href="icons/favicon-32.png">
   <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
@@ -79,12 +81,81 @@
       <div id="week-note"></div>
       <article id="week-body" class="weekly"></article>
     </section>
+
+    <!-- จัดการหุ้น -->
+    <section id="view-stocks" class="view" hidden aria-labelledby="nav-stocks">
+      <div class="stocks-head">
+        <div>
+          <h2 id="stocks-title">หุ้นที่ติดตาม</h2>
+          <p class="sub">แตะชื่อหุ้นเพื่อเปิดกราฟบน TradingView</p>
+        </div>
+        <button type="button" class="btn primary" id="add-toggle">+ เพิ่มหุ้น</button>
+      </div>
+
+      <form id="add-form" class="panel form" hidden novalidate>
+        <h3>เพิ่มหุ้นใหม่</h3>
+        <label class="field">
+          <span>Ticker (ชื่อย่อหุ้น) *</span>
+          <input id="f-ticker" type="text" autocomplete="off" autocapitalize="characters" spellcheck="false" placeholder="เช่น AAPL" maxlength="12" required>
+        </label>
+        <label class="field">
+          <span>ชื่อบริษัท (ภาษาอังกฤษ) *</span>
+          <input id="f-name" type="text" autocomplete="off" spellcheck="false" placeholder="เช่น Apple Inc." maxlength="60" required>
+        </label>
+        <label class="field">
+          <span>ตลาด</span>
+          <select id="f-market">
+            <option value="NASDAQ">NASDAQ (สหรัฐ)</option>
+            <option value="NYSE">NYSE (สหรัฐ)</option>
+            <option value="AMEX">AMEX (สหรัฐ)</option>
+            <option value="OTC">OTC (สหรัฐ — ADR นอกตลาดหลัก)</option>
+            <option value="TSE">TSE (โตเกียว)</option>
+            <option value="LSE">LSE (ลอนดอน)</option>
+            <option value="SET">SET (ไทย)</option>
+            <option value="HKEX">HKEX (ฮ่องกง)</option>
+            <option value="OTHER">อื่นๆ (ใส่ลิงก์กราฟเอง)</option>
+          </select>
+        </label>
+        <label class="field" id="f-tv-wrap" hidden>
+          <span>สัญลักษณ์บน TradingView (ส่วนท้ายลิงก์ tradingview.com/symbols/<b>XXX</b>/)</span>
+          <input id="f-tv" type="text" autocomplete="off" spellcheck="false" placeholder="เช่น XETR-SAP">
+        </label>
+        <label class="field">
+          <span>ชื่ออื่น / แบรนด์ / ชื่อ CEO ที่ข่าวมักใช้ (คั่นด้วย ,)</span>
+          <input id="f-names" type="text" autocomplete="off" spellcheck="false" placeholder="เช่น iPhone, Tim Cook">
+        </label>
+        <label class="field">
+          <span>คำที่ทำให้จับข่าวผิด (ไม่บังคับ คั่นด้วย ,)</span>
+          <input id="f-exclude" type="text" autocomplete="off" spellcheck="false" placeholder="เช่น apple juice">
+        </label>
+        <label class="check">
+          <input type="checkbox" id="f-all"> หุ้นมีข่าวน้อย (เช่น หุ้นต่างประเทศ/หุ้นเล็ก) — รับข่าวจากทุกสำนัก
+        </label>
+        <p class="form-error" id="f-error" role="alert"></p>
+        <div class="preview" id="f-preview" hidden>
+          <p>จะจับข่าวที่มีคำว่า: <span id="f-words"></span></p>
+          <p><a id="f-tvlink" target="_blank" rel="noopener noreferrer">ตรวจลิงก์กราฟบน TradingView ↗</a> (ถ้าเปิดแล้วไม่เจอหุ้น ให้แก้ตลาด)</p>
+        </div>
+        <div class="form-actions">
+          <button type="submit" class="btn primary">บันทึกบน GitHub →</button>
+          <button type="button" class="btn" id="add-cancel">ยกเลิก</button>
+        </div>
+        <p class="hint">กดบันทึกแล้วแอปจะเปิดหน้า GitHub ที่กรอกข้อมูลไว้ให้แล้ว ให้กดปุ่มเขียว <b>Commit changes…</b> แล้วกด <b>Commit changes</b> อีกครั้ง
+          (ต้องล็อกอิน GitHub ในเบราว์เซอร์นี้) — ระบบจะดึงข่าวของหุ้นใหม่ให้เองภายในประมาณ 3–5 นาที</p>
+      </form>
+
+      <div id="stock-notes"></div>
+      <ol class="list" id="stock-list"></ol>
+      <h3 class="sec-title">BTC &amp; ทองคำ</h3>
+      <ol class="list" id="asset-list"></ol>
+    </section>
   </main>
 
   <nav class="bottom" aria-label="เมนูหลัก">
     <button type="button" id="nav-news" data-view="news" class="on"><span aria-hidden="true">📰</span>ข่าว</button>
     <button type="button" id="nav-history" data-view="history"><span aria-hidden="true">📈</span>ประวัติ</button>
     <button type="button" id="nav-weekly" data-view="weekly"><span aria-hidden="true">🗓️</span>สรุปรายสัปดาห์</button>
+    <button type="button" id="nav-stocks" data-view="stocks"><span aria-hidden="true">⭐</span>หุ้น</button>
   </nav>
 
   <template id="tpl-news">

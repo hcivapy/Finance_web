@@ -410,24 +410,170 @@ async function renderWeekly() {
     el("p", { class: "foot", text: `สรุปจากข่าวที่กระทบพื้นฐาน ${w.news_count} ข่าว · AI: ${w.model} · ไม่ใช่คำแนะนำการลงทุน` }));
 }
 
+/* ---------------- stocks view (add / remove) ----------------
+   The app never writes to GitHub itself (read-only rule, no keys in the page). It prepares the stock file and
+   opens GitHub's own "new file" / "delete file" page; the signed-in user presses Commit there. */
+const MARKET_COUNTRY = { NASDAQ: "US", NYSE: "US", AMEX: "US", OTC: "US", TSE: "JP", LSE: "UK", SET: "TH", HKEX: "HK" };
+// Tickers that are also everyday words: only count them when a business word is in the same story.
+const COMMON_WORDS = new Set(["A", "ALL", "AN", "ARE", "BE", "BIG", "BOX", "CAR", "CARS", "CAT", "COST", "DAY", "DOG", "EAT",
+  "FAST", "FUN", "GO", "GOOD", "HAS", "HOPE", "IT", "KEY", "LIFE", "LOVE", "LOW", "MAIN", "MAN", "MOST", "NEW", "NOW", "ON",
+  "ONE", "OPEN", "OUT", "PLAY", "REAL", "RUN", "SAFE", "SEE", "SHOP", "SO", "TEAM", "TRUE", "TWO", "UP", "WELL", "WIN", "YOU"]);
+const DEFAULT_CONTEXT = ["stock*", "shares", "earnings", "revenue", "profit*", "CEO", "investor*", "guidance", "quarter*"];
+const STOCK_ID_RE = /^[A-Z0-9][A-Z0-9._-]{0,11}$/;
+
+function githubRepo() {
+  const m = document.querySelector('meta[name="github-repo"]')?.content.trim();
+  if (m) return m;
+  if (location.hostname.endsWith(".github.io")) return `${location.hostname.split(".")[0]}/${location.pathname.split("/")[1]}`;
+  return null;
+}
+
+const splitList = (s) => [...new Set(s.split(",").map((x) => x.replace(/["()]/g, "").trim()).filter((x) => x.length >= 2))];
+
+function buildStock() {
+  const ticker = $("f-ticker").value.trim().toUpperCase();
+  const name = $("f-name").value.trim().replace(/["()]/g, "");
+  const market = $("f-market").value;
+  if (!STOCK_ID_RE.test(ticker)) return { error: "Ticker ใช้ได้เฉพาะตัวอักษรภาษาอังกฤษ ตัวเลข จุด หรือขีด เช่น AAPL, 6758, BRK.B" };
+  if (name.length < 2) return { error: "กรุณาใส่ชื่อบริษัท" };
+  if (entities.has(ticker)) return { error: `มี ${ticker} อยู่ในรายการแล้ว` };
+  const tv = market === "OTHER" ? $("f-tv").value.trim().toUpperCase() : `${market}-${ticker}`;
+  if (!tv) return { error: "กรุณาใส่สัญลักษณ์บน TradingView" };
+
+  // "Apple Inc." -> "Apple": news rarely uses the legal suffix.
+  const core = name.replace(/,?\s+(Inc\.?|Incorporated|Corp\.?|Corporation|Co\.?|Company|Ltd\.?|Limited|plc|PLC|Holdings?|Group|S\.A\.|N\.V\.|AG|SE|SA)$/i, "").trim() || name;
+  const names = [...new Set([core, name, ...splitList($("f-names").value)])];
+  // One-word names are matched case-sensitively ("Apple" but not "apple"); longer names in any case.
+  const keywords = names.filter((n) => n.includes(" ") || n.includes("-"));
+  const exact = names.filter((n) => !keywords.includes(n));
+  const stock = { id: ticker, name, tickers: [ticker], country: MARKET_COUNTRY[market] || "", tradingview: tv };
+  if (keywords.length) stock.keywords = keywords;
+  if (!/^\d+$/.test(ticker)) {
+    if (ticker.length >= 4 && !COMMON_WORDS.has(ticker)) exact.push(ticker);
+    else { stock.weak_words = [ticker]; stock.context = [...DEFAULT_CONTEXT, core]; }
+  }
+  if (exact.length) stock.exact_words = [...new Set(exact)];
+  const exclude = splitList($("f-exclude").value);
+  if (exclude.length) stock.exclude = exclude;
+  // Google News search: plain names joined with OR (brackets or extra words make it return nothing).
+  stock.search = names.slice(0, 3).map((n) => (n.includes(" ") ? `"${n}"` : n)).join(" OR ");
+  if ($("f-all").checked) stock.search_all_sources = true;
+  stock.added = todayBkk();
+  return { stock, words: [...(stock.keywords || []), ...(stock.exact_words || []), ...(stock.weak_words || []).map((w) => `${w} (เมื่อมีคำเกี่ยวกับหุ้น)`)] };
+}
+
+function updatePreview() {
+  const r = buildStock();
+  const ready = $("f-ticker").value.trim() && $("f-name").value.trim();
+  $("f-tv-wrap").hidden = $("f-market").value !== "OTHER";
+  $("f-preview").hidden = !(ready && r.stock);
+  if (r.stock) {
+    $("f-words").textContent = r.words.join(", ");
+    $("f-tvlink").href = `https://www.tradingview.com/symbols/${encodeURIComponent(r.stock.tradingview)}/`;
+  }
+  if (!ready) $("f-error").textContent = "";
+}
+
+function pendingList() {
+  try { return JSON.parse(store.get("pending-stocks") || "[]"); } catch { return []; }
+}
+function savePending(list) { store.set("pending-stocks", JSON.stringify(list)); }
+
+function submitStock(e) {
+  e.preventDefault();
+  const r = buildStock();
+  if (r.error) { $("f-error").textContent = r.error; return; }
+  const repo = githubRepo();
+  if (!repo) { $("f-error").textContent = "ไม่รู้ชื่อ repository — ตั้งค่า github-repo ใน index.html"; return; }
+  const file = r.stock.id.replace(/[^A-Za-z0-9_-]/g, "_") + ".json";
+  const url = `https://github.com/${repo}/new/main/stocks?filename=${encodeURIComponent(file)}` +
+    `&value=${encodeURIComponent(JSON.stringify(r.stock, null, 2) + "\n")}`;
+  savePending([...pendingList().filter((p) => p.id !== r.stock.id), { id: r.stock.id, name: r.stock.name, action: "add", at: Date.now() }]);
+  window.open(url, "_blank", "noopener");
+  $("add-form").reset();
+  $("add-form").hidden = true;
+  $("add-toggle").hidden = false;
+  renderStocks();
+}
+
+function removeStock(s) {
+  const repo = githubRepo();
+  if (!s.file || !repo) {
+    alert(`${s.id} อยู่ในไฟล์ watchlist.json — ลบได้โดยแก้ไฟล์นั้นบน GitHub (ดูคู่มือข้อ 6)`);
+    return;
+  }
+  const ok = confirm(`เลิกติดตาม ${s.id} (${s.name})?\n\nแอปจะเปิดหน้า GitHub ให้กดปุ่มเขียว "Commit changes" เพื่อยืนยันการลบ\nประวัติข่าวเก่าของหุ้นนี้ยังอยู่จนครบ 12 เดือน`);
+  if (!ok) return;
+  savePending([...pendingList().filter((p) => p.id !== s.id), { id: s.id, name: s.name, action: "remove", at: Date.now() }]);
+  window.open(`https://github.com/${repo}/delete/main/${s.file}`, "_blank", "noopener");
+  renderStocks();
+}
+
+async function renderStocks() {
+  const stocks = state.watchlist.stocks || [];
+  const ids = new Set(stocks.map((s) => s.id));
+  // Drop pending items that are done (or older than 2 hours — probably never committed).
+  let pending = pendingList().filter((p) => (p.action === "add" ? !ids.has(p.id) : ids.has(p.id)) && Date.now() - p.at < 2 * 3.6e6);
+  savePending(pending);
+
+  const notes = $("stock-notes");
+  notes.replaceChildren();
+  for (const e of state.watchlist.errors || []) {
+    notes.append(el("div", { class: "banner err" }, el("span", { text: "⚠️" }),
+      el("div", { class: "grow", text: `ไฟล์ ${e.file} อ่านไม่ได้ (${e.error}) — ระบบข้ามหุ้นนี้ไปก่อน แก้ไฟล์บน GitHub หรือลบแล้วเพิ่มใหม่` })));
+  }
+  for (const p of pending) {
+    notes.append(el("div", { class: "banner warn" }, el("span", { text: "⏳" }),
+      el("div", { class: "grow" },
+        el("strong", { text: `${p.action === "add" ? "กำลังเพิ่ม" : "กำลังลบ"} ${p.id} (${p.name})` }),
+        el("div", { text: "ถ้ากด Commit บน GitHub แล้ว ระบบจะอัปเดตภายใน 3–5 นาที — ปิดแล้วเปิดแอปใหม่เพื่อดูผล" })),
+      el("button", { class: "close", type: "button", "aria-label": "ซ่อน", text: "✕",
+        onclick: () => { savePending(pendingList().filter((x) => x.id !== p.id)); renderStocks(); } })));
+  }
+
+  const newsCount = new Map();
+  for (const it of state.news.items) for (const t of it.tickers) newsCount.set(t, (newsCount.get(t) || 0) + 1);
+  await ensureHistory();
+  const histCount = new Map();
+  for (const r of state.history.items) for (const t of r.tickers) histCount.set(t, (histCount.get(t) || 0) + 1);
+
+  const q = state.q.trim();
+  const row = (s, removable) => {
+    const url = tvUrl(s.id);
+    return el("li", { class: "card" }, el("div", { class: "stock-row" },
+      el("div", { class: "info" },
+        url ? el("a", { class: "sym", href: url, target: "_blank", rel: "noopener noreferrer", text: s.id }) : el("strong", { text: s.id }),
+        el("div", { class: "name", text: s.name }),
+        el("div", { class: "stats", text: `ข่าว 7 วัน ${newsCount.get(s.id) || 0} · กระทบพื้นฐาน 12 เดือน ${histCount.get(s.id) || 0}` })),
+      removable ? el("button", { class: "btn danger", type: "button", text: "เลิกติดตาม", onclick: () => removeStock(s) }) : null));
+  };
+  const shown = stocks.filter((s) => matchesQuery([s.id, s.name, ...(s.keywords || []), ...(s.exact_words || [])], q));
+  $("stocks-title").textContent = `หุ้นที่ติดตาม (${stocks.length} ตัว)`;
+  $("stock-list").replaceChildren(...(shown.length ? shown.map((s) => row(s, true)) : [el("li", { class: "empty", text: "ไม่พบหุ้น" })]));
+  $("asset-list").replaceChildren(...(state.watchlist.assets || []).map((a) => row(a, false)));
+}
+
 /* ---------------- navigation, search, theme ---------------- */
+const VIEWS = ["news", "history", "weekly", "stocks"];
+
 function render() {
   if (!state.news) return;
   if (state.view === "news") renderNews();
   else if (state.view === "history") renderHistory();
-  else renderWeekly();
+  else if (state.view === "weekly") renderWeekly();
+  else renderStocks();
 }
 
 function setView(v) {
   state.view = v;
   store.set("view", v);
-  for (const s of ["news", "history", "weekly"]) {
+  for (const s of VIEWS) {
     $(`view-${s}`).hidden = s !== v;
     const b = $(`nav-${s}`);
     b.classList.toggle("on", s === v);
     b.setAttribute("aria-current", s === v ? "page" : "false");
   }
-  $("search").placeholder = v === "history" ? "ค้นหาในประวัติ 12 เดือน" : "ค้นหา หัวข่าว / หุ้น / สำนักข่าว";
+  $("search").placeholder = v === "history" ? "ค้นหาในประวัติ 12 เดือน" : v === "stocks" ? "ค้นหาหุ้นในรายการ" : "ค้นหา หัวข่าว / หุ้น / สำนักข่าว";
   render();
   window.scrollTo({ top: 0 });
 }
@@ -470,17 +616,35 @@ function init() {
   $("hist-select").addEventListener("change", (e) => { state.histId = e.target.value; renderHistory(); });
   $("hist-high").addEventListener("change", (e) => { state.histHigh = e.target.checked; renderHistory(); });
   $("week-select").addEventListener("change", () => renderWeekly());
+  $("add-toggle").addEventListener("click", () => {
+    $("add-form").hidden = false;
+    $("add-toggle").hidden = true;
+    $("f-ticker").focus();
+  });
+  $("add-cancel").addEventListener("click", () => {
+    $("add-form").reset();
+    $("add-form").hidden = true;
+    $("add-toggle").hidden = false;
+    $("f-error").textContent = "";
+    updatePreview();
+  });
+  $("add-form").addEventListener("input", () => { $("f-error").textContent = ""; updatePreview(); });
+  $("add-form").addEventListener("submit", submitStock);
 
   load();
 }
 
 async function load() {
   try {
-    const [news, watchlist] = await Promise.all([getJSON("data/news.json"), getJSON("watchlist.json")]);
+    // data/watchlist.json = stocks/ folder merged by the daily run; watchlist.json is the fallback before the first run.
+    const [news, watchlist] = await Promise.all([
+      getJSON("data/news.json"),
+      getJSON("data/watchlist.json").catch(() => getJSON("watchlist.json")),
+    ]);
     state.news = news;
     state.watchlist = watchlist;
-    for (const s of watchlist.stocks) entities.set(s.id, { name: s.name, tradingview: s.tradingview });
-    for (const a of watchlist.assets) entities.set(a.id, { name: a.name, tradingview: a.tradingview });
+    for (const s of watchlist.stocks || []) entities.set(s.id, { name: s.name, tradingview: s.tradingview });
+    for (const a of watchlist.assets || []) entities.set(a.id, { name: a.name, tradingview: a.tradingview });
     $("updated").textContent = `อัปเดตล่าสุด ${fmtDateTime.format(new Date(news.generated))} น.`;
   } catch (e) {
     $("updated").textContent = "โหลดข้อมูลไม่ได้";
@@ -492,7 +656,7 @@ async function load() {
   renderHistorySelect();
   renderBanners();
   const v = store.get("view");
-  setView(["news", "history", "weekly"].includes(v) ? v : "news");
+  setView(VIEWS.includes(v) ? v : "news");
   if (navigator.onLine) setTimeout(prefetchForOffline, 1500);
 }
 
@@ -502,6 +666,7 @@ async function prefetchForOffline() {
   try {
     // news.json/expiring.json again: on the very first visit they load before the service worker takes control.
     await getJSON("data/news.json");
+    await getJSON("data/watchlist.json").catch(() => null);
     await getJSON("history/expiring.json").catch(() => null);
     await getJSON("history/index.json");
     const idx = await getJSON("weekly/index.json");

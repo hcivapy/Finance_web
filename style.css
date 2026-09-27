@@ -239,10 +239,47 @@ a.tag { text-decoration: none; background: var(--accent-soft); color: var(--acce
 .weekly .co-head { display: flex; gap: 6px; align-items: center; flex-wrap: wrap; }
 .weekly .foot { font-size: .78rem; color: var(--faint); margin-top: 6px; }
 
+/* ---------- stocks (manage watchlist) ---------- */
+.stocks-head { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin-top: 14px; }
+.stocks-head h2 { margin: 0; font-size: 1.1rem; }
+.stocks-head .sub { margin: 0; font-size: .8rem; color: var(--muted); }
+.btn {
+  border: 1px solid var(--border); background: var(--surface); color: var(--text); border-radius: 999px;
+  padding: 8px 16px; font-size: .92rem; cursor: pointer; white-space: nowrap; text-decoration: none; display: inline-block;
+}
+.btn.primary { background: var(--accent); border-color: var(--accent); color: #fff; font-weight: 600; }
+:root[data-theme="dark"] .btn.primary { color: #0b1220; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .btn.primary { color: #0b1220; } }
+.btn.danger { color: var(--neg); border-color: color-mix(in srgb, var(--neg) 40%, var(--border)); background: transparent; padding: 5px 12px; font-size: .82rem; }
+
+.form { display: grid; gap: 12px; align-items: stretch; }
+.form h3 { margin: 0; font-size: 1rem; }
+.field input[type="text"] {
+  width: 100%; min-width: 0; height: 42px; border-radius: 10px; border: 1px solid var(--border);
+  background: var(--surface-2); padding: 0 10px; font-size: 1rem; color: var(--text);
+}
+.field input[type="text"]:focus, .field select:focus { outline: 2px solid var(--accent); outline-offset: 0; }
+.form .check { min-height: 0; align-items: flex-start; }
+.form .check input { flex: none; margin-top: 2px; }
+.form-error { margin: 0; color: var(--neg); font-size: .88rem; }
+.form-error:empty { display: none; }
+.preview { background: var(--surface-2); border-radius: 10px; padding: 8px 12px; font-size: .88rem; }
+.preview p { margin: 4px 0; }
+.form-actions { display: flex; gap: 8px; flex-wrap: wrap; }
+.hint { margin: 0; font-size: .8rem; color: var(--muted); }
+
+.stock-row { display: flex; align-items: center; gap: 10px; }
+.stock-row .info { flex: 1; min-width: 0; }
+.stock-row .name { font-size: .88rem; color: var(--muted); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.stock-row .stats { font-size: .78rem; color: var(--faint); }
+.stock-row a.sym { font-weight: 700; font-size: 1rem; text-decoration: none; }
+.card.pending { border-style: dashed; }
+.sec-title { margin: 20px 0 0; font-size: .85rem; color: var(--muted); }
+
 /* ---------- bottom nav ---------- */
 .bottom {
   position: fixed; left: 0; right: 0; bottom: 0; z-index: 10;
-  display: grid; grid-template-columns: repeat(3, 1fr);
+  display: grid; grid-template-columns: repeat(4, 1fr);
   background: var(--surface); border-top: 1px solid var(--border);
   padding-bottom: env(safe-area-inset-bottom);
 }
