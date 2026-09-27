@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>My Market Watch</title>
+  <meta name="description" content="ข่าวการเงินส่วนตัว — ข่าวที่กระทบพื้นฐานของหุ้นใน watchlist">
+  <meta name="theme-color" content="#f6f7f9" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#111418" media="(prefers-color-scheme: dark)">
+  <meta name="color-scheme" content="light dark">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" type="image/png" sizes="32x32" href="icons/favicon-32.png">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="Watchlist">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="top">
+    <div class="top-row">
+      <div class="brand">
+        <h1>My Market Watch</h1>
+        <p class="updated" id="updated">กำลังโหลด…</p>
+      </div>
+      <button class="icon-btn" id="theme-btn" type="button" aria-label="สลับโหมดสว่าง/มืด" title="สลับโหมดสว่าง/มืด">◐</button>
+    </div>
+    <label class="search">
+      <span class="search-icon" aria-hidden="true">⌕</span>
+      <input id="search" type="search" placeholder="ค้นหา หัวข่าว / หุ้น / สำนักข่าว" autocomplete="off" enterkeyhint="search">
+    </label>
+  </header>
+
+  <div id="banners" class="banners" aria-live="polite"></div>
+
+  <main>
+    <!-- ข่าว -->
+    <section id="view-news" class="view" aria-labelledby="nav-news">
+      <nav class="chips" id="cat-chips" aria-label="หมวดข่าว"></nav>
+      <div class="toolbar">
+        <div class="seg" role="group" aria-label="ตัวกรองป้าย AI">
+          <button type="button" data-filter="all" class="on">ทุกข่าว</button>
+          <button type="button" data-filter="fundamental">เฉพาะกระทบพื้นฐาน</button>
+        </div>
+        <span class="count" id="news-count"></span>
+      </div>
+      <nav class="chips chips-sub" id="ticker-chips" aria-label="เลือกหุ้น" hidden></nav>
+      <ol class="list" id="news-list"></ol>
+    </section>
+
+    <!-- ประวัติ -->
+    <section id="view-history" class="view" hidden aria-labelledby="nav-history">
+      <div class="panel">
+        <label class="field">
+          <span>เลือกหุ้น / สินทรัพย์</span>
+          <select id="hist-select"></select>
+        </label>
+        <label class="check">
+          <input type="checkbox" id="hist-high"> เฉพาะข่าวสำคัญสูง
+        </label>
+      </div>
+      <div id="hist-summary"></div>
+      <ol class="list" id="hist-list"></ol>
+      <details class="downloads" id="hist-downloads">
+        <summary>ดาวน์โหลดไฟล์ CSV (เปิดใน Excel / Google Sheets)</summary>
+        <ul id="csv-links"></ul>
+      </details>
+    </section>
+
+    <!-- สรุปรายสัปดาห์ -->
+    <section id="view-weekly" class="view" hidden aria-labelledby="nav-weekly">
+      <div class="panel">
+        <label class="field">
+          <span>เลือกสัปดาห์</span>
+          <select id="week-select"></select>
+        </label>
+      </div>
+      <div id="week-note"></div>
+      <article id="week-body" class="weekly"></article>
+    </section>
+  </main>
+
+  <nav class="bottom" aria-label="เมนูหลัก">
+    <button type="button" id="nav-news" data-view="news" class="on"><span aria-hidden="true">📰</span>ข่าว</button>
+    <button type="button" id="nav-history" data-view="history"><span aria-hidden="true">📈</span>ประวัติ</button>
+    <button type="button" id="nav-weekly" data-view="weekly"><span aria-hidden="true">🗓️</span>สรุปรายสัปดาห์</button>
+  </nav>
+
+  <template id="tpl-news">
+    <li class="card">
+      <div class="meta-top"></div>
+      <a class="title" target="_blank" rel="noopener noreferrer"></a>
+      <p class="summary"></p>
+      <p class="reason"></p>
+      <div class="meta-bottom"></div>
+    </li>
+  </template>
+
+  <script src="app.js"></script>
+</body>
+</html>

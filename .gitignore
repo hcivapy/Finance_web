@@ -1,0 +1,12 @@
+# Secrets must never be committed — the API key lives only in GitHub Secrets
+.env
+*.key
+secrets*
+
+# Python / editor leftovers
+__pycache__/
+*.pyc
+*.tmp
+.vscode/
+.DS_Store
+Thumbs.db

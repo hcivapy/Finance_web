@@ -1,0 +1,79 @@
+{
+  "_คำอธิบาย": [
+    "ไฟล์ตั้งค่าหลักของแอป แก้ผ่านหน้าเว็บ GitHub ได้ (กดรูปดินสอ แก้ตัวเลข แล้วกด Commit)",
+    "history_months = เก็บประวัติข่าวกระทบพื้นฐานและสรุปรายสัปดาห์กี่เดือน (เดือนที่เก่ากว่านี้ถูกลบอัตโนมัติ)",
+    "news_days = แอปแสดงข่าวย้อนหลังกี่วัน",
+    "expiry_warning_days = เตือนก่อนลบข้อมูลเดือนเก่ากี่วัน",
+    "limits = จำนวนข่าวสูงสุดต่อวันของบางหมวด (คุมค่า AI)",
+    "category_rules = คำที่ใช้จัดข่าวเข้าหมวด — วิธีเขียนคำดูที่ _วิธีเขียนคำ ด้านล่าง",
+    "ระวัง: ต้องเป็นรูปแบบ JSON ที่ถูกต้อง (เครื่องหมาย \" และ , ครบ) ตรวจได้ที่ jsonlint.com"
+  ],
+  "_วิธีเขียนคำ": [
+    "keywords = คำหรือวลีที่ไม่สนตัวพิมพ์เล็ก/ใหญ่ ต้องเป็นคำเต็ม (เช่น \"merger\" ไม่จับ \"mergers\")",
+    "ใส่ * ท้ายคำ = จับคำที่ขึ้นต้นแบบนี้ทั้งหมด (เช่น \"acqui*\" จับ acquire, acquires, acquisition)",
+    "exact_words = คำที่ตัวพิมพ์ต้องตรงเป๊ะ (เช่น \"Fed\" ไม่จับ \"fed up\")"
+  ],
+
+  "history_months": 12,
+  "news_days": 7,
+  "expiry_warning_days": 7,
+  "max_news_age_hours": 48,
+
+  "limits": {
+    "crypto_gold_per_asset_per_day": 5,
+    "market_per_day": 5,
+    "deals_outside_watchlist_per_day": 5,
+    "max_items_to_ai_per_day": 250
+  },
+
+  "_คำอธิบาย_ai": [
+    "model = รุ่น AI ที่ติดป้ายข่าวรายวัน / weekly_model = รุ่น AI ที่เขียนสรุปรายสัปดาห์ (เขียนภาษาไทยได้ดีกว่า)",
+    "reason_language = ภาษาของเหตุผลและสรุป (Thai หรือ English)",
+    "prices_usd_per_million = ราคาต่อ 1 ล้าน token ใช้คำนวณค่าใช้จ่ายในไฟล์ data/ai_usage.json (ถ้า Anthropic เปลี่ยนราคา แก้ตรงนี้)"
+  ],
+  "ai": {
+    "model": "claude-haiku-4-5",
+    "weekly_model": "claude-sonnet-5",
+    "reason_language": "Thai",
+    "max_output_tokens": 32000,
+    "prices_usd_per_million": {
+      "claude-haiku-4-5": { "input": 1.0, "output": 5.0 },
+      "claude-sonnet-5": { "input": 2.0, "output": 10.0 }
+    }
+  },
+
+  "_คำอธิบาย_source_priority": "ถ้าข่าวเดียวกันมาจากหลายสำนัก จะเลือกแสดงสำนักที่อยู่ต้นรายการก่อน (สำนักที่อ่านฟรีได้รับเลือกก่อนเสมอ)",
+  "source_priority": [
+    "Reuters", "Federal Reserve", "AP News", "CNBC", "BBC", "The Guardian", "Kitco", "CoinDesk", "The Block",
+    "Bloomberg", "The Wall Street Journal", "WSJ", "Financial Times", "Barron's", "MarketWatch"
+  ],
+
+  "_คำอธิบาย_exclude_titles": "หัวข่าวที่มีคำเหล่านี้จะถูกตัดทิ้งเสมอ (หน้าราคาหุ้น หน้าแปลงค่าเงิน ฯลฯ ที่ไม่ใช่ข่าว)",
+  "exclude_title_patterns": [
+    "stock price, news, quote", "price today", "live gold price", "converter", "price chart", "price prediction",
+    "gold rate today", "gold price on", "stocks to buy", "to buy now", "could make you", "millionaire",
+    "stock quote", "Stock Price & Latest News", "outperforms competitors", "underperforms", "compared to competitors"
+  ],
+
+  "category_rules": {
+    "fed": {
+      "keywords": ["Federal Reserve", "FOMC", "interest rate*", "rate hike*", "rate cut*", "inflation", "CPI", "PCE",
+                   "consumer price*", "jobs report", "nonfarm payroll*", "Beige Book", "Powell", "Warsh", "Treasury yield*", "GDP", "Personal Income and Outlays"],
+      "exact_words": ["Fed", "Fed's"]
+    },
+    "deals": {
+      "keywords": ["acqui*", "merger*", "merge", "merges", "takeover*", "buyout*", "deal", "deals", "stake", "invests", "investment", "to invest", "investing in",
+                   "partnership*", "partners with", "joint venture", "bid for", "to buy", "agrees to buy", "IPO", "spin off", "spin-off"],
+      "big_deal_keywords": ["billion", "bn"]
+    },
+    "products": {
+      "keywords": ["launch*", "unveil*", "introduc*", "debut*", "rolls out", "roll out", "new chip*", "new model*",
+                   "announces new", "releases", "new product*", "next-generation", "next-gen", "reveals", "revamp*",
+                   "overhaul*", "rollout", "new feature*", "new app", "new AI model*", "available now", "ships"]
+    },
+    "market": {
+      "keywords": ["S&P 500", "S&P", "Nasdaq", "Dow", "Wall Street", "stock market", "US stocks", "U.S. stocks", "QQQ", "VOO",
+                   "stocks rally", "stocks fall", "stocks rise", "sell-off", "selloff", "correction", "bull market", "bear market"]
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "_คำอธิบาย": [
+    "ไฟล์นี้คือรายชื่อแหล่งข่าวทั้งหมดของแอป แก้ผ่านหน้าเว็บ GitHub ได้ (กดรูปดินสอ แก้ แล้วกด Commit)",
+    "ปิดแหล่งข่าวชั่วคราว: เปลี่ยน \"enabled\": true เป็น \"enabled\": false",
+    "เพิ่มแหล่งข่าว: คัดลอกบล็อก { ... } ของแหล่งที่มีอยู่ วางต่อท้ายในรายการ feeds (อย่าลืมเครื่องหมาย , คั่นระหว่างบล็อก) แล้วแก้ชื่อและลิงก์",
+    "source = ชื่อสำนักข่าวที่แสดงในแอป (ถ้าไม่ใส่ ใช้ชื่อ name)",
+    "categories = หมวดที่ข่าวจากแหล่งนี้มีสิทธิ์เข้าไปอยู่ (ระบบจะใช้คำสำคัญคัดอีกชั้น): watchlist, fed, deals, products, market, crypto_gold",
+    "paywall: true = สำนักข่าวที่อาจต้องสมัครสมาชิกจึงอ่านเต็มได้ แอปจะติดป้าย 🔒",
+    "take_all: true = รับทุกข่าวจากแหล่งนี้เข้าหมวดโดยไม่ต้องมีคำสำคัญ (ใช้กับแหล่งที่ตรงหมวดอยู่แล้ว เช่น เว็บ Fed)",
+    "ข่าวรายหุ้นแต่ละตัวไม่ได้อยู่ในไฟล์นี้ แต่อยู่ในไฟล์ watchlist.json (คำค้นของแต่ละหุ้น)",
+    "ระวัง: ไฟล์นี้เป็นรูปแบบ JSON ต้องมีเครื่องหมาย \" และ , ครบ ถ้าแก้ผิด ระบบจะใช้ไฟล์ไม่ได้ — ตรวจได้ที่ jsonlint.com"
+  ],
+
+  "categories": {
+    "watchlist": "หุ้นที่ติดตาม",
+    "fed": "ดอกเบี้ย Fed",
+    "deals": "ดีล",
+    "products": "สินค้าใหม่",
+    "market": "ภาพรวมตลาด",
+    "crypto_gold": "BTC & ทองคำ"
+  },
+
+  "feeds": [
+    { "source": "CNBC", "name": "CNBC Top News",        "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html", "categories": ["watchlist", "deals", "products", "market", "fed"], "paywall": false, "enabled": true },
+    { "source": "CNBC", "name": "CNBC Business",        "url": "https://www.cnbc.com/id/10001147/device/rss/rss.html",  "categories": ["watchlist", "deals", "products"], "paywall": false, "enabled": true },
+    { "source": "CNBC", "name": "CNBC Technology",      "url": "https://www.cnbc.com/id/19854910/device/rss/rss.html",  "categories": ["watchlist", "deals", "products"], "paywall": false, "enabled": true },
+    { "source": "CNBC", "name": "CNBC Investing",       "url": "https://www.cnbc.com/id/15839069/device/rss/rss.html",  "categories": ["watchlist", "market"], "paywall": false, "enabled": true },
+    { "source": "CNBC", "name": "CNBC Finance",         "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html",  "categories": ["watchlist", "market", "fed"], "paywall": false, "enabled": true },
+    { "source": "CNBC", "name": "CNBC Economy",         "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",  "categories": ["fed", "market"], "paywall": false, "enabled": true },
+    { "source": "CNBC", "name": "CNBC Earnings",        "url": "https://www.cnbc.com/id/15839135/device/rss/rss.html",  "categories": ["watchlist"], "paywall": false, "enabled": true },
+    { "source": "MarketWatch", "name": "MarketWatch",          "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories", "categories": ["watchlist", "market", "fed"], "paywall": true, "enabled": true },
+    { "source": "WSJ", "name": "WSJ Markets",          "url": "https://feeds.content.dowjones.io/public/rss/RSSMarketsMain", "categories": ["watchlist", "market", "fed", "deals"], "paywall": true, "enabled": true },
+    { "source": "WSJ", "name": "WSJ Business",         "url": "https://feeds.content.dowjones.io/public/rss/WSJcomUSBusiness", "categories": ["watchlist", "deals", "products"], "paywall": true, "enabled": true },
+    { "source": "WSJ", "name": "WSJ Tech",             "url": "https://feeds.content.dowjones.io/public/rss/RSSWSJD", "categories": ["watchlist", "deals", "products"], "paywall": true, "enabled": true },
+    { "source": "Bloomberg", "name": "Bloomberg Markets",    "url": "https://feeds.bloomberg.com/markets/news.rss",    "categories": ["watchlist", "market", "fed", "deals", "crypto_gold"], "paywall": true, "enabled": true },
+    { "source": "Bloomberg", "name": "Bloomberg Technology", "url": "https://feeds.bloomberg.com/technology/news.rss", "categories": ["watchlist", "deals", "products"], "paywall": true, "enabled": true },
+    { "source": "Financial Times", "name": "FT Markets",           "url": "https://www.ft.com/markets?format=rss",   "categories": ["watchlist", "market", "fed", "crypto_gold"], "paywall": true, "enabled": true },
+    { "source": "Financial Times", "name": "FT Companies",         "url": "https://www.ft.com/companies?format=rss", "categories": ["watchlist", "deals", "products"], "paywall": true, "enabled": true },
+    { "source": "BBC", "name": "BBC Business",         "url": "https://feeds.bbci.co.uk/news/business/rss.xml", "categories": ["watchlist", "deals", "market"], "paywall": false, "enabled": true },
+    { "source": "The Guardian", "name": "Guardian Business",    "url": "https://www.theguardian.com/uk/business/rss",    "categories": ["watchlist", "deals"], "paywall": false, "enabled": true },
+    { "source": "Seeking Alpha", "name": "Seeking Alpha Market Currents", "url": "https://seekingalpha.com/market_currents.xml", "categories": ["watchlist", "market"], "paywall": true, "enabled": true },
+
+    { "source": "Federal Reserve", "name": "Federal Reserve (Monetary Policy)", "url": "https://www.federalreserve.gov/feeds/press_monetary.xml", "categories": ["fed"], "paywall": false, "take_all": true, "enabled": true },
+    { "source": "Federal Reserve", "name": "Federal Reserve (Speeches)",        "url": "https://www.federalreserve.gov/feeds/speeches.xml",       "categories": ["fed"], "paywall": false, "take_all": true, "enabled": true },
+    { "source": "BLS", "name": "BLS (CPI inflation)",               "url": "https://www.bls.gov/feed/cpi.rss",                        "categories": ["fed"], "paywall": false, "take_all": true, "enabled": true },
+    { "source": "BEA", "name": "BEA (GDP & economy)",               "url": "https://apps.bea.gov/rss/rss.xml",                        "categories": ["fed"], "paywall": false, "enabled": true },
+
+    { "source": "PR Newswire", "name": "PR Newswire (M&A)", "url": "https://www.prnewswire.com/rss/financial-services-latest-news/acquisitions-mergers-and-takeovers-list.rss", "categories": ["deals"], "paywall": false, "enabled": true },
+
+    { "name": "TechCrunch",       "url": "https://techcrunch.com/feed/",                    "categories": ["products", "deals"], "paywall": false, "enabled": true },
+    { "name": "The Verge",        "url": "https://www.theverge.com/rss/index.xml",          "categories": ["products"], "paywall": false, "enabled": true },
+    { "name": "Ars Technica",     "url": "https://feeds.arstechnica.com/arstechnica/index", "categories": ["products"], "paywall": false, "enabled": true },
+    { "name": "NVIDIA Newsroom",  "url": "https://nvidianews.nvidia.com/releases.xml",      "categories": ["watchlist", "products", "deals"], "paywall": false, "enabled": true },
+    { "name": "Google Blog",      "url": "https://blog.google/rss/",                        "categories": ["watchlist", "products"], "paywall": false, "enabled": true },
+    { "name": "Meta Newsroom",    "url": "https://about.fb.com/feed/",                      "categories": ["watchlist", "products"], "paywall": false, "enabled": true },
+    { "name": "Amazon News",      "url": "https://www.aboutamazon.com/news/rss.xml",        "categories": ["watchlist", "products"], "paywall": false, "enabled": true },
+    { "name": "Salesforce News",  "url": "https://www.salesforce.com/news/feed/",           "categories": ["watchlist", "products"], "paywall": false, "enabled": true },
+
+    { "name": "CoinDesk",      "url": "https://www.coindesk.com/arc/outboundfeeds/rss/", "categories": ["crypto_gold"], "paywall": false, "enabled": true },
+    { "name": "The Block",     "url": "https://www.theblock.co/rss.xml",                 "categories": ["crypto_gold"], "paywall": false, "enabled": true },
+    { "name": "Decrypt",       "url": "https://decrypt.co/feed",                         "categories": ["crypto_gold"], "paywall": false, "enabled": true },
+    { "name": "Cointelegraph", "url": "https://cointelegraph.com/rss",                   "categories": ["crypto_gold"], "paywall": false, "enabled": true },
+    { "source": "MINING.COM", "name": "Mining.com (Gold)", "url": "https://www.mining.com/commodity/gold/feed/", "categories": ["crypto_gold"], "paywall": false, "enabled": true }
+  ],
+
+  "_คำอธิบาย_google_news": [
+    "ใช้ Google News ค้นข่าวจากสำนักข่าวที่ไม่มี RSS ของตัวเอง (เช่น Reuters, Kitco, AP) — site: = ค้นเฉพาะเว็บนั้น, when:2d = เฉพาะข่าว 2 วันล่าสุด",
+    "ควรค้นทีละเว็บ (site: เดียวต่อหนึ่งคำค้น) — ทดสอบแล้วว่าถ้ารวมหลายเว็บ ผลจะปนเว็บอื่นที่ไม่น่าเชื่อถือ",
+    "ข่าวรายหุ้นจาก Reuters ระบบสร้างคำค้นให้อัตโนมัติจากรายชื่อใน watchlist.json ไม่ต้องใส่ที่นี่"
+  ],
+  "google_news": {
+    "url_template": "https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&q={query}",
+    "topics": [
+      { "name": "Reuters (Fed)",      "query": "site:reuters.com (\"Federal Reserve\" OR FOMC OR Fed) when:2d", "categories": ["fed"], "paywall": false, "enabled": true },
+      { "name": "Reuters (ทองคำ)",    "query": "site:reuters.com (gold OR bullion) when:2d", "categories": ["crypto_gold"], "paywall": false, "enabled": true },
+      { "name": "Reuters (Bitcoin)",  "query": "site:reuters.com bitcoin when:2d", "categories": ["crypto_gold"], "paywall": false, "enabled": true },
+      { "name": "Kitco (ทองคำ)",      "query": "site:kitco.com gold when:2d", "categories": ["crypto_gold"], "paywall": false, "enabled": true },
+      { "name": "AP (ภาพรวมตลาด)",    "query": "site:apnews.com (stocks OR \"Wall Street\") when:2d", "categories": ["market"], "paywall": false, "enabled": true }
+    ]
+  },
+
+  "_คำอธิบาย_trusted_sources": "ชื่อสำนักข่าวที่ยอมรับ เมื่อค้น Google News แบบไม่ระบุเว็บ (ใช้กับหุ้นที่มีข่าวน้อย เช่น Murata, Taiyo Yuden) — ต้องสะกดตรงกับชื่อท้ายหัวข่าว เช่น \"... - Reuters\"",
+  "trusted_sources": [
+    "Reuters", "Associated Press", "AP News", "CNBC", "BBC", "The Guardian", "Axios", "CNN", "CNN Business",
+    "Bloomberg", "Bloomberg.com", "The Wall Street Journal", "WSJ", "Financial Times", "Barron's", "MarketWatch",
+    "The Economist", "Fortune", "Business Insider", "The Information", "Nikkei Asia", "The Japan Times", "Kyodo News",
+    "Sky News", "The Telegraph", "The Times", "TechCrunch", "The Verge", "Ars Technica", "Wired",
+    "CoinDesk", "The Block", "Decrypt", "Cointelegraph", "Kitco", "Kitco NEWS", "MINING.COM", "World Gold Council",
+    "Federal Reserve", "federalreserve.gov", "SpaceNews", "Aviation Week", "FlightGlobal"
+  ],
+
+  "_คำอธิบาย_paywall_sources": "ชื่อสำนักข่าวจาก Google News ที่อาจต้องเสียเงินอ่าน (แอปติดป้าย 🔒)",
+  "paywall_sources": [
+    "Bloomberg", "Bloomberg.com", "The Wall Street Journal", "WSJ", "Financial Times", "Barron's", "MarketWatch",
+    "The Economist", "Business Insider", "The Information", "Nikkei Asia", "The Telegraph", "The Times", "Fortune",
+    "Seeking Alpha", "Aviation Week"
+  ]
+}
