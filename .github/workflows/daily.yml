@@ -6,6 +6,14 @@ on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
+  # รันทันทีเมื่อเพิ่ม/ลบหุ้น หรือแก้ไฟล์ตั้งค่า (commit ของระบบเองไม่ทำให้รันซ้ำ)
+  push:
+    branches: [main]
+    paths:
+      - "stocks/**"
+      - "watchlist.json"
+      - "sources.json"
+      - "config.json"
 
 permissions:
   contents: write
@@ -38,6 +46,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # add everything that changed (only data files change here; a folder that does not exist yet, e.g. weekly/ before the first summary, must not break the step)
           git add -A
           if git diff --cached --quiet; then
             echo "No changes"
