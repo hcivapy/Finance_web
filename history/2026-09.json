@@ -1,0 +1,119 @@
+{
+ "month": "2026-09",
+ "items": [
+  {
+   "id": "f8a38a8c5dcf",
+   "date": "2026-09-27",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Amazon เข้าสู่ตลาด fast delivery ในอินเดีย บ่งชี้การขยายตัวในตลาด ecommerce ที่เติบโตแข็งแรง",
+   "title": "Amazon wades into India’s fast delivery battleground: ‘DoorDash on steroids’",
+   "source": "Financial Times",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdzJLaWNNRWxRWllVVV9fYkJmV19WMmlUVFpEQ241Rll2SklYaVNBeXZxcUtCbDFhb2Z4amdfYVRVSHVUMzFQUkxiQThSOFFqRmJteERMSFdNbGJhcV9EbnY1QnJOblZCZGFUeS14ekpDWXhEVWRnWlZDd3ZiT3J1RXUwa3g?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "80ce05472b1a",
+   "date": "2026-09-27",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "China พิจารณาอนุญาตให้ ByteDance และ Alibaba ซื้อ Nvidia chips รุ่นใหม่ อาจบรรเทา export controls",
+   "title": "China Weighs Allowing Purchases of New Nvidia Chips by ByteDance, Alibaba",
+   "source": "The Information",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNl9kVzV0NlBYQ0pyQ1ltekFUemRHX0pKNkJMcHRJN2pBMzFEYXh2U3NLbnd1dkJaWGUza3NRR1VJYmE1bVk2SlNMS09EcGNDR3RDZkdDSWd4aGVKYTNZek5CQzRoM2NUd0VCOUMxWHNXLTd5eFA2d05tLVRab1ZWS0QxSjlBX1ZHN2xHcU9ndzZPMG5NVTFCem1tSm5HWlBtNXVpem44dUNNZw?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "12e93a3238c5",
+   "date": "2026-09-27",
+   "tickers": [
+    "BTCUSD"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Bitcoin ETFs รับเงินไหลเข้า $2.4 billion สัปดาห์นี้ ครั้งใหญ่ที่สุดตั้งแต่ตุลาคม ทำให้ YTD flows เป็นบวก",
+   "title": "Bitcoin ETFs turn positive for 2026 with $2.4 billion weekly inflow, their largest since October",
+   "source": "The Block",
+   "link": "https://www.theblock.co/news/markets/2026-09-26-bitcoin-etfs-turn-positive-for-2026-with-2-4-billion-weekly-inflow-their-largest-since-october-416944",
+   "paywall": false,
+   "categories": [
+    "crypto_gold"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "f0f0162b5bb9",
+   "date": "2026-09-26",
+   "tickers": [
+    "META"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "regulation",
+   "reason": "New Mexico jury ตัดสินว่า Facebook หลอกผู้ใช้เกี่ยวกับ privacy protections อาจนำไปสู่อุทธรณ์และค่าเสียหายที่มีสาระสำคัญ",
+   "title": "Meta misled users about Facebook data practices, New Mexico jury finds",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSFNzVF9WcjJaWmV1d1A4dTFQZDRzM1RrREgwOG5IWkNhSU5fOW5rN0ZPZWp5eVNTNnB2dHA1a0p1RzREOV93RzNHTW5tU3BXNURNWDlPUGV4cnlCc2oxeVNDX0s2SEg0UTFhYVc1REg2X2JPM1k2bFZDRjRkVWpfbDkzdWhQb3FBeERZZDJsM3lKTnVMZ0dCbGYydDJ1blRlYTVQZEoxM0hQS3M4dktEZ05TU0QzR2YzcXM5TXZ5NG1fTms?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "aa5435ddef34",
+   "date": "2026-09-26",
+   "tickers": [
+    "6758"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "management",
+   "reason": "Sony chip unit เรียกคืนพนักงาน 8,000 คนกลับสำนักงานเพื่อขยายการผลักดันด้าน AI",
+   "title": "Sony chip unit orders 8,000 workers back to office for physical AI push",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYlFSMEpIQ1loQ1Y1VjdIQ2htaHN2NXV6ZXhtNlRNTlNZbDkwSjdEcW5CUzlndU5pM28tNVRZZHZtSmRWc2stbko1cjEzUEFKM0cxWnhnM3JIVDJacUpGeUJOLWFNQmZxUDVsendRYlFWMzlWeUxocmZUa1ZlYnNMT0NFNzM4TV9mb1JjWXFzd1NOY3psZ3EtSnpyVVNobWFldEY2bWhOZGduR3hWRlRj?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "d2c6e829a88b",
+   "date": "2026-09-25",
+   "tickers": [
+    "6758"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Sony และ UMG ฟ้อง Suno อีกครั้งสำหรับการละเมิด copyright ของเพลง",
+   "title": "Sony and UMG are suing Suno again",
+   "source": "The Verge",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPLUM2TzhuekJ0ZlpIeVhhQ1RtV3d0RUlQXzB2Mm9DQnZYS0pZakJyc2tkYm12QXlMLVVZMTZTb3g1UUw4ejRVdUYzWHdTbF9rUEhsaFRxdXJGREg0amRaNlZvRktFSVFuREFuNnd0MkdQb0U4X1ZkMHhuZmVqc3RvbjY2eE5JNXpVSWFqVzFLS3FCVEZS?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  }
+ ]
+}

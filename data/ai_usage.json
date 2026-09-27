@@ -1,0 +1,14 @@
+{
+ "entries": [
+  {
+   "date": "2026-09-27",
+   "kind": "daily",
+   "items": 70,
+   "input_tokens": 4584,
+   "output_tokens": 1003,
+   "cost_usd": 0.0096
+  }
+ ],
+ "month_to_date_usd": 0.0096,
+ "month": "2026-09"
+}
