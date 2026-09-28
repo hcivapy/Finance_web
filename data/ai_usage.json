@@ -23,8 +23,16 @@
    "input_tokens": 2019,
    "output_tokens": 255,
    "cost_usd": 0.00329
+  },
+  {
+   "date": "2026-09-28",
+   "kind": "daily",
+   "items": 28,
+   "input_tokens": 2952,
+   "output_tokens": 662,
+   "cost_usd": 0.00626
   }
  ],
- "month_to_date_usd": 0.0304,
+ "month_to_date_usd": 0.0367,
  "month": "2026-09"
 }

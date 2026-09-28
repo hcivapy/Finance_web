@@ -1,20 +1,20 @@
 {
- "generated": "2026-09-27T15:50:55Z",
+ "generated": "2026-09-28T02:33:23Z",
  "ai": {
   "ok": true,
-  "sent": 12,
-  "labeled": 12,
+  "sent": 28,
+  "labeled": 28,
   "over_cap": 0,
   "model": "claude-haiku-4-5",
-  "input_tokens": 2019,
-  "output_tokens": 255,
-  "cost_usd": 0.00329,
-  "month_to_date_usd": 0.0304
+  "input_tokens": 2952,
+  "output_tokens": 662,
+  "cost_usd": 0.00626,
+  "month_to_date_usd": 0.0367
  },
  "stats": {
-  "new_items": 10,
-  "total_items": 80,
-  "history_added": 2,
+  "new_items": 28,
+  "total_items": 108,
+  "history_added": 7,
   "sources_ok": 67,
   "sources_total": 68,
   "deleted_old_files": []
@@ -25,14 +25,14 @@
    "ok": true,
    "error": null,
    "fetched": 30,
-   "relevant": 4
+   "relevant": 7
   },
   {
    "name": "CNBC Business",
    "ok": true,
    "error": null,
    "fetched": 30,
-   "relevant": 0
+   "relevant": 1
   },
   {
    "name": "CNBC Technology",
@@ -74,14 +74,14 @@
    "ok": true,
    "error": null,
    "fetched": 10,
-   "relevant": 4
+   "relevant": 2
   },
   {
    "name": "WSJ Markets",
    "ok": true,
    "error": null,
    "fetched": 61,
-   "relevant": 4
+   "relevant": 2
   },
   {
    "name": "WSJ Business",
@@ -108,15 +108,15 @@
    "name": "Bloomberg Technology",
    "ok": true,
    "error": null,
-   "fetched": 9,
-   "relevant": 3
+   "fetched": 15,
+   "relevant": 4
   },
   {
    "name": "FT Markets",
    "ok": true,
    "error": null,
    "fetched": 25,
-   "relevant": 3
+   "relevant": 2
   },
   {
    "name": "FT Companies",
@@ -129,7 +129,7 @@
    "name": "BBC Business",
    "ok": true,
    "error": null,
-   "fetched": 52,
+   "fetched": 53,
    "relevant": 0
   },
   {
@@ -137,14 +137,14 @@
    "ok": true,
    "error": null,
    "fetched": 40,
-   "relevant": 2
+   "relevant": 1
   },
   {
    "name": "Seeking Alpha Market Currents",
    "ok": true,
    "error": null,
    "fetched": 7,
-   "relevant": 2
+   "relevant": 1
   },
   {
    "name": "Federal Reserve (Monetary Policy)",
@@ -186,7 +186,7 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "relevant": 3
+   "relevant": 1
   },
   {
    "name": "The Verge",
@@ -228,7 +228,7 @@
    "ok": true,
    "error": null,
    "fetched": 10,
-   "relevant": 1
+   "relevant": 0
   },
   {
    "name": "Salesforce News",
@@ -255,7 +255,7 @@
    "name": "Decrypt",
    "ok": true,
    "error": null,
-   "fetched": 36,
+   "fetched": 56,
    "relevant": 3
   },
   {
@@ -263,7 +263,7 @@
    "ok": true,
    "error": null,
    "fetched": 30,
-   "relevant": 3
+   "relevant": 2
   },
   {
    "name": "Mining.com (Gold)",
@@ -276,8 +276,8 @@
    "name": "Reuters (Fed)",
    "ok": true,
    "error": null,
-   "fetched": 58,
-   "relevant": 7
+   "fetched": 35,
+   "relevant": 4
   },
   {
    "name": "Reuters (ทองคำ)",
@@ -290,22 +290,22 @@
    "name": "Reuters (Bitcoin)",
    "ok": true,
    "error": null,
-   "fetched": 29,
+   "fetched": 13,
    "relevant": 0
   },
   {
    "name": "Kitco (ทองคำ)",
    "ok": true,
    "error": null,
-   "fetched": 29,
-   "relevant": 5
+   "fetched": 8,
+   "relevant": 0
   },
   {
    "name": "AP (ภาพรวมตลาด)",
    "ok": true,
    "error": null,
-   "fetched": 13,
-   "relevant": 2
+   "fetched": 8,
+   "relevant": 1
   },
   {
    "name": "Google News: AMD",
@@ -319,34 +319,34 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "relevant": 2
+   "relevant": 0
   },
   {
    "name": "Google News: ASML",
    "ok": true,
    "error": null,
-   "fetched": 42,
+   "fetched": 32,
    "relevant": 0
   },
   {
    "name": "Google News: AVGO",
    "ok": true,
    "error": null,
-   "fetched": 44,
+   "fetched": 39,
    "relevant": 0
   },
   {
    "name": "Google News: CRM",
    "ok": true,
    "error": null,
-   "fetched": 47,
+   "fetched": 45,
    "relevant": 1
   },
   {
    "name": "Google News: GEV",
    "ok": true,
    "error": null,
-   "fetched": 18,
+   "fetched": 19,
    "relevant": 0
   },
   {
@@ -354,14 +354,14 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "relevant": 5
+   "relevant": 1
   },
   {
    "name": "Google News: META",
    "ok": true,
    "error": null,
    "fetched": 100,
-   "relevant": 14
+   "relevant": 8
   },
   {
    "name": "Google News: MSFT",
@@ -375,13 +375,13 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "relevant": 4
+   "relevant": 2
   },
   {
    "name": "Google News: NOW",
    "ok": true,
    "error": null,
-   "fetched": 22,
+   "fetched": 14,
    "relevant": 0
   },
   {
@@ -389,20 +389,20 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "relevant": 4
+   "relevant": 7
   },
   {
    "name": "Google News: OUST",
    "ok": true,
    "error": null,
-   "fetched": 36,
+   "fetched": 34,
    "relevant": 0
   },
   {
    "name": "Google News: SMR",
    "ok": true,
    "error": null,
-   "fetched": 11,
+   "fetched": 10,
    "relevant": 0
   },
   {
@@ -410,7 +410,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "relevant": 1
+   "relevant": 3
   },
   {
    "name": "Google News: TSM",
@@ -424,69 +424,69 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "relevant": 2
+   "relevant": 0
   },
   {
    "name": "Google News: 6981",
    "ok": true,
    "error": null,
-   "fetched": 8,
+   "fetched": 5,
    "relevant": 0
   },
   {
    "name": "Google News: TYOYY",
    "ok": true,
    "error": null,
-   "fetched": 0,
+   "fetched": 1,
    "relevant": 0
   },
   {
    "name": "Google News: RYCEY",
    "ok": true,
    "error": null,
-   "fetched": 53,
+   "fetched": 48,
    "relevant": 0
   },
   {
    "name": "Reuters: AMD,AMZN,ASML",
    "ok": true,
    "error": null,
-   "fetched": 47,
-   "relevant": 2
+   "fetched": 27,
+   "relevant": 0
   },
   {
    "name": "Reuters: AVGO,CRM,GEV",
    "ok": true,
    "error": null,
-   "fetched": 1,
+   "fetched": 3,
    "relevant": 0
   },
   {
    "name": "Reuters: GOOG,META,MSFT",
    "ok": true,
    "error": null,
-   "fetched": 99,
-   "relevant": 8
+   "fetched": 76,
+   "relevant": 3
   },
   {
    "name": "Reuters: MU,NOW,NVDA",
    "ok": true,
    "error": null,
-   "fetched": 45,
-   "relevant": 5
+   "fetched": 56,
+   "relevant": 3
   },
   {
    "name": "Reuters: OUST,SMR,SPCX",
    "ok": true,
    "error": null,
-   "fetched": 32,
-   "relevant": 3
+   "fetched": 28,
+   "relevant": 2
   },
   {
    "name": "Reuters: TSM,6758,6981",
    "ok": true,
    "error": null,
-   "fetched": 6,
+   "fetched": 5,
    "relevant": 0
   },
   {
@@ -506,6 +506,493 @@
   "crypto_gold": "BTC & ทองคำ"
  },
  "items": [
+  {
+   "id": "738911084617",
+   "title": "Microsoft overhauls Copilot to take on AI rivals like Anthropic",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVXdZSjdFMHZlUldQMk5QUTNqNVZVaUN1QUFJRGdMYTdRR1pOZHR6bUxnRkdNY09BV3pLZmVLbElzZFhPSnFCTGpab3lPbTJhM0tnYnhwNklJYl8tVWc5bVdXck9sVWF5bTV5OVhFUUo4cjdJTkFhZk1MMnI0cHptNUp1YXFhMUJfWFZfTzlLRDFzaVY5NHZXNjBsXzF3c3pTcUNGNE5PNVdxUQ?oc=5",
+   "source": "CNBC",
+   "paywall": false,
+   "published": "2026-09-28T01:50:39Z",
+   "first_seen": "2026-09-28T02:33:23Z",
+   "categories": [
+    "watchlist",
+    "products"
+   ],
+   "tickers": [
+    "MSFT"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "a26324cf6092",
+   "title": "Bond Selloff Resumes as Oil Rises After Trump Spurns Iran Offer",
+   "summary": "A selloff in Treasuries resumed Monday as oil rallied after President Donald Trump rejected Iran’s latest proposal to reopen the Strait of Hormuz, intensifying inflation concerns.",
+   "link": "https://www.bloomberg.com/news/articles/2026-09-28/bond-selloff-resumes-as-oil-rises-after-trump-spurns-iran-offer",
+   "source": "Bloomberg",
+   "paywall": true,
+   "published": "2026-09-28T01:50:20Z",
+   "first_seen": "2026-09-28T02:33:23Z",
+   "categories": [
+    "fed",
+    "market"
+   ],
+   "tickers": [],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "82bffc7e87b7",
+   "title": "Gold drops more than 1% on US rate-hike bets",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQenE0aVBHOTNMeURZcVZjN3J0S1RMZ2kzakFJYklBMXhZckhuTGxLVnVaa2pmZjg0MzJHMU1fOGwwY3pfWjBXYmZUcGYtUjMzOFB4UW9ydUdKZDNOU2JrTHotMk9qa1ZGNkZXdGs3b0NKcGhveU11cmZGOC0wbzM1WWVJSzk3bDAxLWs3QUxVSy02QQ?oc=5",
+   "source": "Reuters",
+   "paywall": false,
+   "published": "2026-09-28T01:41:00Z",
+   "first_seen": "2026-09-28T02:33:23Z",
+   "categories": [
+    "crypto_gold"
+   ],
+   "tickers": [
+    "XAUUSD"
+   ],
+   "also": [],
+   "ai": {
+    "label": "fundamental",
+    "tickers": [
+     "XAUUSD"
+    ],
+    "direction": "negative",
+    "impact_area": "macro",
+    "importance": "low",
+    "reason": "Gold ร่วงกว่า 1% จาก US rate-hike bets ที่ยังแข็งแรง สะท้อน Fed policy ความเสี่ยง",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "aa42faf78cda",
+   "title": "Dollar firms as US-Iran tensions lift oil, hawkish Fed bets build",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVGN6Yy1FQUFsN3Z3US1YZWg2amxMczRubW9XaV9vWHJTc0JYbGN6YjhiX1hlWG5CZUdJbEVpcmwwTmdMT3EtTTNqRENIM25PSWY2RUhFVnBkTFBhY3d5VnlJY3NqWHhTSm8xN1FXY0lsVjBjN0JfQXI2Zml5WTNEcW9wMExxT21BbDVETDJZOFFrY0RXMGkwTUJHaTgzS2k1SHBQTVNhTlN5VVJVTllz?oc=5",
+   "source": "Reuters",
+   "paywall": false,
+   "published": "2026-09-28T01:35:00Z",
+   "first_seen": "2026-09-28T02:33:23Z",
+   "categories": [
+    "fed"
+   ],
+   "tickers": [],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "c1f1a5bf3e9f",
+   "title": "Northern Star shares pop as Australian gold miner rejects $27-billion takeover proposal",
+   "summary": "Northern Star shares jumped more than 9% after the Australian gold miner rejected a takeover proposal from Gold Fields.",
+   "link": "https://www.cnbc.com/2026/09/28/northern-star-shares-gold-fields-takeover-bid.html",
+   "source": "CNBC",
+   "paywall": false,
+   "published": "2026-09-28T01:19:23Z",
+   "first_seen": "2026-09-28T02:33:23Z",
+   "categories": [
+    "deals"
+   ],
+   "tickers": [],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "da70901eb04d",
+   "title": "Gold Falls on Expectations of Higher for Longer Fed Rates",
+   "summary": "Gold fell. Higher oil prices and strong U.S. industrial activity data reinforced expectations that the U.S. Federal Reserve may need to keep policy tighter for longer, ANZ said.",
+   "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-on-expectations-of-higher-for-longer-fed-rates-238bf7a5?mod=rss_markets_main",
+   "source": "WSJ",
+   "paywall": true,
+   "published": "2026-09-28T01:11:00Z",
+   "first_seen": "2026-09-28T02:33:23Z",
+   "categories": [
+    "fed"
+   ],
+   "tickers": [],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "b20d0632cd8a",
+   "title": "Bank of Japan debated need for faster rate hikes, July minutes show",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNM0Rid1RQcVo2QlNMTTZDOGEyYmRtQnFYVVJDN1pBMGpwNGxzS19vN1VBMHVXbDFtWkZHOVJhZTNxaWptMGsxbkxDQ2ZSNjZkNFdMTUQwZEhuaW1FUGhHUnJhWGU1eU5NQ1QwRWpDUURJQS1HUUdNYmFZbldSdFk4VGRXSGhUTkVPbk1QSUxzMV9ZckpvMWJYaTNPaWswYnpCTkpEUk9xNUhFMjEyVDRJek93?oc=5",
+   "source": "Reuters",
+   "paywall": false,
+   "published": "2026-09-28T00:58:00Z",
+   "first_seen": "2026-09-28T02:33:23Z",
+   "categories": [
+    "fed"
+   ],
+   "tickers": [],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "eee1ac97e8d5",
+   "title": "Nomura's Wang: US Can Absorb More Rate Hikes",
+   "summary": "Nomura North Asia CIO Julia Wang believes the US economy remains resilient enough to absorb additional rate hikes without tipping into a recession. She cites strong consumer spending, ongoing AI capital expenditure, and loose fiscal policy as key drivers supporting growth.…",
+   "link": "https://www.bloomberg.com/news/videos/2026-09-28/nomura-s-wang-us-can-absorb-more-rate-hikes-video",
+   "source": "Bloomberg",
+   "paywall": true,
+   "published": "2026-09-28T00:51:58Z",
+   "first_seen": "2026-09-28T02:33:23Z",
+   "categories": [
+    "fed"
+   ],
+   "tickers": [],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "54b4b1b82f26",
+   "title": "Nikkei Rises 0.8%, Led by Chip-Related Stocks",
+   "summary": "Japanese stocks were higher after U.S. stocks gained on Friday following the easing of the selloff in U.S. Treasurys.",
+   "link": "https://www.wsj.com/finance/stocks/nikkei-rises-0-8-led-by-chip-related-stocks-07fd1af5?mod=rss_markets_main",
+   "source": "WSJ",
+   "paywall": true,
+   "published": "2026-09-28T00:49:00Z",
+   "first_seen": "2026-09-28T02:33:23Z",
+   "categories": [
+    "market"
+   ],
+   "tickers": [],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "acc611989d4f",
+   "title": "China May Let Alibaba Buy Nvidia’s RTX Chips, Information Says",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSmpMYk0xRTBfdm5NMXRfNVNfMlE0cnppenNvTHNITzhVNXZ0R2NIX0Z3bmlWSmV1RHBpYURmWmdMT1ZLY2hUWG5WcDRsaFVSWktoRWFNQkdtRzg5UHpLeGstQXFGdkprdGhEbk05RUE5MEM4UTVlb281N3lOb2Y2WndNNHhzNUEtU3JlMUd5Z2FQRFRiM29JMU1fa25QRzBnekJJU3FYZGZlby1faklDS1pURG8?oc=5",
+   "source": "Bloomberg",
+   "paywall": true,
+   "published": "2026-09-28T00:07:00Z",
+   "first_seen": "2026-09-28T02:33:23Z",
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "tickers": [
+    "NVDA"
+   ],
+   "also": [],
+   "ai": {
+    "label": "fundamental",
+    "tickers": [
+     "NVDA"
+    ],
+    "direction": "unclear",
+    "impact_area": "regulation",
+    "importance": "medium",
+    "reason": "จีนอาจอนุญาต Alibaba ซื้อ RTX chips ของ Nvidia ช่วยเปิด China market แต่มีความไม่แน่นอน regulatory",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "e0c9b266cee3",
+   "title": "Gold Slumps as Hormuz Impasse Keeps Rate-Hike Bets Elevated",
+   "summary": "Gold slumped as an impasse over the Strait of Hormuz kept energy costs elevated and maintained pressure on the Federal Reserve to raise interest rates further to combat sticky inflation.",
+   "link": "https://www.bloomberg.com/news/articles/2026-09-27/gold-declines-as-hormuz-impasse-keeps-rate-hike-bets-elevated",
+   "source": "Bloomberg",
+   "paywall": true,
+   "published": "2026-09-27T23:59:20Z",
+   "first_seen": "2026-09-28T02:33:23Z",
+   "categories": [
+    "fed",
+    "crypto_gold"
+   ],
+   "tickers": [
+    "XAUUSD"
+   ],
+   "also": [],
+   "ai": {
+    "label": "fundamental",
+    "tickers": [
+     "XAUUSD"
+    ],
+    "direction": "negative",
+    "impact_area": "macro",
+    "importance": "low",
+    "reason": "Gold ลดลง เนื่องจาก Fed rate-hike expectations ยังสูง ทำให้ yield ต่อเงินลงทุนปลอดความเสี่ยงเพิ่มขึ้น",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "39684f6700d9",
+   "title": "Apple, Microsoft, and Meta prove stock picking for individuals is not a fool's errand",
+   "summary": "Let's unpack this.",
+   "link": "https://www.cnbc.com/2026/09/27/jim-cramer-apple-microsoft-and-meta-prove-stock-picking-for-individuals-is-not-a-fools-errand.html",
+   "source": "CNBC",
+   "paywall": false,
+   "published": "2026-09-27T23:33:21Z",
+   "first_seen": "2026-09-28T02:33:23Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "META",
+    "MSFT"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "f438b112b43c",
+   "title": "COMMENTARY: Where will Fed tightening hit hardest in Asia?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQU1BJRFhvMUNXeWNuYXllb1I4azYyRUZ5Z19kYW9zMS1FazV3YlBwRWRJQnNjMWM0NDNQSjYtZHFIRkd5b2JvdGlvVXVFTVlXVnFYSWF0Z29VQUxfYzJabDUyNFJ4SGJTRXRORHRoWmFweDNBUDBRMEdjazRiVXVaZ0VZaFIwcFF5czhmUEk4N1pteTJBTzJKd3ZNLTNqeXJ6ZlJXYnIzRHRoYV96SlJ3N05YX3I1LW5teDJiWUpFSkhtU3FQVTFubWFFMVo?oc=5",
+   "source": "Reuters",
+   "paywall": false,
+   "published": "2026-09-27T23:02:31Z",
+   "first_seen": "2026-09-28T02:33:23Z",
+   "categories": [
+    "fed"
+   ],
+   "tickers": [],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "3f23b58303cb",
+   "title": "Global markets: US stocks rise, Europe slips, Asia mixed",
+   "summary": "",
+   "link": "https://seekingalpha.com/news/4647412-global-markets-us-stocks-rise-europe-slips-asia-mixed?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "source": "Seeking Alpha",
+   "paywall": true,
+   "published": "2026-09-27T21:02:53Z",
+   "first_seen": "2026-09-28T02:33:23Z",
+   "categories": [
+    "market"
+   ],
+   "tickers": [],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "94262258a304",
+   "title": "Lowe's is launching a drone delivery service in partnership with DoorDash, Alphabet",
+   "summary": "Lowe's is launching a drone delivery service in a partnership with DoorDash and Alphabet's Wing, CNBC has learned exclusively.",
+   "link": "https://www.cnbc.com/2026/09/24/lowes-drones-delivery-doordash-alphabet.html",
+   "source": "CNBC",
+   "paywall": false,
+   "published": "2026-09-27T19:02:10Z",
+   "first_seen": "2026-09-28T02:33:23Z",
+   "categories": [
+    "watchlist",
+    "deals",
+    "products"
+   ],
+   "tickers": [
+    "GOOG"
+   ],
+   "also": [],
+   "ai": {
+    "label": "fundamental",
+    "tickers": [
+     "GOOG"
+    ],
+    "direction": "positive",
+    "impact_area": "revenue",
+    "importance": "medium",
+    "reason": "Alphabet's Wing ร่วมกับ Lowe's และ DoorDash ในบริการ drone delivery นำสินค้าขยายโอกาส revenue ใหม่",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "7140c563c52d",
+   "title": "The Bond Market Is Getting Closer to Sounding Alarm on Economy",
+   "summary": "The bond market is on the brink of signaling that a series of Federal Reserve interest-rate hikes will start shifting the narrative toward the risk that the US economy stalls out.",
+   "link": "https://www.bloomberg.com/news/articles/2026-09-27/the-bond-market-is-getting-closer-to-sounding-alarm-on-economy",
+   "source": "Bloomberg",
+   "paywall": true,
+   "published": "2026-09-27T19:00:00Z",
+   "first_seen": "2026-09-28T02:33:23Z",
+   "categories": [
+    "fed"
+   ],
+   "tickers": [],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "d5e362ded0b4",
+   "title": "FAA Clears SpaceX For Starship 14 Flight",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNE15MS11STUtSFRabk5fTU9NajEtT3UtX0hDTlp3SEhXN2JrSEhfcHA3dnBlRzlybjlGMGpOSGJjSG44dHJ5bW1uVllSbi05UFpJZTJJTmM2VExkelNMZklSNmh1TXhVcVVYd3N6am5oUjN2Z0c2bFdxeEVOSDFPdEN5bXBuSG1RTG9uVHVyQS03TWY2bUhubTZR?oc=5",
+   "source": "Aviation Week",
+   "paywall": true,
+   "published": "2026-09-27T18:57:43Z",
+   "first_seen": "2026-09-28T02:33:23Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "SPCX"
+   ],
+   "also": [],
+   "ai": {
+    "label": "fundamental",
+    "tickers": [
+     "SPCX"
+    ],
+    "direction": "positive",
+    "impact_area": "competitive_advantage",
+    "importance": "medium",
+    "reason": "FAA อนุมัติ Starship 14 flight แสดง SpaceX ก้าวหน้า development บรรลุมาइลสโตน",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "50e19c4dd59d",
+   "title": "SpaceX’s Starship rocket prepares for 14th test flight",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMHBZSmVwbXdNLWg4R09ZWkVPbjRoS3QydEFzZVM1cVp1TkJxZWJPTWNBMkI5V045a2VBY1J5UkxBWEp1VDlQOXgzcEdrTGIxOWhLUVJ6VWN2UWhqMHMzalhWaVRuUmNSTlBOUFVLWTJOS2M5QUdYVHZJZmFtSVhNcUNYQUVHQVJjVTVVSVZNZmY5dlE2MV9JVmVOZ0pmeFNBb1hvbUkyTjc0MUVXbGpUag?oc=5",
+   "source": "AP News",
+   "paywall": false,
+   "published": "2026-09-27T18:04:00Z",
+   "first_seen": "2026-09-28T02:33:23Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "SPCX"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "c9a38ea2967c",
+   "title": "Jobs, Inflation, Nike, Carmax, Micron, and More to Watch This Week",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVjhhNEtlNWxnLWxvbzV0V0YzdF8wRmR6bFRnQ1JKa2pRZlVYeFBxMmRxWER4eEpqeFpFTDVfaUQtaFprR2J0OG4wZWpwQ1UzdTEyaFFSVlhoOFZHQVFINlkzVV90YU1GX3VoUGMtWi1kT1NHVVpMcG8xUUxlWmNuRllLMWlmMXEwcTJ3Zmd0U0czTTBQRzVMbGxxQ0Q1R1MtOXZCOEZ3?oc=5",
+   "source": "Barron's",
+   "paywall": true,
+   "published": "2026-09-27T18:00:00Z",
+   "first_seen": "2026-09-28T02:33:23Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "MU"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "ff93ecf17012",
+   "title": "People are turning to a trustless asset, Phair says",
+   "summary": "Scottsdale Mint CEO Josh Phair says distrust in governments and global trade is pushing investors toward gold.",
+   "link": "https://www.mining.com/people-are-turning-to-a-trustless-asset-phair-says/",
+   "source": "MINING.COM",
+   "paywall": false,
+   "published": "2026-09-27T17:32:11Z",
+   "first_seen": "2026-09-28T02:33:23Z",
+   "categories": [
+    "crypto_gold"
+   ],
+   "tickers": [
+    "XAUUSD"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "29518dc05ed7",
+   "title": "SpaceX Starship Launches Monday. This Test Is Different.",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBPaHhPTW1PaFBYY1RsSGtSV3loWXRCaHlURFVfdFprak5Ya2lxY05BZFRiVHZqQVFVSjBXOUpGd2lqcEZnUU9RUjFjXzA0SWI5bjVGcFJZRGotOWRVczFUd3pMSmx3ZDBLSUFNTTVvcWMzWlJrOW5pM3MxS3Y?oc=5",
+   "source": "Barron's",
+   "paywall": true,
+   "published": "2026-09-27T16:52:00Z",
+   "first_seen": "2026-09-28T02:33:23Z",
+   "categories": [
+    "watchlist",
+    "products"
+   ],
+   "tickers": [
+    "SPCX"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "f7b59f4d3185",
+   "title": "Here are the 4 big things we're watching in the stock market in the week ahead",
+   "summary": "Both sides of the Fed's dual mandate are in focus. Plus, Micron reports and Eli Lilly delivers updates on its obesity pipeline.",
+   "link": "https://www.cnbc.com/2026/09/27/here-are-the-4-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
+   "source": "CNBC",
+   "paywall": false,
+   "published": "2026-09-27T16:16:43Z",
+   "first_seen": "2026-09-28T02:33:23Z",
+   "categories": [
+    "watchlist",
+    "fed",
+    "market"
+   ],
+   "tickers": [
+    "MU"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
   {
    "id": "268730a6d25f",
    "title": "Bitcoin's Quantum Problem: Three Ways Researchers Are Trying to Fix It",
@@ -836,6 +1323,27 @@
    }
   },
   {
+   "id": "77043cd02f63",
+   "title": "The Meta data center in Louisiana is creating a housing boom",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdWJsZEk3emJIR05kVUgzT0M3dkhhMUJISWtXc21YTTlobFdDZVk4VVdhcXNUa1kwbzNObGdoRWNCS3d2RklsRjVZV21YemQzV01KMUhxcHBqUDFBdGdrcWdSNEptYldGamw5WDQ5QUs0aVZEU1BmT2V0Nlk1eDFyTGlERkpmN3Y2SVJ1eXIxa3EwRTVMNklucVk4UVA2WkJCZVE?oc=5",
+   "source": "Business Insider",
+   "paywall": true,
+   "published": "2026-09-27T10:39:00Z",
+   "first_seen": "2026-09-28T02:33:23Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "META"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
    "id": "a9fe19bcf705",
    "title": "Riot Platforms repays $200M credit facility, releases collateral",
    "summary": "The Bitcoin miner has continued to expand its data-center business as well.",
@@ -1110,6 +1618,34 @@
    }
   },
   {
+   "id": "f84680428a47",
+   "title": "Bitcoin ETFs Notch Seven-Day Winning Streak as 2026 Flows Turn Green",
+   "summary": "Bitcoin ETFs have drawn nearly $3 billion over seven straight sessions, erasing post-Clarity Act losses and pushing 2026 flows back into positive territory.",
+   "link": "https://decrypt.co/379391/bitcoin-etfs-notch-seven-day-winning-streak-as-2026-flows-turn-green",
+   "source": "Decrypt",
+   "paywall": false,
+   "published": "2026-09-26T17:01:03Z",
+   "first_seen": "2026-09-28T02:33:23Z",
+   "categories": [
+    "crypto_gold"
+   ],
+   "tickers": [
+    "BTCUSD"
+   ],
+   "also": [],
+   "ai": {
+    "label": "fundamental",
+    "tickers": [
+     "BTCUSD"
+    ],
+    "direction": "positive",
+    "impact_area": "revenue",
+    "importance": "medium",
+    "reason": "Bitcoin ETF รับ $3 billion inflows ในเจ็ด session ติดต่อกัน แสดง institutional demand และ momentum ที่แข็งแรง",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
    "id": "c8efcd46962a",
    "title": "Meta and Microsoft led tech stocks higher last week despite soaring bond yields",
    "summary": "Here's a look at the three developments that drove the action in our portfolio last week.",
@@ -1150,6 +1686,55 @@
    "also": [],
    "ai": {
     "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "73fc88d08e0a",
+   "title": "AI Agents Are Racing to Make Quantum-Safe Bitcoin Cheap—And Winning",
+   "summary": "An open competition run by StarkWare, Yukon Research, and Eigen Labs drove the estimated cost of building a quantum-safe Bitcoin transaction from about $320 to roughly $67, with AI models topping the leaderboards.",
+   "link": "https://decrypt.co/379378/ai-agents-racing-make-quantum-safe-bitcoin-cheap",
+   "source": "Decrypt",
+   "paywall": false,
+   "published": "2026-09-26T15:01:05Z",
+   "first_seen": "2026-09-28T02:33:23Z",
+   "categories": [
+    "crypto_gold"
+   ],
+   "tickers": [
+    "BTCUSD"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "8386afef9daa",
+   "title": "New Mexico jury finds Facebook liable for over 43 million violations of consumer protection law",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWXpzTm8wNFlZLUVGYTVCQ2JVVVBOTFh4aV9TRG5TVV9pa2ZUZkp3cUJ1RVdjZWtWYXZhV2pISU44NE1WZVJXYktQYjVCUFc1dHdpOVRaSDdyOWFUMTRtaW0tVm9aMEVoZzJLc0w3akI1NXd3b1JRODc0ZFpzSTZuOUx4RGhRMEgyNnE5NkdIMGk0MlZIenJwdTBWUWlta3JROHVJd2NtU3hXRzBQZXdWUFZZaVBxZnZjNEdEZFBNNjI?oc=5",
+   "source": "Fortune",
+   "paywall": true,
+   "published": "2026-09-26T14:25:00Z",
+   "first_seen": "2026-09-28T02:33:23Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "META"
+   ],
+   "also": [],
+   "ai": {
+    "label": "fundamental",
+    "tickers": [
+     "META"
+    ],
+    "direction": "negative",
+    "impact_area": "regulation",
+    "importance": "high",
+    "reason": "New Mexico jury พบ Facebook ละเมิด consumer protection กว่า 43 ล้านครั้ง สร้างความเสี่ยง liability และ regulation",
     "model": "claude-haiku-4-5"
    }
   },
@@ -1234,6 +1819,27 @@
    }
   },
   {
+   "id": "99462c0b12ea",
+   "title": "Here’s what happened in crypto today",
+   "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+   "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "paywall": false,
+   "published": "2026-09-26T12:17:00Z",
+   "first_seen": "2026-09-28T02:33:23Z",
+   "categories": [
+    "crypto_gold"
+   ],
+   "tickers": [
+    "BTCUSD"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
    "id": "9ecf0fc98f37",
    "title": "Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules",
    "summary": "Researchers have mapped out private bitcoin-denominated transfers that run alongside Bitcoin, but the system still lacks a finished way to lock up real BTC and release it again.",
@@ -1293,6 +1899,25 @@
    "first_seen": "2026-09-27T15:22:55Z",
    "categories": [
     "fed"
+   ],
+   "tickers": [],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "c54ec534f37c",
+   "title": "Foreign capital flows into US stocks hit record as appetite for debt fades",
+   "summary": "Overseas purchases of US equities topped $940bn in the year to July, coinciding with strong gains in the S&P 500",
+   "link": "https://www.ft.com/content/a1a1318b-8051-4539-a485-5a4e1d021578?syn-25a6b1a6=1",
+   "source": "Financial Times",
+   "paywall": true,
+   "published": "2026-09-26T10:00:04Z",
+   "first_seen": "2026-09-28T02:33:23Z",
+   "categories": [
+    "market"
    ],
    "tickers": [],
    "also": [],

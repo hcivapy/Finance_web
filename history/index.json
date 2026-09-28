@@ -1,9 +1,108 @@
 {
- "generated": "2026-09-27T15:51:45Z",
+ "generated": "2026-09-28T02:34:18Z",
  "months": [
   "2026-09"
  ],
  "items": [
+  {
+   "id": "94262258a304",
+   "date": "2026-09-28",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Alphabet's Wing ร่วมกับ Lowe's และ DoorDash ในบริการ drone delivery นำสินค้าขยายโอกาส revenue ใหม่",
+   "title": "Lowe's is launching a drone delivery service in partnership with DoorDash, Alphabet",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/24/lowes-drones-delivery-doordash-alphabet.html",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals",
+    "products"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "acc611989d4f",
+   "date": "2026-09-28",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "unclear",
+   "importance": "medium",
+   "impact_area": "regulation",
+   "reason": "จีนอาจอนุญาต Alibaba ซื้อ RTX chips ของ Nvidia ช่วยเปิด China market แต่มีความไม่แน่นอน regulatory",
+   "title": "China May Let Alibaba Buy Nvidia’s RTX Chips, Information Says",
+   "source": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSmpMYk0xRTBfdm5NMXRfNVNfMlE0cnppenNvTHNITzhVNXZ0R2NIX0Z3bmlWSmV1RHBpYURmWmdMT1ZLY2hUWG5WcDRsaFVSWktoRWFNQkdtRzg5UHpLeGstQXFGdkprdGhEbk05RUE5MEM4UTVlb281N3lOb2Y2WndNNHhzNUEtU3JlMUd5Z2FQRFRiM29JMU1fa25QRzBnekJJU3FYZGZlby1faklDS1pURG8?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "d5e362ded0b4",
+   "date": "2026-09-28",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "competitive_advantage",
+   "reason": "FAA อนุมัติ Starship 14 flight แสดง SpaceX ก้าวหน้า development บรรลุมาइลสโตน",
+   "title": "FAA Clears SpaceX For Starship 14 Flight",
+   "source": "Aviation Week",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNE15MS11STUtSFRabk5fTU9NajEtT3UtX0hDTlp3SEhXN2JrSEhfcHA3dnBlRzlybjlGMGpOSGJjSG44dHJ5bW1uVllSbi05UFpJZTJJTmM2VExkelNMZklSNmh1TXhVcVVYd3N6am5oUjN2Z0c2bFdxeEVOSDFPdEN5bXBuSG1RTG9uVHVyQS03TWY2bUhubTZR?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "e0c9b266cee3",
+   "date": "2026-09-28",
+   "tickers": [
+    "XAUUSD"
+   ],
+   "direction": "negative",
+   "importance": "low",
+   "impact_area": "macro",
+   "reason": "Gold ลดลง เนื่องจาก Fed rate-hike expectations ยังสูง ทำให้ yield ต่อเงินลงทุนปลอดความเสี่ยงเพิ่มขึ้น",
+   "title": "Gold Slumps as Hormuz Impasse Keeps Rate-Hike Bets Elevated",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-09-27/gold-declines-as-hormuz-impasse-keeps-rate-hike-bets-elevated",
+   "paywall": true,
+   "categories": [
+    "fed",
+    "crypto_gold"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "82bffc7e87b7",
+   "date": "2026-09-28",
+   "tickers": [
+    "XAUUSD"
+   ],
+   "direction": "negative",
+   "importance": "low",
+   "impact_area": "macro",
+   "reason": "Gold ร่วงกว่า 1% จาก US rate-hike bets ที่ยังแข็งแรง สะท้อน Fed policy ความเสี่ยง",
+   "title": "Gold drops more than 1% on US rate-hike bets",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQenE0aVBHOTNMeURZcVZjN3J0S1RMZ2kzakFJYklBMXhZckhuTGxLVnVaa2pmZjg0MzJHMU1fOGwwY3pfWjBXYmZUcGYtUjMzOFB4UW9ydUdKZDNOU2JrTHotMk9qa1ZGNkZXdGs3b0NKcGhveU11cmZGOC0wbzM1WWVJSzk3bDAxLWs3QUxVSy02QQ?oc=5",
+   "paywall": false,
+   "categories": [
+    "crypto_gold"
+   ],
+   "model": "claude-haiku-4-5"
+  },
   {
    "id": "f8a38a8c5dcf",
    "date": "2026-09-27",
@@ -55,6 +154,25 @@
    "title": "Bitcoin ETFs turn positive for 2026 with $2.4 billion weekly inflow, their largest since October",
    "source": "The Block",
    "link": "https://www.theblock.co/news/markets/2026-09-26-bitcoin-etfs-turn-positive-for-2026-with-2-4-billion-weekly-inflow-their-largest-since-october-416944",
+   "paywall": false,
+   "categories": [
+    "crypto_gold"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "f84680428a47",
+   "date": "2026-09-27",
+   "tickers": [
+    "BTCUSD"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Bitcoin ETF รับ $3 billion inflows ในเจ็ด session ติดต่อกัน แสดง institutional demand และ momentum ที่แข็งแรง",
+   "title": "Bitcoin ETFs Notch Seven-Day Winning Streak as 2026 Flows Turn Green",
+   "source": "Decrypt",
+   "link": "https://decrypt.co/379391/bitcoin-etfs-notch-seven-day-winning-streak-as-2026-flows-turn-green",
    "paywall": false,
    "categories": [
     "crypto_gold"
@@ -134,6 +252,25 @@
    "paywall": false,
    "categories": [
     "fed"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "8386afef9daa",
+   "date": "2026-09-26",
+   "tickers": [
+    "META"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "regulation",
+   "reason": "New Mexico jury พบ Facebook ละเมิด consumer protection กว่า 43 ล้านครั้ง สร้างความเสี่ยง liability และ regulation",
+   "title": "New Mexico jury finds Facebook liable for over 43 million violations of consumer protection law",
+   "source": "Fortune",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWXpzTm8wNFlZLUVGYTVCQ2JVVVBOTFh4aV9TRG5TVV9pa2ZUZkp3cUJ1RVdjZWtWYXZhV2pISU44NE1WZVJXYktQYjVCUFc1dHdpOVRaSDdyOWFUMTRtaW0tVm9aMEVoZzJLc0w3akI1NXd3b1JRODc0ZFpzSTZuOUx4RGhRMEgyNnE5NkdIMGk0MlZIenJwdTBWUWlta3JROHVJd2NtU3hXRzBQZXdWUFZZaVBxZnZjNEdEZFBNNjI?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
    ],
    "model": "claude-haiku-4-5"
   },
