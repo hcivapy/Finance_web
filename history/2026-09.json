@@ -2,6 +2,84 @@
  "month": "2026-09",
  "items": [
   {
+   "id": "2c4ab7ddb382",
+   "date": "2026-09-29",
+   "tickers": [
+    "AMD"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "competitive_advantage",
+   "reason": "AMD ซื้อ World Labs ในราคา $8.2 billion เพื่อเสริม AI capabilities และเพิ่มความสามารถเชิงแข่งขัน",
+   "title": "AMD to buy Fei-Fei Li's World Labs in $8.2 billion bet on 'physical AI'",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUEpLOGExLXd6b0dKeXJadmdubW9zdWZzTDB6eVhLb0RSN3RSQTYyenBJdTVRdmR6Vm5jRnp4VHVQQ1NEbGFQb1J0V08xcThIRUs1aG5NQ0piLXhEQTRhcXZQNEZkMUVuaHVyLTRNVjhjbDEtZmxuTGpuR2d1ZDU2b1pGdkxqS1o2TUNDcUMyaFUzRVdmUUpPQndkdEZMZw?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "dc6868c321f3",
+   "date": "2026-09-29",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "other",
+   "reason": "Nvidia อนุมัติแผน buyback เพิ่มเติม $150 billion สะท้อนความมั่นใจในโอกาส long-term",
+   "title": "Nvidia's biggest-ever buyback plan signals confidence in AI boom",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8zV2JhRnU3dGlaU0VLaTRrZkMwNjdySHN2MUs0ZzduS25wM2d4cTAxR1dXV2hFWUE1WFFFYm9CdXRwdmJDcmZYRTgwMEFVVHIzOTVaVkdEcXpqcGJXV3k3VWw2T3FSdVV2ajlaaEU1YXh6TDJrSjk2RUJR?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "5a74643758db",
+   "date": "2026-09-29",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "SpaceX Starship เข้าสู่ orbit เป็นครั้งแรกและ deploy Starlink satellites สำเร็จ",
+   "title": "SpaceX’s supersized Starship launches into orbit for the first time but flight ends early",
+   "source": "AP News",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcjNWb0xCanlSdllFdHJENU1SQ0xacUt1LUdCb2ZsQ1ljN19OQjJXMUhCSG00Wks3OVZaRHRfbEVyTkFET29YMUJZVDI5Q24xa05FUVdMeTFUekJ5OVd3RjBMQzJjSDhxZDZtUFZaSjlnUi1GX2VhVmwwa2YwZnhwdjFWRDd6QTF6?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "products"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "a5c267d04cfd",
+   "date": "2026-09-29",
+   "tickers": [
+    "META"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "Meta จ้าง MongoDB CEO CJ Desai นำทีม enterprise platform unit เพื่อขยาย business AI",
+   "title": "Meta hires MongoDB CEO CJ Desai to lead enterprise unit. MongoDB shares crater",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/28/mongodb-meta-cj-desai.html",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
    "id": "94262258a304",
    "date": "2026-09-28",
    "tickers": [
@@ -97,6 +175,45 @@
    "paywall": false,
    "categories": [
     "crypto_gold"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "ee9cc58b3196",
+   "date": "2026-09-28",
+   "tickers": [
+    "RYCEY"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Rolls-Royce ลงทุน $398 million ในสิ่งอำนนาการผลิต UK เพื่อขยายกำลังการผลิต",
+   "title": "Rolls-Royce to invest $398 million in UK manufacturing",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNHFudElVazVpa2hMUThQT043RGRSSWY2X1dKQ09vMVM0S2YyUk9KeEo5dWxWVm1FTHZmY3ZjRnRNck83WFd0VVdodTYwR1dOMWdKd3BjclZZZUJfWFRVRGlKQzlSeUdUUzZNZ2VwTFdfWFdVdnY2QkhjaDYtLWNFd3gtRUpCQ3Q5N3E3NjY3YkJiNW0xRlhnNFRBV2dodEpRb1luUGliRGNMbFAzVE8w?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "af8e7b102465",
+   "date": "2026-09-28",
+   "tickers": [
+    "TSM"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "TSMC affiliate plan expansion Singapore plant ขายหมด anticipate capacity demand",
+   "title": "TSMC affiliate already eyes expansion as first Singapore plant 'sells out'",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOa1BCaGoxeGhfWHdqT1hXdTdBel9uZXdMa1E0bXEyN3Z5Wm90S3NKUHZ1Njk3Y05WYms2aGRWMk56aC1LcS1WTW1GSm1laS1hY2hwUi1fYTJMUS1hZnhkWDhYeHZRVnNKUU1oaVpGLWtzV0thd2Ixc1lUQUp2ckgxYlpfZUhrOHhZWllBV1k4TUpacnh4aUkyQkhPZjlrZzREWkxJZWFsb1NqMW94MERORm9ia3VZZDlpVUVBaGdTQU1sSHM?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
    ],
    "model": "claude-haiku-4-5"
   },
