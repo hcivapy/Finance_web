@@ -2,6 +2,103 @@
  "month": "2026-09",
  "items": [
   {
+   "id": "de8b37fa4da7",
+   "date": "2026-09-30",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Amazon ประกาศเป้าหมาย healthcare ด้วย GoodRx subscription สร้างรายได้เพิ่มจากการดูแลสุขภาพ",
+   "title": "Amazon, GoodRx target US prescription subscribers as health insurance coverage slips",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPR29NM1Y1RE81TUYzT3lwUEhaVWhuSkdXVDFpYVlhM1p5X3pobUhBcUJrTk44Ynhab1BIRDlQcnQwNl9fcDVqZllmWUVrTEViVzBGR05IOVBIenF4bldxb3FENnhJd2YxUE9kSVpUNUlFQlZKdEFmNGZ0OF9kaHdpSU1qeVlBN1pVa2dFbVFvX1VzMklhMEVDa1lpbmNUSHh1RW9vYnFhYVQydWZzbkN3RE94bFpLSUt1bjR4WUhyV1FlOERzdUFnRG9yc0tkdw?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "35f0fce5cf79",
+   "date": "2026-09-30",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "competitive_advantage",
+   "reason": "Starship engine failure อาจส่งผลต่อเป้าหมาย NASA moon mission และความน่าเชื่อถือของ SpaceX",
+   "title": "SpaceX's Starship engine failure could impact NASA's moon mission objectives",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVG5vYVlQYmlYam04bTNfSlhBTW1fLVBOVXkwXzBIS3BCYXRBUnZOM05NUVE5dk1aU2tQYmNnTkZWa2l1U0dNNVBINGF1NkpTQjBfQzVseDRCakFkeGs5XzYtMVFtMzFZZXFESmtZR0F3dDN3VTJZNEE0aHAwOWpUVUlqZEMzQ2packNhMkFMNTJEYnJNZ2pfNWszOWw3NFBhSDM1STZOQ1NuY2g5bGhxM3BwTW1BT0dGY1c2dkw5a1ZxVEdickVlU2ZfMmtRUQ?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "ff8ece919304",
+   "date": "2026-09-30",
+   "tickers": [
+    "META"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Meta เปิด Muse สำหรับ small business ที่มี 200 million active users แล้ว",
+   "title": "Meta is bringing Muse AI to small businesses — and it already has a huge head start",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/29/meta-is-bringing-muse-ai-to-small-businesses-and-it-already-has-a-huge-head-start.html",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "e5309a3eaac8",
+   "date": "2026-09-30",
+   "tickers": [
+    "AMD",
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "competitive_advantage",
+   "reason": "AMD ซื้อ World Labs จาก Fei-Fei Li ยกระดับความสามารถ spatial intelligence AI",
+   "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
+   "source": "Ars Technica",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZ0hQeXM3LUdQR2xCTThQOUZETzNEWk04U25CS0VkNjlrTU15allNdTh4eGFvV1hfdVpvYXRlRk9MZnFnWUhLYTRzVjNzclZDMVgtVFBKSTRMZXZzcEVURXJwSVBTN2JjZHQ3cFNvbjdGckdiU1k5YUNmeE05RGdXR3BTUjZPcEVpOGNoUkpnMVFJNmNxZVRfc1hlU3VnZGtzREFybG5B?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "26f124aa3b4d",
+   "date": "2026-09-30",
+   "tickers": [
+    "CRM"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Salesforce ซื้อ Listen Labs เพิ่มความสามารถ AI customer research ให้ CRM platform",
+   "title": "Salesforce Signs Definitive Agreement to Acquire Listen Labs",
+   "source": "Salesforce News",
+   "link": "https://www.salesforce.com/news/stories/salesforce-signs-definitive-agreement-to-acquire-listen-labs/",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
    "id": "2c4ab7ddb382",
    "date": "2026-09-29",
    "tickers": [
@@ -76,6 +173,163 @@
    "paywall": false,
    "categories": [
     "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "f0cf43ce0a9c",
+   "date": "2026-09-29",
+   "tickers": [
+    "GOOG",
+    "MU",
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "regulation",
+   "reason": "Netlist ร้องขอ US import ban บน Micron chips ที่ใช้ใน Google และ Nvidia AI computing",
+   "title": "Netlist seeks U.S. import ban on Micron chips used in Google, Nvidia AI computing",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSmxnMEM4VmZvZUtSUTFlQWI0bWIyRFJmMEh4RTh5ck5obV85T2RMeTJoU1VLN3BwRkE4d3F4ZjNiaDN1RzNtVDczTGNPQnF0ZzIyUnNzSk40TnhaZXZNRmVyUUZ5cjZXUGtWR0puZHZSejFnQkthMHJfQkhxMEZVTWgxVTBQeUJxM3RlaXBKcXB4RDZIOFU3SExnR3lHcUN3dUdlUHhPZ25SN0xPMEJGcnc4d0d5VkwwUmxaMlQ0blZqcU0?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "eca1d5602af8",
+   "date": "2026-09-29",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "regulation",
+   "reason": "Google ท้าทายคำสั่ง EU ให้เปิด Android ให้ AI rivals ใช้ data",
+   "title": "Google challenges EU orders to open up to AI, search-engine rivals",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNWtfaTdEQks3cVluODNBeTVxRVQwOVNSSjdjMUZZV1I3eG1vSERQcjlLdGdNZ04wX0NaQTVxWTFfUUdQSG9pR0JJa2lGMW0yS3YybnBzVW0xQk9Zdm9XNTM1OWNNMjItbUhEUXc1NnhCVmY1Z0ZVRUx5SklwUlhsWDhndFM2N2VjNXBDQmdEbTNrXzhuaWdFbFp6Wkk2azF6Y3BOVXAyUQ?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "53667676e727",
+   "date": "2026-09-29",
+   "tickers": [
+    "TYOYY"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "competitive_advantage",
+   "reason": "TDK และ Taiyo Yuden ลงนามบันทึกความเข้าใจธุรกิจ AI components ร่วม",
+   "title": "TDK and TAIYO YUDEN Enter into A Memorandum Of Understanding to Explore Business Alliance",
+   "source": "NewswireToday",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSkpFX2Z1ampEbUxSTVdrLXgxN05rejdYNzZYRHNvWndPOWpNRXZsOEtVWXJaeENDaHhwc3JfbEp0NVdkSmFGbUMwd21mUFdDM20xU2RnQ09LTS1od3VmcHVpOTVIRk1lOHNwQVlXRG9HRWtWTVp4TW9DRTV4dlNfR3J5ZVlxU1doclRqdXh5cmI3N1BxYU9nU1VuUzZMejFFUThjQW5jS0tZUnZhbjRGTGtzMUllOFNGNTVuLUpFZ0tRRks0QjRjU3VhVVQ?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "36eda0eb8dd1",
+   "date": "2026-09-29",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "Nvidia เพิ่ม buyback plan 150 billion dollars สะท้อนความเชื่อมั่นในแนวโน้มธุรกิจ",
+   "title": "Etsy Aims to Get More Personal and Boost Business With AI",
+   "source": "WSJ",
+   "link": "https://www.wsj.com/cfo-journal/etsy-aims-to-get-more-personal-and-boost-business-with-ai-59cf27e9?mod=pls_whats_news_us_business_f",
+   "paywall": true,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "fa3d50641c4a",
+   "date": "2026-09-29",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Nvidia จัดการความเสี่ยง AI buildout ผ่าน insurance partnership กระจายความเสี่ยง",
+   "title": "Nvidia turns to insurers to spread the risk of AI build-out",
+   "source": "Financial Times",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOE9rNFhZUjQwSFZpNkhrb3IyR2lMdGpUUTVWVGppaXBfUk1RNkdzYUlNT0dxOXBjSEJSamVHTlFiUlp2QjRmQmNNX1pWWHJidUhreWlNWmlXdVZVWUp4VTZUWU82WlNWUWFObUo3aEo5T3IwRWtOQzItanZaMXVMZXh2MzU?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "333bd44c3f8e",
+   "date": "2026-09-29",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "Anthropic ตกลง 84.5 billion compute agreement กับ SpaceX ระยะยาว",
+   "title": "Anthropic Discloses up to $84.5 Billion in SpaceX Compute Agreements",
+   "source": "The Information",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONFp0dEhQeC1ZZlFOdEFuN2t2NGctYmduTEdRdGYyLWZlWEVqOVBvdVZCUlVwQ3VCZ3lQTjZjWkdFUWtyNUtLbDZNdFcxZGZ2dGpWSEYtcTR4VzlaZXRXR053Wno1RHlUdmRCN3liTXJ2TTRmbDRZWDZpOG14U3ZUZ3NUeDlMVWt5cmFXX3ZkaEVIS0drTnBVMjBpU09vWmxw?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "7fb085a77df0",
+   "date": "2026-09-29",
+   "tickers": [
+    "XAUUSD"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "macro",
+   "reason": "ราคาทองคำตกลง Fed rate hike bets สูง Treasury yields เพิ่มขึ้น",
+   "title": "Gold rises after hitting seven-week low, Fed hike bets curb gains",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS2xzZnhUOThNWWNuT0t4S3g4MWRteWlSQlpXMWdudFlqNUN6MW1Zbm9pZzVHR0xnWGdvNmNiUkh6MDhvUk4yY2J1cTRYa1V2ajllOHJyUV8teEpvbHc2QW9MTTBseHVXcXpGbGNpVEtLR2hDSmRxM1FHWDZaN3hMUk9tOGhVcGpBdVo5TmdFaEVpUHNfSzZvYzJPS29xYnZlekQ4eEl3?oc=5",
+   "paywall": false,
+   "categories": [
+    "fed",
+    "crypto_gold"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "e92b1a44a986",
+   "date": "2026-09-29",
+   "tickers": [
+    "XAUUSD"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "macro",
+   "reason": "ราคาทองคำหดตัว Treasury yields สูง market เดิมพัน Fed rate hike",
+   "title": "Gold's lustre dims as Treasury yields surge, markets bet on higher Fed rates",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRlVEOVNvOG5SeC1zaU9PX2U0SDJReDlrdHRQVld5X3BEVHFYX1pPOVNtelBSeFhjNGF5bkxZaHVSS1pLOVduZTBFVnR6a3E5bGZmWktsdnhZZUo4Q2tNNThBSFlnTnBDbWZCd3hYOFJrVkYtbkd2REhaQ0JfV290YWxaTnBuYlNiaG9Cc25KMlppTzZyVnd1alF4dFppSjdiZExOZkdpaGJJYWZFcE00VzNDQ3NEYjA?oc=5",
+   "paywall": false,
+   "categories": [
+    "fed",
+    "crypto_gold"
    ],
    "model": "claude-haiku-4-5"
   },
@@ -214,6 +468,65 @@
    "paywall": true,
    "categories": [
     "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "be3f7767086a",
+   "date": "2026-09-28",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "competitive_advantage",
+   "reason": "SpaceX Starship บิน orbital แรก deploy next-gen Starlink ประสบความสำเร็จ",
+   "title": "Watch SpaceX’s Starship lift off on unprecedented test",
+   "source": "CNN",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUEROMWF2STFsWDV4eE9HV01SMEJINWQyamJVZDhoc2RPUXJ1N2FEaHdPZjhGc05YTXZLbE9idnJJbWU1cDJEU1pTYW9IaFhfM3pWM0RkLW5udmpEZmZHZVZKaUlfSlAwenc5MjZkaHR2OGxNOVFta3JxYmdNU01TSW9McUxXVERtRFZubDB6OA?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "2fa1c6230d67",
+   "date": "2026-09-28",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "competitive_advantage",
+   "reason": "Nvidia เปิด Open Agent Safety Platform ป้องกันความเสี่ยง AI agents deployment",
+   "title": "NVIDIA Launches Open Agent Safety Platform to Secure Agents From Testing to Deployment",
+   "source": "NVIDIA Newsroom",
+   "link": "https://nvidianews.nvidia.com/news/open-agent-safety-platform",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "products"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "9d8849723f57",
+   "date": "2026-09-28",
+   "tickers": [
+    "XAUUSD"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "macro",
+   "reason": "ทองคำตกลงวันนี้เจ็ดสัปดาห์ต่ำสุด oil surge ทำ Fed rate hike bets พุ่ง",
+   "title": "Gold hits seven-week low as oil surge fuels rate hike bets",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQenE0aVBHOTNMeURZcVZjN3J0S1RMZ2kzakFJYklBMXhZckhuTGxLVnVaa2pmZjg0MzJHMU1fOGwwY3pfWjBXYmZUcGYtUjMzOFB4UW9ydUdKZDNOU2JrTHotMk9qa1ZGNkZXdGs3b0NKcGhveU11cmZGOC0wbzM1WWVJSzk3bDAxLWs3QUxVSy02QQ?oc=5",
+   "paywall": false,
+   "categories": [
+    "fed",
+    "crypto_gold"
    ],
    "model": "claude-haiku-4-5"
   },
