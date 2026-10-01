@@ -1,0 +1,140 @@
+{
+ "month": "2026-10",
+ "items": [
+  {
+   "id": "a5a97ccc9df1",
+   "date": "2026-10-01",
+   "tickers": [
+    "MU"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "Micron reported earnings ที่สูงกว่าคาดและปรับ guidance ขึ้นอย่างมากแสดงความต้องการ memory chip ต่อเนื่องจนถึง 2028",
+   "title": "Micron's AI-fueled revenue forecast blows past estimates, backlog swells",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSGljZXdlMjRDc2xMM29UN0s3NmM2cXVLUjVmbEdWRHVpRUwyeWltZDRNVUU0VDlYenBNc3lnVVh2SHprdnFSN3RjTWhKR3JYRk4xWHRtSzg5Qi01c3RuaGJnWDl3emxPZDhzckpDVlpRLUxENWlENUpXYWliRmtLc2FfNkFoQ2g2bEZFbWpULVRhQllzX0NDTFJTZw?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "091ab7d6d856",
+   "date": "2026-10-01",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Amazon ลงนามสัญญา licensing chip design มูลค่า $1 billion กับ Synopsys เสริมความสามารถในการออกแบบชิป",
+   "title": "Synopsys, Amazon Web Services sign chip design licensing deal worth more than $1 billion",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQ0d2RzRyLXM3VTZNUzEweGx2TFhSSUwycTNoVG0wSng3ZGxqdVlMVjhMZFdpUU5GblB0V1JKVHpORWxLZkxfVGdYWlRlQlotVTJyMFR0N3JVTHJNSHVEaHlmbmtjX21JTVBQZFkzS3NzSWZmMHpTakg1akQtcTBCYnJUTldjaDEtTlo3UWNrTzZkTmtQOGNYLXpwc0dDYjIyZnhKeUliX0VmQmI3STlWMHctdjYyRHRBYUNRWW9Wa2U1X09EZFBIRkZ4eXFFQXZYeGdRa25R?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "4443cfee2aeb",
+   "date": "2026-10-01",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "unclear",
+   "importance": "low",
+   "impact_area": "regulation",
+   "reason": "Ukraine ขอให้ US แพร่งแพร่ม sanctions ต่อเอนทิตี้ที่สนับสนุน Starlink rival ของรัสเซีย",
+   "title": "Ukraine urges US to sanction entities supporting Russia's Starlink rival",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOM2F1UEFlNnZtbFFEOC12YjNhckZjQ2xLN2RuZGVuNC1GTTJjRUlVUExVOWk4RjJfRU5rYkZDRW1nMkhzUnE2enZyYk9RbGZHSzVGS1RDdTdvWXNoZXFHb3djc1doczdIMWRRTGJHZlR5MDdXYjl2bk5qeTU2VjJYb0gwdUl0ZWtab0NvOF95YzBMQjRDZkNXMDRjak1lQzQyRkJoU3FFemc5TlRibGpzekpvMFdIa1Z4WHh3M3FUT3ZZRHVLaUtMY0NoRQ?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "760f62c16650",
+   "date": "2026-10-01",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "Amazon ลงนาม 20-year power deal มูลค่ามหาศาล เพื่อสนับสนุน Maryland nuclear plant เสริมความสามารถพลังงานยาวมืดนาน",
+   "title": "Constellation, Amazon sign 20-year power deal to support Maryland nuclear plant",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZXZ3aTZxb1U3ZFZ1UmJER0NVelhZd2M2cGk1VGw1dHppMy04Y011a1NaT1JvSkJSUmVUZ0M4WHFzS0p0ODdna0RFZk9HY1MyelM4Smlfb1dGUnc2UkJuUzdLVHlMaS1Sb0VtMFQ2VVFzbnNDSVdTZk1XR0tKNkpaWEJIQXQyYXZYSmdJc3B1SDRfR3dxZGVjc2hyQVJSVjI2NEZHdUNzUnFpVHp4NFdtYVB4SEFaa1Q2cHNNNERqUnA2RTdHa0E?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "55828d5e9f60",
+   "date": "2026-10-01",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "revenue",
+   "reason": "CScale筹资 $145 million สำหรับ AI networking มีการสนับสนุนจาก Nvidia และ Intel",
+   "title": "CScale raises $145 million for AI networking, with backing from Nvidia and Intel",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcmllMmxkQV9WNjNPVmRwcWJXbThtVXpWZVFmWmlOY1dFUmczX3JWMkJQN3dmLS1naDVhN2JreURXZTVGM3o4dC1uVXJta1BSNFVaaThSV3NwYXA3WDIyUS1kNHplY1R0SWYxMnVobUp1WUFsTFdBQ2VPVXM5R280SkI3YS02MS11SzFsYkZBV0diU2ZvNURWQ2JidnNyR0taQWNvaGVRMVhfVW1PWVM5Z011dDJMU0kyejl2emlHZTFWZw?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "24ae09999408",
+   "date": "2026-10-01",
+   "tickers": [
+    "MU"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "Micron exceeded earnings guidance และ data center revenue เพิ่มขึ้น 11 เท่า ซึ่งสะท้อนความต้องการ AI memory ที่แรง",
+   "title": "Micron beats on earnings and issues strong guidance as data center revenue jumps 11-fold",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/30/micron-mu-q4-earnings-report-2026.html",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "4b8aff989624",
+   "date": "2026-10-01",
+   "tickers": [
+    "META"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "management",
+   "reason": "Meta appointed Dhruv Vohra เป็น Managing Director Southeast Asia นำการจัดการธุรกิจในภูมิภาค",
+   "title": "Meta Names Dhruv Vohra to Lead Southeast Asia Business",
+   "source": "Meta Newsroom",
+   "link": "https://about.fb.com/news/2026/09/meta-names-dhruv-vohra-to-lead-southeast-asia-business/",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  }
+ ]
+}

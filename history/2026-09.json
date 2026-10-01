@@ -99,6 +99,127 @@
    "model": "claude-haiku-4-5"
   },
   {
+   "id": "fb40e40bcaeb",
+   "date": "2026-09-30",
+   "tickers": [
+    "TSM"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "TSMC ประเมินการลงทุนใน Texas เพื่อขยายขีดความสามารถการผลิต chip",
+   "title": "TSMC evaluates potential Texas investment, sources say",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbk5sR25ad2FWc2RmSWZua1F3Mi1OR1NtTGx5bi1lQ1I0MHlmSHNyUXRGNUd5WmtOVEFMazFUY0FnM0tHdG8zbUF4QjlsaUNJWHhaZ2RXaWtUZHZhN0QteXRiNFNzb3pWcjA0Ty14cFJPenZhV0xnWktra01NaTNYa2s0Q0pEY0FxS20wV0lleWYzWGstYllNc1c3MFFxLXY1X3F4YjI5LXBhbG1J?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "7ee592fc1c19",
+   "date": "2026-09-30",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "competitive_advantage",
+   "reason": "DeepSeek และ Huawei ร่วมพัฒนา chip programming tools ลดความต้องการต่อ Nvidia software",
+   "title": "DeepSeek partners with Huawei to develop chip programming tools, reducing reliance on Nvidia",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdUg5OUtKZEFWWE1PU3dHYURRTThhbS1fWTM2YzdIekQyTTIwU1daMl8wSW5XNTl4aklKSWlxVHRrazlhRlNjNXZDX0ZHd3RnUldXTUZmbGNuYXJYMUV2SFVvWEZsVWRuajcxazZ5WmZ3eEg5TEMtMVVIMXB1V0ppNHA4VEIyQzN0c0hmZDNjaWFLTE81d3IxLXZQeWVJWjhzWTNrUXBzU0IwYXhaX3NqUXkwNTJmMS1yZlhiaGNPRVUxcGZ0RmNKVFhRRVZrQQ?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "c3e34be040eb",
+   "date": "2026-09-30",
+   "tickers": [
+    "TYOYY",
+    "6981"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "TDK และ Taiyo Yuden ลงนาม basic agreement สำหรับ joint development AI-grade capacitors และ inductors รุ่นใหม่",
+   "title": "TDK and Taiyo Yuden to Jointly Develop Next-Gen MLCCs, Shares Surge as Rivals Circle Murata",
+   "source": "finance.biggo.com",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBySmZVYXFiVTdKVjBWQVppOTZjbFk1WTJNTnJNNUJkb2REam5aRlBCY1FyRUVReTJuakZNREJiY3Q0Vzc4aUNtemw3eHBEakpJTzRyRFk0czl4b0tfMkI2TEgzWllGQ2s3WWZGLUtmUWxVMV9MekE?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "products"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "b3cfd49d3170",
+   "date": "2026-09-30",
+   "tickers": [
+    "TYOYY"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "TDK และ Taiyo Yuden สำรวจพันธมิตรเพื่อพัฒนา AI-grade electronic components รุ่นต่อไป",
+   "title": "TDK and Taiyo Yuden to explore alliance on AI-grade capacitors and inductors",
+   "source": "digitimes.com",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYzYydS1JeW1RTmcxb0FMbW9CT2gySnVtRWhoc2lJa3VZczBIWG1fTG10dmdETTc2bV9DMm9KckxtMHRHSGdVSEJBZExFNnVKNmttWGJkXzVBMG5xZllnMF9vMG94SkdlVnpxTGVSbjBvbDdOSUtaV0NmLW1XRUx3Z1VBYjRlMGpJY3hRaGRFem04dW9vdFRzSGdRc2hnZUxsbWkw?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "f7f9e8c4caae",
+   "date": "2026-09-30",
+   "tickers": [
+    "AMZN",
+    "GOOG",
+    "META"
+   ],
+   "direction": "unclear",
+   "importance": "medium",
+   "impact_area": "regulation",
+   "reason": "Democratic Representative Jamie Raskin ขอข้อมูลจาก Amazon Google Meta และ Oracle เกี่ยวกับ secret AI data-center deals",
+   "title": "Tech Giants Face Questions Over Secret AI Data-Center Deals",
+   "source": "WSJ",
+   "link": "https://www.wsj.com/politics/policy/tech-giants-face-questions-over-secret-ai-data-center-deals-bdc9de98?mod=rss_Technology",
+   "paywall": true,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "ce345f5b9fb9",
+   "date": "2026-09-30",
+   "tickers": [
+    "TSM"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "TSMC ready ที่จะใช้จ่าย $265 billion ในสหรัฐฯ และอาจใช้จ่ายมากกว่านั้นเพื่อขยายความสามารถการผลิต",
+   "title": "TSMC Is Ready to Spend $265 Billion in the U.S. It Could Spend Even More.",
+   "source": "Barron's",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4xZndfZGZsZlJZQXhMNlZrLWFvNV9FMXlmUFJMOVcxWlp4VHhtTlZvQ0lUOGdvTGU0b0dsZ0o5QndBanJTZWpBNUx4OUxUUC1qb1BQTVFJRlJZcm1xOVdXYnk0VktibUdiVUZiUjNaQ05DdFVq?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
    "id": "2c4ab7ddb382",
    "date": "2026-09-29",
    "tickers": [
@@ -527,6 +648,26 @@
    "categories": [
     "fed",
     "crypto_gold"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "081c7cad6f8c",
+   "date": "2026-09-28",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "competitive_advantage",
+   "reason": "Nvidia introduced double-layered AI security system เพื่อป้องกัน AI agents จากการหลุดควบคุม",
+   "title": "Nvidia Debuts System Meant to Stop AI Agents From Going Awry",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-09-28/nvidia-debuts-system-designed-to-stop-ai-agents-from-going-awry",
+   "paywall": true,
+   "categories": [
+    "watchlist",
+    "products"
    ],
    "model": "claude-haiku-4-5"
   },

@@ -1,9 +1,145 @@
 {
- "generated": "2026-09-30T02:59:49Z",
+ "generated": "2026-10-01T03:06:01Z",
  "months": [
-  "2026-09"
+  "2026-09",
+  "2026-10"
  ],
  "items": [
+  {
+   "id": "a5a97ccc9df1",
+   "date": "2026-10-01",
+   "tickers": [
+    "MU"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "Micron reported earnings ที่สูงกว่าคาดและปรับ guidance ขึ้นอย่างมากแสดงความต้องการ memory chip ต่อเนื่องจนถึง 2028",
+   "title": "Micron's AI-fueled revenue forecast blows past estimates, backlog swells",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSGljZXdlMjRDc2xMM29UN0s3NmM2cXVLUjVmbEdWRHVpRUwyeWltZDRNVUU0VDlYenBNc3lnVVh2SHprdnFSN3RjTWhKR3JYRk4xWHRtSzg5Qi01c3RuaGJnWDl3emxPZDhzckpDVlpRLUxENWlENUpXYWliRmtLc2FfNkFoQ2g2bEZFbWpULVRhQllzX0NDTFJTZw?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "091ab7d6d856",
+   "date": "2026-10-01",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Amazon ลงนามสัญญา licensing chip design มูลค่า $1 billion กับ Synopsys เสริมความสามารถในการออกแบบชิป",
+   "title": "Synopsys, Amazon Web Services sign chip design licensing deal worth more than $1 billion",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQ0d2RzRyLXM3VTZNUzEweGx2TFhSSUwycTNoVG0wSng3ZGxqdVlMVjhMZFdpUU5GblB0V1JKVHpORWxLZkxfVGdYWlRlQlotVTJyMFR0N3JVTHJNSHVEaHlmbmtjX21JTVBQZFkzS3NzSWZmMHpTakg1akQtcTBCYnJUTldjaDEtTlo3UWNrTzZkTmtQOGNYLXpwc0dDYjIyZnhKeUliX0VmQmI3STlWMHctdjYyRHRBYUNRWW9Wa2U1X09EZFBIRkZ4eXFFQXZYeGdRa25R?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "4443cfee2aeb",
+   "date": "2026-10-01",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "unclear",
+   "importance": "low",
+   "impact_area": "regulation",
+   "reason": "Ukraine ขอให้ US แพร่งแพร่ม sanctions ต่อเอนทิตี้ที่สนับสนุน Starlink rival ของรัสเซีย",
+   "title": "Ukraine urges US to sanction entities supporting Russia's Starlink rival",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOM2F1UEFlNnZtbFFEOC12YjNhckZjQ2xLN2RuZGVuNC1GTTJjRUlVUExVOWk4RjJfRU5rYkZDRW1nMkhzUnE2enZyYk9RbGZHSzVGS1RDdTdvWXNoZXFHb3djc1doczdIMWRRTGJHZlR5MDdXYjl2bk5qeTU2VjJYb0gwdUl0ZWtab0NvOF95YzBMQjRDZkNXMDRjak1lQzQyRkJoU3FFemc5TlRibGpzekpvMFdIa1Z4WHh3M3FUT3ZZRHVLaUtMY0NoRQ?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "760f62c16650",
+   "date": "2026-10-01",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "Amazon ลงนาม 20-year power deal มูลค่ามหาศาล เพื่อสนับสนุน Maryland nuclear plant เสริมความสามารถพลังงานยาวมืดนาน",
+   "title": "Constellation, Amazon sign 20-year power deal to support Maryland nuclear plant",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZXZ3aTZxb1U3ZFZ1UmJER0NVelhZd2M2cGk1VGw1dHppMy04Y011a1NaT1JvSkJSUmVUZ0M4WHFzS0p0ODdna0RFZk9HY1MyelM4Smlfb1dGUnc2UkJuUzdLVHlMaS1Sb0VtMFQ2VVFzbnNDSVdTZk1XR0tKNkpaWEJIQXQyYXZYSmdJc3B1SDRfR3dxZGVjc2hyQVJSVjI2NEZHdUNzUnFpVHp4NFdtYVB4SEFaa1Q2cHNNNERqUnA2RTdHa0E?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "55828d5e9f60",
+   "date": "2026-10-01",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "revenue",
+   "reason": "CScale筹资 $145 million สำหรับ AI networking มีการสนับสนุนจาก Nvidia และ Intel",
+   "title": "CScale raises $145 million for AI networking, with backing from Nvidia and Intel",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcmllMmxkQV9WNjNPVmRwcWJXbThtVXpWZVFmWmlOY1dFUmczX3JWMkJQN3dmLS1naDVhN2JreURXZTVGM3o4dC1uVXJta1BSNFVaaThSV3NwYXA3WDIyUS1kNHplY1R0SWYxMnVobUp1WUFsTFdBQ2VPVXM5R280SkI3YS02MS11SzFsYkZBV0diU2ZvNURWQ2JidnNyR0taQWNvaGVRMVhfVW1PWVM5Z011dDJMU0kyejl2emlHZTFWZw?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "24ae09999408",
+   "date": "2026-10-01",
+   "tickers": [
+    "MU"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "Micron exceeded earnings guidance และ data center revenue เพิ่มขึ้น 11 เท่า ซึ่งสะท้อนความต้องการ AI memory ที่แรง",
+   "title": "Micron beats on earnings and issues strong guidance as data center revenue jumps 11-fold",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/30/micron-mu-q4-earnings-report-2026.html",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "4b8aff989624",
+   "date": "2026-10-01",
+   "tickers": [
+    "META"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "management",
+   "reason": "Meta appointed Dhruv Vohra เป็น Managing Director Southeast Asia นำการจัดการธุรกิจในภูมิภาค",
+   "title": "Meta Names Dhruv Vohra to Lead Southeast Asia Business",
+   "source": "Meta Newsroom",
+   "link": "https://about.fb.com/news/2026/09/meta-names-dhruv-vohra-to-lead-southeast-asia-business/",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
   {
    "id": "de8b37fa4da7",
    "date": "2026-09-30",
@@ -96,6 +232,127 @@
    "source": "Salesforce News",
    "link": "https://www.salesforce.com/news/stories/salesforce-signs-definitive-agreement-to-acquire-listen-labs/",
    "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "fb40e40bcaeb",
+   "date": "2026-09-30",
+   "tickers": [
+    "TSM"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "TSMC ประเมินการลงทุนใน Texas เพื่อขยายขีดความสามารถการผลิต chip",
+   "title": "TSMC evaluates potential Texas investment, sources say",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbk5sR25ad2FWc2RmSWZua1F3Mi1OR1NtTGx5bi1lQ1I0MHlmSHNyUXRGNUd5WmtOVEFMazFUY0FnM0tHdG8zbUF4QjlsaUNJWHhaZ2RXaWtUZHZhN0QteXRiNFNzb3pWcjA0Ty14cFJPenZhV0xnWktra01NaTNYa2s0Q0pEY0FxS20wV0lleWYzWGstYllNc1c3MFFxLXY1X3F4YjI5LXBhbG1J?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "7ee592fc1c19",
+   "date": "2026-09-30",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "competitive_advantage",
+   "reason": "DeepSeek และ Huawei ร่วมพัฒนา chip programming tools ลดความต้องการต่อ Nvidia software",
+   "title": "DeepSeek partners with Huawei to develop chip programming tools, reducing reliance on Nvidia",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdUg5OUtKZEFWWE1PU3dHYURRTThhbS1fWTM2YzdIekQyTTIwU1daMl8wSW5XNTl4aklKSWlxVHRrazlhRlNjNXZDX0ZHd3RnUldXTUZmbGNuYXJYMUV2SFVvWEZsVWRuajcxazZ5WmZ3eEg5TEMtMVVIMXB1V0ppNHA4VEIyQzN0c0hmZDNjaWFLTE81d3IxLXZQeWVJWjhzWTNrUXBzU0IwYXhaX3NqUXkwNTJmMS1yZlhiaGNPRVUxcGZ0RmNKVFhRRVZrQQ?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "c3e34be040eb",
+   "date": "2026-09-30",
+   "tickers": [
+    "TYOYY",
+    "6981"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "TDK และ Taiyo Yuden ลงนาม basic agreement สำหรับ joint development AI-grade capacitors และ inductors รุ่นใหม่",
+   "title": "TDK and Taiyo Yuden to Jointly Develop Next-Gen MLCCs, Shares Surge as Rivals Circle Murata",
+   "source": "finance.biggo.com",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBySmZVYXFiVTdKVjBWQVppOTZjbFk1WTJNTnJNNUJkb2REam5aRlBCY1FyRUVReTJuakZNREJiY3Q0Vzc4aUNtemw3eHBEakpJTzRyRFk0czl4b0tfMkI2TEgzWllGQ2s3WWZGLUtmUWxVMV9MekE?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "products"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "b3cfd49d3170",
+   "date": "2026-09-30",
+   "tickers": [
+    "TYOYY"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "TDK และ Taiyo Yuden สำรวจพันธมิตรเพื่อพัฒนา AI-grade electronic components รุ่นต่อไป",
+   "title": "TDK and Taiyo Yuden to explore alliance on AI-grade capacitors and inductors",
+   "source": "digitimes.com",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYzYydS1JeW1RTmcxb0FMbW9CT2gySnVtRWhoc2lJa3VZczBIWG1fTG10dmdETTc2bV9DMm9KckxtMHRHSGdVSEJBZExFNnVKNmttWGJkXzVBMG5xZllnMF9vMG94SkdlVnpxTGVSbjBvbDdOSUtaV0NmLW1XRUx3Z1VBYjRlMGpJY3hRaGRFem04dW9vdFRzSGdRc2hnZUxsbWkw?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "f7f9e8c4caae",
+   "date": "2026-09-30",
+   "tickers": [
+    "AMZN",
+    "GOOG",
+    "META"
+   ],
+   "direction": "unclear",
+   "importance": "medium",
+   "impact_area": "regulation",
+   "reason": "Democratic Representative Jamie Raskin ขอข้อมูลจาก Amazon Google Meta และ Oracle เกี่ยวกับ secret AI data-center deals",
+   "title": "Tech Giants Face Questions Over Secret AI Data-Center Deals",
+   "source": "WSJ",
+   "link": "https://www.wsj.com/politics/policy/tech-giants-face-questions-over-secret-ai-data-center-deals-bdc9de98?mod=rss_Technology",
+   "paywall": true,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "ce345f5b9fb9",
+   "date": "2026-09-30",
+   "tickers": [
+    "TSM"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "TSMC ready ที่จะใช้จ่าย $265 billion ในสหรัฐฯ และอาจใช้จ่ายมากกว่านั้นเพื่อขยายความสามารถการผลิต",
+   "title": "TSMC Is Ready to Spend $265 Billion in the U.S. It Could Spend Even More.",
+   "source": "Barron's",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4xZndfZGZsZlJZQXhMNlZrLWFvNV9FMXlmUFJMOVcxWlp4VHhtTlZvQ0lUOGdvTGU0b0dsZ0o5QndBanJTZWpBNUx4OUxUUC1qb1BQTVFJRlJZcm1xOVdXYnk0VktibUdiVUZiUjNaQ05DdFVq?oc=5",
+   "paywall": true,
    "categories": [
     "watchlist"
    ],
@@ -530,6 +787,26 @@
    "categories": [
     "fed",
     "crypto_gold"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "081c7cad6f8c",
+   "date": "2026-09-28",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "competitive_advantage",
+   "reason": "Nvidia introduced double-layered AI security system เพื่อป้องกัน AI agents จากการหลุดควบคุม",
+   "title": "Nvidia Debuts System Meant to Stop AI Agents From Going Awry",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-09-28/nvidia-debuts-system-designed-to-stop-ai-agents-from-going-awry",
+   "paywall": true,
+   "categories": [
+    "watchlist",
+    "products"
    ],
    "model": "claude-haiku-4-5"
   },
