@@ -1,10 +1,245 @@
 {
- "generated": "2026-10-01T03:06:01Z",
+ "generated": "2026-10-02T03:08:17Z",
  "months": [
   "2026-09",
   "2026-10"
  ],
  "items": [
+  {
+   "id": "7ff70d43dfc2",
+   "date": "2026-10-02",
+   "tickers": [
+    "META"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "regulation",
+   "reason": "นิวเม็กซิโกเรียกร้องให้ Meta จ่ายค่าปรับสูงถึง $40 ดันลิออนหลังการศึกษาความเป็นส่วนตัวของข้อมูล",
+   "title": "New Mexico wants Meta to pay up to $40 billion in penalties after data privacy trial",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPejVnckU0ZWxSMDJ5V2d2WXZfa0ZTQ3ctRW9zQWRCMDZYVjhBZ3F0QTJSRVNuN3MzbTZyVzNCREJLclVDZmowNzZCRDV3UmtyblJQd3M4aWxFVXc0UkRwSzExSUh4cTVpdWZuYXItYTM1YWVrbFJzMnR0ZWR3b3A4NVZrbU9maVc3Z3NpNmg3YVpaOEk4OEx1a3VFQXQteEJ6T1NHRmxaX0JKQzZHRmE5emVDOFM3bGFFNVl3?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "1edb7411b49c",
+   "date": "2026-10-02",
+   "tickers": [
+    "AVGO"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "Broadcom ให้สินเชื่อ Anthropic สูงถึง $42 ดันลิออนเพื่อเช่า chips ของบริษัท",
+   "title": "EXCLUSIVE: Broadcom to lend Anthropic up to $42 billion to lease its chips, filing says",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbzU3NnV4NFhNazRXQzVkeTV6VVNBSzUyUE0yM25SWGQtaFM1YkU4Y1htNWMtYXBPcU9pRDZfZUhSQnZyYnpvWWJ5ZGE4T3ZPOEZrN3IzeHBxMURHQlZySUhfQTBrb0FPdUxFSHRjVEd2ZFh2VGVuMjluVDhxYmhDa2hHc3hnV1p6c1hxaDJaa0VCQXQ3NmhackVWSVBJRlpXMzJXQ3Q2UHlhVXFaMDNN?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "b91ef94c1897",
+   "date": "2026-10-02",
+   "tickers": [
+    "GOOG",
+    "SPCX"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "competitive_advantage",
+   "reason": "SpaceX ปล่อยท CPU ของ Google ไป orbit เพื่อทดสอบ space-based data centers",
+   "title": "SpaceX launches Google AI chips into orbit in push toward space-based data centers",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/01/spacex-to-launch-google-ai-chips-to-orbit-with-planet-labs-satellites.html",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "products"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "8817bbc2a348",
+   "date": "2026-10-02",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "revenue",
+   "reason": "SpaceX ปล่อยภารกิจ Transporter-18 rideshare ซึ่งบรรทุก Google ส Project Suncatcher satellite",
+   "title": "SpaceX launches Transporter-18 rideshare mission",
+   "source": "SpaceNews",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1kTEZSLXZfaUNmbUhZbnBPcHdwajdMWHY1VEFUcEYwWUtOV2MyeDlPQWdRWDRuWjZpTTRNQVBrVEJZQUxCMTVUeldjQnBHTmxhdktNek1SRGZnVTMyUFZhbFAzNzVDN24tbkw4ZDVuQktYXzF3Q280a2Fodw?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "products"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "d42c45c99b16",
+   "date": "2026-10-02",
+   "tickers": [
+    "GOOG",
+    "SPCX"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "competitive_advantage",
+   "reason": "Google prototype satellite Project Suncatcher วงโคจรสำเร็จผ่าน SpaceX Transporter-18",
+   "title": "Our Project Suncatcher prototype satellite is in orbit.",
+   "source": "Google Blog",
+   "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype/",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "products"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "a2faade68556",
+   "date": "2026-10-02",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "other",
+   "reason": "NTSB รายงาน Amazon cargo plane ร้อนเกินครึ่งรันเวย์ก่อนเกิด deadly landing ที่ Miami",
+   "title": "Amazon Air cargo plane flew past nearly half of Miami runway before deadly landing, NTSB says",
+   "source": "CNN",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBuaGF0SUM5SmNRVFB4M05hYzFueUsyTjRLNFRtTERJaTVmZHVER0FFLTdQeWU0MEIwMzFORUNHOEF0OGRqem94a1E0VHJaUk9WMnJiVjdZeXY2QS1vdWZTTGQzNF9Ra0tuTW40UHdudWZMQQ?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "7d60a7ccaef3",
+   "date": "2026-10-02",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "regulation",
+   "reason": "ศาลยกฟ้อง Chegg และ Penske Media ที่มุ่งเป้าไปที่ Google AI search antitrust",
+   "title": "Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search",
+   "source": "Ars Technica",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPay1vb05rRUxpc0R6QVJVTEVBeHh5U0NCR2MzWkZXRllRbDFmNnZfR20xWVRidzFWcGFyS1NBX1hTNjVNa2JyREl6RkR0NEk2VXZfVExKMXpLY3dHZ0xOYVh1andtZW40TWl0TGlMYXBUOFQ4LXRkUTNCYUpGWWQ1cF81bGkxS3ZHM2k1UXNRVi1MSl9ZeVBTc2NYV1dVQTh5UUtDQnJkX2ZzcVZiU3o4by13?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "729bf1d02ad5",
+   "date": "2026-10-02",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "regulation",
+   "reason": "อัยการ USA ตั้งข้อหา California man ลักลอบส่ง Nvidia chips มูลค่า $300 ล้านไปจีน",
+   "title": "Man Charged by US With Illegally Shipping Nvidia Chips to China",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-02/man-charged-by-us-with-illegally-shipping-nvidia-chips-to-china",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "d00f4698fc30",
+   "date": "2026-10-02",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "regulation",
+   "reason": "บริษัท state-backed China ขอ funding สำหรับ restricted Nvidia Blackwell chips",
+   "title": "Chinese State-Backed Firm Disclosed Nvidia Blackwell Chips Deal",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-01/chinese-state-backed-firm-disclosed-nvidia-blackwell-chips-deal",
+   "paywall": true,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "ce9ab6f9c04a",
+   "date": "2026-10-02",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "other",
+   "reason": "NTSB บอก Amazon cargo plane ขาด wind data ก่อน Miami crash ที่มี 5 เสียชีวิต",
+   "title": "Amazon Jet Lacked Wind Data Before Miami Crash, NTSB Says",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-01/amazon-plane-lacked-wind-data-prior-to-miami-crash-ntsb-says",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "b3fc9778fdc8",
+   "date": "2026-10-02",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Nvidia และ SoftBank ดำเนินการ final $20 ดันลิออน investment ใน OpenAI round",
+   "title": "Exclusive: Nvidia, SoftBank Make Final $20 Billion Investment in OpenAI’s Last Round",
+   "source": "The Information",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQclYtOFN3UUhLdHE4Vkh4SlJtSDNWUzRudXVxRmlBOTZBQ1hyekM1Q25NcVRlVnJleUFnc3RWY3RKUVoxLUN0QzF4MHBLTjk2MHJXNFZrYzlWUDJxU1pIM1dJQ1d3YU5ybmVMT2lqLUVpX1ZfNlctOEpQX2FZdWFVeUktS21uRkZzeW9RLWZCbnU5TXFndVZud2JhdUc1VUtka0RGOTNRbzZTckJfQzlPUmtpQ0k3ZjdUZ1E?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "452d09f9ca7a",
+   "date": "2026-10-02",
+   "tickers": [
+    "MACRO"
+   ],
+   "direction": "unclear",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "SoftBank เสร็จสิ้น final phase $30 ดันลิออน investment ใน OpenAI",
+   "title": "SoftBank completes final phase of $30 billion investment in OpenAI",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZ0ZDMDNNS0hZT0xNc01aV0RzMkxtS2lLaUZ6cnlZX19DQS1LajRmSHdrSzVoZ3J4bGNfYmFPbXJCTTBRX1dydEpYTlgxWXVRSmJOMHZ3VERsSVV4aGRYZS1oclNzQUVzb0ZxU2dtOWpNMGI2NHpQdkE5MUZ4TlhnbUoxRDQ1UGJmbHd4Y0MzOEZZTWxaQlprekZ3ZnJRNnJZdjJ2NV9OYjRhUEhpT0VUUlc1U0tldw?oc=5",
+   "paywall": false,
+   "categories": [
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
   {
    "id": "a5a97ccc9df1",
    "date": "2026-10-01",
@@ -137,6 +372,198 @@
    "paywall": false,
    "categories": [
     "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "94e7087e7d2a",
+   "date": "2026-10-01",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "regulation",
+   "reason": "Google ชนะการตัดสินยกฟ้อง Chegg และ Penske Media เกี่ยวกับ AI Overviews",
+   "title": "Google wins dismissal of Chegg, Penske Media lawsuits over AI overviews",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOVVNYnJ5VzhLWjQ5dFIxNmkwbUYtWWRCSUtGcDB1bDhVbS1lTkRrUklSWkRDcEd5dVZLT0dGb3hxRC01ZjAtMDI5NElKMzdaQWhsdmJQaEFrdVAtSXhkcUNraUhPTTZnandua2FNVWhkZE1GX1htWFpHOXBBel9aNklJelhLbDFtZ2dGX3J4WVdZN1lTX3hNcVUzYzFPaWVoSzBubVQ2SDhTZ3hOVnBMNkE3NEZZanBoMF9KUQ?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "50be1e0fa6ad",
+   "date": "2026-10-01",
+   "tickers": [
+    "MSFT"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "management",
+   "reason": "Microsoft Office และ Teams chief Rajesh Jha ลาออกจากบริษัท",
+   "title": "Microsoft’s Office and Teams chief is leaving",
+   "source": "The Verge",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLUU1QUdkcFN5TG5oTlBMSW9teU52NW5iZ1JhZ0NvOVRyc0FBdVlrdTFldmxFaExFQlF2Uk5FTU5CQWFuVG1nSG5aZ0tzVF9UUmpmQ3F5bGJYWThXejlaOXhGX2FoLVQ0MXdQZTk1djdMQVI0UHJUYzhzd2MyM0lWOVlSNjdTYVRrUXFPTEVJbUFjamszczVV?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "bb94b4f22df3",
+   "date": "2026-10-01",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "competitive_advantage",
+   "reason": "Amazon ปล่อย Kindle family ใหม่ที่บาง เบา และมี edge-to-edge color display",
+   "title": "Amazon introduces a completely redesigned Kindle family",
+   "source": "Amazon News",
+   "link": "https://www.aboutamazon.com/news/devices/new-kindle-lineup-2026?utm_source=rss",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "products"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "d4258cbaa1d4",
+   "date": "2026-10-01",
+   "tickers": [
+    "6981"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Murata Manufacturing บอร์ดอนุมัติการดูดซึมหน่วยงาน ดำเนินการควบรวม",
+   "title": "Murata Manufacturing Gets Board's Nod to Absorb Unit",
+   "source": "marketscreener.com",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQclkxYTVwTTd0NmoxMFRkaEVrV2tSYnlINGdsWVBIZ1pVUVZiS3RuLVZRVk83RF9pd3FMV253aTRJWGVlMW81U01Pa0RrcFotc0wwVWhvTXpnNlNLMEwxQXl1blE1QXhrbmtPYUF3c2JxV1A4SHh5dDZabkwtSFh5NFJxcnd2Q0h5cE4wM0d6dVdVVlExR2c0WGNsRm5LSkRyXzFwSHIzMG0?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "ce77a0136580",
+   "date": "2026-10-01",
+   "tickers": [
+    "TSM"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "TSMC พิจารณา multibillion-dollar Texas campus expansion เพื่อ AI chip production",
+   "title": "TSMC Mulls Multibillion-Dollar Texas Campus for More AI Chips",
+   "source": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQzhaT2NiMElucXVLX2xRcV92d1o4dm5KOVZRaDBYMmF1T3BkWnRsRFdJTFhkNGdGZ3ZTY2h3VWx3ckNTdXlKcWcxdWE5QmpZcDRkOTliaTlJZUdXTHdpdHVzQ3F3amtCbDFCS2o2VWxoSDFtaU01UXB6MFV3c2k4VWJ4M0tXNm43Zy1jTGdDdjAtM0pTd2gxeEtvYUd6c0xpRlFqSW9DNGYwcElCUDAzMktB?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "8286bf3d96f1",
+   "date": "2026-10-01",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Amazon ลงนาม nuclear power deal กับ Constellation Energy",
+   "title": "Supplier Issue Paused Ford F-150 Production, Hitting Wholesale Deliveries",
+   "source": "WSJ",
+   "link": "https://www.wsj.com/logistics-report/supplier-issue-paused-ford-f-150-production-hitting-wholesale-deliveries-ab027b01?mod=pls_whats_news_us_business_f",
+   "paywall": true,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "3b1b2bffafcf",
+   "date": "2026-10-01",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Constellation stock เพิ่มขึ้นเมื่อ Amazon สนับสนุน nuclear plant expansion",
+   "title": "Constellation Stock Rises as Amazon Backs Nuclear Plant Expansion",
+   "source": "Barron's",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcmtRWEsxQUNjV0dtQldxbk5DeERyQkpWM2Z5YmR3aUZGeFNfTVRPTFF4TjlQZ0haVHhHRTNrd04zdVFSMVNMNHpCTnVxWFM3WkJ5VV9SeFcwQU9DcmNiV2doY0hfS0p6VTFMZ0tPSllXeU9XU0xON0xOdFdmSEx6MXF6al9hRFhO?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "7274444689b7",
+   "date": "2026-10-01",
+   "tickers": [
+    "MU"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "Micron ให้ guidance สูงกว่า estimates จาก AI memory demand ที่มหาศาล",
+   "title": "Micron Forecast Tops Estimates on Booming AI Memory Demand",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-09-30/micron-forecast-beats-on-booming-ai-memory-demand-video",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "f82d336d97e8",
+   "date": "2026-10-01",
+   "tickers": [
+    "MU"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "margin",
+   "reason": "Micron guidance optimistic หรือ AI boom แต่ rising compensation ทำให้ margin ลดลง",
+   "title": "Micron Gives Bullish Forecast, Even as Pay Raises Crimp Margins",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-09-30/micron-forecast-tops-estimates-after-demand-outstrips-supply",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "c4a90fcf8799",
+   "date": "2026-10-01",
+   "tickers": [
+    "BTCUSD"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Citi เพิ่ม bitcoin และ ether forecasts บน strong crypto activity",
+   "title": "Citi raises bitcoin, ether forecasts on strong crypto activity",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVHIxQ2w0Yk5PREktR1RYTlhhbF9DY2tMNTZnVmk0V2dNUTQ3NlRnNHdFVGRZcUtsa2drNGdIZTlhcXFtaUJpaDIwQTJLeEFwaW1DUWhGTWxhMXdIblplX2NqcVIwdWlRdkphUmRhRzZvY3EtZ3pyRE1tM2MwV3dzSENXaHBzY2syUmtHWmF5Q1pwUHF1am05eFJMOF9zaXp4S1J6aldBVmN5OUNKMTUzTA?oc=5",
+   "paywall": false,
+   "categories": [
+    "crypto_gold"
    ],
    "model": "claude-haiku-4-5"
   },
@@ -353,6 +780,25 @@
    "source": "Barron's",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4xZndfZGZsZlJZQXhMNlZrLWFvNV9FMXlmUFJMOVcxWlp4VHhtTlZvQ0lUOGdvTGU0b0dsZ0o5QndBanJTZWpBNUx4OUxUUC1qb1BQTVFJRlJZcm1xOVdXYnk0VktibUdiVUZiUjNaQ05DdFVq?oc=5",
    "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "d1c8652a4310",
+   "date": "2026-09-30",
+   "tickers": [
+    "TYOYY"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Taiyo Yuden Sarawak expansion phase 4 ด้วยการ reinvestment RM600 ล้าน",
+   "title": "Taiyo Yuden’s Sarawak expansion enters fourth phase with RM600 mln reinvestment",
+   "source": "DayakDaily",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNElrWENXYk1EeWdlUlVOXzJmQ083YnNtWTEwWDBkanVxT3cwTmxNbzF5Rzg4a2U2ZjI2Z1FKdnlQZ3RnVGRBYkZEeF83QzFYdmdWazZqY3MzWU1LN2lod3h0QTdrUXZyejZnZml2TERJVl9pX1NBcEU1QzRaWGREaG5SZlZ1UGdpZWJSVV9DYmFjclVINHdTdjJfTVhIeHVkT2s1bg?oc=5",
+   "paywall": false,
    "categories": [
     "watchlist"
    ],

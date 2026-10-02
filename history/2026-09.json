@@ -220,6 +220,25 @@
    "model": "claude-haiku-4-5"
   },
   {
+   "id": "d1c8652a4310",
+   "date": "2026-09-30",
+   "tickers": [
+    "TYOYY"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Taiyo Yuden Sarawak expansion phase 4 ด้วยการ reinvestment RM600 ล้าน",
+   "title": "Taiyo Yuden’s Sarawak expansion enters fourth phase with RM600 mln reinvestment",
+   "source": "DayakDaily",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNElrWENXYk1EeWdlUlVOXzJmQ083YnNtWTEwWDBkanVxT3cwTmxNbzF5Rzg4a2U2ZjI2Z1FKdnlQZ3RnVGRBYkZEeF83QzFYdmdWazZqY3MzWU1LN2lod3h0QTdrUXZyejZnZml2TERJVl9pX1NBcEU1QzRaWGREaG5SZlZ1UGdpZWJSVV9DYmFjclVINHdTdjJfTVhIeHVkT2s1bg?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
    "id": "2c4ab7ddb382",
    "date": "2026-09-29",
    "tickers": [
