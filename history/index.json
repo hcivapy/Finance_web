@@ -1,10 +1,48 @@
 {
- "generated": "2026-10-02T03:08:17Z",
+ "generated": "2026-10-03T02:54:53Z",
  "months": [
   "2026-09",
   "2026-10"
  ],
  "items": [
+  {
+   "id": "3f4c6f059e73",
+   "date": "2026-10-03",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "regulation",
+   "reason": "CEO ของบริษัทเทคโนโลยีถูกจับข้อหาการลักลอบส่งชิป Nvidia มูลค่า $300 million ไปจีน",
+   "title": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
+   "source": "Ars Technica",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVlhTZzZkSkdEUlZRM1lhSlFCbTJvU1BPOVRmX0RGeGlkWGU2RTBCZzdOQWJsTDlFY1g4Q1pRRFA2aVlaSDItaVpUaC1zNURkUFh1TlBzS3VqQU91Q0NqV254NXphOG1OTEpWUTVwVzA1SXVWbzVYRHVfWlBSTXV2MzlxV0dFLTZzZ2VEQ1QtMDFBa2ozWmw0ZEphUWl6bnB3OXNLU3JWNFU3MzJwcV96VFJhTWVfQWNr?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "c182af3c4414",
+   "date": "2026-10-03",
+   "tickers": [
+    "MACRO"
+   ],
+   "direction": "unclear",
+   "importance": "high",
+   "impact_area": "macro",
+   "reason": "Fed อาจข้ามการตัดอัตราดอกเบี้ยในตุลาคม แต่อาจปรับขึ้นในธันวาคม",
+   "title": "Fed may skip October but pull rate hike trigger in December",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOVRfM1dqWHpoenJab09IVXh3am1peVNMWFFPOFhOSjl1SkI5MklDUDl6VFpkSkZxUE8tU0Q4S3R3VXNxd0t5Mlc3NGxXNTBid1N4U0czdVA2b09hVmRyT0VtaEU3M243T09TQjVTSzVMYURvSkg5WjBSc2tjVnpzM29ZMHdTMC1hUGlRUzBJRXBQdWk3bG9heTJOQjQ3QQ?oc=5",
+   "paywall": false,
+   "categories": [
+    "fed"
+   ],
+   "model": "claude-haiku-4-5"
+  },
   {
    "id": "7ff70d43dfc2",
    "date": "2026-10-02",
@@ -237,6 +275,124 @@
    "paywall": false,
    "categories": [
     "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "a9f6e2f7b533",
+   "date": "2026-10-02",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "negative",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Amazon ประกาศลงทุน $1 billion ในชุมชนศูนย์ข้อมูล เพื่อลดแรงต้านจาก community",
+   "title": "Amazon to invest $1 billion over five years in US data center communities",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQenJEMWNZMUk5S2w0dUZiNzdpeTVhdXhCNWpjeWFWR1ZQUDJkTTlBczF5SWw2dk9TQ05kMVF3b3V2czEzYnJOa0JhX0V3WHRMbE8xVlUzR0lJa3RjS3JrWjlHY2o5cktzdWJQa05GZkdlZ3dTZVpsRHlBRDh6ZUczcmhza1JZUXVncDhNaHVtUnc3aEVOWnF6QmItMVJJREQ4MWpfOERMcW1WVkZsZW5GZEJTYWhyQmhSNUx6bDNaa3lUNlhHdWc?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "2a6f33b2f2f3",
+   "date": "2026-10-02",
+   "tickers": [
+    "AMZN",
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "other",
+   "reason": "Amazon พยายามขายชิป Nvidia มูลค่า $8 billion ให้นักลงทุน หลังความต้องการลดลง",
+   "title": "Amazon seeks to offload $8 billion of Nvidia chips to investors, FT reports",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRWF3eFJHazFWalZDX1QwWHBoSWd5TEwxSW1ZRzNveVhxV1NwRGZVdlpCSHJLUVlVcm1TR1hpb09BZmhGeEFkTnkzQXJLcEh2S2xNaDVobGN3TV9Tc1p2N0UxUUhDdEU4djVpUjlLOXhGd0VReVdxaVBweUJWbk5ab0g5T0hTdTlzbWZiTkFqN3BtVW05WVNxam5WTzdTNkhVYlZlajRvV2lOU3JiekRsRzkxSGwyWjRqNldiaGxZWTlmQnM?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "643bf5788f49",
+   "date": "2026-10-02",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "SpaceX สำเร็จการปล่อยจรวด 3 ลำติดต่อกัน และ Rocket Lab ได้สัญญาใหญ่",
+   "title": "Rocket Report: SpaceX completes launch triple-header; Rocket Lab nets big contract",
+   "source": "Ars Technica",
+   "link": "https://arstechnica.com/space/2026/10/rocket-report-spacex-completes-launch-triple-header-rocket-lab-nets-big-contract/",
+   "paywall": false,
+   "categories": [
+    "products",
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "7044f4ff57ce",
+   "date": "2026-10-02",
+   "tickers": [
+    "AMZN",
+    "MSFT"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "regulation",
+   "reason": "Microsoft และ Amazon cloud services จะเผชิญการตรวจสอบเพิ่มเติมภายใต้ EU tech rules",
+   "title": "Microsoft, Amazon Cloud Arms Set to Face Deeper Scrutiny Under EU’s Tech Rules",
+   "source": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaEIyVFRNcF92TkNYVlBXYzJnMGhyS0dMcVg4TVRYSWZfUEktblRVMnJkVlZiYjcxMVZjY1VEcHVtV084RFFSbXJRaE41U1ZpODQ3c1dGR0ZHSWpZRUxFdDljSTh3VFpDUWxFRFJHX1RMUm1xMHhKZmpwVXJVLUowVDRFQ3pab0c5SzZaQ2tHTkJpdnNKWUxrMVp5dW96cFFuMHRqZE40bnY0dmQ5T29XZk1aRWFsektrZ0hEc0VVT1VpaEFmTWxF?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "19e46c00558f",
+   "date": "2026-10-02",
+   "tickers": [
+    "MACRO"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "macro",
+   "reason": "US จ้างงานเพิ่มเพียง 29,000 ตำแหน่งในกันยายน และอัตราว่างงานสูงขึ้นเป็น 4.2%",
+   "title": "Labor market faltered in September as jobs increased by just 29,000, unemployment rate rose to 4.2%",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/02/jobs-report-september-2026.html",
+   "paywall": false,
+   "categories": [
+    "fed"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "730f87e96bbe",
+   "date": "2026-10-02",
+   "tickers": [
+    "MACRO"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "macro",
+   "reason": "traders มองว่า Fed มีโอกาสน้อยที่จะเพิ่มอัตราดอกเบี้ยในตุลาคม หลังรายงาน jobs ที่อ่อนแอ",
+   "title": "Traders now see little chance of a Fed rate hike in October after weak jobs report",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/02/fed-rate-hike-odds-decline-after-september-jobs-report.html",
+   "paywall": false,
+   "categories": [
+    "fed"
    ],
    "model": "claude-haiku-4-5"
   },
@@ -564,6 +720,25 @@
    "paywall": false,
    "categories": [
     "crypto_gold"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "ab83c2433028",
+   "date": "2026-10-01",
+   "tickers": [
+    "MSFT"
+   ],
+   "direction": "negative",
+   "importance": "low",
+   "impact_area": "regulation",
+   "reason": "Microsoft-linked datacenter ที่นิวเจอร์ซีย์ถูกปรับ $1 million สำหรับปล่อยมลพิษโดยไม่มีใบอนุญาต",
+   "title": "US datacenter discharged large amounts of pollution for almost a year with no permits",
+   "source": "The Guardian",
+   "link": "https://www.theguardian.com/environment/2026/oct/01/us-datacenter-new-jersey-pollution",
+   "paywall": false,
+   "categories": [
+    "watchlist"
    ],
    "model": "claude-haiku-4-5"
   },
