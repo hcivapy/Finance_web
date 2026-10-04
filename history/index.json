@@ -1,10 +1,29 @@
 {
- "generated": "2026-10-03T02:54:53Z",
+ "generated": "2026-10-04T03:24:17Z",
  "months": [
   "2026-09",
   "2026-10"
  ],
  "items": [
+  {
+   "id": "e587fe9f6a14",
+   "date": "2026-10-04",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "competitive_advantage",
+   "reason": "Amazon ยุติการใช้ NDA เพื่อเพิ่มความโปร่งใสในข้อมูล data center",
+   "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+   "source": "TechCrunch",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOEJiV3hZcUM4cXlyME9aZXY3TVY5WG5iNFNPdXFuVnlKTmNPSFlCb0JCaDFmVHZybHVXaTI2MGZqSGxmcmRKMVZGUGVYOWpHby1zRmlwNjE0ejU5Q0szWkh1OWFVdWl2aV9ieXZBWVhSaTI2WkwtLUxlQ2pyQmtFVkZfTzNrVHJlblBwdWZNTjU0ZURGTFJHaFdjUGgwRTRFamZHWg?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
   {
    "id": "3f4c6f059e73",
    "date": "2026-10-03",
@@ -37,6 +56,63 @@
    "title": "Fed may skip October but pull rate hike trigger in December",
    "source": "Reuters",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOVRfM1dqWHpoenJab09IVXh3am1peVNMWFFPOFhOSjl1SkI5MklDUDl6VFpkSkZxUE8tU0Q4S3R3VXNxd0t5Mlc3NGxXNTBid1N4U0czdVA2b09hVmRyT0VtaEU3M243T09TQjVTSzVMYURvSkg5WjBSc2tjVnpzM29ZMHdTMC1hUGlRUzBJRXBQdWk3bG9heTJOQjQ3QQ?oc=5",
+   "paywall": false,
+   "categories": [
+    "fed"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "1c0df414cd0e",
+   "date": "2026-10-03",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "negative",
+   "importance": "low",
+   "impact_area": "regulation",
+   "reason": "Ukraine ขอให้ US หนุน Starlink ของ SpaceX โดยมีเป้า block บริษัท rival Rassvet",
+   "title": "Zelenskyy asked Trump to block Russia and China’s Starlink rival",
+   "source": "Financial Times",
+   "link": "https://www.ft.com/content/5501a0c6-7d1e-4c1f-acc7-3b928e1f664a?syn-25a6b1a6=1",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "3224280eaa7f",
+   "date": "2026-10-03",
+   "tickers": [
+    "META"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "competitive_advantage",
+   "reason": "Meta สร้าง undersea cable network ขนาดใหญ่เพื่อปรับปรุง infrastructure global",
+   "title": "Meta is building one of the world's biggest undersea cable networks",
+   "source": "Fortune",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPR2JtUmxFS2Z4Zm5uaHVTU1NYc1FXRlVaSUNwb1dGdFVUZEpZTWpZTWFZUUZ0MmRkOENjODJoMnVmcEZuMXl3X1k4c1ZEM1haZ3FOUTdPYl9MLTlSMnNhSVlCZ2dpQWEyZFhWU1FYQUdJdW1zTEFtWFU1aDhmQXMweGZReFU3ODBXWjNnbmZtWVRCaExwT2ZscQ?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "df85bfbdf114",
+   "date": "2026-10-03",
+   "tickers": [
+    "MACRO"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "macro",
+   "reason": "September US jobs report แสดง hiring stalls และ unemployment พุ่งขึ้น 4.2%",
+   "title": "September jobs report: hiring stalls, unemployment rises to 4.2%",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBDaXY5WWQybFl5VEJTMUNLYjByTzNQQm5fUGxpVTJuMkp5b2N5bkxLS20xS3JRU3A1aTdKRFdQNEMtMjd0d3pfelNuWDRoUDZQRDA1dDk3SGZlSHZ0dHRneTRzUk5pcXdEaXRfem1ka2VuOEhVYjRGMGpjU3p0UQ?oc=5",
    "paywall": false,
    "categories": [
     "fed"
@@ -393,6 +469,64 @@
    "paywall": false,
    "categories": [
     "fed"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "7e7b44cded31",
+   "date": "2026-10-02",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "competitive_advantage",
+   "reason": "Amazon ต่อสู้ moratorium data center เพื่อรักษา growth strategy และ market opportunity",
+   "title": "Amazon comes out swinging against data center moratoriums, warning the 'consequences would last generations'",
+   "source": "Business Insider",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQnFOTXlqSmdxZ2lsZFdxUG90eFJCMDZNRi1WaXBCMU8zQ2U0eUsxWDRpQUdNSzhibC1sNV8yRHY1ejdqX2wtWUwyOW9NM0lvSVo1TDJzUXFVWWZnN3JHNlJzVi1uUC1xQTA3d2JPQVdmLUpybGoyZFhKekRCNHZzdXlrZXc4SnZYQ01ZUlZidmNIZnNFU1RGOU1uMU0?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "003e3267f58b",
+   "date": "2026-10-02",
+   "tickers": [
+    "AVGO"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "Blackstone และ banks จัด $60B financing สำหรับ Broadcom AI chip deal",
+   "title": "Watch Blackstone, Banks Gather $60 Billon for Broadcom AI Chip Deal",
+   "source": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNay1wLXZLUUVnSnd5eTBYUlY5SXlYNWdSaV9yNHVBMFRtWWwyRmw1MGlIYkR1a1MyS2wwaW56LUJpLWZGNUp1ZS1Eb2FTQXV4T3dSZnozblIwbTBOVzNnaFFVMU0wdFlfYXhLV09SMk9CeF9VSzBwTFFCLU5Gdm82TmdjYkhPWG5neU55MjY4QXd5WGg1ZHlDR1RGZmdGZ3o0b0JqTGtHSUJUVEpO?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "b11f713a4640",
+   "date": "2026-10-02",
+   "tickers": [
+    "BTCUSD"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Spot bitcoin ETF ได้รับ $2.65B inflows ในเดือนกันยายน สะท้อนความต้องการสถาบัน",
+   "title": "Spot bitcoin ETFs log $2.7 billion in September inflows as institutional demand holds",
+   "source": "The Block",
+   "link": "https://www.theblock.co/news/markets/2026-10-02-spot-bitcoin-etfs-september-inflows-417547",
+   "paywall": false,
+   "categories": [
+    "crypto_gold"
    ],
    "model": "claude-haiku-4-5"
   },
