@@ -1,10 +1,69 @@
 {
- "generated": "2026-10-04T03:24:17Z",
+ "generated": "2026-10-05T03:01:37Z",
  "months": [
   "2026-09",
   "2026-10"
  ],
  "items": [
+  {
+   "id": "35013407d6f7",
+   "date": "2026-10-05",
+   "tickers": [
+    "6981"
+   ],
+   "direction": "unclear",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Murata Manufacturing ดำเนินการ absorption ของ subsidiary เพื่อปรับปรุง efficiency",
+   "title": "Murata stock absorbs a subsidiary as efficiency plan advances",
+   "source": "AD HOC NEWS",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOX1B1TFdUWm9nb0I0SEdrU1NIbWxSZzhqNC12ZElHbmNlSUJqRTVXaUNVeWdRM0NWdkdUMDctaHJ4LXlxR2ExS3d1SzVUZkFpZmJacHI4dlR0cjExMUNVWDZpZVVPc2tCaUR6V1hhTndzYU9BT2h5VjVFV2hYQjJhSkJvZnowQ1RFc0NoMmJSNFlQV2JmbW1Za0FRaS0xVnY3X1d6OGRJZElwU0d5WWQ5bTVqaWJ0NzgzdjJVUkZjUl9FUQ?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "4ec8ad5b0397",
+   "date": "2026-10-05",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Firmus Grid IPO จะจัดสรร 50% ให้ existing investors รวม Nvidia และ Blackstone",
+   "title": "Firmus Said to Plan Allocating Half of IPO to Existing Investors",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-05/firmus-said-to-plan-allocating-half-of-ipo-to-existing-investors",
+   "paywall": true,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "1cfb661cb864",
+   "date": "2026-10-05",
+   "tickers": [
+    "XAUUSD"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "macro",
+   "reason": "Gold ขึ้นเพราะ Fed rate hike expectations ในเดือน October ลดลง",
+   "title": "Gold gains as October Fed rate hike prospects fade",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV0dGUTlhay1BaS1nWk41NWd0UFdwbV9QSzNuNGZnTjVYRlpYNXo5NFF6TkZDWV9QNGpDMEhzd3QwUG41clBBTVVGalVyQy1nZkw5SHNRbGktSTJrbjJoMmZNR3NWNTY2WVpIeXA4YUVBOUlkb2dyMExSTXlpaDBvLU93bXpIZWtpbzNTMFAxMmJ5ODhMMmJIWUhVbw?oc=5",
+   "paywall": false,
+   "categories": [
+    "fed",
+    "crypto_gold"
+   ],
+   "model": "claude-haiku-4-5"
+  },
   {
    "id": "e587fe9f6a14",
    "date": "2026-10-04",
@@ -21,6 +80,63 @@
    "paywall": false,
    "categories": [
     "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "1047081fcfbd",
+   "date": "2026-10-04",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "regulation",
+   "reason": "Google ต้องเผชิญ UK lawsuit มูลค่า £1.2 billion เกี่ยวกับค่า app download ที่สูงเกินไป",
+   "title": "Google set to defend £1.2bn UK lawsuit over ‘excessive’ app download charges",
+   "source": "Financial Times",
+   "link": "https://www.ft.com/content/25272ffd-fd7e-4a69-97b3-cfcb3f98e646?syn-25a6b1a6=1",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "94cfcd72e593",
+   "date": "2026-10-04",
+   "tickers": [
+    "BTCUSD"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Spot Bitcoin ETFs รับเงินไหลเข้า $134.4 million ในเดือน October หลัง weak jobs report",
+   "title": "'Uptober' Starts Green as Bitcoin ETFs Draw $134 Million",
+   "source": "Decrypt",
+   "link": "https://decrypt.co/380007/uptober-starts-green-bitcoin-etfs-draw-134-million",
+   "paywall": false,
+   "categories": [
+    "crypto_gold"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "8b57f3055ca7",
+   "date": "2026-10-04",
+   "tickers": [
+    "BTCUSD"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "regulation",
+   "reason": "El Salvador รับ $138 million จาก IMF พร้อมเงื่อนไข crypto regulation และ governance",
+   "title": "El Salvador receives $138 million from IMF after Bitcoin waivers granted",
+   "source": "Cointelegraph",
+   "link": "https://cointelegraph.com/news/el-salvador-receives-138-million-from-imf-after-bitcoin-waivers-granted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "paywall": false,
+   "categories": [
+    "crypto_gold"
    ],
    "model": "claude-haiku-4-5"
   },
@@ -116,6 +232,25 @@
    "paywall": false,
    "categories": [
     "fed"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "9d970f4c2453",
+   "date": "2026-10-03",
+   "tickers": [
+    "CRM"
+   ],
+   "direction": "unclear",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Salesforce Q4 2026 earnings call transcript เปิดเผยผลประกอบการและ guidance",
+   "title": "Salesforce (CRM) Q4 2026 Earnings Call Transcript",
+   "source": "Fortune",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRdVRiVnNPeTRFeW4zOTNyTHo1OXVnZUhKNWZmWWpaWERpNTg4MEk0RE4wVmJTYlJhaGljUHBPWGs5VDh3UWwwVUJBTzlGUllEbEgxOW9yMGFQa29wZXBWQ2tabGpBSktvcUJjRQ?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
    ],
    "model": "claude-haiku-4-5"
   },
