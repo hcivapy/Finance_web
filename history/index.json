@@ -1,10 +1,185 @@
 {
- "generated": "2026-10-06T03:50:50Z",
+ "generated": "2026-10-07T03:18:43Z",
  "months": [
   "2026-09",
   "2026-10"
  ],
  "items": [
+  {
+   "id": "b8cec2938937",
+   "date": "2026-10-07",
+   "tickers": [
+    "SPCX",
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "SpaceX กำลังระดมทุน $40 พันล้านเพื่อซื้อ Nvidia chips เพิ่มความสามารถในการเสิร์ฟ satellite internet",
+   "title": "SpaceX seeks $40 billion financing led by Apollo to buy Nvidia chips, FT reports",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZjBzanVwMDltRU1WZFNTWGF3VUw0ZEdQZmlmQWRsbG5lb21pU3VxTlUtM0tZbzNWaFlXY1JhbHcxV0FXX3RpTUVUQlVGenhSYnZ1VlprMzlqdEZwa1lPbEczRnJWRWZfU19nTDdtMzM2WFlMWm0zeWliejlSRUtrdXJsRmM4VFYtbmJXLVprajJ1U2cxVUZPdGhMaUgzRUVJV2R0Q3BiTGJiOHg0ZUYw?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "63bef7548339",
+   "date": "2026-10-07",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Black Hills ลงทุน $1.8 พันล้านเพื่อจ่ายไฟ Google data center แสดงความมั่นใจในการเติบโต",
+   "title": "Black Hills plans $1.8 billion investment to power Google's data center",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQkl1VUxHdjl1Q2g0c0xiXy12bG8tYWVPMC1mV1RpQ1RnTzcteWgwVGRBcmdpMG5iSE4yYllhZkFWVWdYVWdUM0FLVFVtV0phVEZlbHVWVE9KQ1pRV3FtbW94Tmw4bHRKalV4TDNfaG8zcUF2WTc1WlI1TWUxSU5DVnFYYVBkaml0b1doaHVuOFVUTXU0M0w5UEV1eU9BNTNSSzVaSmk0TUhpR29HSnZ3bnVIYXhoVWFv?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "217f2fd6a605",
+   "date": "2026-10-07",
+   "tickers": [
+    "META"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "regulation",
+   "reason": "UK watchdog เริ่มสอบสวน Meta ภายใต้ Online Safety Act อาจส่งผลต่อการดำเนินงาน",
+   "title": "UK watchdog opens first Online Safety Act probe into Meta",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPclF2Mmc3UnhHNHpseEtyQnViYlFIc0ZRU2RYcVd4Z19zVFdwN1Y2UUhDbUZhZHBfTkN6NkZpYUtmMGZRZDV5aXB1X1V6b05QNThhbGI1d3ZrUmQ1SlJIUUtkeVhXZkdOOXdnUUlfclJzTkN2MERfTUNrT25TbUxWcVBHLWdORXZfYlBLUDB6QmNqbU5ySUJFY2tYeXhoNlpmVEMzMm92U1I2RzA?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "110895ec81a9",
+   "date": "2026-10-07",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Nvidia-backed Lambda ระดมทุน $4 พันล้านสะท้อนความต้องการ AI chips ที่แข็งแรง",
+   "title": "Nvidia-backed Lambda targets $4 billion raise ahead of planned IPO, WSJ reports",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQR3dfcjJxclVWTV9faDZyaUpIZ3F3cl95X2dFdzRaN0IxTWFuX0VwdWFBeEFtdjdqNVlKRHVCNVUzZF9paU9Cb0F3Y1NLR1l1UnNMVXNudDVYTEg4SVlVSHl2b1QwWjR6WV92ZV92MEUzRnozaEx4cHF6ZURxdUY2VDNlWWZSaGIxX3hsWEsxalhvZjhpSk85dWEwNWN6U0ZKeUNPdklHYnZpQjlORGpKemZOY0NfWkZFWHdvUkd3?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "1eb846e4df84",
+   "date": "2026-10-07",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "regulation",
+   "reason": "Finland ลั่นหยุดค่าย Google data center เนื่องสิ่งแวดล้อมอาจหน่วงเวลาโครงการ",
+   "title": "Google told to halt work on datacentres in Finland over environmental concerns",
+   "source": "The Guardian",
+   "link": "https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "a4db65533232",
+   "date": "2026-10-07",
+   "tickers": [
+    "TSM"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "TSMC ยกระดับการใช้จ่าย AI ในสหรัฐฯ และเอเชียตะวันออกเฉียงใต้เพื่อขยายปีเทพ",
+   "title": "TSMC and other Taiwan players boost AI spending in US, Southeast Asia",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLXR5ejI4QTdlcWtiZ3FRSG5MM0JLd3ktSmV2alpiSGdtRl9XWV9TdFdVNlMzUHQtTjJkdUlUNkpVR2c5cHkwTEpDajFqOGN5a09OeDNfM3FUeWwyS08xcnBpbG8xWndEZWhCZzZRTnNTSkhISllXSWtFMXVZcUEtYVNPUVRHeGlVOEJ3QkgtY3EzU1VnU3F6ZkNsSzVvZU5XVmgwdFBITTQ4UzlsbEcyQzdGMVlEaFJ6?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "69f8cd29a938",
+   "date": "2026-10-07",
+   "tickers": [
+    "XAUUSD"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "macro",
+   "reason": "ฮ่องกงกลายเป็นประตูทองคำ Russia-China บ่งชี้การไหลเวียนใหม่",
+   "title": "Hong Kong becomes Russia’s gold gateway to China as bullion flows shatter records",
+   "source": "Kitco",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPY0dwSnR1WGFTUzFtRVpxdk0wTU14d0wxZkFxakg4S3BSU3JHZm1ibDFvLVVXdTM4ZW4ybThSdm5tb1pHdy1tbnloQWVNMHR4c19uY0JDQ296aE9KbkJjWDdnWlk3Z1BUSXVPRW9hS1VpOUV6UXhEbVphSGhTTDRud2trWGRSakVfV2oxSGkydS1OdFRNLWRuQ05kczI5THRsakhVOEZXTEtlV0ZNYXVfTGh0VE5QRXRsTTZjaQ?oc=5",
+   "paywall": false,
+   "categories": [
+    "crypto_gold"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "9e78b8a50dbd",
+   "date": "2026-10-07",
+   "tickers": [
+    "XAUUSD"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "macro",
+   "reason": "ธนาคารกลางเพิ่มการซื้อทองคำอย่างเป็นทางการ 2026 สะท้อนความเชื่อมั่นด้านสภาพคล่อง",
+   "title": "LBMA 2026: Central banks find new reasons to increase official gold reserves",
+   "source": "Kitco",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOR2M0cnBuM1BxcWR1RHZuQmxIU3BpSld1NDVKdlE4Rjl3UXZLenRwTWN3aVltcWdaUlg5UEpwWWlwN1QxOWpGbUU2ZW1mTl9PTnlOSkF4Tm5UaDctaHBJTmlHRnI0a29MTi1XanVrZmZoU2JDMGU1ZjlnOXBFRDl5Mm9GSXdHZngtbS04ZU9FbkFIWE42UzlremFKYndFTHN3MS1ueFIxWXdfaTkyY0NLZE94SE1HX0JlckE?oc=5",
+   "paywall": false,
+   "categories": [
+    "crypto_gold"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "e0d9d3539ac3",
+   "date": "2026-10-07",
+   "tickers": [
+    "XAUUSD"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "macro",
+   "reason": "ธนาคารกลางซื้อ 39 ตัน gold สุทธิในสิงหาคมนำโดย China-Uzbekistan-Poland แสดง demand",
+   "title": "Central banks add 39 net tonnes of gold in August with China, Uzbekistan and Poland leading purchases – World Gold Council",
+   "source": "Kitco",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZEJFR3YwV0p1YTlSd0VUUTRLNzBGUlBQeXNOTVBmbWNzN1ZhaXZjU2RZSmN0aUZQelNTUERyVWlQMkYxVDFNcjRXT0lvM1FmQUk2Rld6TDVQWktGdEZpN0JTQkVzekJGOTU0MFdqTUF5SUVZOGVxMDJibTY3YjJtNV95QlplaHlnTTA5cThSYkhrQU5SWWlTNXhyUkJ3cF9aM3NCS0UxRU4xQ096TVNxQUwxdTFYM3Jh?oc=5",
+   "paywall": false,
+   "categories": [
+    "crypto_gold"
+   ],
+   "model": "claude-haiku-4-5"
+  },
   {
    "id": "4e786abe9df4",
    "date": "2026-10-06",
@@ -160,6 +335,123 @@
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNS3Z3SEV1TFdScWdiaHBPbEVUTjFEYWV0WjJSQjRPRkl2LTZsNHJoNzU1RGEyM0V2bE5LYk9KUDUtZ0tNMGFKYWw3NWFoUEdkQU5MaklVVy1lUmNMRlJQOUk3VjFjNmJZWGk1bzZtRkpLVWxmTUMzZ0NadVJsZUs3TWNlY0JrdGNubHpXOWNTRXEyVXM0YkUxWGd2UDQ2dkJi?oc=5",
    "paywall": false,
    "categories": [
+    "crypto_gold"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "7a53246b5268",
+   "date": "2026-10-06",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Emmy Awards ย้ายไป Amazon Prime Video ตั้งแต่ 2027 เพิ่มเนื้อหา premium ให้ดูติดตาม",
+   "title": "Emmy Awards to leave broadcast TV for Amazon's Prime Video in 2027",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONUh5M1dMVmlkdXhUVm1UZ2dsZVlQRTFrNTVLaW1oWFg2bFg5QnM1U3duRjZpWmt2OUFmdjZjeFc4WVpPZnV6T0puaVlZNDExaDRCWkZhcTY0cnJqbFpfZTh0M3MxRlVDX2hpM2RhaW9MMkRaNmpGbkpSSlJqT2xvWUpNeWJQMTRVNXhqUjAxemxJV2VJd2FiZTJCU1dFYXY2cWQ3VU52QTNLZmxYYUpwNUNUakhEbm5tWDVfeA?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "11cb87abbef9",
+   "date": "2026-10-06",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "Google ลงนาม 3.6-GW power deal กับ Constellation Energy ปลดล็อกความสามารถ data center",
+   "title": "Google enters massive 3.6-GW power deal with Constellation Energy",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUGptbnU1SUxQWEJrRlFLQUhoSU9WMDhMQmhtZ29ZSGtMRHdvaFI4MGdJXzFWbmVuSHc0bFVkamJVTzBfY3VjRmVmNjN3ekpFMEtyS1Bxc2NMTmhiZlJGQUk5Tml5b2Q0NGZPc1REcExtWElITFFlOW01VWNETGMyZXVMM0x0cGJjWVFfaXZqSzlSNlUxdnFvVFNOMUg2ekVPRktkdVptSFRHa3lNcHREaktPU2RTZGs?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "9ca54aa083ca",
+   "date": "2026-10-06",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "negative",
+   "importance": "low",
+   "impact_area": "regulation",
+   "reason": "Google ต่อสู้กรณีฟ้องร้อง £1 พันล้านของ UK เกี่ยวกับ app store fees อาจเสี่ยงต่อการมีผลกระทบ",
+   "title": "Google fights £1 billion UK lawsuit over app store fees in latest Big Tech case",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNclR4OG53dWg0RV9sMWZlT0FUMmNraGpWTVRackZIT3lqM3UwS2EweUprbUl5OFJsREEyN2Q1VDVncWJRcHVZNFhXWTBBR1dKQUdxUTJ4ZVA5eVVEU2tEdEpHVGgyVlYwLUhjSGxacDBnWXJId3AwNVJ3NkdWNi1mdHRtTWdWdHRUYktwU2x5RFlST0c0aFpua2hKOGF6X2MtTkpJRXNLaWtsNnB2VHhqT3pYM1gwMWlQbzQ3VXV2MG5uYnlUTUg4UzMtUDJ4S0dLeGc?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "bdacae3aa90a",
+   "date": "2026-10-06",
+   "tickers": [
+    "MU"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "revenue",
+   "reason": "Micron จ่ายชำระข้อพิพาท Netlist patent $600 ล้านยุติความเสี่ยงด้านกฎหมาย",
+   "title": "Micron enters $600 million settlement of Netlist patent dispute",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPc0dja1V6cGlrZUw1Y3pGc0pkblBOMVdwbUhMYUx6X1dtT0Z1SkhkdnRsekdySkZBc3hkVUg2MVRYempraVVuRGFjRHVPdW1NZjhYUzRWMEVPdjB2cnVWb0dTLUVoVXc4UGNjZ09ETFlWMGZWV2x1UExXUkh2LUtuUUJxLTEtNDg5RVR0OWFPME85VW9zZVFGMUM5emtoN2tEdVFuRWxGM0pHTVQ2M3Z2MFFn?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "141dd2d05f74",
+   "date": "2026-10-06",
+   "tickers": [
+    "META"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "competitive_advantage",
+   "reason": "Citigroup เชื่อ Meta Muse อาจเป็นประตู AI สะท้อนความคาดหวังต่อสินค้า",
+   "title": "Citigroup bets on Meta's Muse as AI's 'front door to the internet'",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbTEtTzZyUDMwaXNvY2QtYy1YTHNmY2xONUdQV3pVUTBhY3ZoZnJ4T1pGQVg3OGVGTm45Y1pNaGRPTUhuM2VsbFpSdUJJYmFjal9RN3dMR2czdG85V0M2Mm5HZ3NjNjlZTzNqRTI1aWVUTXZwUTN3amNicy1taDE4NTNBWmt6cUJPTUpMNTREZ2l2TGdwdXhjYzNB?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "cc647e9b5be0",
+   "date": "2026-10-06",
+   "tickers": [
+    "XAUUSD"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "macro",
+   "reason": "ทองคำเพิ่มขึ้นเมื่อดอลลาร์และผลตอบแทน Treasury ลดลง",
+   "title": "Gold climbs as dollar, Treasury yields slip",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNS3Z3SEV1TFdScWdiaHBPbEVUTjFEYWV0WjJSQjRPRkl2LTZsNHJoNzU1RGEyM0V2bE5LYk9KUDUtZ0tNMGFKYWw3NWFoUEdkQU5MaklVVy1lUmNMRlJQOUk3VjFjNmJZWGk1bzZtRkpLVWxmTUMzZ0NadVJsZUs3TWNlY0JrdGNubHpXOWNTRXEyVXM0YkUxWGd2UDQ2dkJi?oc=5",
+   "paywall": false,
+   "categories": [
+    "fed",
     "crypto_gold"
    ],
    "model": "claude-haiku-4-5"
