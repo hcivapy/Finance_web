@@ -2,6 +2,221 @@
  "month": "2026-10",
  "items": [
   {
+   "id": "d8b80213866c",
+   "date": "2026-10-08",
+   "tickers": [
+    "MSFT",
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "competitive_advantage",
+   "reason": "Microsoft เปิดตัว Surface Laptop Ultra ที่ใช้ Nvidia RTX Spark chip เพื่อเสริมตำแหน่ง AI PC",
+   "title": "Microsoft brings more AI to PCs as it challenges Apple",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZkNrUEtoYUtLa3FYRlVtVnBCblY5Tmx2aHp5MFJwTldqSndfVUdmWDNTemFjb3l2YW5OaExPOXRyWTlTaUc1MUN2cW1tNVA4VUNJczRwMDVQZTJMTmhjT1hScHVYTklXNjJrOVpNamE3bVBGalo3RVFLbURIUkpFTGxEMEtjU01SaDVMOWM4OThPSWtmMEI0b0RtVDlvc1YwUWx5R2V3MHVIdm8?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "dea59f2a8146",
+   "date": "2026-10-08",
+   "tickers": [
+    "META"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "regulation",
+   "reason": "Florida ฟ้องให้ Meta ปรับเปลี่ยน Facebook และ Instagram สำหรับเยาวชน",
+   "title": "Florida asks court to force Meta to change Facebook, Instagram for teens",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUjI5TTFNM1QwUTRKWk9LMzR4cGIwRG1pNTd0LVN1VEhyNDIyMlZZaTNwNWpCNXNac0VOaS1MdEZPVmVpZmdXWHpwT2ZkbHpBWGJqRXM0cWJtNmczaU56MGx4YzBmeDQzNk1ibENTU2FyZ0RNZFFuVkU0WlVzR2FoZGV3QlZCdG1pTy1QYWI5X3BWVUVBSzVMWWZ6Y25WcVNHWFBFTU1pR0JKZw?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "dbe541661c03",
+   "date": "2026-10-08",
+   "tickers": [
+    "AMZN",
+    "SPCX"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "FCC ตั้งไว้จะประมูล 25MHz spectrum ที่อาจประโยชน์ Amazon และ SpaceX",
+   "title": "FCC to vote on auctioning 25MHz of 'prime spectrum' in move that could benefit Amazon, SpaceX",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/07/fcc-spectrum-auction-spacex-amazon.html",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "c259004f1ef8",
+   "date": "2026-10-08",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "regulation",
+   "reason": "Finland สั่งให้ Google หยุดการทำงาน data centers สองแห่ง",
+   "title": "Google ordered to halt work on two data centers in ‘Texas of Europe’",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/07/google-finland-data-center-halt.html",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "2e4e6c4c6d47",
+   "date": "2026-10-08",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "FCC อนุมัติ Starlink Mobile upgrade D2D service",
+   "title": "FCC tees up another D2D boost after approving Starlink Mobile upgrade",
+   "source": "SpaceNews",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVkVRZXlORUZGT21GYXVOWld2UmdMS3YwZ1JDcFY5eEgzX2s0QV9TNWdnRnhPc1ZRMEc4bTNBSXdybk9vMUdnd0dMWEY3NEdXUDBUNW5LLVR6cjVqVkpsd3gxR2Z6Z09KVHdPeG16R1k5bTEzVWVKdktZeVZyT0Qwdnp4TldaQ0VneEt4alpyTHJ6SDJkUl9n?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "2f4bb11c6c98",
+   "date": "2026-10-08",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "unclear",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "SpaceX ดำเนินการออกพันธบัตร (bond issuance) ในปริมาณมาก",
+   "title": "SpaceX is going on a bond binge",
+   "source": "Axios",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9FV0hIYjdLWmRJMUt0c29aS1QxaDNTdWdoUmpFdk1zU2JsWUpZVnRZbng2NWRVYmtNQ2tKVWl4Q2taclhMdXFwWUhIUWVwYTE4SXRteFpVN3BpR3M1VDZtQ3BaejFtdlpTek5FQUstU0doUQ?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "32943b3cfa89",
+   "date": "2026-10-08",
+   "tickers": [
+    "AVGO"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "Broadcom คุยเรื่อง financing สำหรับ OpenAI chips หลังจากการจัดหาเงิน $60 billion สำหรับ Anthropic",
+   "title": "Broadcom Holds Early Talks About Financing for OpenAI Chips",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-07/broadcom-plans-50-billion-financing-for-openai-chips-wsj-says",
+   "paywall": true,
+   "categories": [
+    "watchlist",
+    "deals",
+    "products"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "e1bc738e4ae8",
+   "date": "2026-10-08",
+   "tickers": [
+    "AVGO",
+    "SPCX"
+   ],
+   "direction": "unclear",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "Oracle, Broadcom และ SpaceX ขอ blockbuster debt deals สำหรับจ่ายค่า AI chips",
+   "title": "Oracle, Broadcom and SpaceX Seek Blockbuster Debt Deals to Pay for AI Chips",
+   "source": "WSJ",
+   "link": "https://www.wsj.com/tech/oracle-broadcom-and-spacex-seek-blockbuster-debt-deals-to-pay-for-ai-chips-848e8032?mod=pls_whats_news_us_business_f",
+   "paywall": true,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "6e76c4a99e4e",
+   "date": "2026-10-08",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "SpaceX ได้อนุมัติ Starlink ที่ห้องว่างได้ เพื่อเขย่า wireless market",
+   "title": "SpaceX just scored a key Starlink approval that could shake up the wireless market",
+   "source": "Business Insider",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNkVwcWx2VHJxcXhVUGt1ek9LNVJwSEY3TkRBMGpRc1p2VUpaNVNCVExyaGt0Qmd1UEE5ZjdmZXNrVnZhbnkzNEtaZU5OSldMbFk0aWRaUm5UQWlGRXZEMnBkeU1DZ2UwMmNWSDhOTExmMWZKMVJyMDZHczkzR3FkeEhpdW9pMlFZZnBqcV9MaENYT3ZjRF9aM3NLVQ?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "8c6708ac1189",
+   "date": "2026-10-08",
+   "tickers": [
+    "MACRO"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "macro",
+   "reason": "Fed Minutes September 15-16, 2026 แสดงเจตนา FOMC",
+   "title": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
+   "source": "Federal Reserve",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
+   "paywall": false,
+   "categories": [
+    "fed"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "3c492e7522fc",
+   "date": "2026-10-08",
+   "tickers": [
+    "META"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "revenue",
+   "reason": "Meta Muse AI assistant ประกาศปรึกษาบน iPad เดือนหลังจากเปิด mobile",
+   "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
+   "paywall": false,
+   "categories": [
+    "products"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
    "id": "b8cec2938937",
    "date": "2026-10-07",
    "tickers": [
@@ -170,6 +385,280 @@
    "title": "Central banks add 39 net tonnes of gold in August with China, Uzbekistan and Poland leading purchases – World Gold Council",
    "source": "Kitco",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZEJFR3YwV0p1YTlSd0VUUTRLNzBGUlBQeXNOTVBmbWNzN1ZhaXZjU2RZSmN0aUZQelNTUERyVWlQMkYxVDFNcjRXT0lvM1FmQUk2Rld6TDVQWktGdEZpN0JTQkVzekJGOTU0MFdqTUF5SUVZOGVxMDJibTY3YjJtNV95QlplaHlnTTA5cThSYkhrQU5SWWlTNXhyUkJ3cF9aM3NCS0UxRU4xQ096TVNxQUwxdTFYM3Jh?oc=5",
+   "paywall": false,
+   "categories": [
+    "crypto_gold"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "64095a8b0494",
+   "date": "2026-10-07",
+   "tickers": [
+    "GOOG",
+    "META"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "US government, Google และ Zuckerberg-backed Biohub ลงทุน $1.8 billion ใน AI biology data",
+   "title": "US government, Google join Zuckerberg-backed Biohub in $1.8 billion push for AI biology data",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWTdsWTdFWVdPWUFDRjN1RGd6el9PR3NQNFN5blFINGVqVUNRcXMtaW5JcDQ0OV9IejBJa0stOHFnaG9Kd0Q3N3BObTEtQWFXYW9ad2JCS09oQV9iWlB6dU1RSktCSnExdWVUdnRXQmE3aTNCdm5LV01TTW9vbG9sRkctZFhoNm1wdGlqcGtRd3RhRFlzUWt1dElpV0NocGtvYlgyenBlUG5ZV0N6eHUzTXVYSDhzWWROWUhDNlJRYnhwc3Q0SVZzUjUxQUp0OFNkbmFrZEpiNDZweEdRbG9nLUgtZw?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "0d3c6e4c0e7b",
+   "date": "2026-10-07",
+   "tickers": [
+    "MU"
+   ],
+   "direction": "negative",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Micron Tech chipmaker union ใน Taiwan ได้อนุมัติให้ประท้วง",
+   "title": "Micron Tech chipmaker union in Taiwan gets OK to strike",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNblR1QUoxNkY4VjEtRFVHbFhKQXB3THZidHU5MGtCUjFsUV9laUFSS2JDbndvS3Z1R2Uxa0NsSGpwcGhLb1R0bzlvdFllUktfNXZmei14YXZicTNTNFh4UWdpeDlCM2lCLUpaajhGUlNVbC1oQTdyZ20yTlZmc0JCYTRmQ3BCMVhGVVl4RzRXWWNkRmxua01NV0NhSm94UkpqdVhZOGg5S0ZxLXFMZkJCTlNWS2FCT0E?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "274582b3d7ff",
+   "date": "2026-10-07",
+   "tickers": [
+    "TSM"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "competitive_advantage",
+   "reason": "Elon Musk ประกาศว่า TSMC จะไม่ดำเนินการ Terafab AI chip complex",
+   "title": "Musk says TSMC won't run Terafab AI chip complex",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdXV3b1VldjdSN0dMQlNTZm9JYmRscDY2UllLUnlaTEJoU21xVzRpVXhucnlxbFhsOUFLUmlYU1EzejBIRWQzYm0zeTdVdE1lckU4V01RZ2pneE9nbkI1UHJHTGM2UkIwaUI4WWltR1pocHpmcHZraExfVHB4dld0N1pGX2ZRTWw5Zjc2V0FhTEg5Y29DN0hYMmdmVV9YVWNnZjlQRmNlNF9sMGozVVFOOWNOc2FDWlBZbVRzaTJxcmFrUU1UT1c2T1NSR0JzQQ?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "1e29f2518e13",
+   "date": "2026-10-07",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "unclear",
+   "importance": "low",
+   "impact_area": "management",
+   "reason": "Boston Dynamics แต่งตั้ง Rohit Prasad ผู้บริหารเดิมจาก Amazon เป็น CEO",
+   "title": "Boston Dynamics appoints ex-Amazon executive Rohit Prasad as CEO",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaGIxUzFNcDNGR3Z5Ym9JdXRTV2ZUN0NpV2lpaXJVRkh2M0hwdHJFTGVIVDIzak92WDZiR2JyaXBvcGxFY0ozbm5XSm8xRTFTUzJUMkd3aVJqOV9kSmFuQllsS05yLVdPQ0xmN1I4enZfUmRJRU1tUURQMU1fSWh2ejJ6VDIwSWttSV82aklZaHhhTldjU09SRk51a0xwRUExbVVnTEt3bkxHcERELVV2X3Q4SmhUY2NLSzRnazBmNUFGdUVFZGc?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "e6bda963f415",
+   "date": "2026-10-07",
+   "tickers": [
+    "SPCX",
+    "NVDA"
+   ],
+   "direction": "unclear",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "SpaceX ขอ financing $40 billion เพื่อซื้อ Nvidia chips",
+   "title": "SpaceX seeks $40 billion financing to buy Nvidia chips, sources say",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZjBzanVwMDltRU1WZFNTWGF3VUw0ZEdQZmlmQWRsbG5lb21pU3VxTlUtM0tZbzNWaFlXY1JhbHcxV0FXX3RpTUVUQlVGenhSYnZ1VlprMzlqdEZwa1lPbEczRnJWRWZfU19nTDdtMzM2WFlMWm0zeWliejlSRUtrdXJsRmM4VFYtbmJXLVprajJ1U2cxVUZPdGhMaUgzRUVJV2R0Q3BiTGJiOHg0ZUYw?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "b0c24fb754e3",
+   "date": "2026-10-07",
+   "tickers": [
+    "META"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "revenue",
+   "reason": "Meta ร่วมมือกับบริษัท สร้างมาตรฐานการทำธุรกิจกับ AI bots",
+   "title": "Meta partners with companies to set standards for doing business with AI bots",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNU0RJNHhNLUVsVEY3WWl4TUJ4elUwdnEydFhMQklxd1c1bDR4dElhM2tkdTJvRlRTRlJZSmtkalUwaExBWnlZU0U4QzQ2LTN1c3JWZGo2MzhFQ21GdjczM3c3WU9EMWRmcmRFNk5hZU9FMk44eENWWF82Qk5nUloyTS0zNjVXLU1HWjVGVVZBVDNkTUhsN1J3cHNoTG53YnVYbE9ZQy1qMkd3UlpFdmNMTGRmcTNuTUMyN1ExRQ?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "c0d0bdafeea2",
+   "date": "2026-10-07",
+   "tickers": [
+    "META"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Meta นำเสนอเครื่องมือ AI ใหม่ เพื่อตรวจจับโฆษณาที่นำไปสู่ child sexual abuse material",
+   "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
+   "paywall": false,
+   "categories": [
+    "products",
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "dcaef815a4e8",
+   "date": "2026-10-07",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "revenue",
+   "reason": "Google เปิดตัวเว็บไซต์ SynthID เพื่อระบุเนื้อหาที่สร้างจาก AI",
+   "title": "We're making it easier to identify AI-generated content globally.",
+   "source": "Google Blog",
+   "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synth-id-ai-content/",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "products"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "a144472e0554",
+   "date": "2026-10-07",
+   "tickers": [
+    "META"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "revenue",
+   "reason": "Meta เพิ่มมาตรการใหม่เพื่อต่อต้าน child sexual exploitation บนแพลตฟอร์ม",
+   "title": "Measures We’ve Put in Place to Fight Child Exploitation",
+   "source": "Meta Newsroom",
+   "link": "https://about.fb.com/news/2026/10/measures-weve-put-in-place-to-fight-child-exploitation/",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "8b629d2e58c2",
+   "date": "2026-10-07",
+   "tickers": [
+    "6981"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Murata Manufacturing ดำเนินการซื้อหุ้นคืน ¥150 billion เซ็ด 10 million shares",
+   "title": "Murata Advances ¥150 Billion Share Buyback, Repurchases Over 10 Million Shares",
+   "source": "TipRanks",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRFNNWnNwLTlsa2R6Y3BuXzVqTGItZEdJRjZnWUptTlk2bHZoOUp0aEE5NVQ0TTBHTnNPOVdReURDR3pjV1JCRVFYNUYtVjJRSFF4VnRWa05mSzlZZkZSTTMxM0xuTGs5bnZGUzlGSlJ6Mk15czdxVmhISmEwblBMWWU5djkzY3RLamVHVWFQek1peUUxTFVVOUNZUmJaU1ZkeTBvOEtVZS0zd3dfZEU5NTlHVFkxaWtDZXd1d015aG5aWmVYdEpj?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "d7f5b227bfdc",
+   "date": "2026-10-07",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Google และ Unity เปิดตัว platform สร้างเกมวิดีโอ จาก prompts",
+   "title": "Google, Unity Launch Platform to Create Video Games From Prompts",
+   "source": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUmVoZXBuT2hEaGVvQTBCS0dVTVpxUER0UThPQ012VVZZdHhDZDRFMms5Vm5MNzdQZ3FobUpyTlZjb2R4cy1hVFRDaEhZOVl5QWFrcU5qSnVLS25feDR2UzFZYUkzYlZQQndFemVCTjZmV1NFOWVXWWI3UXFlRDk1TGtxcGd2eDlGWC1leHAzTHZOSnhUNk04V2FnQTh5ZVdNUjduRnQwNm9hQ1FvdksyVHNpeEk?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist",
+    "products",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "1197a83ff412",
+   "date": "2026-10-07",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "negative",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "SpaceX credit-risk gauge ขึ้นไปสูงสุดใหม่จากรายงาน fundraising",
+   "title": "SpaceX Credit-Risk Gauge Hits Fresh High on Fundraising Reports",
+   "source": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONVRMakY0TV9CbDJwZkpEMDFveWZwRE9GWFJXM3N0UEplUkZhTktHUWtQVmdrUU1teXpqYlVFdnJrRHFEWjhOY0t4UU84c3hFM0NycVA1SFZHU25KaUY2eVB6WkJIRnRlUjR1eG1EZ2xZRTZtOExTT0owUzdiSkV5TkVPWGxsRU5pRnhuX183WHdNdEZOVWdzTVdDVVRlY2xvaVRtWnBSbFFrUzhwRk9uZkd1S1cwQQ?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "66b550a7ec7d",
+   "date": "2026-10-07",
+   "tickers": [
+    "AMD"
+   ],
+   "direction": "unclear",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "AMD CEO Su จะพบ Samsung chip head เกี่ยวกับ memory crunch",
+   "title": "AMD’s Su to Meet Samsung’s Chip Head as Memory Crunch Persists",
+   "source": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRXplOTdNMVNZdG1HblRYUVZHYl9KMWVwT2JpeDVaek05dHhDUkRqZGlqZGJaVS1oNXc4T0VsSndZMXNSaFZXZjBuc2hMQUdOdXptVkhQU05kV19BVDVJc0QzOHJSRXUwZnk4d1NtamU4VlB6LXpTcFVJSmY5aDVUcVdEX1c4OEpIQTFGNkVPR01tR2F4SDhXZnVCcGgzdGxTUV90OEl4YnIzcHRzbE1hY2JxNA?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "8ae18669d49d",
+   "date": "2026-10-07",
+   "tickers": [
+    "BTCUSD"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Robinhood เพิ่ม bitcoin $25 million ใน balance sheet",
+   "title": "Robinhood adds $25 million of bitcoin to its balance sheet",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/markets/2026/10/07/robinhood-adds-bitcoin-worth-usd25-million-to-its-balance-sheet-report",
    "paywall": false,
    "categories": [
     "crypto_gold"
@@ -449,6 +938,26 @@
    "categories": [
     "fed",
     "crypto_gold"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "fb40e40bcaeb",
+   "date": "2026-10-06",
+   "tickers": [
+    "TSM"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "TSMC ประเมินการลงทุนใน Texas",
+   "title": "TSMC evaluates potential Texas investment, sources say",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbk5sR25ad2FWc2RmSWZua1F3Mi1OR1NtTGx5bi1lQ1I0MHlmSHNyUXRGNUd5WmtOVEFMazFUY0FnM0tHdG8zbUF4QjlsaUNJWHhaZ2RXaWtUZHZhN0QteXRiNFNzb3pWcjA0Ty14cFJPenZhV0xnWktra01NaTNYa2s0Q0pEY0FxS20wV0lleWYzWGstYllNc1c3MFFxLXY1X3F4YjI5LXBhbG1J?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
    ],
    "model": "claude-haiku-4-5"
   },
