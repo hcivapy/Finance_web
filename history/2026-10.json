@@ -2,6 +2,45 @@
  "month": "2026-10",
  "items": [
   {
+   "id": "0a124a5a960d",
+   "date": "2026-10-09",
+   "tickers": [
+    "MSFT"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "management",
+   "reason": "Trump administration suspends Microsoft from H-1B green card program citing fraud investigations, constraining hiring of skilled foreign workers.",
+   "title": "Trump administration freezes green cards for Microsoft, IT firms, probes universities",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNenk2MHZ3TFhxRjBqU1pTRmZvNFRUYy1CSG5rXzNSeGRqS05lLUlIRlBYM3hTQ3d4dUwyVmdtc0Z4cVhqOUdKZmh0VWhjQmxldjZKejR3WGxzOEdXZEJwVUxXN0pOelgzcndVakpzWHFiNHFIWi1aZkM1SjdfNFB1dG9hcGVEZTlYdmg0ckJ1MmtqMVBNUEl1MHJBVkxmSGdJVDlXS2ZENlpQY3FRSzB1NQ?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "7ff17fb46ff1",
+   "date": "2026-10-09",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "SpaceX announces spectrum acquisition deal to launch Starlink mobile carrier service competing with AT&T, Verizon and T-Mobile.",
+   "title": "SpaceX Announces Spectrum Deal for Starlink Mobile Phone Service",
+   "source": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcUpDVWJidEZiSTh3bUVGTUdvNWxYZTRuMGs4V2FIVlVXNlU2eGhvV20xUXN0Z1gxWXhIYnphSGg4b0U5dF9zV2lDNmdxZDJLbnVqSy1VUGZzQ0cybVYzaXVuMVdJb09sUnZ0ZVB2cWZMVV9oX2F3a3J0dkdRU1hYYWpsOWlwN2VwMTdaR0t5TmRhRVl0M1g3VmRTMmFEZVJPTno0TXFtR0ZRVElxWDFhQw?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
    "id": "d8b80213866c",
    "date": "2026-10-08",
    "tickers": [
@@ -213,6 +252,182 @@
    "paywall": false,
    "categories": [
     "products"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "e461b5f7ff5e",
+   "date": "2026-10-08",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "competitive_advantage",
+   "reason": "Alphabet's Waymo secures $5 billion term loan to accelerate autonomous vehicle expansion and technology deployment.",
+   "title": "Alphabet's Waymo secures $5 billion term loan to accelerate expansion",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOb0hkcWk3SGVuRHo2Rl92bWlManRvOXl3Zzl4T2FxOFNxclV0Vjl0cldtVC1lT3Q3Q1dHTmxaakFDTWdBZy04Tkw5SS1kSUI0MnBRNUtIZDg0SE1VRE5VdkNPYmhEN0JuTEpMcmdqMlFRcDBtSHNzSUVNU1ZVUnlOOFNHS19UZUVvdVZXZWtXWEcwbVF0Z1kySVVScnJXX2hmRXk5d2Q2X3V1Nm5Tb2c?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "094308ad5c8c",
+   "date": "2026-10-08",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Amazon launches premium Alexa tablets with higher pricing, shifting from budget Fire lineup to improve margins and revenue per unit.",
+   "title": "Amazon launches first Android tablets, raising prices and incorporating Alexa",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUE1oUFB5RzAyOTdPMGZlUEphcVlqMk01cnBHQzBTM0swSmFUMWNHVWhXdjgtczZqVndDVXF1YjZ2anlhRmdCVzBIRzJfQkRQUFBtUFdKOXlUdDJHQ09tT0toWUozR2N4dXNUMDB6R1NRWjZqUWdiZkdwdjd6dEN2REVmelczUjAxTWptM1NMZTUyd3dScVFGa2lnaXhmMnI0S3FIdW5YWTdDTWp2YkhRNlY3eEFjelhGajRSNGg1bXN1UFdkSjI5VUk5dDdvZw?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "products"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "92f903ae2b76",
+   "date": "2026-10-08",
+   "tickers": [
+    "TSM"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "GlobalFoundries agrees $2 billion deal to manufacture AI chip component for TSMC, securing key advanced packaging capacity.",
+   "title": "GlobalFoundries to make key AI chip component for TSMC in $2 billion deal",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNWtrQ0tHODFtaXl1NlEybzVfUzhkVUxXWWl0V1pSYTZ2VENWX2ZYc3pZZWVrc0thclRQbkNmaUxJOEpIZzlvZ19CbEJIdkM1c21HemxmMXdhdXZzNWE0NEFwdUdpbnM1cWRWR3hPZ1BBVFRPNlBmTkV4RWlCUDhiZnNXSnhlTFFFXzdnaDZYSURhV1pKVWdsNERRbHRJSWowOHVRMg?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "54c70dc71174",
+   "date": "2026-10-08",
+   "tickers": [
+    "TSM"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "TSMC's Q3 revenue surges to record 511.86 billion NTD, beating forecasts on sustained AI data center demand.",
+   "title": "TSMC's third-quarter revenue surges to record, beating market forecast",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeVBYZ3dYR1hTREs5alJLQ2RsTHl3d3NMRVhKVVpQb1pYem92N1ZDdWl6MjNpWmswZWZfa1h2ak5NSjRUS0QyVHBaUDBZdmRvOTBTYjc5WktHT29IZV9KQXdiMVlnTDY5Q2VNNEJMbHZXREJxMW9xdUM5TWdna1JURW45Y2pTMlNhc1JWZ09DUWU0MXlFUlpOcDRmRWJweV9ISGNNeWh1RjdRdDNNZ3VEM0g3ZGpFd0J1U3Iw?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "bb73ffebdeed",
+   "date": "2026-10-08",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "competitive_advantage",
+   "reason": "Amazon completes 1,000th satellite for Project Kuiper and plans to launch space internet service by year-end.",
+   "title": "From zero to 1,000: How Amazon Leo built one of the world's largest satellite production lines",
+   "source": "Amazon News",
+   "link": "https://www.aboutamazon.com/stories/how-amazon-leo-builds-satellites?utm_source=rss",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "9c1fe844ffbc",
+   "date": "2026-10-08",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "competitive_advantage",
+   "reason": "Nvidia commits $1 billion over five years to advance US super intelligence research and AI development capacity.",
+   "title": "NVIDIA Commits $1 Billion to Advance US Science Over the Next Five Years",
+   "source": "NVIDIA Newsroom",
+   "link": "https://nvidianews.nvidia.com/news/nvidia-commits-1-billion-to-advance-us-science-over-the-next-five-years",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "c9bd3d09cdd2",
+   "date": "2026-10-08",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "competitive_advantage",
+   "reason": "AWS launches Physical AI Toolchain on AWS, helping manufacturers build perception and reasoning capabilities in machines.",
+   "title": "How AWS is helping companies build physical AI machines that think",
+   "source": "Amazon News",
+   "link": "https://www.aboutamazon.com/news/aws/aws-physical-ai-toolchain-build-intelligent-machines?utm_source=rss",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "products"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "1818f71a4df6",
+   "date": "2026-10-08",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "competitive_advantage",
+   "reason": "Google launches universal Gemini agent for workplace tasks, advancing enterprise AI competitive position against rivals.",
+   "title": "Google Launches ‘Universal’ Gemini AI Agent for Workplace",
+   "source": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcDFROGxuS1JtVDV4Ym1UUFhYd0RkcTZjTVlNNWVIOFQxYmNRenZMUFZKRU9XYjl5SGpQUkNSU0xEdGVGcTlqcTJiX0pmUEJzUHFZdjdoZHdoeEl1Ti1MOUh5YWZGYkJ6ZDZIMmFfOXA2TFowOWdsUURtQ2VJNjZKVmNreHBCNFhRa3FBWVc5RlY4djN6Q1ZuSU9hOTFuZmg1ZWU5V2V3UTh1Zw?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist",
+    "products"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "05555a02e640",
+   "date": "2026-10-08",
+   "tickers": [
+    "XAUUSD"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "macro",
+   "reason": "Gold prices tick up as investors weigh Fed policy path and mounting US debt concerns amid yield volatility.",
+   "title": "Gold ticks up as investors weigh Fed path, mounting debt concerns",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaTl2VDRiV2EtanRNTGxRVGc4OEhQUUhZOEV1MXduVGNBOW1wa2V6N2lqaXJaX2hiVnpPdU5kSC05VGNVUV9ydExDbnVral9vVW1qTFlvYTZSMGY2cTFraXRJeEthaEZmMFRuVmtVYzc2azRkYlM5MVBvWG9nUGY0LUFBX2VmZHNWTkxHTVZGdUtvTWd2NGlJbg?oc=5",
+   "paywall": false,
+   "categories": [
+    "fed",
+    "crypto_gold"
    ],
    "model": "claude-haiku-4-5"
   },
