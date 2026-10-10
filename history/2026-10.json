@@ -2,6 +2,63 @@
  "month": "2026-10",
  "items": [
   {
+   "id": "91acc8febb82",
+   "date": "2026-10-10",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "regulation",
+   "reason": "Super Micro contractor pleaded guilty to diverting AI servers with Nvidia chips to China, highlighting supply-chain risk.",
+   "title": "Super Micro contractor pleads guilty in scheme to divert AI servers with Nvidia chips to China",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOd1RmaEFMYlkxNEZMMFBaYmd6dlMxMkpXSW9rTDA2TVMxeHBDOFlJVjZPOE4zOWhCRUx5ZUVxcTdBQnhHd2c5TzJzQ25SQ2Y4SnhBb1I2M01Ndmh5V2NNMFFHODhlSHZVUHBCeUYzdUxDVFc5dlc1cFhYWkVFVVRjdWlEeExfbmJCZWhZLWJyMmFhM0l1TVJhd3RyamJoU1d5WFA1Z2NQSEw3bWtBc1h5SVhINEVMRmFRenVYRi12QkhaRlhJYWI0RHJGU1M?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "7744f1fc3b71",
+   "date": "2026-10-10",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "unclear",
+   "importance": "low",
+   "impact_area": "management",
+   "reason": "Amazon shuffled Alexa leadership following high-end tablet release, signaling strategic refocus.",
+   "title": "Amazon shuffles Alexa leadership following high-end tablet release",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTnZqam92b2tEcU5LcTM5WG5mYWFuUDgzdm1aY0R6azEtNlhWM0dGVkFIcGt4aWdiMmxBREhHdzRkT2JRN0E4X0QzeUF5NmxLSDlBXzJlMEdvWDBkWWZHYmRrVjdvdlkyYnM3MWV6dXdHTEJvalNpYVkyOFl6UG40Q09Oc1RRLW9PSjVkZTllcUtCbVlVZHAxS3dIQTd5XzRxZXhBbFh1bldrYXlKZFo3UklraUd4WWx1NWNMaHhuNUd3a2c?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "73e641cf40ef",
+   "date": "2026-10-10",
+   "tickers": [
+    "6981"
+   ],
+   "direction": "negative",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Murata Manufacturing stock fell 2.83% after-hours; completes Vietnam building.",
+   "title": "Murata Manufacturing stock loses 2.83 percent after-hours to EUR 44.97",
+   "source": "AD HOC NEWS",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOS093QjV4T1BaRlNyZUE3Y3Z3RzdjNlVNLXNPUmZpRXRrMmtBcWhIVlNQZno0NVo3RERFX010c3dIWUQwUmZkc3g2a1QyWFNLR3pUa1J0eWZQVjdsMGplQzRJUThvVHAtUENNcUxpWS1aNEdsQk1UTlMzdHRCUE4yLTVuN2taSFpQSUJWMWVxV3FqVWVzUF9NV3BpUTRMcGU1NXU2cEpUa1MxVTZJRG94bjZXTGFweDVaODFTOVJ2U19VM0RJdV8tNA?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
    "id": "0a124a5a960d",
    "date": "2026-10-09",
    "tickers": [
@@ -37,6 +94,65 @@
    "categories": [
     "watchlist",
     "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "e2ca7c1004de",
+   "date": "2026-10-09",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "other",
+   "reason": "Nvidia-backed Firmus scrapped $5 billion Australia IPO amid AI valuation scrutiny.",
+   "title": "Nvidia-backed Firmus scraps $5 billion Australia IPO amid growing AI scrutiny",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQY21BNU1iQlJDajVWejFGYjVrM2J0cllKVmc5WEVZX2tMQnROZGFJRkRDekhCaFY0MzRnYXhYOGNaVi11cFlndVo5b1RIYUpaS25JbV92dVkwVEZpXzVaTWdtR3piN0d6SUI2OW9qaEI4eHVCV1VBQkFBWXhyemttZDlhMlFVa3hQdDhpWVZkLW95cmxNaEFzZGxWb2dzU3VPSzNlNTc4OEF5YXV1LVoxOHZuUzFsMTZfaDJuckx4UQ?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "4edca517d3ca",
+   "date": "2026-10-09",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "SpaceX completed $8B spectrum acquisition, enabling terrestrial Starlink wireless service launch.",
+   "title": "SpaceX pens $8B spectrum deal",
+   "source": "Axios",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAyT0lVV0xfdjZ4cWl6WVotMmRKNDNuaWd1UjNpV2hmeU5wd2hwdm8zcnhpLXB0Y1h6eGotWUhFVVV6cXRtS3U2T3AxSEUySnJGN0ZscURoRm5Wc3ZaUkI5aXA3QktHaXpnZlE?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "706db9f508e5",
+   "date": "2026-10-09",
+   "tickers": [
+    "BTCUSD"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "regulation",
+   "reason": "Thailand approved locally listed bitcoin and ether ETFs effective Oct. 16, broadening institutional access.",
+   "title": "Thailand opens door to locally listed bitcoin and ether ETFs",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/policy/2026/10/09/thailand-opens-door-to-locally-listed-bitcoin-and-ether-etfs",
+   "paywall": false,
+   "categories": [
+    "crypto_gold"
    ],
    "model": "claude-haiku-4-5"
   },
