@@ -1,6 +1,12 @@
 {
- "generated": "2026-10-04T05:17:14Z",
+ "generated": "2026-10-11T05:08:36Z",
  "weeks": [
+  {
+   "date": "2026-10-11",
+   "period_start": "2026-10-04",
+   "period_end": "2026-10-10",
+   "headline": "กระแส AI infrastructure ร้อนแรงต่อเนื่อง: TSMC ทำรายได้สถิติใหม่ SpaceX และ Broadcom เร่งระดมทุนซื้อชิป Nvidia ขณะ Microsoft เจอปัญหาวีซ่าในสหรัฐฯ"
+  },
   {
    "date": "2026-10-04",
    "period_start": "2026-09-27",
@@ -15,8 +21,8 @@
   }
  ],
  "last_attempt": {
-  "date": "2026-10-04",
-  "at": "2026-10-04T05:16:16Z",
+  "date": "2026-10-11",
+  "at": "2026-10-11T05:07:27Z",
   "ok": true
  }
 }
