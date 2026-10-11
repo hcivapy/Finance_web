@@ -2,6 +2,26 @@
  "month": "2026-10",
  "items": [
   {
+   "id": "a1051be7ecae",
+   "date": "2026-10-11",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "competitive_advantage",
+   "reason": "Nvidia พูดคุยการลงทุน Reflection AI เพื่อท้าชั้งแบบ open-weight model ต่างสัญชาติ",
+   "title": "Nvidia in talks to acquire US ‘open’ model start-up Reflection AI",
+   "source": "Financial Times",
+   "link": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a?syn-25a6b1a6=1",
+   "paywall": true,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
    "id": "91acc8febb82",
    "date": "2026-10-10",
    "tickers": [
@@ -52,6 +72,25 @@
    "title": "Murata Manufacturing stock loses 2.83 percent after-hours to EUR 44.97",
    "source": "AD HOC NEWS",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOS093QjV4T1BaRlNyZUE3Y3Z3RzdjNlVNLXNPUmZpRXRrMmtBcWhIVlNQZno0NVo3RERFX010c3dIWUQwUmZkc3g2a1QyWFNLR3pUa1J0eWZQVjdsMGplQzRJUThvVHAtUENNcUxpWS1aNEdsQk1UTlMzdHRCUE4yLTVuN2taSFpQSUJWMWVxV3FqVWVzUF9NV3BpUTRMcGU1NXU2cEpUa1MxVTZJRG94bjZXTGFweDVaODFTOVJ2U19VM0RJdV8tNA?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "e1512e17f52e",
+   "date": "2026-10-10",
+   "tickers": [
+    "6981"
+   ],
+   "direction": "unclear",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Murata Manufacturing ประกาศสร้างโรงงานในเวียดนาม ขยายความสามารถในการผลิต",
+   "title": "Murata Manufacturing announces Vietnam building: what it means for Murata Manufacturing stock",
+   "source": "AD HOC NEWS",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPUUNqSXMyYTR6UU1rOEo0SEZaY0lSNWxXZW5wOUdDSldtNkN2eU51bEEyUnFYZ0NMSHU4MjcweVZKZElDMTFjOG5kaUdDaThqVGNEU1k5MXpBWDU1TGV4YVlHODJHUFBOY3ZVWnpXMlhuOXljSnIzRVJRQmJaaTdYN0poOXNyUHVzelpyYzFyalN0YTI5cTBIb1E2T1dXbmx6Z2N1UE5BMjFaNEtlYjRKbEV6NHVmUktFd0pFbWdpcWZreVhWbHRmeXByY28yOW5ON2hVNjFWQ2xSUXMwdDdORlBDZ3JxcFFHTlhv?oc=5",
    "paywall": false,
    "categories": [
     "watchlist"
