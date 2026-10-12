@@ -1,10 +1,30 @@
 {
- "generated": "2026-10-11T02:53:53Z",
+ "generated": "2026-10-12T03:17:07Z",
  "months": [
   "2026-09",
   "2026-10"
  ],
  "items": [
+  {
+   "id": "95a8aea50acc",
+   "date": "2026-10-12",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "competitive_advantage",
+   "reason": "Amazon อยู่ระหว่างเจรจาซื้อ Decart AI startup ด้วยราคา $7 billion เพื่อเสริมศักยภาพ AI",
+   "title": "Amazon in talks to buy AI startup Decart for around $7 billion, WSJ reports",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSTR0SUxydGYzRDJmaGtaWkRTYkkybS1GWlRkZFFnMjVXRFlZX0hHMUtVdFdIN0ZyQk0wMk1LNFhaUml3Y3FlRUV6SWFxVk9UUFg3MTUzelJtZU8tdjVpREpVS0owdkt2aVJhMUVObjg1TlRTREtZQzBINHJTTFloWDNBQTFCVl9yOE9HNXhBazJWMElncnlIZWNPdG5IY25ObFg0SGswNks5MkF0ODM4bEVRWkhjS3ZqcXVuWlVnamU0dw?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
   {
    "id": "a1051be7ecae",
    "date": "2026-10-11",
@@ -98,6 +118,25 @@
    "paywall": false,
    "categories": [
     "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "4940851cd7f5",
+   "date": "2026-10-10",
+   "tickers": [
+    "BTCUSD"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Bitcoin life insurer Meanwhile筹资 $37.5 million จากนักลงทุนรวมถึง Bain Capital Crypto",
+   "title": "This Sam Altman-Backed Life Insurer Runs Entirely on Bitcoin, and Just Raised $37.5 Million",
+   "source": "Decrypt",
+   "link": "https://decrypt.co/380633/sam-altman-backed-life-insurer-bitcoin-raise",
+   "paywall": false,
+   "categories": [
+    "crypto_gold"
    ],
    "model": "claude-haiku-4-5"
   },
