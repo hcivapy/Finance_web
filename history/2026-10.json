@@ -2,6 +2,84 @@
  "month": "2026-10",
  "items": [
   {
+   "id": "ddfb371e24ee",
+   "date": "2026-10-13",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "unclear",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "MIT files patent lawsuit against Amazon over cloud security technology; potential legal cost.",
+   "title": "MIT files patent lawsuit against Amazon over cloud security technology",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMnBCaFpKR1lWaVh4a241MWNjNkxmaGlXc0VLQUtPNFZTN3lKM0puQ3QxUnhodFRQLUJfU3dnZll3VkNqNTJMM3QtZFNqTGJGTF9ndUZ1bWFPaUViYXV3RFFlclM2SzBkdHc2T1FBY3VMdmM1el9nWVZxYkFlbnJHNm9vUjZmV1gxbmptT3RHLXpQUEdKUXNqUmRydDF0NzF5cTdVRXR3RndHTGxzdFdxbjJZTGdiZG5LajdNekw1cF9TS1d5?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "973bc2918f1b",
+   "date": "2026-10-13",
+   "tickers": [
+    "META"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "competitive_advantage",
+   "reason": "Meta releases Muse Wonder frontier AI models targeting personal and professional agents; competitive positioning upgrade.",
+   "title": "Introducing Muse Wonder and Muse Wonder Full: Frontier Models for Agents",
+   "source": "Meta Newsroom",
+   "link": "https://about.fb.com/news/2026/10/introducing-muse-wonder-models/",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "products"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "5865d31d2b00",
+   "date": "2026-10-13",
+   "tickers": [
+    "MU"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "other",
+   "reason": "Micron authorizes record $35.16 billion share buyback program starting December 9; capital allocation decision.",
+   "title": "Micron authorizes record $35.16B share buyback program starting Dec. 9",
+   "source": "Seeking Alpha",
+   "link": "https://seekingalpha.com/news/4652296-micron-authorizes-record-3516b-share-buyback-program-starting-dec-9?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "348759202661",
+   "date": "2026-10-13",
+   "tickers": [
+    "MSFT"
+   ],
+   "direction": "unclear",
+   "importance": "medium",
+   "impact_area": "management",
+   "reason": "Microsoft reorganizes Azure Cloud unit amid AI overhaul; internal structure change.",
+   "title": "Exclusive: Microsoft Reorganizes Azure Cloud Unit Amid AI Overhaul",
+   "source": "The Information",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdUZKSldVNWVFaHdIQzhEZG1qaDMtSzl0QWpNdC1hN3ljNXktNnZsd0NGeWRvQjhXZE5ZaXA3UG9JMnY5eWxTM0k0d25wa2NteWJCb0ZGTi12R2FTZGxkZ1BLY0VWMlhWQnZSQ3M4YjdsTDNpUVFNcFRaTExzdm5mOWlkbjZoUVg5X2R1V1ZDLWZCZUkteFBHd2l1TThZcTY4dVVjTGMwM3lDQQ?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist",
+    "products"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
    "id": "95a8aea50acc",
    "date": "2026-10-12",
    "tickers": [
@@ -18,6 +96,83 @@
    "categories": [
     "watchlist",
     "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "5015f1dfe85d",
+   "date": "2026-10-12",
+   "tickers": [
+    "MSFT",
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "competitive_advantage",
+   "reason": "Microsoft significantly increases homegrown AI chip deployment to reduce Nvidia GPU dependence; margin expansion.",
+   "title": "Microsoft to rely more on homegrown AI chips, reducing dependence on Nvidia",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/12/microsoft-will-mainly-use-its-maia-chips-for-ai-inference.html",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "3e80b19fbd64",
+   "date": "2026-10-12",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "SpaceX buys spectrum to expand Starlink Mobile service; new revenue stream development.",
+   "title": "Faber Report: SpaceX buys spectrum to expand Starlink Mobile service",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaXZNdXlXOXVucTlBUGlUclVnT05VYkRTdEhSSmU3RXJsNWlsQ0hOX01TdTlWNHJtRzFxTktGOG5zcFo3UzRnekZOX05palFNcWlmWlZFOEpZU2tUeTNBNk5nZ3BjMHYyeUl4dmVESEdWbVVpSWxkb2lRdk5lUFcxRHF5YTE4eVZEelAydHpnSF9RNmJBdUhERjJ2cXBLd2RXWEQ2VG56MlRIWF96cEIw?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "399f177c0529",
+   "date": "2026-10-12",
+   "tickers": [
+    "CRM"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Salesforce signs definitive agreement to acquire Loops, AI-powered analytics platform; product portfolio expansion.",
+   "title": "Salesforce Signs Definitive Agreement to Acquire Loops",
+   "source": "Salesforce News",
+   "link": "https://www.salesforce.com/news/stories/salesforce-signs-definitive-agreement-to-acquire-loops/",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "333e1509f853",
+   "date": "2026-10-12",
+   "tickers": [
+    "BTCUSD"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "South Korea's first traditional bank loans backed by bitcoin launched; institutional adoption expansion.",
+   "title": "South Korea just got its first traditional bank loans backed by bitcoin",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/business/2026/10/12/south-korea-just-got-its-first-traditional-bank-loans-backed-by-bitcoin",
+   "paywall": false,
+   "categories": [
+    "crypto_gold"
    ],
    "model": "claude-haiku-4-5"
   },
