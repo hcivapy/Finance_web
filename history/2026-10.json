@@ -2,6 +2,25 @@
  "month": "2026-10",
  "items": [
   {
+   "id": "2dea7e1b4f73",
+   "date": "2026-10-14",
+   "tickers": [
+    "MACRO"
+   ],
+   "direction": "unclear",
+   "importance": "medium",
+   "impact_area": "macro",
+   "reason": "Federal Reserve ปล่อย minutes ของ discount rate meetings ระหว่าง August ถึง September",
+   "title": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
+   "source": "Federal Reserve",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
+   "paywall": false,
+   "categories": [
+    "fed"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
    "id": "ddfb371e24ee",
    "date": "2026-10-13",
    "tickers": [
@@ -76,6 +95,122 @@
    "categories": [
     "watchlist",
     "products"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "99f3c5eef6ca",
+   "date": "2026-10-13",
+   "tickers": [
+    "AMD"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Scaleway จะสร้าง AMD-powered AI supercomputer ในสวีเดน แสดงความต้องการ infrastructure สำหรับ AI",
+   "title": "Scaleway to build AMD-powered AI supercomputer in Sweden",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZVFlaGxodDhwTlJlRDBueTJ5UEZWYmtSVV8zejBPbGZ6NWZnV3FYaEczYkh4XzFMOXNuRGpnN0ZUV1VOb1dCYW5paVZXSE9ia3VTbU5kaDk4ZXdFNmw2Mk1FZ3BqUmswdmlNVHZSYk9kRHdjWnpOOFEwVGhjQW84SkcxMlJHWkY2c3A0SnZsN0RGWFczTG9uS1ZTMGprbjRsZXZ4aE10MFl2UmNBMVE?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "31dd0e2b0e76",
+   "date": "2026-10-13",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "unclear",
+   "importance": "medium",
+   "impact_area": "regulation",
+   "reason": "SpaceX ตกลงให้证言 ต่อ NYC Council เกี่ยวกับ AI safety risks ภายใต้ subpoena",
+   "title": "SpaceX agrees to testify to NYC Council about AI safety after receiving subpoena",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/13/spacex-agrees-to-testify-to-nyc-council-about-ai-safety-.html",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "4658afafc258",
+   "date": "2026-10-13",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Google ปล่อย Gemini 4 Argon ใน app ต่อ subscribers ทำให้เสริมความสามารถ AI",
+   "title": "Gemini 4 Argon comes to the Gemini app.",
+   "source": "Google Blog",
+   "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-4-argon-availability/",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "fdf2a0774e21",
+   "date": "2026-10-13",
+   "tickers": [
+    "META"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Meta ร่วมกับ 14 บริษัท disrupted West African scam networks พร้อม law enforcement",
+   "title": "DOJ, FBI and Meta disrupt West African scam networks",
+   "source": "Axios",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0yWnFzT2xKNHllTElYYkVDN3R6Z0NRQ2Y3ODM0SUtRSFotTktSWGltRTJveWNFeEk0TlphNkJ2aVA2Ti1Ic1JjcDhNZC1PWEZiQnVHOVNfUG5zWFgxZGU0eGh2S1RiVVF5cW1FdU9uLW44UnJ2cjl3?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "a7a05a614415",
+   "date": "2026-10-13",
+   "tickers": [
+    "MSFT",
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "competitive_advantage",
+   "reason": "Microsoft reveal Maia chip แสดงว่า major customers ของ Nvidia กำลังเป็น competitors",
+   "title": "Every major Nvidia customer is now a competitor as Microsoft reveals new Maia chip",
+   "source": "Axios",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBwYVA3bU1jWS1xcGxwMGdRSE9FdUs2WWRzZWk1ajBITXFaemNSOTFkSjRlcWxNYlBBZkEzdm50dFRHSlctT0ktLVZySzBUallmVkZSVXNJZ3FlVkJLZkhwYXFNOGVGeXVCQmtVODRYZDZDQQ?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "products"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "edd0e468a57d",
+   "date": "2026-10-13",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "revenue",
+   "reason": "Amazon Leo demonstrate satellite internet สำหรับ U.S. Army แสดง capability ใหม่",
+   "title": "Amazon Leo demonstrates satellite internet for U.S. Army",
+   "source": "SpaceNews",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOLTVRTVYyaWZqSDY0dFVxd2VzMTFCVy1vcHF1RmJFaWlVZ1lGYWhQQnRXZU1MZHIyck13MTNyckhudjc0OUUzd3E2dkV5THJrYUhqWlBRNUhYT1puLUQza2RibnZNaU1XTU45Wk1zbmJDeUFpMXVUWTYwX1dtQlQ0LXg5VUw?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
    ],
    "model": "claude-haiku-4-5"
   },
