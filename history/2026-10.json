@@ -2,6 +2,142 @@
  "month": "2026-10",
  "items": [
   {
+   "id": "a63f9ab1e5a5",
+   "date": "2026-10-15",
+   "tickers": [
+    "GOOG",
+    "META"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Meta- และ Google-backed Jio Platforms เตรียม IPO เก็บได้สูงถึง $3.2 billion ในอินเดีย",
+   "title": "Meta- and Google-backed Jio Platforms to raise up to $3.2 billion in historic IPO in India",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/15/jio-ipo-meta-google-ambani-musk.html",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "d981e4ed459d",
+   "date": "2026-10-15",
+   "tickers": [
+    "MSFT"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "competitive_advantage",
+   "reason": "Microsoft และ Japan ปิด cybercrime network ที่อยู่เบื้องหลังกว่า billion scam messages",
+   "title": "Microsoft and Japan took down a cybercrime network behind over a billion scam messages",
+   "source": "The Verge",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORkIzZEdXak55QW4tY05hSmtTaU4xU0tqaEJvdU1HZWZqLWQ2SEJ4cm5kTU8zYUNSLWlzVEo3ZzhOMTF2bkk2WVpaNFEtazVkY3BnM0FxM1ctRElkN0gxX2tPc0Jtcm5ST1U4MTV4TEZienVNcHNCeTU3WklFUEVuTHlMdDF5dmhVbWc?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "d9fea2d96e3b",
+   "date": "2026-10-15",
+   "tickers": [
+    "6981"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Murata Manufacturing ขยาย MLCC capacity investment เพิ่มเติม เพื่อตอบสนอง AI server demand ที่ระเบิด",
+   "title": "AI Server Demand Explodes: Murata Makes Rare Additional MLCC Capacity Expansion Investment",
+   "source": "BigGo Finance",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1HYmg1THVVQkcyZ0d0U1lQYng5cFlBMjl6eXRIb1dNYVRMazl0SUllQ1hYNWh3NlFJNEdSbXIzZGRoa3ZfOE0tdlZtQ2dUelVnVWt5ekxYcUc0UTFldEpxQmVpWTRmZUpjZkFfMW5ScXNTcklUbkE?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "f5471cc666f1",
+   "date": "2026-10-15",
+   "tickers": [
+    "AMD"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "competitive_advantage",
+   "reason": "AMD stock ตกต่ำขึ้นขณะ cracks emerge ในการค้นหาของ AI trade",
+   "title": "AMD Stock Takes a Bigger Hit as Cracks Emerge in the AI Trade",
+   "source": "Barron's",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBucjRrUkMta1k0LWpMUE5NSnZIbVAweFNyZWI3RG9aaGZydDdSLV93Z2tjRS1qY3ltNkFhZXFERWFNc2dFTU9yN1RTSGQ2YVhVbGdxNjlweGNwUUUwWjVyR3hva3UwekhJd0doMVdwc0Uyam41YXBXQzI2cVZhZw?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "be3a59d77033",
+   "date": "2026-10-15",
+   "tickers": [
+    "GEV"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "competitive_advantage",
+   "reason": "GE Vernova stock slump จากความเป็นห่วงเรื่อง bond ของ CoreWeave และ AI plays อื่นๆ",
+   "title": "CoreWeave Stock Slumps as Bond Worries Hit GE Vernova and Other AI Plays",
+   "source": "Barron's",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPam5LUkZLQUZjLWR0blFJNHNYajVycVVROFVBNlZWSjlfSmFWWjQ0MzY3QS1YNURBT2pBV0hWTWtVTlBTNU9aZHB1R2tCUlE2ZFNIenBOcDRHV3pEbzNGclZ0UTZqT1czb1RaeGpUcmJmcUFuNVcxQXVDRUh2ckRvLWF4RXNuYjJNZnd2M2ZQcw?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "5af62088b17d",
+   "date": "2026-10-15",
+   "tickers": [
+    "MACRO"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "macro",
+   "reason": "Japan invest $21 billion ในโรงงาน GlobalFoundries ในนิวยอร์ก ขยายการผลิตชิป",
+   "title": "Japan to invest $21 billion in up to two GlobalFoundries chip factories in New York",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZjM3SC1iaHFNLTdkS2N5U3JVS3lMR0p4Q1ZTclVOa2RDbFpzR2E3R2I5UlFlYWlsWHJfeGlKSEpockRseEpCTGpsNFAzanBPUkVVa3FiUFNVeVZ3S0daZ2JRWGc3Zy04RmFSbFRHeU5kRy1HaGJ2ZmViUHlfYk5CN0xYMEhXb250eE41clpvVHF1RDhIRWF4Z1p0NS1rQmVtbjFNc2FjMzVTaTlvM24weWtzS1V4M1RVdHpXWVNCU2REdDVkd2FwZWQ1V1kxZUZU?oc=5",
+   "paywall": false,
+   "categories": [
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "9b5eb5b432c3",
+   "date": "2026-10-15",
+   "tickers": [
+    "XAUUSD"
+   ],
+   "direction": "negative",
+   "importance": "low",
+   "impact_area": "macro",
+   "reason": "Gold ETF outflows ลดลงจากความมั่นคงของ Treasury yields",
+   "title": "TAG: gold ETF outflows",
+   "source": "Kitco",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9GWnVfLVFBR0dYY2w1QXBKeVJwTDRVUmg5OFV1ZlNFbWxRMkszaHlwai1YOGFSSDNfcV9vTERCQUJMOWg1dHIwOHlWeG4tWk5mbmMzb2RSb19sWmdT?oc=5",
+   "paywall": false,
+   "categories": [
+    "crypto_gold"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
    "id": "2dea7e1b4f73",
    "date": "2026-10-14",
    "tickers": [
@@ -17,6 +153,179 @@
    "paywall": false,
    "categories": [
     "fed"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "71fcae8e7688",
+   "date": "2026-10-14",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "American Electric Power สั่งการลงทุน $4 billion ในโครงการ fuel cell เพื่อจ่ายพลังงานให้ Google สะท้อนความต้องการ data center พลังงานที่เพิ่มขึ้น",
+   "title": "American Electric Power to invest $4 billion in fuel cell project to power Google",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMDVWVDNiei1GdWtyUjd1WUIxSlVJVDFLQ2xnazFXVkZBLWRvUmwtTnJ0R0xmRTBscml5UnJVaWJhXzZzakQxbFMwTlE4MDhLUWRBTzVjWjMtcXotbV80aWd4RHJ5WkVhZVpTb2x5MmZpeDhtNG53RzEwcUlPZEdfb0N6VE8xeGpfZC05YUduY1g3c1lvUWF1R2JDQzg0cy12TlZrTGRKWnJfYzNSOXFuMURYVVJyT2ZFcjJ6ejFhaDh3MklF?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "e94c1b40baef",
+   "date": "2026-10-14",
+   "tickers": [
+    "ASML"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "regulation",
+   "reason": "ASML CFO เตือนว่า US Match Act ที่จำกัด DUV sales ไปจีนจะเป็นผลเสียต่อแนวทางผลิตภาพ",
+   "title": "ASML CFO says US Match Act limiting DUV sales to China would be counterproductive",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNa3FUUDFSN0ZoX0xlZ09TamlVeURBQkZtUHV6NlBkNG1Gc1hLODN5SENaclg1UjByalVNemQ2QzVrSTc2WjJUenZMT0IwRTY2dXRZeERhV2owSXVkNjdIZUhiU0VlZkpDZEtRcXp4akJjVlNfUzZzVmFiTmI5ZVcyNkNSY3F2SWxqbm5oWkJ4ZUJpaUt6N3NVMnNVN2Vra0JNS2F4bC1Cd2JNYUp4WjZUOHB0NmRwQ1lQTnU5YkctN3E3T0E?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "5c85cc8c817c",
+   "date": "2026-10-14",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "SpaceX จำกัดการใช้งาน Starlink เพื่อหยุด operations ที่ support Ukraine military operations",
+   "title": "Ukraine says SpaceX limits Starlink operations, disrupting military",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNV2VEUDcwZ1kydUhNRmMzSjVVTEdoLUNlS3FVUjctT1JONXNOZjJzS2wwZ21kOVJwakRkbmU4Mnc0THVxMDAwejAyak90aDNWd0N5SElDRF9sbXVUVk54RGUwUko3Z1FlR0RVQlJFTG5LWVdhY2wtdEtmaFp3WEtzZDZoMTNNYnY5WEhyUXczamlWYVNHMzVTczVST2twUkZGMVI3UGZJODdCSGlfZEZzek94bjROQUc0ZnAw?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "954f3e61f9bf",
+   "date": "2026-10-14",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "revenue",
+   "reason": "LSEG เลือก Nvidia เพื่อประมวลผล historical market data ได้เร็วขึ้น",
+   "title": "LSEG taps Nvidia for faster historical market data processing",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYy1XWU5PM1RfaklzejU4RG1OOEV6YTkyTms1aGNfbTFiSXJmNkdTbkpSeWo2VElLV2ZCMVlta29aSWlGMHR5c3QyQV9hS0xSaDZCUjZxaU1QeGtaNHgwd0l2Nm9tR2ZaaFBRdFd4TF9Jb0lHdnR2eXI4ZzVjaGhDMDRUU0ZPcVdVb2Q1TlpqT2YxaDdoYjVScFZNVVg1YVdkWkE?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "170284fc7ba6",
+   "date": "2026-10-14",
+   "tickers": [
+    "ASML"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "ASML รับ strong orders ลดความเสี่ยง AI spending boom อาจหมดลง",
+   "title": "ASML's strong orders ease fears AI spending boom is running out of steam",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZFZsa19tQTZzTmpjeDVDenFPTGdxSTJVS1k5bTNrakxDWEtUelY1SWlDdnhNZDVoUmY1dkhoWXdJMWQtS1pjR3drMndqc0kxT00zVkM1bUIyRXM3X011cGhMaUNvbXdtUzVaNUhWWEMzOEN5Q0luZEQ3MzE5M2J2N2h3Mko4eUg3NkZJY2pBbG03UzRwVGs5MVl4dWxWbjNJeVN0OA?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "e228a5828e2e",
+   "date": "2026-10-14",
+   "tickers": [
+    "ASML"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "ASML ขยาย capacity เพื่อตอบสนองความต้องการที่เข้มแข็งจาก AI-driven demand",
+   "title": "ASML races to expand capacity on strong AI-driven demand",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRWRrTDFyRE9EdUp2LVh4V2F0TEVjM3dXcEFQWXRhQVNMc3VZOUFLQUNYN3dBY3YtRTRuWS0xamlHZXhSWHJiUTR4ZUI0S2d1MG1jb3pmdEJ1a3I0R203cVpSQWNHb1g0ZGdQMzJ5MnBmMEJNc3NuMmM2MkdrMG9HbmFsb24wcFdJejA0aURMa3Y3OFZpbUVOempGR0xkUFQ2?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "d5ed611fc40f",
+   "date": "2026-10-14",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "competitive_advantage",
+   "reason": "Nvidia commit $250 million donation ต่อ UK agentic safety research ในช่วง 5 ปี",
+   "title": "NVIDIA Commits $250 Million to Advance UK Agentic Safety and Security Research Over the Next Five Years",
+   "source": "NVIDIA Newsroom",
+   "link": "https://nvidianews.nvidia.com/news/nvidia-commits-250-million-to-advance-uk-agentic-safety-and-security-research-over-the-next-five-years",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "9944214d4818",
+   "date": "2026-10-14",
+   "tickers": [
+    "ASML"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "revenue",
+   "reason": "EU lift sanction บน Chinese firm เพื่อ save ASML supplier ลดต้นทุน",
+   "title": "EU to Lift Sanction on Chinese Firm to Save an ASML Supplier",
+   "source": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNM2lUQllVYjVsZFEtVnBjdHNGYXZxUzhwOTVtNnk5OENHUktsbUFaLVhXMUswYVNKa0dDYmF4a1gyM05MWEgyb3BTLTdJeS1pMXJnZlFIUmozelVVS2ROQTkyNWtCdTQxVXp5bGFKWmVpZU1EN0VyMXZ3TU1aN3puSTc1bTFLdGY2TmxIR0hOY3dCSHRFbVlLVWQ0YnhLbDE2YTdCWHpLamJyeHVUTWpybk5n?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "f0d592254013",
+   "date": "2026-10-14",
+   "tickers": [
+    "AMD",
+    "ASML"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "competitive_advantage",
+   "reason": "Intel, AMD และ chip stocks อื่นๆ ตกลงหลัง ASML strong earnings report",
+   "title": "Intel, AMD, and More Chip Stocks Fall After ASML’s Strong Earnings",
+   "source": "Barron's",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5GWmFHWXNIcGk4bnNsb3R5TWZuNTNkWElfVDBVVm9XMWVaOFA2d0VGS0JaTXlVdTMwb09yRm1rS29OcUlFdmUyNnY4bGxKZUR0elZhZTlIQ3BxUkpSQ2x3NU85T0lpcTVIdXA3aG93cWdycTJNM1hkblJMbHN2UQ?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
    ],
    "model": "claude-haiku-4-5"
   },
