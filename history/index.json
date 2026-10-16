@@ -1,10 +1,166 @@
 {
- "generated": "2026-10-15T02:22:00Z",
+ "generated": "2026-10-16T02:14:45Z",
  "months": [
   "2026-09",
   "2026-10"
  ],
  "items": [
+  {
+   "id": "3fea755b9222",
+   "date": "2026-10-16",
+   "tickers": [
+    "META"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "regulation",
+   "reason": "Brazil electoral court ยกเลิกสิ่งกีดขวาง Meta เกี่ยวกับ pro-Bolsonaro algorithm bias",
+   "title": "Brazil's Lula wins electoral court challenge against Meta for alleged pro-Bolsonaro algorithm bias",
+   "source": "AP News",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOXN1TzFMMFdHOGFHTFNQUmtLYlZOa19PcHlOd2k0WmpybmJrVUhpN1cyMWZKQ2VZdzIxZ2YtMDY1bUw4ZHVFNlExTk1YcDhHM3VJSExpYmlTOHRKeFpwOTlkWTFydGNncXVBRG1iaGVDcXJtV2JYWWN5ZDZtcXlZYzl1R0xQZzNCT3BiRkpvU1pCVzg2WUFjUEpUZDh3Q21wM2UxSg?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "1d6d6f648f6a",
+   "date": "2026-10-16",
+   "tickers": [
+    "META",
+    "MSFT"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Apple และ Meta collaborate เพื่อ optimize Muse Spark model ให้รันบน Mac computers ได้ดีขึ้น",
+   "title": "Apple and Meta team up to make Muse AI model run on Mac computers",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/15/apple-meta-partner-ai.html",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "ec18b92384c9",
+   "date": "2026-10-16",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "unclear",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Amazon จะแบ่งปัน Q3 2026 earnings ระบุว่า แต่นี่คือประกาศเก่า ไม่ได้เป็นข้อมูล fundamental",
+   "title": "Amazon will share its Q3 2026 earnings on October 29",
+   "source": "Amazon News",
+   "link": "https://www.aboutamazon.com/news/company-news/amazon-earnings-q3-2026-report?utm_source=rss",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "5293236ba076",
+   "date": "2026-10-16",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Volvo ขยาย partnership decade-long กับ Nvidia สำหรับ hands-free automated driving technology",
+   "title": "Volvo will use Nvidia’s tech for hands-free, point-to-point driving",
+   "source": "The Verge",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSTZmaUgzdlgzal9mVlpQc0taWk9NSTlvbldybDhwc1lvelBwQm41S2NvN1ZxSGlkQVM4UzdFcl9TTXZOMUFjdlM2ZlRWbUZKZm9abzhxaGNpU29heTZFSlVsZDE4dlhNN0lBVkU2MFpJUTREUDdxX1hVSXAycEZrYTE1bTdSYmZCM2JNSUhETWQ0N1lQWTdyMkVnWW1tT1pvOFYya2FCZw?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "0b130414d2e3",
+   "date": "2026-10-16",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Adobe และ NVIDIA ขยาย collaboration เพื่อเร่ง agentic creation tools",
+   "title": "Adobe and NVIDIA Expand Collaboration to Speed Agentic Creation",
+   "source": "NVIDIA Newsroom",
+   "link": "https://nvidianews.nvidia.com/news/adobe-and-nvidia-expand-collaboration-to-speed-agentic-creation",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "203cd46a70a6",
+   "date": "2026-10-16",
+   "tickers": [
+    "TSM",
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "Taiwan plan raise $4 billion สำหรับ Texas complex ของ Nvidia partners เพื่อ supply chain development",
+   "title": "Taiwan to Fund $4 Billion Texas Complex for AI, Nvidia Partners",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-16/taiwan-to-fund-4-billion-texas-complex-for-ai-nvidia-partners",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "1fccec872677",
+   "date": "2026-10-16",
+   "tickers": [
+    "META"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "regulation",
+   "reason": "Brazil judge order Meta ไม่ manipulate election content distribution ใน runoff election ต้อง treat candidates เท่าเทียม",
+   "title": "Brazil Judge Orders Meta to Treat Runoff Candidates Equally",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-15/brazil-judge-orders-meta-to-treat-runoff-candidates-equally",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "309bd5eb42eb",
+   "date": "2026-10-16",
+   "tickers": [
+    "RYCEY"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Rolls-Royce Pearl 10X Engine เข้าใกล้ certification สะท้อนความคืบหน้า product development",
+   "title": "Rolls-Royce Pearl 10X Engine Nears Certification",
+   "source": "Aviation Week",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNUZiS0FWWk5FSDk2N0VyVUJkcFA2ZXFPZEFOSl81WlhQU0VkYzVCUlZKSzhBM21GVkh6cWdxdGdjV0RfQW9EWFAybm1ZaU1BclVvZ2JBcnFhdEpUYlg2VFZsU0JjdkhNS2RyU1V5TzNWczVsVTVTMGVFOUpsNWpPZlRiM1Zhdk5meFlORUtDal9ZREdiRFl3UmU4WHp6RThCMEpKbTZ3X1VjajBKSzhVOA?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
   {
    "id": "a63f9ab1e5a5",
    "date": "2026-10-15",
@@ -137,6 +293,261 @@
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9GWnVfLVFBR0dYY2w1QXBKeVJwTDRVUmg5OFV1ZlNFbWxRMkszaHlwai1YOGFSSDNfcV9vTERCQUJMOWg1dHIwOHlWeG4tWk5mbmMzb2RSb19sWmdT?oc=5",
    "paywall": false,
    "categories": [
+    "crypto_gold"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "8b22e62b1acb",
+   "date": "2026-10-15",
+   "tickers": [
+    "GEV"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Venture Global สาย power infrastructure ลงนาม deal ใหญ่กับ GE Vernova และ Baker Hughes สำหรับ expansion ของ power project",
+   "title": "Venture Global inks deals with GE Vernova, Baker Hughes for power expansion",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZmpIc2lJTjJSRmFnbU02a0o1amFWYVo1TjRDdGlmQnFERkh0eVlBS2NWNlB5X3VfeC1jdHpEaWRFZUJUVnRjM1JLWVMtdGQ2TDhqaTREdzZBOFQyMjFPN2V5VGNtbjMyMEdPRHoycUZicndsdjU4TFhDbzVXSG52c25lcENzaGRwbjhvTWV4cDNzc3lfQ1FRbmp6ei1pZktFb2xnbWJmWnR3cXN3bDlPeGpYQmJIQWFKSkFXSFpiUQ?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "4670fdecfc8b",
+   "date": "2026-10-15",
+   "tickers": [
+    "TSM"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "TSMC Q3 profit พุ่ง 69% ทำสถิติสูงสุด แสดงความต้องการ AI chip ยังแข็งแรง",
+   "title": "TSMC Q3 profit jumps 69% to record, beating expectations",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUkd5cXQ0TjJXLWVtRFJZS0x5T1p5ZlBWTllOZjdqTG1xTTJ5eURYQm52eUdQYnhEVy1YSDg2YjU2M2RZQnFBYXk5SEE4U2tSVFZlMTdBMlJTUjRxSVNQREFiR2dTc045blJabGR3eGs1MEtpU09vd09pTkpkUGplY25udTJSamxpbjM1R19CdUNOeUFSM1dHWXhGZDBsN0xVOWM4dzhUNjNZZw?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "c06b4fa36958",
+   "date": "2026-10-15",
+   "tickers": [
+    "MU"
+   ],
+   "direction": "unclear",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Taiwan president เรียก Micron กับ worker ต้องเจรจา 'sincerely' ก่อนการ strike ที่อาจเกิดขึ้น",
+   "title": "Taiwan president calls for Micron, workers to negotiate 'sincerely' ahead of possible strike",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcTFwdXItQUpwWG1SRlRyaXpsLTlkdFdxcUxQZmdSOWVZdG1oVnkxRlBObkxJQ1U4M2FnUjZTTUZrN1M5bFE3VUpWbl8taHVpWWVmSHFkb2JCZkZsYS1OSjZxLTFoUnlkQmUwNmFOQzFtcExrN1RUTnhZaWI5NUpjaENiWnNvcVVTTVFSNUNMcEV4WEw5c3dCelNDbFk3MVVpQ3ZzYXN1Z205X1NLV0J4c2hDNGt5S0xrN0Q4eG9HejRHZGs3S0JSZjhQMVRzMjA?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "001eb82e59c1",
+   "date": "2026-10-15",
+   "tickers": [
+    "TSM"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "TSMC CEO ดูเหมือน 'prudent' สำหรับ 2027 หลังจาก quarter ที่ 6 ติดต่อกันของ record profit",
+   "title": "TSMC 'prudent' going into 2027 after posting sixth straight quarter of record profit",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWE9HY3JEZl96LXVuQmdXM1I4VVBoUUI4d09uNk9qYUdDSXpBTE8zYnJsNUwxUEljLXJ2aTYxYW5rcnFza0duNVNVRnFCWVAzd19MSXVzUTc2cnhnZkxfaVNXS3I2b25JNlJHZnlpMmpiTkQ1NXF5cWNVTG5sRTk3TE9fZExqRExHcjRUa3EybXEzZ1JRNjJPYlZUTWVaMk5hdWJta0g0UWtHZ251dE5BLTk5bk9nYm5vTDh5alo5c05QT054QVE?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "f405fc92831f",
+   "date": "2026-10-15",
+   "tickers": [
+    "TSM"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "TSMC สำรวจ investment ใหญ่ใน Texas เพื่อขยาย production capacity ในสหรัฐฯ",
+   "title": "Taiwan chipmaker TSMC explores Texas investment to expand production in the US",
+   "source": "AP News",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdWxqdEVyUzNvcUNVQVVJUnpWd1hWeHRLcVBfWWNSS1FpTWtpOXdKYk54REhBZGFxcVVZUVJ2NXdnZTQ2NktEbnRtREpOVUpMdEtMTmRnb3Iwb3g4VGRzUXV2T1QzVmFCZUZOdUpsSEY3STdDc1VRVjFuTlNPdmdlQ2F4enh1cWxEUzJtRFY5ZHJHcWVmNEtra0cyTnFna0FEWi0tSnV3bw?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "0ded91edafa3",
+   "date": "2026-10-15",
+   "tickers": [
+    "AMD",
+    "AVGO",
+    "NVDA",
+    "TSM"
+   ],
+   "direction": "unclear",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "TSMC record quarter แต่ chip capacity จำกัด ทำให้ Nvidia Apple Broadcom AMD แย่งชิง capacity",
+   "title": "TSMC chip capacity is ‘fierce’ battleground for AI customers, amid record quarter",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/15/nvidia-apple-broadcom-in-fierce-battle-to-make-chips-at-tsmc.html",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "abc39bd329f6",
+   "date": "2026-10-15",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "revenue",
+   "reason": "NVIDIA release Nemotron 3.5 Super VL open model เพิ่มประสิทธิภาพและความแม่นยำของ agents",
+   "title": "Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models",
+   "source": "NVIDIA Newsroom",
+   "link": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "fc159cfccc88",
+   "date": "2026-10-15",
+   "tickers": [
+    "CRM"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Salesforce selected โดย HMRC เพื่อ modernize tax services สำหรับ UK",
+   "title": "Salesforce Selected by HMRC to Modernise Tax Services for UK Citizens and Businesses",
+   "source": "Salesforce News",
+   "link": "https://www.salesforce.com/news/linked-content/salesforce-selected-by-hmrc-to-modernise-tax-services-for-uk-citizens-and-businesses/",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "453b260ba797",
+   "date": "2026-10-15",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "revenue",
+   "reason": "Amazon Bee introduce 2 new AI personal devices ขยาย product line หลังการ acquisition",
+   "title": "Amazon introduces 2 new AI products from Bee: Bee Frontier and Bee Eclipse",
+   "source": "Amazon News",
+   "link": "https://www.aboutamazon.com/news/devices/amazon-personal-ai-bee-frontier-bee-eclipse?utm_source=rss",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "products"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "b64aec358243",
+   "date": "2026-10-15",
+   "tickers": [
+    "CRM"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "revenue",
+   "reason": "Tottenham Hotspur launches Ask Spurs บน Agentforce ของ Salesforce สาธิต AI agent adoption",
+   "title": "Tottenham Hotspur Launches Ask Spurs on Agentforce",
+   "source": "Salesforce News",
+   "link": "https://www.salesforce.com/news/press-releases/2026/10/15/tottenham-hotspur-becomes-agentic-enterprise-with-agentforce/",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "products"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "89944861f863",
+   "date": "2026-10-15",
+   "tickers": [
+    "TSM"
+   ],
+   "direction": "unclear",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "TSMC open to work with Terafab แต่ต้อง control plants เป็นเงื่อนไข",
+   "title": "TSMC Open to Working With Terafab But Must Control Plants",
+   "source": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ2NVU2xrb3hGWG9HNzRPTGdMZ3BJTFdISm84cTBhdFcxdGxid3VmaFlCNzBmcUd3R0N3ZnotbGRLalM3TjRNQ3Y4dFVaVHNpakJtQy1yX0U3Q0g4Q0ktR2hyRmVyNmVpY2xQZHRGbU5fMDEzYjd0YWhaS2JQNHpTRjg5Q2poSEtqZkRNT0MzWVhxMWlVbkY0TXlmVXRiOUJPeDYtS0ZvN0Z4RkhL?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "8cc4ac3d0c70",
+   "date": "2026-10-15",
+   "tickers": [
+    "TSM"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "TSMC CEO ไม่เห็นสัญญาณ slowdown ของ demand หลังจาก record profit quarter",
+   "title": "TSMC’s CEO sees no sign of a slowdown as chip foundry reports record profit",
+   "source": "MarketWatch",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMUNncG9jUWhyVEhjUW5OcWlNaTllMk5kbExWdzdua2czU1hlZUE1VWRZR3ZINjdISnNoRjV1R1FOQ3lfTGVEbTZTVnFpY29PNGdCWE9paFB0Zm1KemRFM3VHT1RpZVIzc1NTMjZxLWhmMmM1dUlId1BJN0lBMDlEMUEtTW1hYWJ0R09fa0FXN3pySjRZMnZyTmFrX2t1SFU5SF9fUTYyQ1lsSWEwT25tREVUVnhmWlE?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "aa574e11a4d1",
+   "date": "2026-10-15",
+   "tickers": [
+    "XAUUSD"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "macro",
+   "reason": "Gold rebound บน weaker dollar และ yield drop สะท้อน market risk-off sentiment",
+   "title": "Gold rebounds on weaker dollar, yield drop; October Fed hike bets subdued",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUGo4bEV3TDlUV2I1Nkg3dzNpODBCZ0hBWXJtWHR2OWwxWGVGZlRVcDZINFJqdmQ5QXJRNk5aUVVtZDhZSUlzUEJNWmpUcm9oSmtrNldYLWZEWTl6NDNueFY4VlQyby1oYnBKcnFSaHBQR1BWZXZ1NVg5LXZReXc5UjlWTXFzd2pDSEpBVTljTjk?oc=5",
+   "paywall": false,
+   "categories": [
+    "fed",
     "crypto_gold"
    ],
    "model": "claude-haiku-4-5"
@@ -327,6 +738,44 @@
    "title": "Intel, AMD, and More Chip Stocks Fall After ASML’s Strong Earnings",
    "source": "Barron's",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5GWmFHWXNIcGk4bnNsb3R5TWZuNTNkWElfVDBVVm9XMWVaOFA2d0VGS0JaTXlVdTMwb09yRm1rS29OcUlFdmUyNnY4bGxKZUR0elZhZTlIQ3BxUkpSQ2x3NU85T0lpcTVIdXA3aG93cWdycTJNM1hkblJMbHN2UQ?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "dbf9cb9a924e",
+   "date": "2026-10-14",
+   "tickers": [
+    "ASML"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "ASML ทำให้ profit estimate เกิน forecast สะท้อนความต้องการ equipment ที่แข็งแรง",
+   "title": "ASML beats profit estimates: Here's what you need to know",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObkF1Z2VmVm80NWtTeF8zTlFvZXp6TkZMdGpoV2ZFeFZ1VTNrUGRmS0lhTFF5WVZYdDRKNGNzLXhwZjBkZ2JCWENlUFYzUTNZTUZ1X2JSLXpRZnIxQ0ppLTFJUkdoR21xOU1YYTNtWDVFeDhIaTdLR3JDOTY0ZEhIZ0tCTm1VRVFGRE9KOFB2WmFXdFdvOHc2RnFVQVcxdlE?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "bc83a97395ca",
+   "date": "2026-10-14",
+   "tickers": [
+    "ASML"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "ASML boost outlook เพราะ demand outpace supply chip equipment ของ AI infrastructure",
+   "title": "Watch ASML Boosts Outlook as Demand Outpaces Supply",
+   "source": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcl85amJ0UUswbE5zZkZ1Y2J3Q0ZBSU44S3Jhc21CMlI3QTdrR2FIdFlvNXlvMUN3ZDlNeTlJN214eEhyUnpNRzFsX3VNWlItU0habm5OMmVjNWJMZXQzcVlYcjhZaDZTemg0ZEM4OE0xOGJQRm9vTk5lUlZTcnFPenJKR25ZbTdF?oc=5",
    "paywall": true,
    "categories": [
     "watchlist"
