@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-16T02:14:45Z",
+ "generated": "2026-10-17T02:07:18Z",
  "months": [
   "2026-09",
   "2026-10"
@@ -158,6 +158,102 @@
    "paywall": true,
    "categories": [
     "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "0b30dea7b9b7",
+   "date": "2026-10-16",
+   "tickers": [
+    "MSFT"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "regulation",
+   "reason": "UK competition regulator proposes tougher scrutiny of Microsoft's business software grip, risking market dominance restrictions.",
+   "title": "UK competition regulator targets Microsoft's business software grip",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbmFGbmFMbzg4cDVFbFJUN1E3bUlGb0VBaGxBMVFMRG11eE13dlM0Y2lhZmJiSjg4NGg3cHY2REV4MnM5ZkZKNWJjQmJ2RnZhSzk3MEhXbVhRSDRNWWlabU1IV3Z2OXJNYjZ2dWd0emNIbi02ejBiR25iWEs5UkJmcTh5WnlaNEMwaU9GWGdWN2Vrcm1aMmMtVUJ4NTJ6RE80MG1DazZJQ0RtbzdWT2htQVhKbHFydlhxQm1Z?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "0908155b52db",
+   "date": "2026-10-16",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "regulation",
+   "reason": "US judge rejects $85 million lawyer fee request in Google Play antitrust litigation, reducing settlement costs.",
+   "title": "US judge rebuffs $85 million fee request by lawyers in Google Play antitrust litigation",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZWQyaGJJZjBhUzBYZnRPaFV3b0h6UzlPSHNlYXEwbkp0VjVhVVVjRUs0LTQ5SVk5WEViaGhsdzdlWGRuZjFoVVg4aFRyMzhwNFE0S2FaVXJfWXhNNXNlaUNTa0ZHYm1qQWdvTzB4NTVjMnZtdDZ1dGVRNEtZX3lXTmVFMW94M2w3YTk2U0ZhV01xZmIxVDhrbHJkaDlQMmZhemVYSGRlNVhYa19yRHdaRW9OS2tpUmpnRTdGcC1KM3p1VU0?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "c7a43c373d26",
+   "date": "2026-10-16",
+   "tickers": [
+    "ASML"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "competitive_advantage",
+   "reason": "ASML reportedly developing rival hybrid bonding product, threatening Besi's competitive position in advanced packaging.",
+   "title": "Besi shares fall on report ASML is working on rival hybrid bonding product",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUllrNnhvSWJZRFY3c2hEckgtR1VMV2F4b25FTGxQUlpnWEV1Z2xSb05fVThualhwRU9RVUp4UmpqOXRQT0RVbzVjZk1YSEtCYWYyN19SMHpTQl9lM0VycDR6UU1VVWVPWGQwejNaQ2xiOGZ0NER2V2dtSWVUQzdwZmV0NjFQUlkyWTBKZGxwMFZaSFctVzR2N1VHRkVNRTBBTEVQWlNJREUxV0N4Q1I1eDB4NA?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "994dd4a4909c",
+   "date": "2026-10-16",
+   "tickers": [
+    "TSM"
+   ],
+   "direction": "unclear",
+   "importance": "high",
+   "impact_area": "other",
+   "reason": "TSMC reports record profit but provides cautious forward guidance amid uncertain demand outlook.",
+   "title": "TSMC trotz Rekordgewinn mit verhaltenem Ausblick - Reuters",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUVJEY3M3eC0tOExMSlNxcE5pVGtXX1hzWVpqbFRsdkVlMWN5cHRoaGFnaHl3ZG1SNklQbEVFYkt5VEp2cjl4T2hrdjBuV2tiRVdvYTFPS3FFOFdpZkFKWnN1SU9wTG9EOG1kWlFGNERxSlJHSmcxbFV3U0VNa0xtcEtpa193SUZjcS1mTzV6U2hlV2RITWJDTw?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "ade7aa69d4bc",
+   "date": "2026-10-16",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "competitive_advantage",
+   "reason": "Mercedes-Benz extends partnership with Nvidia to advance automated driving systems development.",
+   "title": "Mercedes-Benz and NVIDIA Expand Strategic Partnership to Advance Safe Highly Automated Driving in the Next Decade",
+   "source": "NVIDIA Newsroom",
+   "link": "https://nvidianews.nvidia.com/news/mercedes-benz-and-nvidia-expand-strategic-partnership-to-advance-safe-highly-automated-driving-in-the-next-decade",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
    ],
    "model": "claude-haiku-4-5"
   },
@@ -553,6 +649,44 @@
    "model": "claude-haiku-4-5"
   },
   {
+   "id": "379b6093765e",
+   "date": "2026-10-15",
+   "tickers": [
+    "TSM"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "other",
+   "reason": "TSMC explores collaboration with Elon Musk's Terafab complex in Texas for chip manufacturing.",
+   "title": "Taiwan's chipmaker TSMC explores collaborating with Elon Musks's Terafab complex in Texas",
+   "source": "Fortune",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wcXpNbWFteDNtMjBST0E5TF9GRF9NTkM2R0padXk3aG1VTDQwLUJrQTJTZlBCUThrMzgycW9tQUoxc2p1TXVjS3lpZGtSeWlmcFRQbVVmQnJsVU5sMjBlajlKaEk3YXdZbWM0Qk5HTU0?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "f91995661567",
+   "date": "2026-10-15",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "other",
+   "reason": "Starlink satellite services restored to Ukraine military, supporting operations against Russian forces.",
+   "title": "Ukraine hits Russian refinery as Starlink satellite services are restored",
+   "source": "Axios",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaFZNbDJFdzhjclZMYTJwMm1yV2lTWmNaUVlGNlRLOUtKTlk2a2pSSHpINmtyb2ZGTjM2YWVqVEQ1Uk41VGJlVUNYQzhjaVpkWWNHYVFZV3R5eFBvUWRLWE0zbVFKYnloNTF4SXloNWJRRlh2MHYwN1ZQX2JPdVhvTjNjYktFa0ptM2FNeQ?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
    "id": "2dea7e1b4f73",
    "date": "2026-10-14",
    "tickers": [
@@ -777,6 +911,44 @@
    "source": "Bloomberg",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcl85amJ0UUswbE5zZkZ1Y2J3Q0ZBSU44S3Jhc21CMlI3QTdrR2FIdFlvNXlvMUN3ZDlNeTlJN214eEhyUnpNRzFsX3VNWlItU0habm5OMmVjNWJMZXQzcVlYcjhZaDZTemg0ZEM4OE0xOGJQRm9vTk5lUlZTcnFPenJKR25ZbTdF?oc=5",
    "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "89c8138026e3",
+   "date": "2026-10-14",
+   "tickers": [
+    "ASML"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "ASML rises as chip-gear maker cannot meet surging AI demand, indicating strong order backlog.",
+   "title": "ASML Rises as Chip-Gear Maker Can’t Keep Up With AI Demand",
+   "source": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcm1heDMtc0U2WVhvVjlZaGNmT1RWS1h1M25veGtJRkNBSE9Id1hvYlhsYkpMX1NKUHdrNU5EWkxkVDMzWjVkdnpoWHBDNFF5MGJLRk1VbW1NdnlhWUh3OFFYc25rSkFDekw0STlDNEtNN2diRVZ4M2N0WVdoc0k5cVpabm5Hc2ZYcDN3cXBGb3BhcHMtcHNvV1lSQ3JDSm1FaXZONXdjSTVOeEZOUHd3SA?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "f29bcac138df",
+   "date": "2026-10-14",
+   "tickers": [
+    "6981"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Murata Manufacturing considers MLCC capacity expansion to meet growing electronics demand.",
+   "title": "Murata considers MLCC capacity expansion: stock pre-market at EUR 42.38",
+   "source": "ad-hoc-news.de",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUjIxNWxwdktZNEhqOGEtb1pSNU9TTnBzM05Zd2lHeTRiWWhvX0lWWWtTVHFNUUpjSW5TclNoNUxScEFoWUhOYTh3MThXT2NWRW1tb1NCZEdGNEVMaDl4Rm1JRHEtOXkyR3AyMk9QaHB4SDN4MDN2YWFNVTZVUUtEY0YyLU1PY0xXalNaX29QX3RwRnBhS3RjeXBSYnlMMl95ZGZYYURoUW0zckpFVkpHV21EeUNmOUdWaWlPdTlXcDlzTEx0Y1hF?oc=5",
+   "paywall": false,
    "categories": [
     "watchlist"
    ],
