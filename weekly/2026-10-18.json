@@ -1,0 +1,102 @@
+{
+ "date": "2026-10-18",
+ "period_start": "2026-10-11",
+ "period_end": "2026-10-17",
+ "generated": "2026-10-18T03:57:09Z",
+ "news_count": 97,
+ "model": "claude-sonnet-5",
+ "summary": {
+  "headline": "ASML และ TSMC ทำกำไรทุบสถิติจาก AI demand ที่ล้นหลาม ขณะ Microsoft เร่งพัฒนาชิป AI ของตัวเองลดพึ่งพา Nvidia และ SpaceX เผชิญข้อพิพาท Starlink กับยูเครน",
+  "overview": "สัปดาห์นี้ภาคเซมิคอนดักเตอร์แสดงสัญญาณบวกชัดเจน โดย ASML ปรับเพิ่ม guidance ถึงสามครั้งพร้อม orders ยาวถึงปี 2030 และ TSMC รายงานกำไรไตรมาส 3 พุ่ง 69% ทำสถิติสูงสุดต่อเนื่องเป็นไตรมาสที่ 6 ยืนยันว่า AI demand ยังแข็งแกร่ง ในทางกลับกัน Microsoft เปิดตัวชิป Maia ของตัวเองเพื่อลดพึ่งพา Nvidia พร้อมเผชิญการตรวจสอบ antitrust จากอังกฤษที่เข้มข้นขึ้น ส่วน SpaceX เผชิญวิกฤต Starlink ที่ถูกจำกัดการใช้งานทางทหารในยูเครนก่อนจะฟื้นคืนบางส่วนช่วงปลายสัปดาห์ นอกจากนี้ยังมีข่าว M&A และ partnership ด้าน AI จำนวนมากจาก Amazon, Salesforce, Meta และ Google",
+  "companies": [
+   {
+    "t": "MSFT",
+    "direction": "mixed",
+    "summary": "Microsoft เปิดตัวชิป Maia เพื่อลดพึ่งพา Nvidia ทำให้ major customers ของ Nvidia กลายเป็นคู่แข่งโดยตรง ขณะเดียวกันเผชิญการเสนอ tougher scrutiny ด้าน antitrust จาก UK regulator ต่อ business software นอกจากนี้ยังมีข่าวบวกย่อยจากการร่วมมือกับ Japan ปราบปราม cybercrime network"
+   },
+   {
+    "t": "NVDA",
+    "direction": "mixed",
+    "summary": "Nvidia เผชิญแรงกดดันจากการที่ Microsoft ลดพึ่งพาชิปของตน แต่ยังมีข่าวบวกหลายด้าน เช่น การบริจาค $250 ล้านเพื่อ UK agentic safety research การขยาย partnership กับ Adobe, Volvo และ Mercedes-Benz ด้าน automated driving รวมถึงการเปิด Nemotron model ใหม่ และการที่ Taiwan ทุ่ม $4 พันล้านสร้าง Texas complex ให้ partners ของ Nvidia"
+   },
+   {
+    "t": "META",
+    "direction": "mixed",
+    "summary": "Meta เปิดตัว Muse Wonder frontier AI models เสริมความสามารถด้าน agents และร่วมมือกับ Apple นำ open-weight AI model Muse Spark มารันบน Mac อีกทั้งหนุน Jio Platforms IPO และร่วมปราบปราม scam network แต่ในบราซิล ศาลเลือกตั้งสั่งให้ Meta ปฏิบัติต่อผู้สมัคร runoff อย่างเท่าเทียมหลังถูกกล่าวหาว่ามี algorithm bias เอื้อฝ่ายหนึ่ง"
+   },
+   {
+    "t": "ASML",
+    "direction": "positive",
+    "summary": "ASML ปรับเพิ่ม guidance ขึ้นเป็นครั้งที่สามจาก AI demand ที่ล้นหลาม โดยลูกค้าเริ่มสั่งจองล่วงหน้าถึงปี 2030 และ demand คาดว่าจะเกิน supply อีกอย่างน้อย 2 ปี กำไรทำสถิติเกินคาด อย่างไรก็ตาม CFO เตือนว่ากฎหมาย US Match Act ที่จำกัดการขาย DUV ให้จีนอาจส่งผลเสีย และมีรายงานว่า ASML กำลังพัฒนาผลิตภัณฑ์ hybrid bonding แข่งกับ Besi"
+   },
+   {
+    "t": "SPCX",
+    "direction": "mixed",
+    "summary": "ยูเครนรายงานว่า SpaceX จำกัดการใช้งาน Starlink กระทบปฏิบัติการทางทหารอย่างหนักช่วงกลางสัปดาห์ ก่อนบริการจะได้รับการฟื้นฟูบางส่วนในเวลาต่อมา ขณะเดียวกัน SpaceX ยังเดินหน้าซื้อ spectrum เพื่อขยาย Starlink Mobile และตกลงให้การแก่ NYC Council เรื่อง AI safety"
+   },
+   {
+    "t": "AMZN",
+    "direction": "positive",
+    "summary": "Amazon อยู่ระหว่างเจรจาซื้อ AI startup Decart มูลค่าราว $7 พันล้านเพื่อเสริมศักยภาพ AI พร้อมเปิดตัวอุปกรณ์ AI ใหม่ภายใต้แบรนด์ Bee และสาธิตเทคโนโลยี satellite internet ของ Amazon Leo ให้กองทัพสหรัฐฯ แม้มีคดีฟ้องร้องสิทธิบัตรจาก MIT เรื่อง cloud security technology"
+   },
+   {
+    "t": "CRM",
+    "direction": "positive",
+    "summary": "Salesforce ลงนามข้อตกลงซื้อกิจการ Loops แพลตฟอร์ม AI-powered analytics และได้รับเลือกจาก HMRC ของสหราชอาณาจักรให้ปรับปรุง tax services ให้ทันสมัย พร้อมมีกรณีการใช้งาน Agentforce จริงกับสโมสรฟุตบอล Tottenham Hotspur"
+   },
+   {
+    "t": "MU",
+    "direction": "positive",
+    "summary": "Micron อนุมัติโครงการ share buyback มูลค่าสูงสุดเป็นประวัติการณ์ $35.16 พันล้าน เริ่มธันวาคมนี้ ขณะเดียวกันมีความเสี่ยงจากการเจรจาแรงงานในไต้หวันที่ประธานาธิบดีเรียกร้องให้เจรจาอย่างจริงใจก่อนอาจเกิดการนัดหยุดงาน"
+   },
+   {
+    "t": "GOOG",
+    "direction": "positive",
+    "summary": "American Electric Power ทุ่มลงทุน $4 พันล้านในโครงการ fuel cell เพื่อจ่ายไฟให้ data center ของ Google สะท้อนความต้องการพลังงานที่เพิ่มขึ้น พร้อมเปิดตัว Gemini 4 Argon และหนุน Jio Platforms IPO นอกจากนี้ศาลสหรัฐฯ ยังปฏิเสธคำขอค่าทนาย $85 ล้านในคดี antitrust ของ Google Play"
+   },
+   {
+    "t": "AMD",
+    "direction": "mixed",
+    "summary": "หุ้น AMD ได้รับผลกระทบจากความกังวลเรื่อง AI trade ที่เริ่มมีรอยร้าว และราคาหุ้นตกหลัง ASML รายงานผลประกอบการแข็งแกร่ง อย่างไรก็ตาม Scaleway เตรียมสร้าง AI supercomputer ที่ขับเคลื่อนด้วยชิป AMD ในสวีเดน"
+   },
+   {
+    "t": "6981",
+    "direction": "positive",
+    "summary": "Murata Manufacturing พิจารณาขยาย capacity การผลิต MLCC เพิ่มเติมเพื่อรองรับความต้องการ AI server ที่เติบโตอย่างรวดเร็ว พร้อมดำเนินโครงการซื้อคืนหุ้นต่อเนื่อง"
+   },
+   {
+    "t": "GEV",
+    "direction": "mixed",
+    "summary": "GE Vernova เผชิญแรงกดดันจากความกังวลเรื่อง bond ของ CoreWeave ที่ลามไปยังหุ้นกลุ่ม AI plays แต่ในขณะเดียวกันก็ได้ลงนามข้อตกลงขยายโครงการพลังงานกับ Venture Global และ Baker Hughes"
+   },
+   {
+    "t": "TSM",
+    "direction": "positive",
+    "summary": "TSMC รายงานกำไรไตรมาส 3 พุ่ง 69% ทำสถิติสูงสุดต่อเนื่องเป็นไตรมาสที่ 6 เหนือความคาดหมาย ขับเคลื่อนโดย AI orders ที่หลั่งไหลเข้ามา บริษัทยังพิจารณาขยายการลงทุนใน Texas และหารือความร่วมมือกับโครงการ Terafab ของ Elon Musk แม้ guidance สำหรับปี 2027 จะค่อนข้างระมัดระวังเนื่องจาก capacity ที่จำกัดกลายเป็นสนามแข่งขันดุเดือดระหว่างลูกค้า"
+   },
+   {
+    "t": "AVGO",
+    "direction": "unclear",
+    "summary": "Broadcom ร่วมกับ Nvidia และ Apple แข่งขันอย่างดุเดือดเพื่อแย่งชิง chip manufacturing capacity ที่จำกัดของ TSMC สะท้อนความต้องการ AI chip ที่สูงเกินกำลังการผลิต"
+   },
+   {
+    "t": "RYCEY",
+    "direction": "positive",
+    "summary": "เครื่องยนต์ Pearl 10X ของ Rolls-Royce ใกล้ได้รับการรับรอง certification สะท้อนความคืบหน้าด้านการพัฒนาผลิตภัณฑ์"
+   },
+   {
+    "t": "BTCUSD",
+    "direction": "mixed",
+    "summary": "Bitcoin เผชิญแรงกดดันจากการที่ MSCI ประกาศตัดบริษัท Bitcoin treasury อย่าง Strategy ออกจาก index ตั้งแต่ปลายเดือนพฤศจิกายน และมีการจัดตั้ง Crypto Quantum Alliance เพื่อรับมือความเสี่ยงจาก quantum computing ที่อาจกระทบ Bitcoin กว่า 6 ล้านเหรียญ ขณะเดียวกันมีข่าวบวกย่อยจากการขยายสินเชื่อธนาคารที่หนุนด้วย Bitcoin ในเกาหลีใต้และการระดมทุนของบริษัทประกันชีวิตที่ดำเนินงานด้วย Bitcoin"
+   },
+   {
+    "t": "XAUUSD",
+    "direction": "mixed",
+    "summary": "ทองคำฟื้นตัวจากการอ่อนค่าของดอลลาร์และ yield ที่ลดลง สะท้อนบรรยากาศ risk-off ในตลาด แต่ก็มีแรงกดดันจาก ETF outflows ที่เกิดขึ้นในช่วงเดียวกัน"
+   }
+  ],
+  "macro": "Federal Reserve เผยแพร่ minutes การประชุม discount rate ช่วงเดือนสิงหาคมถึงกันยายน ขณะที่ Japan ประกาศลงทุน $21 พันล้านในโรงงานผลิตชิป GlobalFoundries ในนิวยอร์กสหรัฐฯ สะท้อนการขยายกำลังการผลิตเซมิคอนดักเตอร์ระดับโลก",
+  "crypto_gold": "Bitcoin เผชิญความเสี่ยงเชิงโครงสร้างจากการถูกตัดออกจาก MSCI index ของบริษัท treasury และความกังวลเรื่อง quantum computing ขณะที่ทองคำได้แรงหนุนจากดอลลาร์อ่อนค่าแต่ถูกกดดันบางส่วนจาก ETF outflows",
+  "watch_next": "ติดตามการประกาศผลประกอบการ Q3 2026 ของ Amazon ในวันที่ 29 ตุลาคม ความคืบหน้าการเจรจาแรงงานของ Micron ในไต้หวัน การตัดสินใจขยายการลงทุนของ TSMC ใน Texas และสถานการณ์การให้บริการ Starlink ของ SpaceX ในยูเครนที่ยังไม่แน่นอน"
+ }
+}
