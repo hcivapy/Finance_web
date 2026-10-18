@@ -1,10 +1,88 @@
 {
- "generated": "2026-10-17T02:07:18Z",
+ "generated": "2026-10-18T02:07:15Z",
  "months": [
   "2026-09",
   "2026-10"
  ],
  "items": [
+  {
+   "id": "5e87e5a7db88",
+   "date": "2026-10-17",
+   "tickers": [
+    "META"
+   ],
+   "direction": "negative",
+   "importance": "low",
+   "impact_area": "regulation",
+   "reason": "Meta ต้องเผชิญการพิจารณาของศาลเลือกตั้งบราซิลเกี่ยวกับความเอนเอียงทางการเมือง",
+   "title": "Meta denies accusation of anti-Lula political bias in Brazil after electoral court ruling",
+   "source": "AP News",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQX2RjMjRqN1VWOFNNQjh6MlY2anRqZ2gyZjBxOVNOd1FMOXd0aUxiUTA0OWwyYXRNX1JrYjBoVXRWN2RlTnU3TV83NDFvNGNuN0QtMXpndTkzN1REUlpDYVgyQzJ3TG4zdWplU3FicTV4QXpta0N3UGRoVS11MFJSVTk4MEhKY084aWpyVDhFZlA4UFF6SkFIeXJ3NE9kS0pjdy1xMUpiOEF0T3ct?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "27a5b0d9bfc2",
+   "date": "2026-10-17",
+   "tickers": [
+    "GOOG",
+    "BTCUSD"
+   ],
+   "direction": "unclear",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Google Willow chip ลดข้อผิดพลาดในการสร้าง quantum states ที่อาจเกี่ยวข้องกับความเสี่ยง quantum ของ Bitcoin",
+   "title": "Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow breakthrough",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough",
+   "paywall": false,
+   "categories": [
+    "crypto_gold",
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "ba90812d0112",
+   "date": "2026-10-17",
+   "tickers": [
+    "BTCUSD"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "regulation",
+   "reason": "Crypto Alliance ก่อตั้งเพื่อพัฒนามาตรฐาน quantum-resistance สำหรับ Bitcoin เมื่อมี 6 ล้าน Bitcoin เสี่ยงต่อการโจมตี",
+   "title": "Crypto Firms Launch Quantum Alliance as 6 Million Bitcoin Sit Exposed",
+   "source": "Decrypt",
+   "link": "https://decrypt.co/381236/crypto-firms-launch-quantum-alliance-as-6-million-bitcoin-sit-exposed",
+   "paywall": false,
+   "categories": [
+    "crypto_gold"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "0935471c5e86",
+   "date": "2026-10-17",
+   "tickers": [
+    "BTCUSD"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "regulation",
+   "reason": "MSCI ตัดรายชื่อ Bitcoin treasury firms ออกจาก index เพราะกำหนดข้อบัญญัติ non-operating companies ตั้งแต่ 30 พฤศจิกายน",
+   "title": "Bitcoin Treasury Giant Strategy Faces Index Removal Under Finalized MSCI Rules",
+   "source": "Decrypt",
+   "link": "https://decrypt.co/381168/bitcoin-treasury-giant-strategy-faces-index-removal-under-finalized-msci-rules",
+   "paywall": false,
+   "categories": [
+    "crypto_gold"
+   ],
+   "model": "claude-haiku-4-5"
+  },
   {
    "id": "3fea755b9222",
    "date": "2026-10-16",
@@ -254,6 +332,25 @@
    "categories": [
     "watchlist",
     "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "a560c0398b48",
+   "date": "2026-10-16",
+   "tickers": [
+    "6981"
+   ],
+   "direction": "unclear",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Murata Manufacturing ซื้อคืนหุ้นจำนวน 10,401,300 หุ้นสำหรับการจัดการทุน",
+   "title": "Murata Manufacturing reports 10,401,300 shares bought back for Murata Manufacturing stock",
+   "source": "ad-hoc-news.de",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQ0lJME1hQ0NfMkh2WkY4Mzk2Q1VsV2NveHFMeGNrQVRzZlc3Q093Vm5mRjBDc2IwQkNOZTI5M25IZDN3T0FIX3JuNlZFX0tPNE9kYmxKZlI0aDJpVlZYMXlwVjNSQmw2SDE3YjR4M3QxcFBxR1h3Ylhma0hZNUFfRGhYOElVLXRabTNXc0hiNmhmeDFYQm9jN3lCWU94aHN6NXZfZVdwWUxSUGVJb0FpdmkzeU5CcVBfa1FHcUkyRnNXaFFKLUZMX3lwc2Y?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
    ],
    "model": "claude-haiku-4-5"
   },
