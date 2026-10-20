@@ -1,10 +1,129 @@
 {
- "generated": "2026-10-19T02:23:31Z",
+ "generated": "2026-10-20T02:37:10Z",
  "months": [
   "2026-09",
   "2026-10"
  ],
  "items": [
+  {
+   "id": "8857715ed372",
+   "date": "2026-10-20",
+   "tickers": [
+    "MU"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "other",
+   "reason": "Micron Taiwan union เตรียม strike เหตุ bonus dispute อาจกระทบ production ในอาณาเขต",
+   "title": "Micron union in Taiwan to launch strike as bonus dispute escalates",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdW84LTY4WGZuakNjaU5mZ1I5TEd3RXZRYmdBWlFYUkVoTHQyX0xSYkhidnhGTFN6SjBsdGp6eE9aN3M1VE03V09mNWtjYnFYWWRtN0J3NUk2ZVEzVGhxRFFMNEZqRW94Y1h0OHpyX0tOWTMzNDdhcmFJN2dUSUtwN1FtTXpFNFVITG9LT3JNMFdWLVdQRklxZzU0aE9TUmxXUjRNY0NEN0hLMjZFYTRJQXVJQTNZY0k?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "products"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "81fc885827da",
+   "date": "2026-10-20",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "Nvidia-backed Nscale และ Anthropic เจรจา $45 billion AI cloud deal ขยาย revenue stream",
+   "title": "Nvidia-backed Nscale, Anthropic in talks for new $45 billion AI cloud deal, source says",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcGMyclR5X0JrXzBKem90Uk1sZnBQNkcyRnlyc3ZnWTM4Q0ZoUWtKUzRrd1Y3aHlqaDRjT1pfaFdmV0pHYUFROFI3TFhTWVhtczJsM01PSF8tSEtXejB4emlhVjZGMmQzeWh0RXJoaS0tNDQ1SDhlZDRJZU5hZG5ibE85N3dxU21DS2ZKYm1NV2pVUUF4ZjF3XzQ1ZncwaHVMdXlWZ2FsWjRtQ1d0eFN2YUVQc2x4cTd6YjNwSTVuVUFQZw?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "1efbce6e5868",
+   "date": "2026-10-20",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "3M ขยาย Amazon data center partnership เพิ่ม AWS infrastructure revenue",
+   "title": "3M expands Amazon data center partnership, shares gain",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdFJFY2JqbjhtdTFfVDFUSkNrUHJhbWxWYjMzaG01Z1k5X005ZzFmWkJ5a0tUQjhjU0dkcHFBZjJzdGU0cUVBdEVBUmhXLXJTU1NHMUlmbHJfRkZ0WVFZWHpSN1h3MXpoTVZtaERMUll4NlJ0cHgyS1pWMHFVcldDUzFKQzVrdnVQbnFvOEdqNjE3WGxCdTNKemhjZnVKbW5tb3g3SnR3Qi1UN0gzNlEwZGV5NWE?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "27cdbd6b8e15",
+   "date": "2026-10-20",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Nvidia ประกาศ investments ใน 4 German startups ขยาย market presence ตะวันออก",
+   "title": "‘Open your doors for AI’: German chancellor urges businesses to embrace AI as Nvidia announces new investments",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/20/german-chancellor-urges-businesses-to-embrace-ai.html",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "products"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "0dd37c62ee39",
+   "date": "2026-10-20",
+   "tickers": [
+    "AMZN",
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "competitive_advantage",
+   "reason": "Amazon TorchNeuron tool ท้าชิง Nvidia compute chip market ด้วย AWS Trainium",
+   "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+   "source": "TechCrunch",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNR0ozcElHVUdWdHpKZERxZ0RIOWFBc0hUa2NHaTA4YU5hRHd1M2t5UWVMak1sWnJ6NDlOVDdfSFhPTjJNc0FBTXhBWEhoLVN2c1JNckhwREdfelR1cUtDMXJVSWQ3ZzlBbkRZNHZOUVJ4Vk5FajdJWmxzTDZqVXJSd2xFZTFBRTRVUUowdmFCb043b216cm5EWnhWaDZfLUpwanZjUlZ1TWlWaG80MzJsWnJ3?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "df2fe431e170",
+   "date": "2026-10-20",
+   "tickers": [
+    "MU"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "margin",
+   "reason": "Micron stock rallies จากคู่แข่ง China memory chip forecast revenue boom",
+   "title": "Micron Stock Rallies as China Memory Chip Rival Forecasts Revenue Boom",
+   "source": "Barron's",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSzgycjVEZy1udFpGVjlVc0hxamM0WWNWZWRLazhJZGxqeFo3YThfRkFYX0VDVURZUVZSbWpCMXJCTEt3OEdNcFZTb0VnaTF3RUVOR3hKanBUZzJOQVJQOHJoVldMTWo5aF9IdVdxV2JkVHB4WEF3TFB4Q2ZWanR5MFo4aw?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
   {
    "id": "6cc8101410aa",
    "date": "2026-10-19",
@@ -41,6 +160,147 @@
    "paywall": false,
    "categories": [
     "crypto_gold"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "bcc0942f5cd5",
+   "date": "2026-10-19",
+   "tickers": [
+    "AMZN",
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "competitive_advantage",
+   "reason": "Amazon เปิด TorchNeuron ให้ PyTorch developers ท้าชิง Nvidia AI chip dominance",
+   "title": "Amazon says its AI chips will work with popular coding language, challenging Nvidia",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUGVNVWtyU1BHU0pGZFJTZk9RV3NHOXBoSHVqaHVEeXN1TEJveTNIVzQ4eGkxZ2RWbER1clItSk16ODNaVnBFbWhKamR1RURGdG90X3F0ZEF2bko3SW5mUGxjZzBKVm50UFI5eUp2ampsV08ySWlMUEZyQmRUd1M1NF91UGJoZWxiVmR5NGRCMmNNM0V2R3pLMVhBT05EbmRjY0dxMXlSNklIVE9xeG5DQWNPcjVXY1ZBRTBrVU9RMTNPaVJOUHpjS2RrZ3huLXlZa2c?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "854d8feda3fb",
+   "date": "2026-10-19",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Nvidia ซื้อ Modal startup สำหรับ central processor เสริม AI infrastructure แข่ง",
+   "title": "Nvidia wins fast-growing AI startup Modal for new central processors",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUklvMHh4T2thUkdNSndrQ3BVOTZjalQwRnJ2ZFdhb3Q4aC1NT2k2LTBLX1AxZmlHdTdheHp1ZDF1ZGVSd2JLc3VFUU1ycWRndnRmS2ZyYVpGeU52OU9IQU5qVHdJb1BXNjJ1MlN4MF9aajQ5QXhmQnhYTXowWEFUa29BQkYySzBxeG1CU0Z0MHB6U3psLU1EcTB4Z3N2dkVYSFM3cEgtNlQ4Uk5VTlE?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "a3ec0e7239f2",
+   "date": "2026-10-19",
+   "tickers": [
+    "MSFT",
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "Microsoft ถอนตัว Nscale UK data-center deal เนื่อง power supply delays สู่ 2030s",
+   "title": "Bitcoin mining offshoot Nscale loses Microsoft AI deal as power delay stretches into 2030s",
+   "source": "CoinDesk",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNT2lTQ0JHSVJNZHc2TVVjbnZEZ0ZxZjh6TnB2NnNRSGF6anNfTXlaNGhfeC1tYi0ySmpWZDVsYUVLdDdHcmZEY0xobHVLUlJzOExCZUY4Y3ZNM3lSQ3dxaE9abXVfQ1ZIV1JYSUF0SGduNkJNNFM1b3BlaS1HZWJNaDdhbHRqVlBrQnVYQlNjLWFYelFYRk11LUJFVl80R0JQUVBWcWpXaWc3aTF4TFFJeDNUX0lfZzE5aGFJRzhob0VaeTlwbjQ0dWV4WQ?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals",
+    "crypto_gold"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "63fb93746196",
+   "date": "2026-10-19",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "Amazon X-energy เซ็น 1 gigawatt nuclear reactor Indiana เพิ่ม power supply long-term",
+   "title": "Amazon to fund 12 small nuclear reactors at former Indiana coal plant",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/10/19/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant/",
+   "paywall": false,
+   "categories": [
+    "deals",
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "8d7ef0c6a1de",
+   "date": "2026-10-19",
+   "tickers": [
+    "RYCEY"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Rolls-Royce เริ่ม Pearl 10X serial production สร้าง revenue jet engine ใหม่",
+   "title": "Rolls-Royce kicks off Pearl 10X serial production",
+   "source": "FlightGlobal",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLURoU1ZrN2dOWEE1N0diQ2prSVhLZHRzVE9qcVVoTVlxNVkxY2pBV1ZpSDBoN2U3eGxDdzNJcE5pbC1La2drdFdKM2RFRFN1SlNBdmhnQUhnVTVrbUduTEhwWVVDUk90dW43VmdyWHV5Z0JLWWxPRXpSaGlmdHNGT0Z3dmVRU0xlaDlEZUZSdUlmdTgxQlJB?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "121691af999d",
+   "date": "2026-10-19",
+   "tickers": [
+    "CRM"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Salesforce ลงทุน $1 billion Spain ขยาย EMEA AI infrastructure customer base",
+   "title": "Salesforce Accelerates European AI Leadership with $1 Billion Investment in Spain",
+   "source": "Salesforce News",
+   "link": "https://www.salesforce.com/news/press-releases/2026/10/19/1-billion-ai-leadership-investment-spain/",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "products"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "9a7fa33bf437",
+   "date": "2026-10-19",
+   "tickers": [
+    "NVDA",
+    "TSM"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "competitive_advantage",
+   "reason": "Nvidia สั่ง TSMC process next-gen memory chip ตรวจสอบ supply chain strategy",
+   "title": "Nvidia Tells Suppliers to Tap TSMC Process for Next-Generation Memory Chips",
+   "source": "The Information",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcENpWHJUV2Z2SS1SbWYwbWVuaWZsMzc2NVBqMkpBbjViZ1dNaklBY1JMRXVjS2VoNzZ5LUVGZkM1aktLV3ZHb2pxQ3pyTnYzYXpSaERMZzFaN0U0dHBrQkYxUWNKWDZwejBuMEJsTW55R2Z1d0JMejNmdUNnSklBMDBKS0lpN3d4SWg0VHJDZWFhZG5EVVR3dlJyaXNnZDBCR0NIQjJUWTluMnc1U1E?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist",
+    "products"
    ],
    "model": "claude-haiku-4-5"
   },
