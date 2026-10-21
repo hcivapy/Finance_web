@@ -1,10 +1,225 @@
 {
- "generated": "2026-10-20T02:37:10Z",
+ "generated": "2026-10-21T02:31:40Z",
  "months": [
   "2026-09",
   "2026-10"
  ],
  "items": [
+  {
+   "id": "c0f0df380b45",
+   "date": "2026-10-21",
+   "tickers": [
+    "SPCX",
+    "ASML"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "competitive_advantage",
+   "reason": "SpaceX และ Tesla Terafab วางแผนเริ่ม volume chip production ในปี 2028 เพิ่มขีดความสามารถ AI compute",
+   "title": "SpaceX and Tesla's Terafab targets 2028 for volume chip production, Musk says",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSFI5aHJPRHY4ZTFFZmNHT0d5bEQtSy1EUjBYaVNQOUxTbXdtOExjSEhoampjekEwQ3F5blUzN1F0QzdVc2xkNDZTZHlqYllaUlA2UDlyT1NGX2t1UDl1bDlUX2pVcVBhOWMyeGx3VE8tTlhsbHROTjhPNXpKbWcwdDREdnBfMHpEUk5tSnNzSW9OblZ0Z3NLcDJpSlhFSUxCQXRuNk9KQmRjLWhBR2NXOWl0a3AxR254Vm1TY1ltM09jWDZu?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "c6373a8b0fae",
+   "date": "2026-10-21",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "unclear",
+   "importance": "medium",
+   "impact_area": "other",
+   "reason": "SpaceX และ Tesla ก่อตั้ง special committees เพื่อศึกษา potential merger ระดับเมกะ",
+   "title": "Musk says SpaceX-Tesla merger is 'a good idea' as companies form deal committees",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONHZoMzBtaGg1TmlMN19NRUEzM1lOZkpYb1ZXeWlLTnR4SkxObm1xbDBlN0RsQ2huaHBCMzRxU0VLb3ZPSS1ZeEdhampNY3VNclpoU2xGOWpoQjNfVzVDTHpqOVVRd0pZcVY3eGlpVkxjWTRrMGh4aWtCbVJVVnZ1Nnd1RkU1dFNtcUZCUnVxX1pRWXRTd09QUnpodWJSeEhpS3BKcmxsQkM1aFA1eExGSkNMMVIteV93OXZWa0Q2Vl9yUQ?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "fc9bbb487d76",
+   "date": "2026-10-21",
+   "tickers": [
+    "CRM"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "competitive_advantage",
+   "reason": "Salesforce ประกาศซื้อ Braze ด้วยมูลค่า $5.66 billion เพิ่มศักยภาพ customer engagement platform",
+   "title": "Salesforce deepens AI bets with $5.66 billion Braze deal",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUVE0QXkyR1NSaXY3LTNJTE9uQmY1bXhaV19YNzFMejJRZEhFeDJwd1VCdWg3ZjFFM29VYUNkMWRkSVlsMzlpcmZrdzFudjM0MS02dVJOVGFJZW94cFpHSU9JeGNtSHZtbFQzX3VsaWVTYXFIdzIxbmdhbUVncWRZbFc0T25aUDRMVGwzT01LNA?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "f7b799a12d41",
+   "date": "2026-10-21",
+   "tickers": [
+    "META"
+   ],
+   "direction": "unclear",
+   "importance": "medium",
+   "impact_area": "management",
+   "reason": "Meta global affairs officer Joel Kaplan ประกาศลาออกหลังทำงาน 15 ปี ส่งผลต่อนโยบายการจัดการ",
+   "title": "Meta's global affairs officer Joel Kaplan to leave company after 15 years",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRFRMX2xiYzlLanJ5Y0VWMkhmT2hpaDRlaVU0WjdhVDg1OTZhSDJpZkxuYUZ0Mm1WMDl5b0NEU1ZQdU5PUFRIMENkRWkyRTBqM1ctN0NsNGpmWGd4WVliZ1FWM3hsXzB0ZFRod3BSODBxcW1MNkNzWDJQNklEWTlMM045djIxUEhGRlF5eXJ0UzJiQ3RkZkFRNG5wQW54Q3pmNGFTUldNVWE4ZTRCalM4WnFDVnA?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "153f3c2c0c9a",
+   "date": "2026-10-21",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "SpaceX รายงาน profit ครั้งแรกเป็น public company ราคาแรก $4.4 billion revenue",
+   "title": "Elon Musk’s SpaceX reports a profit and he hints at a possible merger with Tesla",
+   "source": "AP News",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYlJVZExxcE9vRWtKZWQwc3pCMHQ3SUdoaC15bW1qam9DNFVRYzliR05EZk9rVm1yeEhOVnEwQm0zVndrVjhPTlZmVncweWtrZlFmUEtJdGxwbFlDMFZyaFU1MmIwYmtoQW1xRHJOMmZnbG1tYkdGWlRyVWViWGFMcVl1T0N6U09yb3I0ZHdUaVZhWHcyM0E?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "de782f8f2883",
+   "date": "2026-10-21",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Google Cloud outage ในสหราชอาณาจักร ตัดการให้บริการ banking เรียกว่า reliability risk",
+   "title": "Google resolves cloud outage affecting UK banks and websites",
+   "source": "BBC",
+   "link": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "b552c58fb9a7",
+   "date": "2026-10-21",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "competitive_advantage",
+   "reason": "SpaceX วางแผนจับเรือ Starship และ booster เดือนหน้า ประหยัด recovery cost",
+   "title": "SpaceX will try catching Starship and its booster for first time, Musk says",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/science/1014913/spacex-will-try-catching-starship-and-its-booster-for-first-time-musk-says",
+   "paywall": false,
+   "categories": [
+    "products",
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "0255404c40b2",
+   "date": "2026-10-21",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "regulation",
+   "reason": "Musk ordered Starlink slowdown Ukraine military geopolitical regulatory risk Ukraine",
+   "title": "Exclusive | Musk Ordered Starlink Slowdown That Blindsided Ukraine",
+   "source": "WSJ",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE05TXhCNE5nTDBJcEZteGFUWGtLMHY5bmlkOXBBajNqMlpqbkF4Q2wwOVZjN2E2YWhSU2p6YmJoTmpwUW1VMkVqUEhSZjc3N1hMdVZwR3RjazBCdHRVZmptaEtpN2dtV3hzcHYwb2NadVlYZFlaMkE?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "0377182460f5",
+   "date": "2026-10-21",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "SpaceX capex double quarter AI spending growth infrastructure expansion",
+   "title": "SpaceX says its capex could double this quarter as AI spending grows",
+   "source": "Business Insider",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOU2F2OVNUTW41R1g3Q1l1eGZvbEk0bDBJMWZMWHZTRUpSNm1ibE1oZ19BUGZzaGR4TnNnMzF6Z05wX0pVRHQ4Q0I5d0VTWFJMZXI3akpEREVtbWxJNDZIeW80ZFpLZ0FObzBoYjZqcnl4VWZ4azRPc3pqRnJEUDFGUm4wUHNjWnpM?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "29d6fcccc1fb",
+   "date": "2026-10-21",
+   "tickers": [
+    "META"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "Insurers pump $740 million CoreWeave debt Meta compute infrastructure demand",
+   "title": "Insurers Pump Over $740 Million Into CoreWeave Debt Tied to Meta",
+   "source": "The Information",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZWNDb2habUNoYlJjVGNmVldUclplQ3piNzhMNEc0T2tRSENzeEVWS1E5VG43MEZ0Qm5oU0V4a21ITUpxc3VyVVRmWFZSTnVEOWcydk51eUdVU1h5bFdoQ0I1Ql9VZEF6OFczS3N0dzBEbXh0M1MzLXRteVUzQmctbVY0U01waDd4bHhpUElmblltQ3Q3UWc?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "05b10b8eee4a",
+   "date": "2026-10-21",
+   "tickers": [
+    "AMZN",
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "Amazon buying billions Nvidia AI systems long-term infrastructure commitment scale",
+   "title": "Amazon is buying billions in Nvidia AI systems it can't yet turn on",
+   "source": "Business Insider",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOR3daazVkZ09LWFR6Y0dUbG9BUHBvMlU4a0UzVWlEazZ6RHc5cDBBRUxyTTEwdU1FdjdKT012Z0JkSWJ5SzBRM3RGWnRNblpQVEhGQXpRZ09McU4zYS0wLXRzYkJMZjBBSWU1SS1OV21EUU5XS0ZoUlNZNEhVUXFCSTAtUC1FUDRxbF8zVDZLclFvREE?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
   {
    "id": "8857715ed372",
    "date": "2026-10-20",
@@ -118,6 +333,199 @@
    "title": "Micron Stock Rallies as China Memory Chip Rival Forecasts Revenue Boom",
    "source": "Barron's",
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSzgycjVEZy1udFpGVjlVc0hxamM0WWNWZWRLazhJZGxqeFo3YThfRkFYX0VDVURZUVZSbWpCMXJCTEt3OEdNcFZTb0VnaTF3RUVOR3hKanBUZzJOQVJQOHJoVldMTWo5aF9IdVdxV2JkVHB4WEF3TFB4Q2ZWanR5MFo4aw?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "d56717836118",
+   "date": "2026-10-20",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "ByteDance, Alibaba, Tencent สั่ง Nvidia chips มูลค่ากว่า $35 billion สะท้อนความต้องการ AI compute",
+   "title": "EXCLUSIVE: ByteDance, Alibaba, Tencent place over $35 billion worth of Nvidia chip orders",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOXBuUld1bXhxNWlQNktuUmYxOWpVRFlnN0dialpvZlhYM1JLVzE1N0VBSUVNbUlCNmwtN2RVWXRkd1VUV3BRSV9aMGJGMkpxQUk4VWZ1dUt5YjZpdmthQVZ3REFHUzBmV3B0SFJwOFFsMl9fb3l0Y3F0Z1FXbDAxSFhTbV9peVVDQ3FKRnp3NjVDdEpRVHdIOG04SjctLWRRTzN2bDM1a2QxaGdZMHlJV0hGS1FObHFKTVNiS3hvXzZsUzdvMktteFBvSGNEZw?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "989b4fe7b7a3",
+   "date": "2026-10-20",
+   "tickers": [
+    "MSFT"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Microsoft ถอนตัวจาก major data center deal ในสหราชอาณาจักร ลดรายได้ infrastructure opportunity",
+   "title": "UK AI blow: Microsoft pulls out of major data center deal",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9MZFVybjMtWlpqUWNZakhsSGhrbEh5SEx3aDdiX1h6b3FfdVpxR01BVXJuclFRZ0Q0a2lIZjc5N21iNVBQemFGTFU2MTNFdUxrYUd4azZKb042WUJnYnNKZVNseWVQSTg?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "68b2b803936d",
+   "date": "2026-10-20",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "competitive_advantage",
+   "reason": "Waymo ประกาศเปิด autonomous ride-hailing ในมาดริด ปีหน้า ขยายตลาดยานพาหนะอัตโนมัติ",
+   "title": "Waymo to launch autonomous ride-hailing in Madrid next year",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPU2tMSzctZ240NVZFM1ZvRUxhNDg4al9EQ1pPSjQ0UmRvNDZGVmVvNEVWcGpxRE5zU1Z6ZEtvazduc2UyWUF3YkcwRHgwbHY3YnZGWjBfWDNiZHl4LWVSX2dKS1V2NmM5UmRXNVpWT3BWbkk3dHRwbl9JM3RnZ0d5U2FQTnFXbko3VHpXZDVwaDlma2M2M3FwdTc3VXhwN1E?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "products"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "a7f21aca7a37",
+   "date": "2026-10-20",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "Amazon ประกาศลงทุน €16 billion ในเยอรมนี ปี 2027 ขยาย infrastructure และบริการคลาวด์",
+   "title": "Amazon to invest over €16 billion in Germany next year",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQX1ljLXJEWXRnVXhfTW9Qb0FSd1VITXZIemhtY2U1amxEQ09zMnJHQzVMQzFSc3RSNjRZS0puaE1FWW00QVF3NTcyZmJYQVVQMjlHYnFfSWN0R3hFMVBlTFBaVm9QblJNTmxJcVlTZ3ZaZjZTMW1fWDVsc2RFREl1cEpsaEhYZkVfd01KSUFVcGc2TEhSdzJLM2x0RzZwUkU3V3NDV0RhczFHR0R0?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "53667676e727",
+   "date": "2026-10-20",
+   "tickers": [
+    "TYOYY"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "competitive_advantage",
+   "reason": "TDK และ Taiyo Yuden ลงนาม MOU หา business alliance opportunity ร่วมมือ",
+   "title": "TDK and TAIYO YUDEN Enter into A Memorandum Of Understanding to Explore Business Alliance",
+   "source": "NewswireToday",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4tTW5zaHNHY3FpQUZ3QmptZTFCYjBYRk5KWmRIWDliZVdkU2VnOUdVaURmRVA5M09uLTZkd1VZWFIzVnZNNTV3Q2w4NUstdmpUZW1xUQ?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "f529dc7c9cd6",
+   "date": "2026-10-20",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Amazon สร้าง 300,000 jobs มีการจ้างงาน holiday season หลังรอสามปีไม่เพิ่ม",
+   "title": "Amazon is creating over 300,000 new US jobs this holiday season with increased pay and expanded benefits",
+   "source": "Amazon News",
+   "link": "https://www.aboutamazon.com/news/workplace/amazon-holiday-jobs-2026-seasonal-hiring-healthcare?utm_source=rss",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "ed9f64f8be03",
+   "date": "2026-10-20",
+   "tickers": [
+    "RYCEY"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Rolls-Royce full power collaboration Army MV-75 เพิ่มสัญญา defense revenue",
+   "title": "Exclusive: Rolls-Royce goes full power for Army's MV-75",
+   "source": "Axios",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE94Y245Y2hLZDR0dVphaUxMMmloTkVMQmR0NXEyblcwWHI0S283V3dkNTZIb0N0UTcxTVBpM3ZZX21wNHd3NW81ZndXM1V4Rk9uVWNacldGenRrRm91UE9yRzkzRnhtbDZUcS1RMm9JMDVDWE0wOTRFQ1NndkM?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "c492c18f106d",
+   "date": "2026-10-20",
+   "tickers": [
+    "6981"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "competitive_advantage",
+   "reason": "Murata mass-produce world's smallest temperature sensor NCU01 ประหยัด mounting area 60%",
+   "title": "Murata Manufacturing to Mass-Produce World's Smallest Temperature Sensor \"NCU01,\" Cutting Mounting Area by 60%",
+   "source": "BigGo Finance",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE56YUFqdHVOdDFKY2kzTGpWUVFyMmFSLXU4T0I2c1BvOHRzRkR4V2F1Z0V4M3p5b2VuR0VjVFVad3BiNTV5ZllGdUJBNmVacnQxa3Z6dy0zVS1RcEg4Y0NTZ3JzR0V0S2hCNlZ6alVudk9Xb1dsbFE?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "ebaa1992a1b5",
+   "date": "2026-10-20",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Google Cloud outage เสิร์ฟหลาย UK banks reliability threat cloud revenue",
+   "title": "Google Cloud Outage Takes Down Revolut and Other Banks in UK",
+   "source": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZy12Q25TMUJxYjhSamg3ZGZYUlkwUkZBSU1nYlhRbnd5U1V5VmNXQTlBR2NSaVVJUk9zYlhSOWo0Q2NGQTdDbTBGbnZ3Sm1QczZIbG10VzZraUJSeVlJdTlXSUktV3lNZERId2pLVlNZU1pheHZKZUp6MUdWRUxiMEcyaDJuU0g2aWJ1bUhrdUhzVTJKNzJSMmlJSndiMEFEZXBQUjJKRXRXVnliQ2NnSQ?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "435c623f42f2",
+   "date": "2026-10-20",
+   "tickers": [
+    "META"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "regulation",
+   "reason": "Australia suit Facebook TikTok alleged ban breaches regulatory threat Australia market",
+   "title": "Australia to Sue Facebook, TikTok for Alleged Breaches of Ban",
+   "source": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTGQ3a2ROSGJvb1JULTlYT2hNa2NVVGVrMERCQUswa1JoMkgtel8xZkhfZE82UDBoUUhhZl9rZGlLVklKMjJSNXBGV1UybFltV3BNc3o0U2dtWHpBUGRWRkF4dUVXUFBRZi04MnIzb2FYd1dFTl9kY1JUcTVhbG1xV2xaeFRXTlJteEYyZXZ0bF9jdHA1SzA3bmNiTjRJVlZ3YWNneUZfS0c2NldLQlhacw?oc=5",
    "paywall": true,
    "categories": [
     "watchlist"
@@ -301,6 +709,25 @@
    "categories": [
     "watchlist",
     "products"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "33a711ae6cff",
+   "date": "2026-10-19",
+   "tickers": [
+    "6981"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Murata Manufacturing share buyback ส่งสัญญาณความเชื่อมั่นการบริหารหุ้น",
+   "title": "Murata Manufacturing buys back shares as Murata Manufacturing stock trades at EUR 38.15",
+   "source": "ad-hoc-news.de",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZFByY3ZvM2xXdWdfeTVNQ01IWW93WWJkbTZYQ2xaUlo2TUVyNnlsZnEyaEIyZFZ2MkJoWkFpM0lDS3YxTFBUTUpybWNKdGhLamJTb3htVWE4ZWNDNlF4NmVQX3dDUDk5U1drdGQ0TlI2WkMzYjNGVHJHQXlWQkFIUEpFbG1PWmNzbTNIS0RpMW0xbnAzY1VDWjQ0NFFJR2tqX1BreG5kekdSbUN1Nndhb0NjTXNwaGJhRGxNcDkwOGdSaHgxYnFiQkJSVzJKY3A1RkZlMFoydWZPampRN0c5aDM3aUY?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
    ],
    "model": "claude-haiku-4-5"
   },
