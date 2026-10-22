@@ -2,6 +2,237 @@
  "month": "2026-10",
  "items": [
   {
+   "id": "66a87d1564b9",
+   "date": "2026-10-22",
+   "tickers": [
+    "MSFT"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "regulation",
+   "reason": "Chinese-linked hackers compromised ConnectWise platform targeting customers globally; reveals security vulnerability.",
+   "title": "Chinese-linked hackers compromise ConnectWise, target hundreds in global attack, Microsoft says",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQb3ZjLTdlTzhLZGFpNGw3SzBjb3p4aUwzb21qdDd5UmZ0OWxOZXlxYVlJMWFERzRfU1pRRkxOWmdBRVd3VjNWak96d1pUaHB6OHlzc2hEX3FwXzhhX2pUR1RDcTFMdExoaGVGeVlNRC16elFnMTZPbmpWTkhuQ2tCZnpBdV9vajJWNmcxRWdHSVppQ2hzYjJySTNIV3RSVEd5a0d6aGZXQUJBaVh3UnVVVkM4dzducmh3Y1h4TW9BZw?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "cb03ea34fbe8",
+   "date": "2026-10-22",
+   "tickers": [
+    "META"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "Meta announced Muse agent strategy and new stock class to fund AI investments; signals revenue diversification.",
+   "title": "Meta puts Muse agent at heart of AI strategy, plans new stock to power investments",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRFFieGdGQjNVTEpWeTlmUG5ZOW5rRjgwSmpnV1RWdTUzRG5fZW1BQmxBdElRdEtfOVYzcWlaMjR1SGJqZWdPR200RzJuV2JZajJMYmhiSmh4VFdYVjdLQXNxRWo1ZEprRWpKQW1vQkhoMm5jT1RKNzJVczV4aUxHdDNWQ0JoSXVOYzN0WDhFMmh4cjg5RWNmZFhtaHlQTlJ0NmVnRlNpQjg?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "3f6ea02e45b1",
+   "date": "2026-10-22",
+   "tickers": [
+    "META"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "regulation",
+   "reason": "Meta ordered to pay $25 billion penalty to New Mexico in data privacy case; major regulatory impact.",
+   "title": "Meta ordered to pay $25 billion penalty to New Mexico in data privacy case",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYWNTZTVrUDY5dUhLcUduTzg1NGZDUWx1VTNVbFRNV3hOcXo0TG51MDBMRm5WQU9STGRPZGhLNml2dTFMb1h2b1hLelA4QU5KV3pRLWktdDVhOEFxWDY5VW1URmZEVm9QcDg0WEp2Zmo2V1RIcFpCdk1zeFFhdU1VeHl4QUVZeGZxU3ZJLV9UUzZYWG85Ujl0RkRMbGhMd2RBWkdDNnJpbnBNQXduV3FBLXZTYlk2Y2xhVzFSbmthRFJERU0?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "9dc0f5fd9415",
+   "date": "2026-10-22",
+   "tickers": [
+    "META"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "Meta posts Q3 revenue beat and strong Q4 guidance; exceeds analyst expectations.",
+   "title": "Meta posts third-quarter revenue beat and strong guidance",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUVlfUlljcnJvSEllOFBLZndCLVVUVmlMTkVKci1wREhuZUpUYm1PUHNKV1RJaHUyQjFleEl1Sk1KOW9NUXV1bkJFTnYxWFBfNnFoTDZMSmpyMXlvbUdwdVQwNTZzdVpCeG5tbkoxOHVsMHNSZXl4OFktVExOZ2gxNnZUTVJjWnZoWEhzVGJaV3NKazkwck5wQThUeXlNdXJjb2c?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "f88769d97970",
+   "date": "2026-10-22",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "SpaceX rocket technology unlocking energy innovation for AI business; new revenue stream.",
+   "title": "SpaceX's rocket tech is unlocking energy innovation for its AI business",
+   "source": "Axios",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcTdvNWh3aW92ckIyNW9xZEdlREtmc1NURHp2NWxNajVLUjVQaUl6V2xfa1BOMUROT2h5cHpUMmJLbWU3d0JIWXhqNFRBdDRDYkNGOVRIbW14MkdFekFfN3phOHl0RTdGYTh6ekgxd1hGbHRQRkE5M05DVzVoVU1EQ0NBWWdkcE5uQ0M5Yjd3?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "c272be559a48",
+   "date": "2026-10-22",
+   "tickers": [
+    "META"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "Meta boosts capex outlook and announces new non-voting stock class; escalates AI investment.",
+   "title": "Meta Boosts Bet on AI With Spending Outlook, New Stock Class",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-21/meta-boosts-ai-bet-with-capex-outlook-new-stock-class-video",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "3dce4dc2a003",
+   "date": "2026-10-22",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Musk says Tesla aims to begin humanoid robot sales next year; new product launch.",
+   "title": "Musk Says Tesla Aims to Begin Humanoid Robot Sales Next Year",
+   "source": "WSJ",
+   "link": "https://www.wsj.com/business/autos/tesla-tsla-3q-earnings-report-2026-stock-a1dc9ce2?mod=pls_whats_news_us_business_f",
+   "paywall": true,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "1c33b6f21373",
+   "date": "2026-10-22",
+   "tickers": [
+    "AMZN",
+    "GOOG"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "regulation",
+   "reason": "Amazon warns new cyber flaws found using AI broadly exploited globally; security vulnerability.",
+   "title": "Amazon warns new cyber flaws detected using AI are being ‘broadly exploited’",
+   "source": "Financial Times",
+   "link": "https://www.ft.com/content/245778d9-597b-492d-b5b6-a2967c77e853?syn-25a6b1a6=1",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "02c9bc561894",
+   "date": "2026-10-22",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "management",
+   "reason": "Amazon abandons $427 million GW data center plan; revises capex strategy and pledges land donations.",
+   "title": "Amazon abandons $427 million GW campus data center plan and pledges land donations worth $65 million instead",
+   "source": "Fortune",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOY1RHRG1NVTZQUlB3bGlOX0Z4X2xnNllqWlR2QmlWNWVQb21MUHpiM1VlemlBV3hoVE1Ja1l6b0NkR0Frb3Z6WDI5WDNLZHJGZi1fbjctak5JeTF2WmlUWG5xa0o5dmJFb2xFQklhWHNTQmdOaTJMNzhveFQxZmJuT3RFWlFlZE12Nmdj?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "fcf55a81d5e2",
+   "date": "2026-10-22",
+   "tickers": [
+    "MU"
+   ],
+   "direction": "negative",
+   "importance": "low",
+   "impact_area": "competitive_advantage",
+   "reason": "Micron CTO says won't pursue 4F-squared memory chips despite CXMT advance; competitive decision.",
+   "title": "Micron won't pursue 4F-squared memory chips despite CXMT's advance: CTO",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNa3V1OEtCUExXSVBXVk82MW8zWDVHQnhTV2hCVnBMTk0wYi1JNHR4dHd5WGN1eFNEaUt5LVFHbHlFOGdGWmItTHBxYXlOZ1J6NF9OQWYtWV9kRjUyTVZwZU5Jem5zaWlLa18yTHBJcUdZXzBwbGZWNlQ1Z3BISEdSaUFYVEdmaXg2aVpUdFF6dnpZa3BtbmpOWkRQR2RVQVQxelRIb0ExZVVKdmpjZjJmUTVzWWNMWF82ZzJMbmR5MmY?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "4297d819fde3",
+   "date": "2026-10-22",
+   "tickers": [
+    "GOOG",
+    "MSFT"
+   ],
+   "direction": "unclear",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Microsoft and Alphabet opt out of tokenized stocks from OKX-NYSE plan; market infrastructure.",
+   "title": "Microsoft and Alphabet opt out of tokenized stocks in latest blow to ambitious plan from OKX and NYSE parent firm",
+   "source": "Fortune",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTEpGTXJ6c3M1V3lVWXVITzBBRGFJVXp3TVhRSlBhNDBYanhiZDVJd015ODdleEtJTHFrYVpPRTl4bHpDOFR0MXVRXy1UYVdZdlFnNThtclMtb1V3U1gwZk5CNHFiSV84YmcwNXdxRENrUThuN0MyNEtJT1Ywb25qZU5VNVdQTkdZZjNfaHJiWDVNd2M?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "14bd70e80b75",
+   "date": "2026-10-22",
+   "tickers": [
+    "XAUUSD"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "macro",
+   "reason": "Gold gains as Treasury yields stabilize and Nasdaq surges despite Fed tightening concerns; demand.",
+   "title": "Gold gains as Treasury yields stabilize, Nasdaq surges despite Fed tightening concerns - Kitco PM Report",
+   "source": "Kitco",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUGxuTFo5VGp0TGhZcEozV0RBZ2JmQ0lGX2czWkhhdjViVEc1eENPWmR2RlpFVzdFRGUycWxBSklHZkxXRHN6bnZocDZuMDdTNGRnN2lQLWY3MEtVbktuNllWODNyMzNkWHlMV18xcjIyQ0RadHpaRzZNcldTbjU1T29FbURsSV9FVmc1VEZ5TzhlZXo1VjNRODMtVkdLR3E2UWhESEpRTVB6N0pGZHdLZGJNWUZzemlDUEM0?oc=5",
+   "paywall": false,
+   "categories": [
+    "crypto_gold"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
    "id": "c0f0df380b45",
    "date": "2026-10-21",
    "tickers": [
@@ -213,6 +444,357 @@
    "paywall": true,
    "categories": [
     "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "4240cc91ae19",
+   "date": "2026-10-21",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "competitive_advantage",
+   "reason": "Bolt and Nvidia launched driverless taxi program in Madrid during 2027; extends AI edge in mobility.",
+   "title": "Bolt, Nvidia to kickstart driverless taxi programme in Madrid during 2027",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPemhEOWNPT3ZQTDRUbGZfdXNReXZpTkRkUlpMSDVpQzhwZTdnWWV1RmpHQW5aNkM1bERzUEJyMG0zMFM1OXdCQ1UzWjMzSjhWRHU3bFJhemdFMkEtVHhydkotZndvU3BzWnhOREFmakI1bWVuMEdNWkViaHR6SmhzT1NWS3JCSXlfR3pMcE43eTFQdnNvRkNGM1hadTl6Tk5zcEVPUGV0ekQyeF9RRWpRc2dvS1RjUQ?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "dc31ace230e0",
+   "date": "2026-10-21",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Einride expanded Nvidia partnership deploying AI reasoning model for self-driving trucks; revenue growth.",
+   "title": "Einride expands Nvidia partnership to deploy AI reasoning model for self-driving trucks",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZEFIVWxsdm9QSkVrWDY4UTgzc3RXRUE5YWZTVmRkaWlzZHR2THozNnA0Rkx6dWp2QndzaXdoMllsM0V4WDZEZW9XZUVKVnFicHp5eEhEbkNNNXVvZFlJZW5hVjhMcklwY0tnWHhsTWx2amd6V2RZSGY2RmVGNFpJVnRIcG1jQ2ZEYWZNd0xfeTRmRGhRSkN5WWpoQjhqM00tenZ3U3VvUXdmTUhpTVNvUVZXWUQ4aW9yVlFvWHNmdXpKeEk?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "5e6a6f1132cd",
+   "date": "2026-10-21",
+   "tickers": [
+    "MU"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "management",
+   "reason": "Micron faces Taiwan union strike after deal with another union; labor cost and production risk.",
+   "title": "Micron faces strike from one Taiwan union after deal with another",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOV193bUJ6bXZZcHp1Q0tId1ZUdU90Um9BR09QOU0wZ0pxNmJtVFhSbVhBMi1hdXY5ajVReHFJSVVseXY2V2Z4N3hEcTEzenJJSVAwRnNCWXVnV1NudWdqalpwenc5eDhBSTVVaUZYZ1kxaTlpcEh4NWRSSkdrMUVZeDhlQTZXU2RFQ3oyZDVwU0tsbFFRRzRIMGpiODVjM0otVUJlVEZRSmV5UGtpYXJBY3B1aw?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "448114578b79",
+   "date": "2026-10-21",
+   "tickers": [
+    "TSM"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "management",
+   "reason": "TSMC halted Taiwan construction after four workers killed; impacts capacity expansion timeline.",
+   "title": "TSMC says four construction workers killed at Taiwan site, halting work",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQXhBdDJleHE3cU1rZmExdmZwX0szZENmbkYwODFUeXJYcnBrMFZSSmRnMFptVUpiSjFYNko2QUttaEVaTlRhVUo5eVpTU1NVNGE2WVFOSWFPQTlaYXVYOXR5UTdYN0FfTlNQSTJYYU5lV2RxOFlXbDUwdWZ0b1RhemNsLW9EOWpFVUh6N1NLeW80Z25JYjBwbDhDanpySzA0MVhfdlR3UldSYXZzbWU3VUIwdWtYY2tocng1Vm5Gaw?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "4d7548f1f63e",
+   "date": "2026-10-21",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "SpaceX reported surging Q3 revenue growth and earnings beat; Musk hints at Tesla merger.",
+   "title": "SpaceX stock jumps 10% after earnings beat and Musk hints at Tesla tie-up",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/21/spacex-spcx-stock-musk-merger-tesla.html",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "a9d64e4cb5db",
+   "date": "2026-10-21",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "competitive_advantage",
+   "reason": "Nvidia announced Vera Rubin racks in shipping containers; accelerates AI deployment speed.",
+   "title": "Nvidia announces plug and play Vera Rubin racks that can be shipped on a truck",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/21/nvidia-announces-vera-rubin-racks-that-can-be-shipped-on-a-truck-.html",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "8673435968fd",
+   "date": "2026-10-21",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "OpenAI bringing models to Google Cloud alongside Azure and AWS; broadens cloud revenue.",
+   "title": "OpenAI to bring AI models to Google's cloud, in further expansion beyond Microsoft",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/21/openai-bring-its-ai-models-to-googles-cloud-expands-beyond-microsoft.html",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "c77bdcc0e68c",
+   "date": "2026-10-21",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "unclear",
+   "importance": "medium",
+   "impact_area": "other",
+   "reason": "Elon Musk confirms considering merging Tesla and SpaceX; committees formed to evaluate.",
+   "title": "Elon Musk confirms he is considering merging Tesla and SpaceX",
+   "source": "BBC",
+   "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "f0f6c4c47f99",
+   "date": "2026-10-21",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "competitive_advantage",
+   "reason": "SpaceX to attempt Starship catch aiming for rapid cadence increase; production efficiency gain.",
+   "title": "SpaceX to attempt Starship catch on next flight, with eye on rapid cadence increase",
+   "source": "Ars Technica",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQ2dWWWJSd201Y1BJYmtVOWpnVGRSamJ1OUJTY3VzaDBmdjRRY1ZBZDJjNkxxMnlHZ2ZRbmJhN1RpMU9wNUhVSTI1T0Y2RURaYnpGN3dhQXBWRHhSZ2xvYzZ4d2xWczZnQVlUX0EydFpJWFJ6emNTU1J2YVJGZm8wWE5NSFBkVE93ODVuZnF5WWs3N05RdnVDWWlGWjJHM0RJTmlMYXdtczNTZw?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "eef93a304667",
+   "date": "2026-10-21",
+   "tickers": [
+    "6981"
+   ],
+   "direction": "unclear",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Murata Manufacturing sets October 30 earnings date; timing announcement.",
+   "title": "Murata Manufacturing stock: Murata sets October 30 earnings date",
+   "source": "AD HOC NEWS",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNUo5TXExbEszbEY5NnhPTVdYeFpTNmZaTjNZaHVhNDRjTEg5Zk1PWDRTTEI2Z1c3WFk5LU1oS2RBUkFtT0pYdDJJSkhVS2hWWFZyYUVfUE5EaVBvT0RRY050Vjc0MjlycjV1M0NhblZVX1pZbC1zNEZpVmtIaS0yYWdmblFoVEZ1XzZ3aE5FWVAyWlRmUm5HWXZDUmNEdTk5VHZSVEJOeTEwY2IwZmZKQl9XNEQ5Zk10VzdaOG1PaHVpMlR1?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "35edfff6967d",
+   "date": "2026-10-21",
+   "tickers": [
+    "GOOG",
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Google Cloud and Nvidia announce general availability of Vera Rubin Infrastructure; partnership revenue.",
+   "title": "Google Cloud and NVIDIA Announce General Availability of NVIDIA Vera Rubin Infrastructure",
+   "source": "NVIDIA Newsroom",
+   "link": "https://blogs.nvidia.com/blog/google-cloud-vera-rubin-infrastructure/",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "251ef1bf0879",
+   "date": "2026-10-21",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "competitive_advantage",
+   "reason": "Nvidia and supply chain partners expand manufacturing capacity for AI infrastructure; production scaling.",
+   "title": "NVIDIA and Supply Chain Partners Expand Capacity to Accelerate AI Infrastructure Buildout",
+   "source": "NVIDIA Newsroom",
+   "link": "https://nvidianews.nvidia.com/news/nvidia-and-supply-chain-partners-expand-capacity-to-accelerate-ai-infrastructure-buildout",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "7396831fef8b",
+   "date": "2026-10-21",
+   "tickers": [
+    "6981"
+   ],
+   "direction": "unclear",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Murata develops ultra-compact NTC thermistor; minor product feature update.",
+   "title": "Murata unveils smaller thermistor. Murata Manufacturing stock is valued at USD 80.2 billion",
+   "source": "AD HOC NEWS",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPeVBVOGU5b1h1YzV4cWs5bno3VzR0RG05Ujl2T014bmxIUV9wQ1g4dmJVZWFtNlVjNXk3clJjV0xIT1JidTBjb2FHSVltUTY4VFluSVlWSWpzMk5seUctcXNNcnJtRklCRlFybzZKNWdrYXZ5YjZhTnZmR2JsV0lqX1VUMUs2WE9WVG14SzFkSHBqTG13TnNkNkhHakkydDByU0ZXVC0tLUxsLUdReGZBWTRUdThkMU56SW8ya1dBOFdPMXhkV0dGZ3JvTFNkdkJVMDMzSkZLZklwVzdZakdNNnJUWDNpMmNh?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "products"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "99da07882833",
+   "date": "2026-10-21",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "management",
+   "reason": "Amazon to hire 300,000 workers for holidays; increased labor capacity and sales push.",
+   "title": "Trump Hands Out $8 Billion to Farmers; Kroger Targets Earnings Growth",
+   "source": "WSJ",
+   "link": "https://www.wsj.com/cfo-journal/trump-hands-out-8-billion-to-farmers-kroger-targets-earnings-growth-b3446f86?mod=pls_whats_news_us_business_f",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "c9b26fdee818",
+   "date": "2026-10-21",
+   "tickers": [
+    "CRM"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "Salesforce to acquire Braze marketing software for $5.7 billion; M&A expands revenue streams.",
+   "title": "Salesforce to Acquire Marketing Software Maker Braze for Nearly $5.7 Billion",
+   "source": "The Information",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVVVTTzlVdTJuc2tYV0g3UkNIMW81dThSTWo2T05WQ24wZlptM3NRc2ZHTDgwMUdVUER6d3M2NVdQbWoza0h5QTRtRmR5andYanc1UklidVkwUlhLRko0Q1VpR0lpai1QWmVNM2V3WVRsNjl5a0V3SEQxc0VvX0o4eENWbmhURlc2d3UzWHJvZVgyRmQ3S193LXFxRjdXeUN0aDA2b25PRkVjRkVMdUE?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "bea0579a1cd0",
+   "date": "2026-10-21",
+   "tickers": [
+    "XAUUSD"
+   ],
+   "direction": "unclear",
+   "importance": "low",
+   "impact_area": "macro",
+   "reason": "Gold edges higher as yields retreat with Fed decision in focus; macro sensitivity.",
+   "title": "Gold edges higher as yields retreat, Fed decision in focus",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNY2dJZXdfdnptbDVvajUtNHBONy13T1Z5aEtVc3d2d2VDYUNpUEpTM1JxNGVZRFhiQmh1b1U2RWpOaW0zVndyQk9uSFZ6b0pQXzVvNUhRMFVXeEMzS3BrU1FkdE9tNEYxY21PdDFEWGplNkkwMkJ2Rkk5VVg2VUVDcXFIUmp4cUR4SnhqQ2h6b3hYTExtTkhCNGtqZWt6WUtUYURrc3owUUptdw?oc=5",
+   "paywall": false,
+   "categories": [
+    "fed",
+    "crypto_gold"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "4fb7f7f41ecd",
+   "date": "2026-10-21",
+   "tickers": [
+    "XAUUSD"
+   ],
+   "direction": "negative",
+   "importance": "low",
+   "impact_area": "macro",
+   "reason": "Russia sells 6.2 tonnes gold in September; reserves fall to lowest since 2019.",
+   "title": "Russia sells 6.2 tonnes of gold in September as bullion reserves fall to lowest level since 2019",
+   "source": "Kitco",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRTlLMTBNZUtSdy02UW5DVWtpQXdSRURvOVNuQ2E4VUw4UUhmc1ktdXM1bnAzZGFrb2Q5MGxvcUVZVUt2N1RzMVN4bFVaVkxuRjNaajJnM25paVJubzBKbFU3SHhUTkxsZ2szS3phdjVLNGx1ZnRRLXo0WTd4cndlcVhISU1oUmpXSVpETEhhTFlVY2pkYTJEZ2c5eVRqNzZ6UXdjRURIT015cjloNWY0cHhHSUU2UzBOd2c?oc=5",
+   "paywall": false,
+   "categories": [
+    "crypto_gold"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "b480a8760099",
+   "date": "2026-10-21",
+   "tickers": [
+    "SPCX",
+    "BTCUSD"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "SpaceX and Tesla explore merger uniting more than 30,000 bitcoin; crypto exposure.",
+   "title": "SpaceX and Tesla explore merger that would unite more than 30,000 bitcoin",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/markets/2026/10/21/spacex-and-tesla-explore-merger-that-would-unite-more-than-30-000-bitcoin",
+   "paywall": false,
+   "categories": [
+    "crypto_gold"
    ],
    "model": "claude-haiku-4-5"
   },
@@ -525,6 +1107,45 @@
    "paywall": true,
    "categories": [
     "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "79e68db6f313",
+   "date": "2026-10-20",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "management",
+   "reason": "Google Cloud outage hit London banks and businesses; infrastructure reliability issue.",
+   "title": "Google Cloud outage: banks among businesses hit by IT failure",
+   "source": "The Times",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMmRodDFJemVJQnIySzZhdzBjckJkeFN0VUdjNmJGQU14RF8wbTFUQjh6WFljc1FZMjBNRXJ2ODdoVVlMR0ZxWUxXNDJpVDFkM3Rralc3Vk0xM1VaUERDRTdia1BfQjZPOHZpN1ZZV0pFRjRMdTRNeFdfaXJfNWpUWjJXcUxONmcyRzFzVkxsSS0yQ29ISkw5MTJodi1xNU1NV2RvQVgzMW5OMmIwRTVpX253SHpqMHBFU2Y4bEJZOFRVOFREM0ZkSHZJcHN0WEhM?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "cc8f8c60725f",
+   "date": "2026-10-20",
+   "tickers": [
+    "META"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "EssilorLuxottica Ray-Ban smartglasses sales jumped 20% Q3 via Meta partnership; strong demand.",
+   "title": "Ray-Ban Maker EssilorLuxottica’s Sales Rise, Buoyed by Smartglasses",
+   "source": "WSJ",
+   "link": "https://www.wsj.com/business/earnings/ray-ban-maker-essilorluxotticas-sales-rise-buoyed-by-smartglasses-3c37b1f6?mod=pls_whats_news_us_business_f",
+   "paywall": true,
+   "categories": [
+    "watchlist",
+    "deals"
    ],
    "model": "claude-haiku-4-5"
   },
