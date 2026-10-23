@@ -1,10 +1,184 @@
 {
- "generated": "2026-10-22T02:28:02Z",
+ "generated": "2026-10-23T02:32:55Z",
  "months": [
   "2026-09",
   "2026-10"
  ],
  "items": [
+  {
+   "id": "7e7b0ead6985",
+   "date": "2026-10-23",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "competitive_advantage",
+   "reason": "SpaceX seeks access sa 80,000 US cell sites เพื่อสร้างเครือข่ายไร้สาย ขยายบริการลงมา",
+   "title": "SpaceX seeks access to 80,000 US cell sites for wireless network, Bloomberg News reports",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNkVLZDlMTHpYQ3NKQVdYUmhibWRhQkdWRTcxUXQ3N3lzSDZnS2hYZjhhSmxhcXFob0ZHbjNTVnktRFNSRmJvZnRJcEtadjhHZWFZLXA0TUI0ODExWHJxUW5uWjRlOXp5QlhUWW12WWVpeDVCUHV2ODlWbHlNcU5pU3JKalhDbUpFYWtfTGUzWnA5Z096dldmcFVPVTV2eWlDcWVzTGhSZ3hEODBjS3BROW4yN3BFSFdLYUN3XzIyUFpLbmo4N2MxbXRQNXJKc1R4V05Neg?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "0dd6543bd0d2",
+   "date": "2026-10-23",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "revenue",
+   "reason": "SpaceX บันทึก investment gain $561 million จาก stake ใน Boring Co.",
+   "title": "SpaceX records $561 million investment gain from stake in Elon Musk's Boring Co.",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/22/spacex-records-561-million-investment-gain-from-stake-in-boring-co.html",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "5b12a4ed751c",
+   "date": "2026-10-23",
+   "tickers": [
+    "AMZN",
+    "SPCX"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "competitive_advantage",
+   "reason": "Musk conflict Ukraine ชักจูงให้หา Starlink alternatives, AMZN ล่าช้า",
+   "title": "Musk's clash with Ukraine accelerates demand for Starlink alternatives. Few exist",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/22/elon-musk-ukraine-starlink-alternatives.html",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "a7b2b7136b73",
+   "date": "2026-10-23",
+   "tickers": [
+    "AMZN",
+    "META"
+   ],
+   "direction": "unclear",
+   "importance": "low",
+   "impact_area": "competitive_advantage",
+   "reason": "Meta Muse personal agents อาจ challenge Amazon, Apple ใน AI growth",
+   "title": "Personal agents like Meta's Muse could fuel AI’s growth — and challenge Amazon and Apple",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB4YzVvSnA0elBRdWdhaC15QW1CZzZoZTluQjBzSV81aFNpdkpncUdJN1NPLVdLZXpra0lZeDZkS25xREJqUEFXdTYxME9nVXdvdFFNNkwyYWh5R3p3SUFubGFNcHVkTmRIX2J2X2FuSFVKTlU?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "a43cbcddcbf1",
+   "date": "2026-10-23",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "competitive_advantage",
+   "reason": "Ukraine explore own satellite network หลังจาก SpaceX disruption",
+   "title": "Ukraine explores its own satellite network after SpaceX disruptions",
+   "source": "SpaceNews",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcXc2a2t2ZGtCMGtxTFhJbnRrVW1vX3pyS09lZ2c3bHdLMDNkRGZRZ1Npc0VEQnE5ajRUZ2ZxS2ZodkVlcV9yNnVnemY4LUtUa3hDalVfT096YmVjU3FVU21TNGFEUzhPNGl5Tk5rNWs2ZjVnVU9teG1wSzB2RnQwU0tPS0Z2c1pFb2FlQjZCRzNRdTYt?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "b0b1a2352cff",
+   "date": "2026-10-23",
+   "tickers": [
+    "MSFT"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "competitive_advantage",
+   "reason": "Microsoft AI tool diagnose ดีกว่า doctors ปรับ competitive position healthcare",
+   "title": "Microsoft says its AI tool is better than doctors at diagnosing conditions",
+   "source": "The Verge",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOamtUNVg3S1hZVlF1RGZ4akg3NThwTERFbWpQaUcyMmQ1LVdXM21CYU1mbUhEd28tS2ZicXp1TTBwUlB5Q0xtZllvdkl3WW5sdFZrUXdYRHV4Sk10X3pMWXpBYWhsT1ljQ3BRLUZ3ZXpXeElFX2VqWXRjcm9NYV9vU3hTb1NZM0tCNTJLNnBNaW5XVTJTd2ZyNkxpYlQ4aFpUZDc3MXBmUzZySkdRa0drQnZVdDBqcmc0aUl4QnpaUkRGYUE0UnQzMHdZMVpGRmRuWmc?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "5c38480e3541",
+   "date": "2026-10-23",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "regulation",
+   "reason": "Trump called Musk lift Ukraine Starlink limit ทำให้เกิด regulatory risk",
+   "title": "Trump Called Musk to Lift Ukraine Starlink Limits, WSJ Says",
+   "source": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTFJPZnQ3YUlWNWUzVHVDSHpUQThqYkwzbDdxMFdDLUhiVmZrNGR5OTRuZ2MzNlRnOW55YjRFSGthNUdzN1JYU2xTT3BDNjhxVXVTSWJ3QktiZ0x5bFhJZTFRbTltWlRxM0RCelR6VUpNc19ULVE1aFJDTkdobXNSaUFRRXFsQTNHWmt0X2JNRFVxRGFMZ1pjZWRKMW42V2Y3ZkxuaVFzcXpYWnkzN1BVM0tR?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "38cd97401b26",
+   "date": "2026-10-23",
+   "tickers": [
+    "META"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "Meta market value sink $124 billion หลังประกาศ AI spending \"hundreds billions\"",
+   "title": "Nasdaq tumbles while Treasuries soar as Meta rekindles AI spending fears",
+   "source": "Financial Times",
+   "link": "https://www.ft.com/content/6e318b81-a771-4842-9754-e265fef2852f?syn-25a6b1a6=1",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "a9907fb039f3",
+   "date": "2026-10-23",
+   "tickers": [
+    "CRM"
+   ],
+   "direction": "negative",
+   "importance": "low",
+   "impact_area": "revenue",
+   "reason": "Salesforce customer brace new fee Claude app integration cost increase",
+   "title": "Salesforce Customers Brace For New Fees to Use Claude in Its Apps",
+   "source": "The Information",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONXd6VVE5Uk5kaWUwWmI4R0I3WTZaY0xGdDFBTVFSLWNLdW5zTHY4SXVNdUEyY00tSDJEQ292NkpLTDN2VW9MZEN3eGhQdXk3Ry1TMVhFNGFiMjBMQUx1TGtlb1ZPcjlKMFpoLTdPSXhBTU5iT2Y4NWJOaEpSM0I4NXNOSjB4ZWFkbG5CXzRZYUV6ZndFRzZJNFZVTHRQb0FoNnFfUy1EaFo?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
   {
    "id": "66a87d1564b9",
    "date": "2026-10-22",
@@ -230,6 +404,297 @@
    "title": "Gold gains as Treasury yields stabilize, Nasdaq surges despite Fed tightening concerns - Kitco PM Report",
    "source": "Kitco",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUGxuTFo5VGp0TGhZcEozV0RBZ2JmQ0lGX2czWkhhdjViVEc1eENPWmR2RlpFVzdFRGUycWxBSklHZkxXRHN6bnZocDZuMDdTNGRnN2lQLWY3MEtVbktuNllWODNyMzNkWHlMV18xcjIyQ0RadHpaRzZNcldTbjU1T29FbURsSV9FVmc1VEZ5TzhlZXo1VjNRODMtVkdLR3E2UWhESEpRTVB6N0pGZHdLZGJNWUZzemlDUEM0?oc=5",
+   "paywall": false,
+   "categories": [
+    "crypto_gold"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "efc553d53487",
+   "date": "2026-10-22",
+   "tickers": [
+    "META"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "regulation",
+   "reason": "Meta มีโอกาสสูง ได้รับ penalty $25 billion ลดลงในการอุทธรณ์",
+   "title": "Meta has strong chance of getting $25 billion New Mexico penalty slashed on appeal, experts say",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNmJDVWZDbGFIeUdUbnJCT1lxWFVMN3RJbENSdm1QRTZkcExxb3NNV1Q0UFlRbUl2Ymk2TXZTQjd1dDAtUGdvRVJxZVVrZHJwS0tULWI2YlRmV3RVUnI0emhqcXVfVmw5cTZEZ0FORDcyZTBKejh2Z203Z2t2Wmhud2FlMWl5MHY5UzRNME85LUZueDJqRnJnQnU4U3RiWlh6UDN3UEc2c1BSQUdTODd2b1F0d05jUGUwdzFmRw?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "6f30a1e21036",
+   "date": "2026-10-22",
+   "tickers": [
+    "TSM"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "competitive_advantage",
+   "reason": "TSMC หา factory equipment ทั้งนอก China rare earths เพิ่ม supply chain flexibility",
+   "title": "EXCLUSIVE: TSMC seeks factory-equipment alternatives to thwart China's rare earths grip, sources say",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVDZiLXZ3MjNBLVhJa0g3VzJ0SU9MalBLSjFrMWlJUVhXd21CY0x2OVo3SUVLV25tNnBDZVBKYnN4b1E2ZHd4Rm9FTzVGMDYySmtfU1lBRkxYUFl2eGlOWjllZEptTVZ6V3BVVFVtQVBaODVqWmp1V3dTckg2WUZVQVRYNTFIZU9yLU81bVJTNEhzZG8xR0xVNnFUcTRXSkg0cFVLOHBxSjVXSzdtdS13cFF4RkpscWdLeXdPb3Q4Sk9GQ1dybDZn?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "a317dd2ae330",
+   "date": "2026-10-22",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "revenue",
+   "reason": "Samsung Electro-Mechanics ได้ chip investment $2.8 billion จาก Tesla, Nvidia",
+   "title": "Samsung Electro-Mechanics gets $2.8 billion chip investment from Tesla, Nvidia, report says",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdTVKdGwtT1Q1eW9NVV8zZG9kakgxTk5vendNTS1NcEZYMEZGNE5ERVNCRkM3Qk5XMlZaY0xMeXIwQlYwMzJvQmpxc2M5SVlMbEVKYWpCMEsxSjA1Y1k5b1RkcXRKSFRSeUhQSmVhV2JvZ2V4STZzdmg2YURIOXd2dUVkTDdLQllVTmlNYjB3b0xkY09YMmd0b2ZNcTZSb00xc0R0VW5yZ1l6UkdTREIyTk1zZnVCS3RqcDE4Q0llaGF1UFEtanVTc1VLcF9XVVJyQ0wycmUzbnJZRTQ?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "888000c57f00",
+   "date": "2026-10-22",
+   "tickers": [
+    "ASML"
+   ],
+   "direction": "negative",
+   "importance": "low",
+   "impact_area": "competitive_advantage",
+   "reason": "Besi บอกว่า ASML ไม่ใช่ hybrid bonding rival แข่งขันลด",
+   "title": "Besi beats order forecasts, says ASML not a hybrid bonding rival",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdE1mUmlrSjRPUWFwSm9oTm9JdWQ5QXZERFBiMERmcXFwb09xZG1LLV9CQXJ3dVZZUFBFeFZMR3V4RGEwYU5OaXlzaFN2aU9yZXB6QVprUFJxdVNXUmJuQmQ5d2swdi1Vak90eExFdDNtOUlYTy10QnZIRzlxUHM2cWFtNFdoemtwOXJHOHM0ZWVGMVIwQTd0MWpDUHJwOW9zNVU2MXdCR2hJV0lfaHYxY2dyZFVicDdnSWFqcg?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "96e35b590dba",
+   "date": "2026-10-22",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "Ukraine Starlink slowdown เพิ่ม business risk ใจ Musk partners",
+   "title": "Ukraine Starlink slowdown raises business risks for Elon Musk partners",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQVJDcjc2bG9zLXpLU3puUE5yS29HRVZhUmJ6eEttSUNCUjJwUGQyR1BKMW9TeGpSMDJfQTdSVlhHRDB0akNZdnl1Q0s2VEJiazZPaDEwVjQ0V3VUZlhmOUJkZ2h1TEhoX3ZXWEFieTdnZVZ6TFc2c09ub2lYUTlkQ3Y4akNMRFNS0gGOAUFVX3lxTE5aUDJPSTRCeTRZWmo5OTVGZ1dMQ0gxUnl6Y1RoNWRUaGFUQmJ0UVBKWlZrbmJDM0xXMlBpZXRfZkEweTlyWC1EdTNHVlREOTdLMGdSdXY0LXdNVWl1VUh3djN0TlpscEhQY3dpSi03TTQ5SGRGNkNCbWFJNE01QnNqbjlMdTlyMEk4M3VrYkE?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "b80e53ecc3ce",
+   "date": "2026-10-22",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "revenue",
+   "reason": "Nvidia unveil Minerva AIOps platform ช่วย AI factories หา problem early",
+   "title": "NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories",
+   "source": "NVIDIA Newsroom",
+   "link": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "products"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "2aea13218f4e",
+   "date": "2026-10-22",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "revenue",
+   "reason": "Google, Voltus สร้าง 1-gigawatt virtual power plant grid reliability",
+   "title": "We are working with Voltus to build a 1-gigawatt virtual power plant.",
+   "source": "Google Blog",
+   "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virtual-power-plant-1-gigawatt/",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "5d6528e2e42a",
+   "date": "2026-10-22",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "competitive_advantage",
+   "reason": "European financial orgs embrace NVIDIA open models build proprietary intelligence",
+   "title": "Leading European Financial Services Organizations Embrace Open Models to Build Proprietary Intelligence",
+   "source": "NVIDIA Newsroom",
+   "link": "https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence/",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "64421d5b0019",
+   "date": "2026-10-22",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "revenue",
+   "reason": "Nvidia expand Cosmos world models platform training tools simulation",
+   "title": "NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models",
+   "source": "NVIDIA Newsroom",
+   "link": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "6d66cd5049c5",
+   "date": "2026-10-22",
+   "tickers": [
+    "NVDA",
+    "SPCX"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "revenue",
+   "reason": "SpaceX Apollo Nvidia launch Grok partnership program ขยาย business",
+   "title": "SpaceX Works With Apollo, Nvidia on New Grok Partnership Program",
+   "source": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNEM3cUxUNzF4cHR5V2Y2SU1keG1JNVFjZFMwUThCS1hPOWI2RmgzN1pLbTNUSnBEMGFIZkl1Z1BNV2RUUkEzUnJDc3JPSmJ1V0NuWDh3dkdYcnVPYkFCMjQyZkRMV3ZrcTZNRnM5V3hQdVI4c2YtMXhzZDNKaVZXVHVTQ0dpQUtfalprWnJWdVBxOUJscUd6OWdCUzZpV05yQkVobDhhSzAtTThfVEVrUUl5Mm0?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "fe3cd91418e6",
+   "date": "2026-10-22",
+   "tickers": [
+    "6758"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Grand Theft Auto VI drive PlayStation 5 sales jump 22% Sony growth",
+   "title": "‘Grand Theft Auto VI’ Fuels 22% Jump in Sony PlayStation 5 Sales",
+   "source": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY1NYUlg3ZzNkRng1dVZiQTl5S3IzNm81LWl3SjR6YlFTOGtxNnpWSkZfOGo0OEtOM0FFc0V3QWZFc3lWTjJXNGtvVVlsRlBJZ3Jtb1dYLTNlc2hhM3dwRkFXV3JIMjRpa3lla3hkbGZYSzBERzlrV0xySmZzTFB4NkJ2M0N4ZHRqQV95ZXcyRDlFUnMzdlRuU2ZEa2otb19rV3QxVEM3WF9obkJaWWJwNHhLTQ?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "0229b406211b",
+   "date": "2026-10-22",
+   "tickers": [
+    "META"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "regulation",
+   "reason": "Meta lose data-privacy case อาจ impact business regulation standing",
+   "title": "PE Firms Are Holding Investments Longer—and Changing Leaders More",
+   "source": "WSJ",
+   "link": "https://www.wsj.com/cfo-journal/pe-firms-are-holding-investments-longerand-changing-leaders-more-2d0bb31a?mod=pls_whats_news_us_business_f",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "6afc8ff87880",
+   "date": "2026-10-22",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "competitive_advantage",
+   "reason": "Starlink saga แสดง Europe need own satellite network launch capacity",
+   "title": "Starlink saga shows why Europe must catch up in space",
+   "source": "Financial Times",
+   "link": "https://www.ft.com/content/73986a48-b513-458b-b8ea-f9e11ed3e941?syn-25a6b1a6=1",
+   "paywall": true,
+   "categories": [
+    "watchlist",
+    "products"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "cb0fcc418343",
+   "date": "2026-10-22",
+   "tickers": [
+    "META"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "Meta stock split pave way huge AI financing deal fund expansion",
+   "title": "Meta’s Stock Split Paves Way for Huge AI Financing Deal",
+   "source": "Barron's",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQclVZYi1ZSWIzcjFXUVdfWTUzVVh0eUtRRkxmVllWNm1yYzA1Q2s3dVZmVTdPZDlsNjlSR2pfdnpBMkRoZ0Q2UTU4M1ZPajNuekxVZV9tX3dyXzFLNWZ1THFHQmNPZUxiSHNFVkNrRkVMdXhla0hHSVpabEloYndobUp5bFlmN2M?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "76a8fba64fe6",
+   "date": "2026-10-22",
+   "tickers": [
+    "BTCUSD"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "regulation",
+   "reason": "China confiscate 61,800 BTC fraud scheme regulatory risk Bitcoin",
+   "title": "China seeks to seize 61,800 BTC tied to $5.7 billion fraud scheme",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/markets/2026/10/22/china-seeks-to-seize-61-800-btc-tied-to-usd5-7-billion-fraud-scheme",
    "paywall": false,
    "categories": [
     "crypto_gold"
@@ -1150,6 +1615,25 @@
    "categories": [
     "watchlist",
     "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "a2b946501ebf",
+   "date": "2026-10-20",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "revenue",
+   "reason": "European leader turn Nvidia Vera CPU build infrastructure agentic computing",
+   "title": "European Leaders Turn to NVIDIA Vera CPUs to Build Local Infrastructure",
+   "source": "NVIDIA Newsroom",
+   "link": "https://blogs.nvidia.com/blog/european-leaders-vera-cpu-infrastructure/",
+   "paywall": false,
+   "categories": [
+    "watchlist"
    ],
    "model": "claude-haiku-4-5"
   },
