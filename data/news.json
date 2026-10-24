@@ -1,20 +1,20 @@
 {
- "generated": "2026-10-23T02:31:49Z",
+ "generated": "2026-10-24T02:29:38Z",
  "ai": {
   "ok": true,
-  "sent": 151,
-  "labeled": 149,
+  "sent": 110,
+  "labeled": 105,
   "over_cap": 0,
   "model": "claude-haiku-4-5",
-  "input_tokens": 8344,
-  "output_tokens": 1794,
-  "cost_usd": 0.01731,
-  "month_to_date_usd": 0.6119
+  "input_tokens": 6071,
+  "output_tokens": 1739,
+  "cost_usd": 0.01477,
+  "month_to_date_usd": 0.6267
  },
  "stats": {
-  "new_items": 148,
-  "total_items": 840,
-  "history_added": 25,
+  "new_items": 108,
+  "total_items": 828,
+  "history_added": 19,
   "sources_ok": 67,
   "sources_total": 68,
   "deleted_old_files": []
@@ -25,7 +25,7 @@
    "ok": true,
    "error": null,
    "fetched": 30,
-   "relevant": 12
+   "relevant": 9
   },
   {
    "name": "CNBC Business",
@@ -39,13 +39,13 @@
    "ok": true,
    "error": null,
    "fetched": 30,
-   "relevant": 14
+   "relevant": 15
   },
   {
    "name": "CNBC Investing",
    "ok": true,
    "error": null,
-   "fetched": 26,
+   "fetched": 25,
    "relevant": 0
   },
   {
@@ -53,14 +53,14 @@
    "ok": true,
    "error": null,
    "fetched": 30,
-   "relevant": 1
+   "relevant": 0
   },
   {
    "name": "CNBC Economy",
    "ok": true,
    "error": null,
    "fetched": 30,
-   "relevant": 2
+   "relevant": 0
   },
   {
    "name": "CNBC Earnings",
@@ -74,70 +74,70 @@
    "ok": true,
    "error": null,
    "fetched": 10,
-   "relevant": 5
+   "relevant": 1
   },
   {
    "name": "WSJ Markets",
    "ok": true,
    "error": null,
-   "fetched": 61,
-   "relevant": 9
+   "fetched": 60,
+   "relevant": 10
   },
   {
    "name": "WSJ Business",
    "ok": true,
    "error": null,
    "fetched": 85,
-   "relevant": 15
+   "relevant": 12
   },
   {
    "name": "WSJ Tech",
    "ok": true,
    "error": null,
    "fetched": 40,
-   "relevant": 14
+   "relevant": 7
   },
   {
    "name": "Bloomberg Markets",
    "ok": true,
    "error": null,
    "fetched": 20,
-   "relevant": 11
+   "relevant": 8
   },
   {
    "name": "Bloomberg Technology",
    "ok": true,
    "error": null,
    "fetched": 20,
-   "relevant": 4
+   "relevant": 3
   },
   {
    "name": "FT Markets",
    "ok": true,
    "error": null,
    "fetched": 25,
-   "relevant": 2
+   "relevant": 6
   },
   {
    "name": "FT Companies",
    "ok": true,
    "error": null,
    "fetched": 25,
-   "relevant": 3
+   "relevant": 2
   },
   {
    "name": "BBC Business",
    "ok": true,
    "error": null,
-   "fetched": 57,
-   "relevant": 4
+   "fetched": 55,
+   "relevant": 1
   },
   {
    "name": "Guardian Business",
    "ok": true,
    "error": null,
-   "fetched": 40,
-   "relevant": 4
+   "fetched": 34,
+   "relevant": 2
   },
   {
    "name": "Seeking Alpha Market Currents",
@@ -179,7 +179,7 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "relevant": 3
+   "relevant": 2
   },
   {
    "name": "TechCrunch",
@@ -193,42 +193,42 @@
    "ok": true,
    "error": null,
    "fetched": 10,
-   "relevant": 2
+   "relevant": 0
   },
   {
    "name": "Ars Technica",
    "ok": true,
    "error": null,
    "fetched": 20,
-   "relevant": 0
+   "relevant": 1
   },
   {
    "name": "NVIDIA Newsroom",
    "ok": true,
    "error": null,
    "fetched": 20,
-   "relevant": 18
+   "relevant": 7
   },
   {
    "name": "Google Blog",
    "ok": true,
    "error": null,
    "fetched": 20,
-   "relevant": 4
+   "relevant": 2
   },
   {
    "name": "Meta Newsroom",
    "ok": true,
    "error": null,
    "fetched": 10,
-   "relevant": 0
+   "relevant": 1
   },
   {
    "name": "Amazon News",
    "ok": true,
    "error": null,
    "fetched": 10,
-   "relevant": 0
+   "relevant": 2
   },
   {
    "name": "Salesforce News",
@@ -242,14 +242,14 @@
    "ok": true,
    "error": null,
    "fetched": 25,
-   "relevant": 7
+   "relevant": 9
   },
   {
    "name": "The Block",
    "ok": true,
    "error": null,
    "fetched": 19,
-   "relevant": 2
+   "relevant": 3
   },
   {
    "name": "Decrypt",
@@ -263,49 +263,49 @@
    "ok": true,
    "error": null,
    "fetched": 30,
-   "relevant": 9
+   "relevant": 10
   },
   {
    "name": "Mining.com (Gold)",
    "ok": true,
    "error": null,
    "fetched": 36,
-   "relevant": 4
+   "relevant": 6
   },
   {
    "name": "Reuters (Fed)",
    "ok": true,
    "error": null,
-   "fetched": 55,
-   "relevant": 6
+   "fetched": 98,
+   "relevant": 4
   },
   {
    "name": "Reuters (ทองคำ)",
    "ok": true,
    "error": null,
    "fetched": 100,
-   "relevant": 2
+   "relevant": 5
   },
   {
    "name": "Reuters (Bitcoin)",
    "ok": true,
    "error": null,
-   "fetched": 8,
+   "fetched": 13,
    "relevant": 0
   },
   {
    "name": "Kitco (ทองคำ)",
    "ok": true,
    "error": null,
-   "fetched": 100,
-   "relevant": 16
+   "fetched": 98,
+   "relevant": 18
   },
   {
    "name": "AP (ภาพรวมตลาด)",
    "ok": true,
    "error": null,
    "fetched": 100,
-   "relevant": 1
+   "relevant": 2
   },
   {
    "name": "Google News: AMD",
@@ -319,14 +319,14 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "relevant": 5
+   "relevant": 4
   },
   {
    "name": "Google News: ASML",
    "ok": true,
    "error": null,
-   "fetched": 43,
-   "relevant": 2
+   "fetched": 44,
+   "relevant": 1
   },
   {
    "name": "Google News: AVGO",
@@ -339,14 +339,14 @@
    "name": "Google News: CRM",
    "ok": true,
    "error": null,
-   "fetched": 100,
-   "relevant": 3
+   "fetched": 82,
+   "relevant": 1
   },
   {
    "name": "Google News: GEV",
    "ok": true,
    "error": null,
-   "fetched": 68,
+   "fetched": 63,
    "relevant": 2
   },
   {
@@ -354,7 +354,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "relevant": 15
+   "relevant": 7
   },
   {
    "name": "Google News: META",
@@ -368,20 +368,20 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "relevant": 7
+   "relevant": 5
   },
   {
    "name": "Google News: MU",
    "ok": true,
    "error": null,
    "fetched": 100,
-   "relevant": 8
+   "relevant": 4
   },
   {
    "name": "Google News: NOW",
    "ok": true,
    "error": null,
-   "fetched": 86,
+   "fetched": 72,
    "relevant": 1
   },
   {
@@ -389,20 +389,20 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "relevant": 15
+   "relevant": 12
   },
   {
    "name": "Google News: OUST",
    "ok": true,
    "error": null,
-   "fetched": 37,
+   "fetched": 100,
    "relevant": 0
   },
   {
    "name": "Google News: SMR",
    "ok": true,
    "error": null,
-   "fetched": 18,
+   "fetched": 12,
    "relevant": 0
   },
   {
@@ -410,55 +410,55 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "relevant": 35
+   "relevant": 31
   },
   {
    "name": "Google News: TSM",
    "ok": true,
    "error": null,
    "fetched": 100,
-   "relevant": 3
+   "relevant": 1
   },
   {
    "name": "Google News: 6758",
    "ok": true,
    "error": null,
    "fetched": 100,
-   "relevant": 2
+   "relevant": 3
   },
   {
    "name": "Google News: 6981",
    "ok": true,
    "error": null,
    "fetched": 11,
-   "relevant": 6
+   "relevant": 8
   },
   {
    "name": "Google News: TYOYY",
    "ok": true,
    "error": null,
-   "fetched": 6,
-   "relevant": 2
+   "fetched": 9,
+   "relevant": 3
   },
   {
    "name": "Google News: RYCEY",
    "ok": true,
    "error": null,
-   "fetched": 52,
-   "relevant": 0
+   "fetched": 74,
+   "relevant": 2
   },
   {
    "name": "Reuters: AMD,AMZN,ASML",
    "ok": true,
    "error": null,
    "fetched": 100,
-   "relevant": 16
+   "relevant": 12
   },
   {
    "name": "Reuters: AVGO,CRM,GEV",
    "ok": true,
    "error": null,
-   "fetched": 4,
+   "fetched": 2,
    "relevant": 0
   },
   {
@@ -466,35 +466,35 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "relevant": 23
+   "relevant": 20
   },
   {
    "name": "Reuters: MU,NOW,NVDA",
    "ok": true,
    "error": null,
-   "fetched": 99,
-   "relevant": 22
+   "fetched": 100,
+   "relevant": 15
   },
   {
    "name": "Reuters: OUST,SMR,SPCX",
    "ok": true,
    "error": null,
    "fetched": 100,
-   "relevant": 21
+   "relevant": 22
   },
   {
    "name": "Reuters: TSM,6758,6981",
    "ok": true,
    "error": null,
-   "fetched": 26,
-   "relevant": 2
+   "fetched": 16,
+   "relevant": 1
   },
   {
    "name": "Reuters: TYOYY,RYCEY",
    "ok": true,
    "error": null,
-   "fetched": 0,
-   "relevant": 0
+   "fetched": 4,
+   "relevant": 1
   }
  ],
  "categories": {
@@ -506,6 +506,2261 @@
   "crypto_gold": "BTC & ทองคำ"
  },
  "items": [
+  {
+   "id": "338815519533",
+   "title": "EXCLUSIVE: US has for years asked Musk to alter Starlink service in Ukraine, Middle East, sources say",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQmxvaUpMTUR1QlpFdTFCM21oR2ZqYmwzWUVrSFpBYmZLYlFjWV9yc3NTX1BjTnZndGl1d2N4OG52MlVJenJKNkxKUW9aR3lZaGtvVzJ1UzhCeDh2X3hQcFRJVklIZ2N5X3drTHk0YVpFTmNKcGN6WDlpQ294WE5TNUhBT0g0NFJjSDhmek9yMU0zNGRMeU1mZ1ZkME13QUJ1aGFMR0gtOWVqcG50SFZQNWdUVlZxV01wNUNWc2gwZlp3VVhoZDc3VnIwcWdQSGhVOWFWUUE3ZndMTDIz?oc=5",
+   "source": "Reuters",
+   "paywall": false,
+   "published": "2026-10-24T00:43:00Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "SPCX"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "2dfb7bc75710",
+   "title": "Growth, Value Stocks Set for Reshuffle as S&P Adopts New Rules",
+   "summary": "Growth and value shares are set for an overhaul after S&P Dow Jones Indices adopted new rules on how to sort equities into the two investment styles.",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-24/growth-value-stocks-set-for-reshuffle-as-s-p-adopts-new-rules",
+   "source": "Bloomberg",
+   "paywall": true,
+   "published": "2026-10-24T00:12:59Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "market"
+   ],
+   "tickers": [],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "d8f1588ea17e",
+   "title": "Amazon cloud capacity sold out through 2027, CEO Jassy says",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeDBNbTdvV2F5U2tSX1NQWmZ2bnRGUXJMRE4xT1V3V0dIcnlFd3g0WkZ6aWdYNmNzNWxIQXNOcWxMdFlqbFNmN3lWekFUOGJVQzN5aElzeVlveVh4RzZ5aC03b3pSLUNQQ21lQ29jNVkwdmF4V2YwYUlkd0dPdkJQT1VwWF9lZUdhZnBrNWppME81Y2Q2ZzFYOWcwWFozajYyME9BQkpSZHNOTTdQX3hTcXF3RkVSS2s3OU1F?oc=5",
+   "source": "Reuters",
+   "paywall": false,
+   "published": "2026-10-23T23:07:43Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "AMZN"
+   ],
+   "also": [],
+   "ai": {
+    "label": "fundamental",
+    "tickers": [
+     "AMZN"
+    ],
+    "direction": "positive",
+    "impact_area": "revenue",
+    "importance": "high",
+    "reason": "AWS ได้เต็มไปหมดจนถึง 2027-2028 แสดงความต้องการ cloud ที่รุนแรงและการเติบโต revenue ที่แข็งแกร่ง",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "c292738248f8",
+   "title": "UK Vows £100 Million for Biosecurity Lab With OpenAI, Anthropic",
+   "summary": "The UK announced £100 million ($134 million) for a AI Biosecurity Lab which will be supported by OpenAI, Anthropic and Google DeepMind, part of a raft of measures designed to improve the government’s ability to understand and tackle the risks posed by the technology.",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-23/uk-vows-100-million-for-biosecurity-lab-with-openai-anthropic",
+   "source": "Bloomberg",
+   "paywall": true,
+   "published": "2026-10-23T23:01:00Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "GOOG"
+   ],
+   "also": [],
+   "ai": {
+    "label": "fundamental",
+    "tickers": [
+     "GOOG"
+    ],
+    "direction": "positive",
+    "impact_area": "revenue",
+    "importance": "low",
+    "reason": "UK ประกาศ £100 million AI Biosecurity Lab สนับสนุนโดย Google DeepMind ขยาย partnership",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "dec69080f94a",
+   "title": "Who actually controls Ukraine's access to Starlink?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9BMnkyaUFRWjBSdENlV0VyNzc5akZWel8waFB1U2FxZDlBeXlBNURRS2F0MWhLY0dVbXlwMFZkREpydE1sSHprcko2ZG16dVJjWDdaXzZzRTU?oc=5",
+   "source": "BBC",
+   "paywall": false,
+   "published": "2026-10-23T22:24:36Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "SPCX"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "db7e1c941b4c",
+   "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdG5iRF9HQ0pxeHJ0dUtYWkV4ZXlQVldlcVdmdVZLOHRlRkM2ODZDak1zX1NNOFBpS1hzbGxPSVU1bnVmQXhsRGJ0WlVpWWlBS1ZrNmFXT0wyZnJOc3pUZlBZa2IyVXFQSFVVR0V5bHRDbWlpU0pBTHJ6NGk1S0NqeGFFdWRwNWdvdVpoNXpCanBlZFZ4RnQ4RUphQTZfRFhUMkp3Mzd4c1JlbUxmN3pVMjZrdkNDSE04UFZV?oc=5",
+   "source": "TechCrunch",
+   "paywall": false,
+   "published": "2026-10-23T21:59:19Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "NVDA"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "9630c20a20c7",
+   "title": "AWS Sold Out Of Capacity Into 2028, Jassy Says",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Ed2VTQVR3eUdPandDWUdrVGFrck8zZHJtZF82TWk2V0o0Q1ZDVWdVZDgtNVhZWS1ZZFhjZnhiVDFhNjhFVFA3UHdXV295RGV0Szd1WUdCNnZLQWNseWp2UkZzb3NySDU4ZEI0LW5tSDE2VzlyXzNHWkxPdXZ1QWM?oc=5",
+   "source": "The Information",
+   "paywall": true,
+   "published": "2026-10-23T21:59:00Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "AMZN"
+   ],
+   "also": [],
+   "ai": {
+    "label": "fundamental",
+    "tickers": [
+     "AMZN"
+    ],
+    "direction": "positive",
+    "impact_area": "revenue",
+    "importance": "high",
+    "reason": "AWS sold out of capacity into 2028 Jassy รายงาน ยืนยัน AWS growth constraint จาก demand",
+    "model": "claude-haiku-4-5",
+    "same_event_as": "d8f1588ea17e"
+   }
+  },
+  {
+   "id": "0788222b1ead",
+   "title": "Senator says planned Meta commercial terms update could harm US businesses",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOWpYZWs5b0ZUaHpWaTQ3NDloSHRpXy1KVFMzUFVtUENVd29FeDljcWdzb1FpWmJoWFJROUwtWjBFUEZpamdObTF4b2JKTGJpV0JTX1FDczRaTlg3QXFUMXlqQU13WEVHOEhLLS0tU1pydWt6NU9jaFNxMXIzMlRpdjNYaS1WZ3F5c3pTSlI2QTAwQkpmMHNyMWhXUGFtcEhNRWlIQS1MenpJRC0wRTYyampvNndTXzQ?oc=5",
+   "source": "Reuters",
+   "paywall": false,
+   "published": "2026-10-23T21:46:16Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "META"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "22ca6af81c76",
+   "title": "The Week in Numbers: Indonesian stocks plummet, Meta's massive fine",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5HUVAwdTZXMGlYZF9FTWUwMDdzZnZEWFJ5VlFjNlg4VFY2ZEtXSWNLRkJFWkdtam9VazUyWTRoVlpUSWVmMGd1QWlla0poM0xvMF9xakloc3pMcGx6dXllZFkwNlNKQ28?oc=5",
+   "source": "Reuters",
+   "paywall": false,
+   "published": "2026-10-23T21:46:08Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "META"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "f27c98350805",
+   "title": "Gold, silver extend weekly losses as Hormuz tensions push crude above $116 - Kitco PM Report",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVHV5TDc4V3N5eUVHY3hqcGhHMjZwN1JuM2lXTHl5NGZrckpLQ3UzQnFaYld2bE4yaVJ3c0p4a0dIU09xZmtlaWlkSlk0NzlPYXpXUHZ1VmhTdlM4NlVSNHhEbV9BaDUxbi0ybEQtbTdiQ2RFTmtVcEZ6LU96dDFLa2pEWE95UlpHZ1pGVFRlYnhDZlgzOW9oYVdSb1REbDVjbnhNc3FJOE1JNUh3Vnk3OUpQOWpFS3pKeE1iZ3N3?oc=5",
+   "source": "Kitco",
+   "paywall": false,
+   "published": "2026-10-23T21:30:50Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "crypto_gold"
+   ],
+   "tickers": [
+    "XAUUSD"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "7eb02319cb90",
+   "title": "Wall St Week Ahead Earnings flood, Fed meeting will test rickety AI market rally",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPR3FjeUJFd2Z6ZFBxOEFlLUx4anZlN1BqeFkxQ1pFcTdXTENYc0tMdW9RbjJ1Vk91Y2tmSXVoRDFCTmZoQ2cxN3BaSlFfTXplZUNZTFIzVmR3OTVmUVYzWnBXVkxRNXAtOEpBSUpIVjlBMnJ6cVViYnFSSHZoaC1CbkR5TnBzZndWNEo5aFlkWTVKY0hSYzRuOTlzUjYwcGlrcFJKQXhlbmFOMHNWLTRiRHZaM21fWEF1SDl1Mg?oc=5",
+   "source": "Reuters",
+   "paywall": false,
+   "published": "2026-10-23T21:21:32Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "fed"
+   ],
+   "tickers": [],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "a4a6cc4060f7",
+   "title": "Exclusive: Meta acquires AI data platform Sundial",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1yaUIwQVJsYmpVanBJTkF0M1g4RWZDeGh3X1NYbzVINFY4M2wxTUtTWmRZdkYtY0tlU2dBcXNXY1JxU1JNeUJsZTc5c2czQzFwX0ZOcndNekd0WE5XQXc0QzVjWHdWek9nbXZkZUZXNA?oc=5",
+   "source": "Axios",
+   "paywall": false,
+   "published": "2026-10-23T21:18:10Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "tickers": [
+    "META"
+   ],
+   "also": [],
+   "ai": {
+    "label": "fundamental",
+    "tickers": [
+     "META"
+    ],
+    "direction": "positive",
+    "impact_area": "competitive_advantage",
+    "importance": "medium",
+    "reason": "Meta ซื้อ Sundial AI data platform ขยายความสามารถ AI สำหรับ AI assistant",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "6a53a4047741",
+   "title": "SpaceX $40 Billion Off-Balance Sheet Debt Snarled by AI Turmoil",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTk5rLVFMR3BRUmZhUWE2LUQ4N1F3THVtNGNtanU2LXRSU0pmeElzNmNGVWZoY19ha0Q5ek14ZnRhOTM3RjdVNk1GQmVFVk8tOERRN0tXNUxnNUswN2JTc3RuSU1hc2stVmdJbTF4U1RvS3BJbUs3ZzlYQ0lwOGh6QkxCVDZfX2JYS1BCRmdMVVNLcUE2LVI5YThzbDVsTG1SLVpZSFJvLWxzSmJ5cEl1OEVGMA?oc=5",
+   "source": "Bloomberg",
+   "paywall": true,
+   "published": "2026-10-23T21:12:14Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "SPCX"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "f3454d2a54fc",
+   "title": "The mobile ambitions of SpaceX are hitting telecom stocks again. Here’s what the latest developments mean.",
+   "summary": "Reports of Starlink’s discussions with cell-tower owners were noticed by shareholders of Verizon, AT&T and T-Mobile.",
+   "link": "https://www.marketwatch.com/story/the-mobile-ambitions-of-spacex-see-telecom-stocks-get-hit-again-what-the-latest-developments-mean-9a4159b5?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "paywall": true,
+   "published": "2026-10-23T21:11:00Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "SPCX"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "806dacd66138",
+   "title": "Stocks, Pulled in Two Directions, Fall to End Volatile Week",
+   "summary": "Inflation and jitters over artificial intelligence are fighting for investors’ attention.",
+   "link": "https://www.wsj.com/finance/stocks/stocks-pulled-in-two-directions-fall-to-end-volatile-week-0c2042a8?mod=rss_markets_main",
+   "source": "WSJ",
+   "paywall": true,
+   "published": "2026-10-23T21:10:00Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "fed"
+   ],
+   "tickers": [],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "68fbabefc379",
+   "title": "Portfolio manager prefers Microsoft, Amazon, Google in AI trade",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5BNi1mM1lyNnh6MlpMa1A2c3NKSFozT0stalRkalE3QTZkZ0U3TWJaRFZhMC16Q0VOWTNjZXNZT21CNmlCd2N4S1VyZ1JJRVhGcEZndWwxeDBOaGRkQTFXVHlzVk9KMkE?oc=5",
+   "source": "Reuters",
+   "paywall": false,
+   "published": "2026-10-23T21:02:54Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "AMZN",
+    "GOOG",
+    "MSFT"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "21731a79f0a4",
+   "title": "Chipmakers Post Longest Weekly Drop Since November",
+   "summary": "A resurgence in oil prices dragged down stocks and bonds, stoking concerns about inflation just days ahead of the Federal Reserve decision on interest rates. Brent crude settled near $117 as a flare-up in Middle East violence threatened supplies. Most S&P 500 firms fell even as…",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-23/chipmakers-post-longest-weekly-drop-since-november-video",
+   "source": "Bloomberg",
+   "paywall": true,
+   "published": "2026-10-23T20:57:57Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "fed"
+   ],
+   "tickers": [],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "6382254ed459",
+   "title": "In hunt for Starlink alternative, Ukraine partners with Nokia and satellite maker ICEYE",
+   "summary": "With SpaceX imposing speed limits on Starlink in Ukraine and hampering military operations, Kyiv is looking for alternatives.",
+   "link": "https://www.cnbc.com/2026/10/23/ukraine-partners-with-nokia-and-iceye-for-starlink-alternative.html",
+   "source": "CNBC",
+   "paywall": false,
+   "published": "2026-10-23T20:52:23Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "tickers": [
+    "SPCX"
+   ],
+   "also": [],
+   "ai": {
+    "label": "fundamental",
+    "tickers": [
+     "SPCX"
+    ],
+    "direction": "negative",
+    "impact_area": "competitive_advantage",
+    "importance": "high",
+    "reason": "Ukraine พัฒนา Starlink alternatives กับ Nokia และ ICEYE เพราะ SpaceX ลดความเร็ว Starlink ทำให้สูญเสียตำแหน่ง",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "0877e223d9cd",
+   "title": "Wall Street loses ground under pressure from rising oil prices",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNWpGTk1fbkF2SWY0S1Q2MHN6WjRqQ1R3VWp4WXFKd3VQUG5WSlI1ZXFDY1pSUGJyampWMGtwZ3dRQmxGRzlTbERHSnlraUZ4WmFCSXM4U3J1Z1VSdV81eTB2ck1lWElpSnR2Qi1FbWUwUmJBT1l5enVZLVpsYmMySnBhZ0FDWHZBTElJVEhGYl9tN2tXblE?oc=5",
+   "source": "AP News",
+   "paywall": false,
+   "published": "2026-10-23T20:44:00Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "market"
+   ],
+   "tickers": [],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "de5f8576cc57",
+   "title": "Moderna, Meta, SpaceX, Bloom Energy, AT&T, and More Stocks That Explain Today’s Market",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1rLXV3T1ZiM0NSaTBxNEh1Yk95cWZidlhldU5PNENBMlM5RDJ3V3dmTXR5TnQ4Y210MU5wZndISi1aWk05ZjRJTXVvNWFiZGZ1cko5MGNXaWdLZGRnaDJsaWFHQ2c?oc=5",
+   "source": "Barron's",
+   "paywall": true,
+   "published": "2026-10-23T20:39:00Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "META",
+    "SPCX"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "93d41cb9c2e7",
+   "title": "Watch SpaceX Shakes Up Telecom Stocks | Closing Bell",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMHA5UkNBdElzSU9vNVJWVUZ4eGlpTGhuWUdtS29HalJ6S2p1bWdSVG5EeWxFN3gzMlVlUlM0MXhBZ3NhT2ZxcFZkdjhhMVVHXzNqTWhLNXZjSm1MNnVSUjVYY0ltRXlOV0pjVWVBbjdQaEU3MFFGYjdXd29tOGVVU0lvMnNwVms5TVdiU2ZvN3NRUTRPU1AtWENtYTFMc3lq?oc=5",
+   "source": "Bloomberg",
+   "paywall": true,
+   "published": "2026-10-23T20:27:15Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "SPCX",
+    "GOOG"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "c5dd3a53ae4d",
+   "title": "10-year Treasury yield drops back to 5% this week as investors seek cover from AI worries",
+   "summary": "The 10-year Treasury yield was just below 5% Friday after AI-driven tech selling sent investors into the safety of government bonds.",
+   "link": "https://www.cnbc.com/2026/10/23/bonds-yields-us-treasurys.html",
+   "source": "CNBC",
+   "paywall": false,
+   "published": "2026-10-23T20:20:58Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "fed"
+   ],
+   "tickers": [],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "55bb284b7a45",
+   "title": "Updated Google privacy policy says your Gmail might be used for advertising",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRnNjMDdtTUVobzdWa1U3VVllSTFMZGZEeEQxSjJ1X1lBMUlDcWhpTk9OdHZIak5mU0VNaG1Na2FBX0sxSW1FNmhHbFV0NjJuMUxsenpaREhJNjFvWlZaZDhKZVdGMWRlOUVnM3hGU2dTREN3c3pHYTllUkJuc0gzOFRNbnR5aHVob1RpVGV6eUdEb1VKdUdaVk5kc1I1VkxTY1VydldoZ2ZkUmFCM3kwa3JqY2o4cWM?oc=5",
+   "source": "Ars Technica",
+   "paywall": false,
+   "published": "2026-10-23T20:19:55Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "GOOG"
+   ],
+   "also": [],
+   "ai": {
+    "label": "fundamental",
+    "tickers": [
+     "GOOG"
+    ],
+    "direction": "negative",
+    "impact_area": "regulation",
+    "importance": "medium",
+    "reason": "Google policy อัปเดตอนุญาต Gmail ใช้สำหรับ advertising ก่อให้เกิดความเสี่ยง privacy regulation",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "c07b74ff3c09",
+   "title": "Oil hits $117 for first time since April on fears of flare-up in Iran hostilities",
+   "summary": "Rise in energy prices pushes US inflation expectations higher",
+   "link": "https://www.ft.com/content/8948193b-438b-4d71-a0b1-31dff56fc308?syn-25a6b1a6=1",
+   "source": "Financial Times",
+   "paywall": true,
+   "published": "2026-10-23T20:13:21Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "fed"
+   ],
+   "tickers": [],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "5432cc904fb0",
+   "title": "Options Action: SpaceX volatility simmers down",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTy1ETzBzMzg4M1IwN2NteTFPVXdDWVd3VzgwcVl3eUZ6ZUFtT0taOW9fNWJVeXo0M2Q4QjFxRWFpY056aU05SkxoSTdfYlNsbzVJZllSaE5wTmtrWVF4LXNnZkZvQTNCNUNseTgxSTVra2wyV2dSTFZMNWp1MnZSeko2ME5Gcm52TWluakdNTjl2dw?oc=5",
+   "source": "CNBC",
+   "paywall": false,
+   "published": "2026-10-23T19:58:57Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "SPCX"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "ddc51f25e39b",
+   "title": "SpaceX-Tesla Merger? | Zuckerberg's Deal | The Rundown",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZFJIbHlKb3g3Ry1fLWlfUlh2STlFTEFBdlZDdTBCRk1vekhULThfMTYyQndYeUV1Q2xlY19QSlRoa0wyYVU4R3Jvb0tmc0NqZFBzNkd0MXYwSURRX3l6MXhJRTBRMjdFYkx3NW12eEdCcHBxbThrcnVqUXdjSVpnREppd19taHFDVHozTHdGOVJaRjN5RHhhd2JRTW5qN1FUMkMxdlJOSV9Kbk8wc2kzTnhCdGFOdlloRklYS2E5NzY?oc=5",
+   "source": "Bloomberg",
+   "paywall": true,
+   "published": "2026-10-23T19:57:13Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "tickers": [
+    "META",
+    "SPCX"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "2439898b4e45",
+   "title": "Meta to delay new commercial terms criticised by publishers, advertisers",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWjN6ZmpjOEpNU29maVFkbFhndHEtTHlIbVlMU2V5MUdkYlEtVEFSNFNzSHZuRTRROUJfQWlTRE9md09vSHRuLUZxelhUS3VJVUtBRFB4MlRuYmxpS2dJcGdaQ3gwVDM3cnEyTlR0aC0yaG9TXzBZUnZ4RUliNGxKOXczUHFpZmt6VWxkYUQ3M1g3VEFFb18wVkoyb0pOU2RIV09Wc2FoZF9NUG1RMFFuY0MwbGhoQ3lialoydUtNX2oxUG5jOEE?oc=5",
+   "source": "Reuters",
+   "paywall": false,
+   "published": "2026-10-23T19:56:56Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "META"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "6fd494ae0724",
+   "title": "Musk's SpaceX is still restricting Starlink in Ukraine and the toll is rising",
+   "summary": "Since last week, Ukraine has reported restrictions on Starshield, a version of SpaceX's Starlink, hampering its military operations against Russia.",
+   "link": "https://www.cnbc.com/2026/10/23/ukraine-says-starlink-restrictions-remain-despite-trump-assurances.html",
+   "source": "CNBC",
+   "paywall": false,
+   "published": "2026-10-23T19:50:26Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "SPCX"
+   ],
+   "also": [],
+   "ai": null
+  },
+  {
+   "id": "ba6dab55c2dd",
+   "title": "Amazon cut 30,000 corporate jobs to focus on AI. Now it’s promising 30,000 entry-level roles in the UK by 2030",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ2U0blJOMGJBU1pBcWFJeGZUcGRxa2UzdUc2Q200d3lJSE1WMkQ4VVMxTll3UENrb29JVHBNb25aaFpoYV83SG04ZXBjUm1OanZrMTRlSUk0dTRzbTlRV1Fxdjl5QTloNzE4TGxXajNLaEFuYksxUlFWSXVuYjdOcXQ5ZUxSU01Db0ZGUzFFY0hYUm55NTBEdTh6ZUxVUUU5Ukd5MmJKM2pidmxodlN2bA?oc=5",
+   "source": "Fortune",
+   "paywall": true,
+   "published": "2026-10-23T19:50:00Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "AMZN"
+   ],
+   "also": [],
+   "ai": {
+    "label": "fundamental",
+    "tickers": [
+     "AMZN"
+    ],
+    "direction": "positive",
+    "impact_area": "revenue",
+    "importance": "low",
+    "reason": "Amazon ตั้งเป้าสร้าง 30,000 entry-level roles UK by 2030 ขยายการจ้างงาน",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "ffd6587dacf5",
+   "title": "Amazon CEO Andy Jassy's career advice: Most people don't land their dream job at 22—and that's okay",
+   "summary": "Jassy reflected on how his career wandered before he found Amazon—and why he tells young people to stop chasing the perfect first job.",
+   "link": "https://www.aboutamazon.com/news/workplace/amazon-ceo-andy-jassy-first-job-advice?utm_source=rss",
+   "source": "Amazon News",
+   "paywall": false,
+   "published": "2026-10-23T19:49:26Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "AMZN"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "53f1ce01cadf",
+   "title": "Meta shares are down 9% this week. Here's why Mike Khouw is buying now",
+   "summary": "Meta shares just had their worst week in four years. Here's why Mike Khouw is buying now",
+   "link": "https://www.cnbc.com/2026/10/23/meta-shares-rough-week-mike-khouw-is-buying.html",
+   "source": "CNBC",
+   "paywall": false,
+   "published": "2026-10-23T19:25:18Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "META"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "2b4376cb7350",
+   "title": "Meta faces massive AI bills and legal troubles. Mark Zuckerberg keeps finding ways to come out on top.",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbDdMSGtoMTJqUWlUUWhrMGVyRENVdUtsZ016M2NFZE5neExuc3RGbjRjeWs2T2V6dXZSandUU1dSenNPS2pxWU9xdHdWUm9nR3dJbDBULXpCd1lXLS1yMlh0T0xVNDRNU2MzazZUNFN1dkJxQ1p6M041TGdYN09BajhBaWdNeUVyYmRTUVpMX0xpRE5pYjl0Y1Byb29JQy1W?oc=5",
+   "source": "Business Insider",
+   "paywall": true,
+   "published": "2026-10-23T19:08:00Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "META"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "32612b55aa72",
+   "title": "Amazon data center communities: Here’s what’s happening near data centers across the US",
+   "summary": "Get the latest updates on how Amazon supports small businesses, creates jobs, sets up sustainability initiatives, and develops educational programs near AWS data centers.",
+   "link": "https://www.aboutamazon.com/news/aws/amazon-data-centers-locations-news?utm_source=rss",
+   "source": "Amazon News",
+   "paywall": false,
+   "published": "2026-10-23T19:07:00Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "AMZN"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "5a92747c4653",
+   "title": "iPhone Duo launch lifts Apple, leapfrogging Nvidia to become the world's most valuable company",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVGxzQjNQSmlBTENVQl9iRFJoLU43VTJnYmxEOTNUblhqUDF5cDV4WHJQeE1RQmY0ZTlPcUhzNG9pM2taU1RHbnlLMmpKSWJOcGxsM05yT3hHVTRTZjZycDY1LWY3My1Zb05LSGRVbG5NSHQyUW5Za1J6dHE4WmF0blE3WVZtU3RQQlpXaGNtWEYyY2MxOGctd2FWRnAwWm9EUm5La1BIMm9LeEgyaEdKUVQ4UlVBUFlsRXlzeUVUM2pBTkVNVG5EWjlWbDQxVXpf?oc=5",
+   "source": "CNBC",
+   "paywall": false,
+   "published": "2026-10-23T18:59:02Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "watchlist",
+    "products"
+   ],
+   "tickers": [
+    "NVDA"
+   ],
+   "also": [],
+   "ai": null
+  },
+  {
+   "id": "68218d3aaa4a",
+   "title": "CrowdStrike CEO's alarming prediction — plus, the sell-off spreads beyond tech",
+   "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+   "link": "https://www.cnbc.com/investingclub/2026/10/23/crowdstrikes-alarming-prediction-plus-sell-off-spreads-beyond-tech.html",
+   "source": "CNBC",
+   "paywall": false,
+   "published": "2026-10-23T18:49:56Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "market"
+   ],
+   "tickers": [],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "86e2fe3ad982",
+   "title": "Zuckerberg’s deal to stay in California cheered by wealth tax campaign",
+   "summary": "Supporters of the tax say many billionaires threatening to leave the state will not go",
+   "link": "https://www.ft.com/content/859676ae-5fa4-489a-99af-560771dd44a1?syn-25a6b1a6=1",
+   "source": "Financial Times",
+   "paywall": true,
+   "published": "2026-10-23T18:49:48Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "tickers": [
+    "META"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "ef8402c25e89",
+   "title": "An $8 billion Treasury break helped Meta’s tax rate hit 2%. Senators want data center tax answers",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSEp5YjNHSUdHRHduLUVTMkxTWTB6TUV0ZzZoeEs1aTFLOWZ0ZmN5aG1OdVdoeDlGNnZkajZ5djFUSkM4SXhFdDEtaUltT2JROExfSG5TMlVTQ2Z1RUNnTVI5d012TlFGYjlFdklpa2kzU0FISnJybnZ6dmNJcUNXajJ4NzBad3Bsb0hjTUNocFFSY3VBcXM3a1B4SWVDSl9BSG1oSlAwRWRvWEVWdm9QNnR1U1Jab1M5ZFE?oc=5",
+   "source": "Fortune",
+   "paywall": true,
+   "published": "2026-10-23T18:21:00Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "META"
+   ],
+   "also": [],
+   "ai": {
+    "label": "fundamental",
+    "tickers": [
+     "META"
+    ],
+    "direction": "positive",
+    "impact_area": "revenue",
+    "importance": "medium",
+    "reason": "Meta ได้ $8 billion Treasury break ลด tax rate เหลือ 2% ปรับปรุง cash flow",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "4c46e7da6adb",
+   "title": "Trump says he will fix any Starlink access problem in Ukraine",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLUNicm5qVG13YWt5UVlLcXVWRmMwY2dfX2pkaU5EblVBbVh5WG1EMXZEVzM5NWZCRHVHYTJjcFRLYVhUcVpnSnJrdTlxOHlaRnZwU2htMVJ4cXBjRjAwWWhvOVNVbjlPR0Y1MUFLdmhYRG85by1QSHRLTHhSRmRDWk80aDl1YXZVbFEwOFh5QXhicGFKMndmYmZxbmR4TFVFMWVYNjFMN2JoX1k?oc=5",
+   "source": "Reuters",
+   "paywall": false,
+   "published": "2026-10-23T18:19:28Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "SPCX"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "bd1871bd41ca",
+   "title": "Can Nvidia’s stock become a safe haven as Wall Street rethinks the AI trade?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdzVReEJpWEVLMFVrZ051U2R3UGZLYlloTVd0X3Fkc01ydTJEbzFFTjlwbjc1TzgxenFoZjEyTXBZckpZTGRIWkw1Q1g0M3MwdVNscUpTNFJSd095ajJsT1p4WmstTDlvbjNXSU90TEhaWGpuVXlmdzYxbGRodDNwLVVTUVhGMDUyRzBpRzViR0VvQWVXUjBoUko2UHRUenZpUkJtdFR4QThHeUdVQnh6VXh0enU5cVc5?oc=5",
+   "source": "MarketWatch",
+   "paywall": true,
+   "published": "2026-10-23T18:19:00Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "NVDA"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "0a0e399f1a7e",
+   "title": "Treasury Yields Rise, Eurozone Bond Yields Fall Amid French Concerns",
+   "summary": "U.S. Treasury yields rose as investors sought safety from the turmoil in French government bonds ahead of a closely watched interest-rate decision.",
+   "link": "https://www.wsj.com/finance/investing/u-s-treasury-yields-edge-up-bond-market-focus-to-stay-on-france-8b28a326?mod=rss_markets_main",
+   "source": "WSJ",
+   "paywall": true,
+   "published": "2026-10-23T18:11:00Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "fed"
+   ],
+   "tickers": [],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "4d82f60a82e9",
+   "title": "Trump says he'll speak to Musk if Starlink problem in Ukraine isn't fixed",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5SeW5kbzFxZzl2NEx3R0N5OWxFLXBuazdpRUx5OUVpVWJSS1hUUEZadDFvdGctcnlha1p6Y2VwUVpUUm5BczljVkZRVFRscnNfTXZsdHRRWnd4Mm1fRTYwLUNCSlhycmtxT0hiaEcxd3FsMHVoMmpoRA?oc=5",
+   "source": "Reuters",
+   "paywall": false,
+   "published": "2026-10-23T18:10:36Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "SPCX"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "e182dafe030d",
+   "title": "OpenAI Moves Toward a $1.25 Trillion Value",
+   "summary": "Bloomberg’s Ed Ludlow takes a look at OpenAI's potential fundraising at a staggering $1.25 trillion valuation. Plus, Anthropic's looming IPO could deliver blockbuster gains for some of its biggest investors, with billions of dollars on the line. And, SpaceX is taking another…",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-23/bloomberg-tech-10-23-2026-video",
+   "source": "Bloomberg",
+   "paywall": true,
+   "published": "2026-10-23T17:56:21Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "tickers": [
+    "SPCX"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "08e7a127381e",
+   "title": "Mike Khouw likes this options strategy for Meta post-earnings",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTW9KaXJPaTF6MjZINHlxS0ZNZFhxcThUQktRVXBmbllQTTlfb1RNR0tJSENBLXV4dVNyRDU2YUJDLTQ4YjhQRHg2aWNyUXFEVnQwa3Z3a2pQZkdWLUJ6VU9TZWxHNmtIcDRCS2dGTlVHV19HVm84alROUDJmUU9FeGJIMGduc0pnY0M2ZjZrdU51akliSGktMEV3cmduWWI4UTZNZC1Zbw?oc=5",
+   "source": "CNBC",
+   "paywall": false,
+   "published": "2026-10-23T17:33:38Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "META"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "ad19155f1763",
+   "title": "Muse AI Costs Meta A Fortune and More Users Mean More Spending",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE15Vm9VZ1ctM3d0WVFadW9LOE15RVdfRTYtYURpNjhvUERoeWtyamY3WjdhZkRZemU5OVhnQXVwaGphX185Y1FoRmtQRGdRWFc1UTJSdll4dy1LUGk0WGppS2cxVDVwNFdsdVQwekd2S0pVUE0xOVZ2Tw?oc=5",
+   "source": "Barron's",
+   "paywall": true,
+   "published": "2026-10-23T17:19:00Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "META"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "cb2f5452b769",
+   "title": "Doctors call Moderna, Merck cancer vaccine data a major advancement — despite Wall Street reaction",
+   "summary": "Six melanoma specialists said the Moderna and Merck vaccine results represent a clinically meaningful result for melanoma patients who underwent surgery.",
+   "link": "https://www.cnbc.com/2026/10/23/moderna-merck-cancer-vaccine-data.html",
+   "source": "CNBC",
+   "paywall": false,
+   "published": "2026-10-23T17:15:08Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "market"
+   ],
+   "tickers": [],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "33c7148cb3fb",
+   "title": "Calls of the Day: SpaceX and ServiceNow",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNEVGRkk3a0Zkd1pYbFc5a1FFbHJlMG5taHYzcDhuX2RVM1ZBRGJlZzlySk55TnZNV20xdjBscC1HZDQwNlBWQ2oyQW9iay1JNHRNcWdFRVJhN1k2TmgwbTlKM1hkWjd1MDJsV2ZtOXdHb0tfNVpVd2J1Rkw4Q1hObTNFdVRnWmhU?oc=5",
+   "source": "CNBC",
+   "paywall": false,
+   "published": "2026-10-23T17:02:00Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "NOW",
+    "SPCX"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "91c4dfe46f80",
+   "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNa0FhY1VIWm1maGtQdGNzVEdhdkRGLXpINFdlcXl6YU4xNXpKZllzRlBWRk81MGlTRzQ0LXFQTVpIMEZfaXFvMnU0NnY4TG5pQUFjYzJCZ20tUThCX0s0emlWZ2doa2xOQ1pEc2szbmF0UEN5UDJPYXk0TlBaQ2RkUVh1R0Q4bDFwT3BwUUNIR0gyYlB3NUww?oc=5",
+   "source": "The Verge",
+   "paywall": false,
+   "published": "2026-10-23T16:52:55Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "GOOG"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "579401159f9c",
+   "title": "Anthropic joins Meta and OpenAI’s personal AI assistant race with Claude Duet",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPR0Y0UXFkbWVlcjN3VHZKcEFPQzNkNWdvbGM2TWxHdGd4bXREaFJpQUU5cndXZHZLa2FkeDFEb282VTRkRGVQdnJTbzBlX21uNGl1MmlsOGJXbVRzVkQtME9SeUtaenN0MEhlV2ZnejlmWlhKc3cxTXFUeE9HS1dIUWRlaFI0V0F6VjRCeFlOU2o1MTFiLWVYSnFHbG95YUdMdUJZ?oc=5",
+   "source": "Fortune",
+   "paywall": true,
+   "published": "2026-10-23T16:51:00Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "META"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "24ccd56a6b3c",
+   "title": "Micron Stock Leads Chip Rebound. Dip Buyers Must Buckle Up as AI Chaos Swirls.",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZWx0RHQwYjBxYWVxYkpnVmNTQ1NpYXJadnR2TzRMREozN3dBWmpUSVdyOUFYRDIwOFRiM056SVF0Xy1yaXZVUjJSTERxLW8xcG04R3VGRGxNQjh3a2JiM0p6RWR0TXAwUXI5MDZIZ1d6dy1ocWZkSEdEcE9pLUV4OXdXbXI5MEU1VXFhNQ?oc=5",
+   "source": "Barron's",
+   "paywall": true,
+   "published": "2026-10-23T16:38:00Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "MU"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "ad7d1ea65151",
+   "title": "US telecom operators wobble after report SpaceX in talks for cell sites",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRl9aOXcyWXhEc3FKR0VIU0Y4NGg3eTlrYWg0N3VIMVJIejJ5N1V3U3RRQllVV1NOaEJ2a2FNcEExNHQ2ZzlOY1NJWFhNR1hVN2F6anR5MjZsRWRpWHBVVXAwOEZ1LUdzbWJCb2RTX0hIaVVodlFKUDhxX0FQT0hlTHB2SEZzRTl2ak1nLXFtNHJnQ0FlRU1wYkNvdXcyc1NvMi1YcVRpc2VRUUVxYjkwakVEMUZOME1yTjFja2JpRTI?oc=5",
+   "source": "Reuters",
+   "paywall": false,
+   "published": "2026-10-23T16:36:41Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "SPCX"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "fdc5f00f87be",
+   "title": "Nvidia Stock’s 2 Critical Flaws and More Reasons an Analyst Says Sell",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5SVktBZjJfVEV6cG1KNTRURUZ5MUNuSmFSeW5aeldtcWg4LWNkZC05TVVmRmhZYzhSWnNtbG81Vkt0ellCTWZ3dGRYMGptZ0xfZGdCTU8xY3lmR2tjNE80NE5MZ0l1R3M5M0xHV0k2THFIYk13QXlRRU5hSFdzZw?oc=5",
+   "source": "Barron's",
+   "paywall": true,
+   "published": "2026-10-23T16:33:00Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "NVDA"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "8a7f9e421a0e",
+   "title": "Starlink Is Years Away From Competing With AT&T and Verizon, Citi Says—but It Might Move Faster",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSzVTZUs0WWhtNVhOUmoxejR4bm5Kb0pRdzFzaHJjR01ZUk40SGFTNVlSQ0o3VVVRVl8welJyZkN2a3U1UEJ3OUVIbFhzS2VDb3NyV1R2VVJPRlhFMjcxeHZyMG1FdW11RWVIRGt3WEJqYTJrVmtFZTR4XzVicWZnX0pFOU8?oc=5",
+   "source": "Barron's",
+   "paywall": true,
+   "published": "2026-10-23T16:10:00Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "SPCX"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "c5d9c1594124",
+   "title": "The window to start stacking Bitcoin before the midterms is closing",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOc09TNDRDdVpBZkJzSVVac2s3M0Y1azNuendHMEZITHhSX3BFYlZqbE1ZTnlqcmVoblIxR0ZpcjF3Z3BYb190NHY0a1Q1eVJaM0pfMHE0YklUZ3F5alc0QkFZcVZYbFM0NktDWTRQNTJDcWlySkVQbWxsLUNEMXM0U2poNDNXNzFldmlyNUFzLVU?oc=5",
+   "source": "Kitco",
+   "paywall": false,
+   "published": "2026-10-23T16:08:43Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "crypto_gold"
+   ],
+   "tickers": [
+    "BTCUSD"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "00fb1a102084",
+   "title": "New Tools for the Admins Who Build Communities on Forum",
+   "summary": "We're introducing new tools to Forum to make it easier for admins to manage Groups. The post New Tools for the Admins Who Build Communities on Forum appeared first on Meta Newsroom .",
+   "link": "https://about.fb.com/news/2026/10/new-tools-for-the-admins-who-build-communities-on-forum/",
+   "source": "Meta Newsroom",
+   "paywall": false,
+   "published": "2026-10-23T16:00:06Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "watchlist",
+    "products"
+   ],
+   "tickers": [
+    "META"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "83bd96e3f88f",
+   "title": "EXCLUSIVE: New Mexico's outside lawyers could collect up to $1.27 billion in Meta case",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZzNZc0QwOUpsVnl2MFM4cHZieTFUQ1ZSR1VXaGlSZ1BpdzlVRFJ1Zm4ySFdtRVRUNnpNSUlQWENXTjkydjJ0VjBXYjRUTm1aeUdSZzUzRmNjWDNZcTVsS3VHUG5XajlkWkhOdG5ROVJxWGtlOHptMFJ1aUdQMGlOb2Z6RE43YmxWaTFEdUNfS0lpWUdabEdxcDc2dWFHb3M3YzhBYl9JWHR4Y3dI?oc=5",
+   "source": "Reuters",
+   "paywall": false,
+   "published": "2026-10-23T15:46:18Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "META"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "c7d2481a3dda",
+   "title": "Google told to halt work on Finnish data centers after clearing an estimated 250,000 trees",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNDY0LWNMd256NzF6dm9IQkVwY1VyVExLTmFBU1dvd1JIQ2k0NGJtbC1lTU9OMGxJd19PcHVtMnAzZHpiVFJMNHpWa3oyWm9oalJDZkJTTHpEX2owZGt3ZWdwVVhObTRIbXBfQ1dsVzZrNlhHZURuQmFYTGpXamFWVUVCQkpDYnRSVnVISA?oc=5",
+   "source": "Fortune",
+   "paywall": true,
+   "published": "2026-10-23T15:40:00Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "GOOG"
+   ],
+   "also": [],
+   "ai": {
+    "label": "fundamental",
+    "tickers": [
+     "GOOG"
+    ],
+    "direction": "negative",
+    "impact_area": "regulation",
+    "importance": "medium",
+    "reason": "Google ถูกสั่งให้หยุดโครงการ Finnish data centers ลบต้นไม้ 250,000 ต้น เสี่ยง expansion",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "e55b45fd75b5",
+   "title": "Silicon Valley Democrats demand investigation into Starlink restrictions in Ukraine",
+   "summary": "A letter demanding an investigation indicates Democrats will make investigating Starlink's interruption a top priority if they win control of the U.S. House.",
+   "link": "https://www.cnbc.com/2026/10/23/starlink-ukraine-musk-trump-congress.html",
+   "source": "CNBC",
+   "paywall": false,
+   "published": "2026-10-23T15:33:47Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "SPCX"
+   ],
+   "also": [],
+   "ai": {
+    "label": "fundamental",
+    "tickers": [
+     "SPCX"
+    ],
+    "direction": "unclear",
+    "impact_area": "regulation",
+    "importance": "medium",
+    "reason": "Silicon Valley Democrats ร้องขอการสอบสวน Starlink restrictions Ukraine หากชนะการเลือกตั้ง",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "601373476e57",
+   "title": "SpaceX’s mobile carrier push reportedly involves tapping into 80,000 cell sites",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNazZVaXlKd09aZXNQVW5Yb1dkVnFTRzY2MU54V0ViQWR5N2hBU0NvT05xNkE3VUltNDBVdmRyeHVKS1lXdXhrWllrWHZtbThMMExkeEotWjB5Zkg4STRfcXlpM3ZXUTR2dDdxekZOS1BFaG0xX0hwRld5Q2ZoaWFEdg?oc=5",
+   "source": "The Verge",
+   "paywall": false,
+   "published": "2026-10-23T15:16:24Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "SPCX"
+   ],
+   "also": [],
+   "ai": {
+    "label": "fundamental",
+    "tickers": [
+     "SPCX"
+    ],
+    "direction": "positive",
+    "impact_area": "revenue",
+    "importance": "high",
+    "reason": "SpaceX mobile carrier push ตั้งเป้ากว่า 80,000 cell sites เปิดรายได้ telecoms ใหม่",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "ccb5846ef5e3",
+   "title": "Ukraine says Starlink speed curbs remain despite Trump assurance",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVllPNFl4NmNrOVVKSnNwWWg5S3hNc2V3N00xUnRja2UtU0Z1cHh4V0w4ek9GLWl6NW90S0JSRlpVeEtZQTVKN0d6eWIxdlNHNEh4dXFtNW1xU0NuYVB5QVdRUy0xbTQwQTJHNjBmd3lxR09UTUhKSmF3dlpxa0NHODRjWlNsOWthM25ibFVIR0t0ZDFGekxvemhnVTNKWUNCX2k5UmM5Z2JXZUhFTHJRX0Z2V0xzT25aNFFyem9CS0g?oc=5",
+   "source": "Reuters",
+   "paywall": false,
+   "published": "2026-10-23T15:09:43Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "SPCX"
+   ],
+   "also": [],
+   "ai": {
+    "label": "fundamental",
+    "tickers": [
+     "SPCX"
+    ],
+    "direction": "negative",
+    "impact_area": "revenue",
+    "importance": "high",
+    "reason": "Ukraine รายงาน Starlink speed limits ยังคงมีอยู่ หลังจากการรับรองของ Trump แสดงความเสี่ยงทางธุรกิจในภูมิภาค",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "8b00f9006f5e",
+   "title": "5 Telecom Stocks That Can Survive the Musk Threat—and 1 Reason to Buy SpaceX",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOR3U2ZkkxX2RGY1p4aEg0ZTVNWkNWUXdGSXNLQ25KaUZjcldVbU9PdExpSXdxcVlFYzNZRF8wRzlfb0Vsb2JRdERpcW80RkdhU2NJMVBCZG5ZdEd5b2o1XzhjMXVOTTFNMi1meXdTY2JtWDQtbXlLY3JCYmZkOE54czZBZVpURFE?oc=5",
+   "source": "Barron's",
+   "paywall": true,
+   "published": "2026-10-23T14:48:00Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "tickers": [
+    "SPCX"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "4aff99068481",
+   "title": "Meta delays new business terms after publisher pushback on AI scraping",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbjBNWmwyRnRGYVI4RmM3UEtBRXFIRTJTLTFpUmh6NU5aaE1nTXJQeV9sYUpGb1AtS0xmUXlLczR0Q0NxaHB6aUo0c1FXWmdDYWRxVWZFa25BM0FmTzV4QjBjTTJJUlFlOFJnTEZBTEFFaU5jN3prVFlVMFdndmJGaTUxSQ?oc=5",
+   "source": "The Verge",
+   "paywall": false,
+   "published": "2026-10-23T14:47:41Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "META"
+   ],
+   "also": [],
+   "ai": {
+    "label": "fundamental",
+    "tickers": [
+     "META"
+    ],
+    "direction": "positive",
+    "impact_area": "regulation",
+    "importance": "medium",
+    "reason": "Meta ชะลอการเปลี่ยน business terms หลัง publisher pushback ลดความเสี่ยงทางกฎหมาย",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "3afff80c350a",
+   "title": "My favorite Sony noise-canceling headphones are 43% off right now",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMS1YMkhmOC1yMkUxSHJBN19rSDllMUlXNzlUY0FpMEtvMGItWkhISHJLNTVkbUxqNGVmcjlteGk5ZFdjN1JRVTlVTTl0dVJoNkYzRktPbC1pWmk3U2VuZ0ZRd19DYTlCN0pWX1NyeVVxZGg3bXR2RHVXN3lxVEVlZmtKcjVlM1kyTkZKX2VhQQ?oc=5",
+   "source": "Business Insider",
+   "paywall": true,
+   "published": "2026-10-23T14:47:00Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "6758"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "0f116ad5c3cf",
+   "title": "Taiyo Yuden Co., Ltd. Estimates – TSE:6976",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1CcF82QXl4anZIZGZCRFpPYktNZm9acUlYeTRsWkV6WEotaHVpM19BNVlaV1lzWjgweG1yRXI3SVpQWjhBQWZYSUo2R211S052RG9CSnhDMk1PaTNVMWdPVlZFaTBqdkdNR0RnSXdONmxwbG9L?oc=5",
+   "source": "TradingView",
+   "paywall": false,
+   "published": "2026-10-23T14:41:26Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "TYOYY"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "fe567716e886",
+   "title": "Crown Castle Stock and Others Get a Huge Boost From SpaceX’s Cell Tower Push",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYXhza1pEWFRPcFpXRUpGVWZSdHdvMGd6a0trZmROUmVtb1pyc3FhMFQySERFWWpRakd4cDZiV1N4bWtESmU1enlVMGg4SXIzdXlBZzVuRk50NXRvcUtfaEx6aHo3WGszcDR3OWxFNjhnYkVQaXZUUTJKTjJfVlp6c29scl8?oc=5",
+   "source": "Barron's",
+   "paywall": true,
+   "published": "2026-10-23T14:13:00Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "SPCX"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "ca1930662707",
+   "title": "Robinhood sees surge in bitcoin, gold prediction markets as traders move beyond sports",
+   "summary": "The company's head of futures and prediction markets said bitcoin, gold and oil contracts are among its fastest-growing prediction markets.",
+   "link": "https://www.coindesk.com/markets/2026/10/23/robinhood-sees-surge-in-bitcoin-gold-prediction-markets-as-traders-move-beyond-sports",
+   "source": "CoinDesk",
+   "paywall": false,
+   "published": "2026-10-23T13:58:56Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "crypto_gold"
+   ],
+   "tickers": [
+    "BTCUSD"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "4757d48f01aa",
+   "title": "Murata Manufacturing Co., Ltd. Estimates – TSE:6981",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTlRNZ0hzT3AzYkRHM0dMdDUteGQwc090elJNenA5SVZic1RERDVqMVhDUVhwVHlSZmQ2dU1FRG4zOHdWbnJMalB0Z3hLNzVrc1YtZWNzcHJ1Xzhyb1J0a0hZQ21tOHN0MzlER0dCSjg5aTZZZW5CRktPcU9McjRHSHdqMHl6YXZseEwyOUZB?oc=5",
+   "source": "TradingView",
+   "paywall": false,
+   "published": "2026-10-23T13:38:34Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "6981"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "fabbd1df4208",
+   "title": "Country Clubs Beat Their ‘Expiration Date’ by Rebranding Exclusivity",
+   "summary": "Plus, how much would an ad business in Muse help Meta pay for all that AI?",
+   "link": "https://www.wsj.com/cmo-today/country-clubs-beat-their-expiration-date-by-rebranding-exclusivity-1dbf6070?mod=pls_whats_news_us_business_f",
+   "source": "WSJ",
+   "paywall": true,
+   "published": "2026-10-23T13:29:00Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "META"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "26b945e3355a",
+   "title": "Murata Manufacturing stock: Revenue reaches JPY 486.60 billion in second quarter",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcTdkajUyZ0IzQmRnc01haVBTTnAwYzQtUVJVS09sZG81LUxMMjBseElCXzNBR0xOV01wUFFyVWFZTFdNR3dBU0JqM1dpV0I1V0lwVHB2OGZaNjUtcHhrbUwtVE55WmZoeF9rYzdtcXl3SEY2TXRBZ3dpSXNyWWg5T2hRRVBnUkRhWXZqNC1jWC1BWWR5SkxHWURLTHVJbU4tZUFRX1lpSDZ0SXhfSEwxa0RqbEs2RnJ1VEltTXJ2NkptVEEyd1M5bDAxMEs3Rk0?oc=5",
+   "source": "AD HOC NEWS",
+   "paywall": false,
+   "published": "2026-10-23T13:20:30Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "6981"
+   ],
+   "also": [
+    {
+     "source": "ad-hoc-news.de",
+     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTW9pS0xOSjZxU081UnNXcXhTQ01EeGVqazdpQTI1OUV5bGY4TFphQ0cxVEZPN3R3MGdMOExvZlNQaXlianktSTZGZncybUpNdTFNVmtqYkdVcURuc0xuQlR0S21XVkhNMlY2T3VJeExXVXRGd243MWRabVpiZHRWSXVyUG93blYtOGZXd1hPN1hhNHcyUUVQSVFUQXZNWk1ZVFI3SVBQUDVWSHZvb2ljU3VUWExmNGRlbmx1bHY4ZndXaGJkUjlEQ3B5U2VaMkZPT0tHQ0hZUmw1UQ?oc=5",
+     "paywall": false
+    }
+   ],
+   "ai": {
+    "label": "fundamental",
+    "tickers": [
+     "6981"
+    ],
+    "direction": "positive",
+    "impact_area": "revenue",
+    "importance": "low",
+    "reason": "Murata Manufacturing revenue JPY 486.60 billion ในไตรมาส 2 แสดงผลการดำเนินงาน",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "4ba06ed5294f",
+   "title": "Explainer: Why is Meta creating a new class of non-voting shares amid its AI growth?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOVdyMzNSMWdnREtoZkVQaUlaNzJXNnNpclFud1JZUTZaRGdhTFhKYTUxaEtfWGRsM1NwU3VKSTVXSW95WXdKVlh1TzVGSDVkb3VYYmdLa1ZLQVNIVWM3M25pTk95dkE0Ti1sdmhsZGxsSXNCSExIWjhGZ3Fsb1VEdHFwdTlEZXpJdlBoVlQxX20wTEl2aGpYZ1l1WVFMbWM2akpOR2RGV045ejljRURJdUl3?oc=5",
+   "source": "Reuters",
+   "paywall": false,
+   "published": "2026-10-23T12:49:43Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "META"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "ee0af5894a39",
+   "title": "Nvidia, Meta and Apple Unveil New Open Models The Morning Download for Oct. 16",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRzl4Qm1LOUgzSHRaWEdvRDhKYkRaemRoOV9GWWVuU0N1THhvaXFnYnhQOWRWaGZBQlBUN3dicGJmWWVuZW9BS3BnLVlGYks2R3I1b1ZuVW9ObVhXX3I1cGViWnJyTnIwd3pfV3BXQVhWZy15dkpDTlFUSVg1YUtjR28wRkFrRHNpT2ktMnpR?oc=5",
+   "source": "WSJ",
+   "paywall": true,
+   "published": "2026-10-23T12:26:54Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "watchlist",
+    "products"
+   ],
+   "tickers": [
+    "META",
+    "NVDA"
+   ],
+   "also": [],
+   "ai": {
+    "label": "fundamental",
+    "tickers": [
+     "META",
+     "NVDA"
+    ],
+    "direction": "positive",
+    "impact_area": "competitive_advantage",
+    "importance": "medium",
+    "reason": "Nvidia Meta และ Apple เปิดตัว Open AI models ลดการพึ่งพา proprietary models",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "7b2ed4620c5e",
+   "title": "Higher interest rates have made family offices pickier about investing in real estate",
+   "summary": "Higher interest rates have made family offices more selective about investing in real estate.",
+   "link": "https://www.cnbc.com/2026/10/23/high-interest-rates-raise-the-bar-for-real-estate-deals.html",
+   "source": "CNBC",
+   "paywall": false,
+   "published": "2026-10-23T12:15:03Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "fed"
+   ],
+   "tickers": [],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "a9b5b4362e88",
+   "title": "AI trade meets the Fed",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOWlIdzFDR0xNQ01RZzhsaXVtMXYtbWU3U3RvejE4NzV3TFZPXzI5SUpGTG9jLUxxbEhiNGFVMTZyUU84MVhTZGJaWkxtZ2cwaG9OTlJiYmFLTzFLLXZFQURzNUE5M05Lcjc5UXQ4Q1RIaVNWOFZlSlA2MTBLUFYtSVdLcGI3V3lCN216QQ?oc=5",
+   "source": "Reuters",
+   "paywall": false,
+   "published": "2026-10-23T12:11:56Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "fed"
+   ],
+   "tickers": [],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "0f47ce83c1d2",
+   "title": "On the ground at Nvidia's AI showpiece: Jensen-mania, robot ducks and neocloud distress",
+   "summary": "The word on the ground from Nvidia's GTC conference in Berlin.",
+   "link": "https://www.cnbc.com/2026/10/23/jensen-huang-gtc-robot-ducks-neocloud-distress.html",
+   "source": "CNBC",
+   "paywall": false,
+   "published": "2026-10-23T12:08:30Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "NVDA"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "1878e7ed4532",
+   "title": "SpaceX Stock Catches Rare Double Upgrade. How Shares Can Rise 70%.",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5rX2lzZ2F2Qnl6Vm5weTJtZVJ0NDVwLTZwNGQyUEtvUEZNYWoxSGFPSDFGQ2JZNkx0SnkwbUgwTEdzeHlnLWZ4eWQ0OWttSXNzMjNNdGFtQmwtQkJLMlVRenlNZDFyMnlaZVVxRmd1dXF1cndSR2lB?oc=5",
+   "source": "Barron's",
+   "paywall": true,
+   "published": "2026-10-23T12:06:00Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "SPCX"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "e9340b9e004d",
+   "title": "Bitcoin Core changes security rules as AI makes finding code bugs dangerously easy",
+   "summary": "Developers merged a policy change that ends the months-long embargo for flaws a chatbot could rediscover, after a summer in which AI found hundreds of bitcoin bugs before the humans did.",
+   "link": "https://www.coindesk.com/tech/2026/10/23/bitcoin-will-now-stop-hiding-bugs-an-ai-can-find-in-one-prompt",
+   "source": "CoinDesk",
+   "paywall": false,
+   "published": "2026-10-23T12:03:53Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "crypto_gold"
+   ],
+   "tickers": [
+    "BTCUSD"
+   ],
+   "also": [],
+   "ai": {
+    "label": "fundamental",
+    "tickers": [
+     "BTCUSD"
+    ],
+    "direction": "negative",
+    "impact_area": "regulation",
+    "importance": "medium",
+    "reason": "Bitcoin Core เปลี่ยน security rules เพราะ AI ทำให้หา code bugs ง่ายขึ้น ลดความเสี่ยง security",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "2d1df1be7163",
+   "title": "Malteurop acquires the Chunlei Malting Co. malting plant - A strategic investment that significantly expands its operations and strengthens its position in export markets",
+   "summary": "YANCHENG, China, Oct. 23, 2026 /PRNewswire/ -- VIVESCIA cooperative group and its malting business have announced the acquisition of the Chunlei Malting Co. plant. With annual production capacity of 220,000 tonnes of malt, enough to make 2 billion liters of beer, Malteurop is…",
+   "link": "https://www.prnewswire.com/news-releases/malteurop-acquires-the-chunlei-malting-co-malting-plant---a-strategic-investment-that-significantly-expands-its-operations-and-strengthens-its-position-in-export-markets-302917923.html",
+   "source": "PR Newswire",
+   "paywall": false,
+   "published": "2026-10-23T12:00:00Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "deals"
+   ],
+   "tickers": [],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "1a71a99890eb",
+   "title": "I’m a comedian whose joke was stolen by an AI creator. I blame Meta and feel powerless.",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPY25lMTNNT3pkRnBRSjdfVnV1UmxKU3YxWVZKRWh6QWgtSWRsVXN2NnY3ekIxVk1GOGtGLXRYMFZ3d1NJM3VwTTA4Yjh5bGRmSHFsSm8wbURrNVZZRTltSjJrSjdwQ0VMaEE2VG5VQi0yM3oweVdXRmlFUTBCTlY0RFVXSmJHV3VYSTNqQi1hWQ?oc=5",
+   "source": "Business Insider",
+   "paywall": true,
+   "published": "2026-10-23T12:00:00Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "META"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "fbc4c148d7c1",
+   "title": "Ukraine learns to fight without Starlink as Musk plays politics with satellites",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRDl6NHItcEY0NDllNUNoSlgxTTFTUWQ5WkwwWG1EOEtnRFRCNEFadzJlNFNyN3BvOG9QWE4tdkZiOW5Fa2QwU1ctMWR3VnFZSnE3Rks3NzBKbWlWX3A3SGVBcGg5WXBTcHlFdTR0bEtvU0N0X0pEelg5ZjM1bU5vSE9NT0N6TDhFcUd5SEh5RUtSYkF1TEdjbDlxNWJxZ2NKakJrVlN5dE5fd04tM2hQcXJuTkl3X3RsQkg1VA?oc=5",
+   "source": "Ars Technica",
+   "paywall": false,
+   "published": "2026-10-23T11:30:22Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "SPCX"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "76c69383010d",
+   "title": "Meta joins Big Tech's negative free cash flow club",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE82RG5aRFNGOHJIM2ZhOWpZSkx0ODFrRTBQQ01sU0p4bE95MjROdEo4MmRKVVFrYWJBWlloc1NaNWdFdk50VGFjUmFzT2JtNkJ4N051dFZIM2x1Ym9zc3IxOV9VelNOdWRFYXlQUDJR?oc=5",
+   "source": "Axios",
+   "paywall": false,
+   "published": "2026-10-23T11:26:24Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "META"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "5a29f761415b",
+   "title": "Bitcoin's price is as jumpy as Nvidia's and eight times more turbulent than the euro",
+   "summary": "Your day-ahead look for Oct. 23, 2026",
+   "link": "https://www.coindesk.com/daybook-us/2026/10/23/bitcoin-s-volatility-is-well-above-euro-dollar-gyrations-though-it-has-calmed-to-rival-nvidia-s",
+   "source": "CoinDesk",
+   "paywall": false,
+   "published": "2026-10-23T11:22:33Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "crypto_gold"
+   ],
+   "tickers": [
+    "NVDA",
+    "BTCUSD"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "ac0ce7afdacb",
+   "title": "Railroads Gain as Cargo Shifts to Rail From Highways",
+   "summary": "Plus, U.S. Steel plans to invest almost $3 billion on a new mill near Pittsburgh, and wars are forcing airlines to reroute flights.",
+   "link": "https://www.wsj.com/logistics-report/railroads-gain-as-cargo-shifts-to-rail-from-highways-d121a357?mod=pls_whats_news_us_business_f",
+   "source": "WSJ",
+   "paywall": true,
+   "published": "2026-10-23T11:14:00Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "deals"
+   ],
+   "tickers": [],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "f81263a8a1b0",
+   "title": "Live updates: Bitcoin holds above $81,000 as oil prices hit six-month high",
+   "summary": "Brent crude oil surged above $116 per barrel for the first time since late April.",
+   "link": "https://www.coindesk.com/markets/2026/10/23/live-updates-bitcoin-holds-above-usd81-000-as-the-ai-rout-fades-and-oil-climbs",
+   "source": "CoinDesk",
+   "paywall": false,
+   "published": "2026-10-23T11:13:01Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "crypto_gold"
+   ],
+   "tickers": [
+    "BTCUSD"
+   ],
+   "also": [],
+   "ai": null
+  },
+  {
+   "id": "0f2e23e52162",
+   "title": "Rocket Report: SpaceX says no thanks to military launches; Spanish rocket nearly ready",
+   "summary": "\"We believe Canada should be able to reach orbit on its own terms.\"",
+   "link": "https://arstechnica.com/space/2026/10/rocket-report-spacex-says-no-thanks-to-military-launches-spanish-rocket-nearly-ready/",
+   "source": "Ars Technica",
+   "paywall": false,
+   "published": "2026-10-23T11:00:57Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "products",
+    "watchlist"
+   ],
+   "tickers": [
+    "SPCX"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "068ba64801f1",
+   "title": "With earnings in rearview mirror, SpaceX-Tesla merger chatter takes center stage",
+   "summary": "A Tesla-SpaceX merger may be in the works, but the companies face a long road of negotiations and regulatory reviews.",
+   "link": "https://www.cnbc.com/2026/10/23/spacex-tesla-merger-chatter-takes-center-stage-after-earnings.html",
+   "source": "CNBC",
+   "paywall": false,
+   "published": "2026-10-23T11:00:01Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "tickers": [
+    "SPCX"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "3a96237c22ed",
+   "title": "COMMENTARY: Musk's AI win, Meta's cash burn, and the CoreWeave conundrum: The financial week in five charts",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeElwRGE0NEFhQ0RlUm9TNDVLZkFyM2ZvTjJCbHdwZ1dvNi1JQ0lpQUhRTUZRVGtqVEtYWVFBc3U4OENUWGVnaXVfNXVyYkFPdzlud2JPZFBNazNjQldxTFpJX1JsYk5FSkZYb2NPWkV5d0tZcnV5dEYzRXNKaXZ3UVA4UkNZQVNVYkpuOXRXdEhoSFZ3UzhHT29zTzdwX2VlbE1WdV9hTXhZUFZEeUFDeU52ZFFkdE0zZ1RhYThSTTFYMlJaLVU1WWFXS0JNM3BCRnhaQzZSSGMzaHc3?oc=5",
+   "source": "Reuters",
+   "paywall": false,
+   "published": "2026-10-23T10:42:13Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "META"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "904d79422065",
+   "title": "Is SpaceX Just a Mess?",
+   "summary": "Some of the best analysis and insight on investing, the wealth-management business and more.",
+   "link": "https://www.wsj.com/finance/investing/is-spacex-just-a-mess-cb1f06c2?mod=rss_markets_main",
+   "source": "WSJ",
+   "paywall": true,
+   "published": "2026-10-23T10:25:00Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "SPCX"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "2671f5131fda",
+   "title": "‘This is a lethal threat’: Indigenous groups fear Bolsonaro’s hold on voters in Brazil’s Amazon towns",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRjliVEJIZzJRLVF1Z3lOaTAyWXl2UXFTZVNXdmVPN0lHclBrU3VCSFV3dU42T055VXRYeHd5Ujk5QVFLdDUxOVBXcmZmclg4bjJuZjFxTUZJZFQzNkpvMEh1T0ppTndQd2p0VU90cGNWaU1zREsxdkhEU05FMkQ3Uk5KMDJGOHYzdEpxczhmTURqUXZoeVlscnVuRm80bVRROWRLYlhob20?oc=5",
+   "source": "The Guardian",
+   "paywall": false,
+   "published": "2026-10-23T10:14:00Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "AMZN"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "d01e97d8773d",
+   "title": "Breakingviews - COMMENTARY: Europe picks right fight with Starlink on spectrum",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdVB0OXZqZW8xSmFMX3phM1g3VUc3UHpiSGZHc01PVVBNMDFJX3ZVSTgzbHBaajViUXRNT3EyVXR3YzFrRjRkZnNMbkpwVC1HTk1CdVo4WWtkUVFyT0pkU2JkbjV0bVJKTWNJa3RpcXBKVF9fOFNwZ0wyMkZ4NGVaaUdRbHZaNVlTYXJaSjh2OW1MR0xZbjlXWTJaZEtHakx5cXlCRjhWaFViTzRp?oc=5",
+   "source": "Reuters",
+   "paywall": false,
+   "published": "2026-10-23T09:52:26Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "SPCX"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "f93fa970f5c9",
+   "title": "Meta’s Muse Can’t Be a Freeloader’s Paradise Forever",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRWc2b2VHSGZfOEg1OEtjREJaNE51MHdEcHh1RDFOb3lIaXFJd3Z0dGJUNWlHRnlFalo2YktVZ1VMWTVsbld6WVFxVjVKYk1ZSXY0cHpMMjdsbU1KT1IwRUl0amxyQl9sTFgzYllRYzVWX0NZdlljSFRYdFpZTmpfZDJoYlQtODRMRjVnSzhGZkhYRXRPU3ZsWU5nWG1OUmNzak5BVXBxTVBIQQ?oc=5",
+   "source": "Bloomberg",
+   "paywall": true,
+   "published": "2026-10-23T09:30:13Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "META"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "875a2c84b31d",
+   "title": "Meta’s Muse Is Going Gangbusters. But Where Is the Payoff?",
+   "summary": "The Muse artificial-intelligence agent has reached 10 million downloads in a little over a month since it was launched.",
+   "link": "https://www.wsj.com/finance/stocks/metas-muse-is-going-gangbusters-but-where-is-the-payoff-648d310d?mod=rss_markets_main",
+   "source": "WSJ",
+   "paywall": true,
+   "published": "2026-10-23T09:30:00Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "watchlist",
+    "products"
+   ],
+   "tickers": [
+    "META"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "9f8166c69f42",
+   "title": "Nvidia's Huang heads to Kazakhstan for the first time — and he's not the only one with big plans",
+   "summary": "Jensen Huang's first Kazakhstan visit highlights the country's growing AI ambitions and global business appeal.",
+   "link": "https://www.cnbc.com/2026/10/23/nvidia-huang-investment-kazakhstan-.html",
+   "source": "CNBC",
+   "paywall": false,
+   "published": "2026-10-23T09:21:59Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "NVDA"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "7b846e2f5ad9",
+   "title": "Murata develops small NTC thermistor while Murata Manufacturing stock costs EUR 35.49",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMjVDQWdjS2xOUXZtSVNFbU1WUDI3bmFZeFpZS3kxWG5MRWJSRU1MUVg2SHFPM0w0R19pd3A5MGJMZFRySEJadjI1ckNXeC10aVRkY2FBS1RDTkZCNmdKU2d0b3JCLUctcS1ENVRYSk1uZjJRSjg0N0VBUVkyV19PRTRGMGEtRHpyYTJXOHRCTjRFSjNpY3h3Z1NWNWlFR3R5bDdYQm9IelpjOGFJNHBqWjRsWUN2NmNGR0E3OTBBcVhZdGxWN2thVlZ2b3FfaVBLelBtMTRjQkYyVjZ2VEhjekJn?oc=5",
+   "source": "AD HOC NEWS",
+   "paywall": false,
+   "published": "2026-10-23T08:07:46Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "6981"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "601b8f47442e",
+   "title": "Sundar Pichai says Google is far from the ‘end state’ of self-improving AI",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSnVVbTZOTGdydS1hR0g0Qm5ocGhzckdRRmtHczB3aXg5eFctekFMZk8zSUtkSnhIZy0yWWVlRVNXZ3VxQ2J2ZnAwaHVLLXdPbkZrOTJlRzdicUVkS0ZVOHc1U0wxbFRsS2VEd1VGN201VVRUZkM0OVNsVG5hWC1oREtsVGNpcDZlTlg4NFVUYUJaR0dsLXFhdTNB?oc=5",
+   "source": "Business Insider",
+   "paywall": true,
+   "published": "2026-10-23T07:45:00Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "GOOG"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "a05b3bf12f60",
+   "title": "Nvidia’s Huang Reveals Investment in AI Video Unicorn Higgsfield",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMHhEb3JuUm1ma05hdTNPb0hBc2lQbTFnNTF0ZThWZFBzUXpxSTM3Nmw2d05LRDVSRllZd1FJUHd3ekFPZmhCdjlQWWVvbnI1UklWeThscm9nTXZLSkVPTUxtS1VEYi1YSlJMZHlYdXJnbE9CRXdmYlNSc3dZdkhWZnl5QmhtMkZiMHFtdW14Yjh5bGRvaTBwRHN6bUt6MzNFTkVKMi1SbUZrVlBUbUpYUHo4SVA4YmVqT2RpZU5n?oc=5",
+   "source": "Bloomberg",
+   "paywall": true,
+   "published": "2026-10-23T07:17:16Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "watchlist",
+    "deals",
+    "products"
+   ],
+   "tickers": [
+    "NVDA"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "b851be40bdb1",
+   "title": "Ambani's Jio becomes most subscribed Indian IPO with $77 billion in bids",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVnRMTFMtTUhERkVlZG4zSVcxcm54ODQ5SXo5NGMxNmVZM2RSbjdqTko3NzB4Q053b09iMEJiX3dRd3Rpem9RQ2pDa1dVMFFOZG54WjhLMkdSbHpyQnF6OXpQbDhBd0ExQ0QyRFNXRm93Q0dfUEdCSllQdTBrUVNzRFUzTWc1OVZva3F0YkVDLUdyeEZvNFh1S1VhNVdMZjFDbVVFTDZPUk9MQVVMTEN1ZmRiX3BjaEJDNi00OWlLNDY?oc=5",
+   "source": "Reuters",
+   "paywall": false,
+   "published": "2026-10-23T06:28:00Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "deals"
+   ],
+   "tickers": [],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "8cf67936ee51",
+   "title": "Murata Manufacturing (MRAAY) Expected to Post Earnings on Friday",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbEdVYk1VeDRyUFlCM2lrSVBJaVVWcVR0M0RZS2pHUGhzcmcxZHZZNW5qRF9CT05qWFdFSkVneXlkQVNDalFJOUwwQVc3UGUzR3ZHR05sdTNkSGx4d1Biendzbm9Ga2dwWnBVbVRocUstdlVVQkNLYzNtNVhBOF9wTnlscHptaDViY1d6UDBpUWRFQmI4UllOaGY4d0ZBRndmQUYzSmpCQi1ONDFEVlFWTEQ4ejVub0NOWFdTel9QOXZhN1E?oc=5",
+   "source": "MarketBeat",
+   "paywall": false,
+   "published": "2026-10-23T05:46:25Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "6981"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "e74631515920",
+   "title": "Rolls-Royce nears government subsidy deal to develop new engine in UK, FT reports",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQjZyQUdrY3hOZnkyX3Z0ajIwS0RDVHBjeWRXa3pLblZXYVhOYndXUUt4ZDR2d0kteFRycExxNXZBZVBnY2I4d1hDc1VWT2VwOXJBa3Q0MUVuVFJfUUpxY0FmLTBZNnoxWUlNUGV2ei1JSGFBdmlJUG5fdElpRnJLbExXYUF3enlJaE5VbU5Ba0Y0U2UtMlhRVldWT2RkZmpfb1FLRE82Y3RpNTFXMVdjOXZPRUdxTEo4Y3loeUg5M2VzZTQxZFhEVTJNMnRuMDJhbjRr?oc=5",
+   "source": "Reuters",
+   "paywall": false,
+   "published": "2026-10-23T04:51:00Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "tickers": [
+    "RYCEY"
+   ],
+   "also": [
+    {
+     "source": "Financial Times",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTm1HQmJPNzdBMXZfSDFENDFHUTZoaWhENWkxdzdFb1hmMk5kb1dvT0UyYXZLVElFUGljcWt4Z0ZtalZnaTVCbzNfYzhmODZGdmpuSlB6YkczY3RuS3NBMERFX01OWDROME40ak9Bdm51NlIzd3JTWW1aNkNYVExHb3FWdGY?oc=5",
+     "paywall": true
+    }
+   ],
+   "ai": {
+    "label": "fundamental",
+    "tickers": [
+     "RYCEY"
+    ],
+    "direction": "positive",
+    "impact_area": "revenue",
+    "importance": "medium",
+    "reason": "Rolls-Royce เข้าใกล้การตกลง government subsidy เพื่อพัฒนา engine ใหม่ในสหราชอาณาจักร",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "0edb9230de26",
+   "title": "Gold set for steep weekly loss as rising oil prices bolster Fed rate hike bets",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWE1LcUgzRWRwVDZmX3FEaWszVHF0cFQ1ekt6M1pyQ0lfc05PQm9DekdZcXprdm1vQk00SlNEZjEwQllCd1VwMUJySnIxcF9ZblFaRHFsV3BzSU52SlJSSi1TeWxoTmdYc1h6UHhPQTFQYU41ZEdQTFRNY3l0N1Q2bnRDV2x1MjlveGtxTk1oQWlGd3ExcUZEd2QzdF9TUkVKcXotUlIycUgtb1RrZjJ3?oc=5",
+   "source": "Reuters",
+   "paywall": false,
+   "published": "2026-10-23T04:14:00Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "fed",
+    "crypto_gold"
+   ],
+   "tickers": [
+    "XAUUSD"
+   ],
+   "also": [
+    {
+     "source": "Kitco",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNV2x6YjVmcHlCTnJSN01qOHZMUnJHTmtnRU1zRjFwWlRwVms1NV9MOTcyalpSaEotZDFrN3ZzQXA2Q0lJaERxWTFnZnpYa1ZEeVdrUHVCd3VYV0VGTG1lbGJyXzNKeEZ2UmJuV0FYZ0xMY2xPUVhKZWZJbFlOWWdEMEVQblJ2dnROLUw0a01QdktsWFRGM0Q0UGxUTmd0eXpzZTNSaVQyWGYxb3ozNGkzWXJyNGhSWGdY?oc=5",
+     "paywall": false
+    },
+    {
+     "source": "MINING.COM",
+     "link": "https://www.mining.com/web/gold-price-set-for-steep-weekly-loss-as-rising-oil-prices-bolster-fed-rate-hike-bets/",
+     "paywall": false
+    }
+   ],
+   "ai": {
+    "label": "fundamental",
+    "tickers": [
+     "XAUUSD"
+    ],
+    "direction": "negative",
+    "impact_area": "macro",
+    "importance": "medium",
+    "reason": "Gold ตกราคาหลัง oil prices เพิ่มขึ้น ยกระดับการคาดหมาย Fed rate hike",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "aed85d796a06",
+   "title": "Is Zuckerberg being greedy? Let shareholders decide",
+   "summary": "If the billionaire founder cares what people think, he should persuade his fellow investors to back his vision",
+   "link": "https://www.ft.com/content/876baf7b-f8a6-43e7-b03f-7813ab50f87a?syn-25a6b1a6=1",
+   "source": "Financial Times",
+   "paywall": true,
+   "published": "2026-10-23T04:00:37Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "META"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "aaddd8b1fa5c",
+   "title": "Beware Bessent’s tilt towards short-term debt",
+   "summary": "If inflation and debt rise and AI optimism falls, then the danger of reducing Treasury maturities grows",
+   "link": "https://www.ft.com/content/bf959a1a-1cd8-41e2-8767-03aa1ac3ed48?syn-25a6b1a6=1",
+   "source": "Financial Times",
+   "paywall": true,
+   "published": "2026-10-23T04:00:28Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "fed"
+   ],
+   "tickers": [],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "486c2aa3a435",
+   "title": "Murata Manufacturing (6981) Stock Forum and Discussion",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1FNXljT3BhM1hkMkpTX0lMckkyRVdHQkFzQ2UxV3hITEZ4eC1UNmdaMGtrVlJ4VHpWSWxNQjlab2c0MktONUFDTzNmOV9DQnJUYmtqNW53TUJEaEJzbVJuUW9FUTdIcWVKZEVqc1d3TDNJWVZXdUFqWldUc3o?oc=5",
+   "source": "Moomoo",
+   "paywall": false,
+   "published": "2026-10-23T03:33:08Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "6981"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
   {
    "id": "924fd137213c",
    "title": "Trump, Musk, Zelenskyy: who is blaming who in the Ukraine-Starlink row?",
@@ -848,6 +3103,25 @@
    }
   },
   {
+   "id": "e21d88d6d450",
+   "title": "Australia's Rio Tinto to invest $1.9 billion in Queensland bauxite project",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMXVPQlViT2ZTTzcyLWFwV01RTTlkWnh0ZjVZUllVT1lQY19SMS1SczRoQzFpLVVFSDduMDgtczhJQ1I0OFJ2Qks0djN3YUgxZlpYVjM0Y192SUVzTmJDdXR0dWNSblZOTElKLTZobEdtNGpSbDJmbGtzR2RiU21rSjZkS2hJUjcwb1BXdHpHR0trMlZOMjBJNjVzZEE0bG1maXR5eGtZY0JaNU9KQ2JCb1lHdVQ5T1liTE50Tg?oc=5",
+   "source": "Reuters",
+   "paywall": false,
+   "published": "2026-10-22T22:30:56Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "deals"
+   ],
+   "tickers": [],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
    "id": "1f608dbbe8e9",
    "title": "Meta’s deal to keep Zuckerberg in California adds fuel to wealth tax debate ahead of election",
    "summary": "With less than two weeks before the midterm elections, Meta made clear that Mark Zuckerberg is staying in California if the wealth tax passes.",
@@ -866,6 +3140,40 @@
    "also": [],
    "ai": {
     "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "0a572095861b",
+   "title": "Newmont beats quarterly profit estimates on higher gold prices, Cadia recovery",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNajFlVFVVNzNoeTg5cTNJM2ZuNjZoU3RBUVUwdnZOUXljd2tpM2dHbDhjbUU4V0JCZkZMWmlrNWlTeHJLM2g0aE01MGE1VkZndzdPb2J0R2Q3bjJtWkJvMG5DeWdLUmJwamw3ckpNeG9jb3RYSFFiLW5PanFLdlRUUXNvN3ptWDBjZ01aR1JMaFRwXzd5RE1jWnNqMDhTWU1SZmp5ekxrWQ?oc=5",
+   "source": "Reuters",
+   "paywall": false,
+   "published": "2026-10-22T22:17:27Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "crypto_gold"
+   ],
+   "tickers": [
+    "XAUUSD"
+   ],
+   "also": [
+    {
+     "source": "MINING.COM",
+     "link": "https://www.mining.com/web/newmont-beats-quarterly-profit-estimates-on-higher-gold-prices/",
+     "paywall": false
+    }
+   ],
+   "ai": {
+    "label": "fundamental",
+    "tickers": [
+     "XAUUSD"
+    ],
+    "direction": "positive",
+    "impact_area": "revenue",
+    "importance": "low",
+    "reason": "Newmont ทำกำไรเกินประมาณการจาก higher gold prices และ Cadia recovery",
     "model": "claude-haiku-4-5"
    }
   },
@@ -906,6 +3214,25 @@
    "paywall": true,
    "published": "2026-10-22T22:07:00Z",
    "first_seen": "2026-10-23T02:31:49Z",
+   "categories": [
+    "fed"
+   ],
+   "tickers": [],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "3bf7396c2ca4",
+   "title": "Stocks Fall as Oil Rally Keeps a Lid on Treasuries: Markets Wrap",
+   "summary": "A resurgence in oil prices dragged down stocks and bonds, stoking concerns about inflation just days ahead of the Federal Reserve decision on interest rates.",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-22/stock-market-today-dow-s-p-live-updates",
+   "source": "Bloomberg",
+   "paywall": true,
+   "published": "2026-10-22T22:05:06Z",
+   "first_seen": "2026-10-24T02:29:38Z",
    "categories": [
     "fed"
    ],
@@ -1404,6 +3731,24 @@
     "reason": "Trump called Musk lift Ukraine Starlink limit ทำให้เกิด regulatory risk",
     "model": "claude-haiku-4-5"
    }
+  },
+  {
+   "id": "c981f2c4a25e",
+   "title": "TSX falls 1% as tech and gold mining shares slide",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcDctZl9BbnFBa3pSdnlpNkNYUV9ENzJZZjVITGNWZ1QxUDN3bl9nMTA5QlZKV3JjOGJzdG8xZ29zQ0JWcHV1WVNFNHBLVFBHUlAyZTFjZnZ2ZnBLRWcwSmJ4NWhXcWhhYkUtMHdqYkZCemZnWGlEaE1rTy1CQ1ZIQzhBMHpZU1NaQjRZQ2hVREVTdURKNVN5WlNZWUdVbkRqSV9jSGJhT2w?oc=5",
+   "source": "Reuters",
+   "paywall": false,
+   "published": "2026-10-22T20:27:03Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "crypto_gold"
+   ],
+   "tickers": [
+    "XAUUSD"
+   ],
+   "also": [],
+   "ai": null
   },
   {
    "id": "492fbcc98cff",
@@ -1964,7 +4309,17 @@
      "paywall": true
     }
    ],
-   "ai": null
+   "ai": {
+    "label": "fundamental",
+    "tickers": [
+     "SPCX"
+    ],
+    "direction": "negative",
+    "impact_area": "revenue",
+    "importance": "high",
+    "reason": "Trump โทรหา Musk ขอให้ยก Ukraine Starlink restrictions แต่ยังไม่ดำเนินการ ความเสี่ยงทางการเมือง",
+    "model": "claude-haiku-4-5"
+   }
   },
   {
    "id": "b6d64294e079",
@@ -2224,6 +4579,25 @@
     "reason": "Meta ต้องจ่าย $25 billion fine จาก New Mexico privacy violation",
     "model": "claude-haiku-4-5",
     "same_event_as": "efc553d53487"
+   }
+  },
+  {
+   "id": "835e31b77b5c",
+   "title": "UAE, Greece announce €12.75 billion in deals, Abu Dhabi plans further €15 billion investment",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZ1pwXzZBNGRLX2NWa3I0R2wwQU9fUmV5cjhSWVVVcHJISFNOMTd5UDBrck5DS2xqZFJidnRIdGpocEMyTHA5TlJoZ3BURndlVHM0RlNVbHlmejNtaTRacmZyYkZIQmRqd1RBdC1xeHh1SXZGdlVVOTlPS09mLUNNa2dSOG12SDRCWl9mRmZJV1JmQVRUd0lidnhBWndHVlo4Ql9neFRsYUZ0T1phUXFXM182ME5PS1FtYnE2ZVF5OERRWTl2Ync?oc=5",
+   "source": "Reuters",
+   "paywall": false,
+   "published": "2026-10-22T17:03:43Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "deals"
+   ],
+   "tickers": [],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
    }
   },
   {
@@ -2666,6 +5040,27 @@
    "ai": null
   },
   {
+   "id": "36f6e5cca94e",
+   "title": "London Gold Centre Launches Gold Price Calculator to Help Consumers Check the Value of Their Gold",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZ3FlVi1CWlhXalJpVU1maFpxSVV0MEFJdnA3YS11ekJadnFVeVZ0SlNYNUF6a2c2ckdIaGR2Sm9CTEpjbW9MU0QyY0VRSS1UMGw4MFNJTW5CQU5VZWpwRlY5a1ZDalVhTlBrNmVseGEyMWlIRFNfNHdHWURkbW5Mc1BKSy0zTk9sRmNKMWZScw?oc=5",
+   "source": "Reuters",
+   "paywall": false,
+   "published": "2026-10-22T13:42:30Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "crypto_gold"
+   ],
+   "tickers": [
+    "XAUUSD"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
    "id": "786e88e5219f",
    "title": "PODCAST: Meta's AI bill",
    "summary": "",
@@ -2935,6 +5330,25 @@
    "tickers": [
     "NVDA"
    ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "8c2d0c635c61",
+   "title": "Indonesian leader rejects market downgrade warning after stock market sell-off",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOU3pFckhZdnEyaFVjRkk0dVZDWDFoSjduRmpCQ21TMFZ2dDMxdlFGTXhnN21PWmpueFpTVjdwRU5zeTlHNllhbmxuaUxxTDNUYzNKRmMxbHZjNllheTZEZkdEZWNSS01peTZxVEZvZkdPb1hHalFtODNBQnhNcnBJS0NNQUd6bWIxd3p5QXlvOGFhUzFObjEtdTllcw?oc=5",
+   "source": "AP News",
+   "paywall": false,
+   "published": "2026-10-22T11:01:00Z",
+   "first_seen": "2026-10-24T02:29:38Z",
+   "categories": [
+    "market"
+   ],
+   "tickers": [],
    "also": [],
    "ai": {
     "label": "noise",
@@ -16760,71 +19174,6 @@
    }
   },
   {
-   "id": "94565947bfff",
-   "title": "Nvidia’s Huang and Broadcom’s Tan Debate the AI Boom",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNlRLUzZMcHBMOTZKdVZJcmFKUnlYNkFLdlYydV9WbFBvVHFLSXphLXVFck5aMUxzX3NaSzBHNkVodTVpeHBvTTM2ck9jTkJ0RkVoUzlURzJ3dEY1SjRuMHFMVE1zbDB5MUptVC1FRVkwNElMREFaaGk1MTFYUEMtMFZPSll4clZVNzQtVHZoWm5STUNfaGZ4YlVudUE3Y1NvWTAyRDZTZzlnbTV5RlBDQ3U4Tk9UTzVMT1AzcVUxa3JQMEwwUldWU3V1SGkxWDA?oc=5",
-   "source": "Bloomberg",
-   "paywall": true,
-   "published": "2026-10-17T02:03:51Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "AVGO",
-    "NVDA"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "154c41d71fd1",
-   "title": "ServiceNow CFO says leaders working 14 hours and getting 4 hours of sleep set a ‘terrible example’ for their employees",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaHBZN1pYSDJWd2lIOV8xakVnWTBHY010TGV5bXctX1J3RUViLTNScVFjWmJsandycHVqRkNmdm1IQXd4alBHZzQ1QkJQdTRVVTdLOHNxbEtobGVlMmMtbXBwWWtCU1hmc3pTRUVuY00waVB1U21wSXZ0U2Z1SDMxZXd1cXRlR1lmY3lpYkdhTGhaWEJZMGc?oc=5",
-   "source": "Fortune",
-   "paywall": true,
-   "published": "2026-10-16T23:02:00Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "NOW"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "204dc5ef675b",
-   "title": "New Cracks in AI Trade Push Wall Street to Worst Week Since June",
-   "summary": "A stock rout swept up companies from CoreWeave to Alphabet while Treasury yields tumbled.",
-   "link": "https://www.wsj.com/finance/stocks/us-death-penalty-execution-rates-41ea3427?mod=rss_markets_main",
-   "source": "WSJ",
-   "paywall": true,
-   "published": "2026-10-16T22:43:00Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist",
-    "fed"
-   ],
-   "tickers": [
-    "GOOG"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
    "id": "5e87e5a7db88",
    "title": "Meta denies accusation of anti-Lula political bias in Brazil after electoral court ruling",
    "summary": "",
@@ -16853,48 +19202,6 @@
    }
   },
   {
-   "id": "728c2456d9a2",
-   "title": "Apple Names Meta Veteran as Litigation Chief in Legal Team Shake-Up",
-   "summary": "Apple Inc. has tapped a longtime Meta Platforms Inc. executive as its new litigation chief, bolstering its legal team at a time when the iPhone maker faces a growing array of lawsuits.",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-16/apple-names-meta-veteran-as-litigation-chief-in-legal-team-shake-up",
-   "source": "Bloomberg",
-   "paywall": true,
-   "published": "2026-10-16T21:50:11Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "META"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "33ed54fbfbcc",
-   "title": "Exclusive: Amazon Web Services CFO says AI spending is sustainable",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA2bkxFUFRMWlFOeXFSVU5iVDhhMjBuQk82TkxmNFVWUmQ2YW4zNU1UR0tNeVA3Zms2OWVrXzhJbld4aUlhWmtqY19MVFNncWIwRzBDak1CRDRENmhHdGotZFpQajlsdENBZHNz?oc=5",
-   "source": "Axios",
-   "paywall": false,
-   "published": "2026-10-16T21:42:51Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "AMZN"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
    "id": "28f4a650f409",
    "title": "U.S. Stocks Fall as Credit Fears Haunt Tech Sector",
    "summary": "U.S. stocks fell as fears mounted that artificial-intelligence profits would not come soon enough to meet increasingly expensive credit obligations for CoreWeave and other aspiring hyperscalers.",
@@ -16914,717 +19221,6 @@
    }
   },
   {
-   "id": "d5ce7a8bbe4f",
-   "title": "OpenAI Poaches Another SpaceX Sales Lead Focused on AI",
-   "summary": "OpenAI has hired SpaceX’s Graham Seamans to lead sales for the firm’s cybersecurity business, the latest in a string of hires from Elon Musk’s artificial intelligence venture.",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-16/openai-poaches-another-spacex-sales-lead-focused-on-ai",
-   "source": "Bloomberg",
-   "paywall": true,
-   "published": "2026-10-16T21:36:22Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "SPCX"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "b5fab73ce6c4",
-   "title": "The bond market shrugged off two inflation shocks. Why stock investors should pay attention.",
-   "summary": "Hot CPI and PPI data should have pushed Treasury yields higher. Instead, bond buyers stepped in to suggest yields have risen high enough to become attractive for investors.",
-   "link": "https://www.marketwatch.com/story/the-bond-market-shrugged-off-two-inflation-shocks-why-stock-investors-should-pay-attention-5da4f771?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "paywall": true,
-   "published": "2026-10-16T21:30:00Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "fed"
-   ],
-   "tickers": [],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "4b125a0c6eee",
-   "title": "Deforestation in Brazil's Amazon falls to all-time low",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTlVHQ2pKM3VsSVF2NFY3N0dPVWc0Wm9VcDRwUURrSHBHM1pxbHo0MFN2dkdSMzRoUGhIX1k5eEE5enYzMElzSmFieW9KMklCbzEwRmJVTVVoeTRoa0ttREt5VzFLZzZGd1hyMkNUdlBrdzV3aHFYS0FOeEFXanc0QzBzZnVWMXFmTTdBZkJ2YmFTcUQwbGJLb3N4YXh1TmRRNkRsUW5Tc3RGTzhodGhzUnRn?oc=5",
-   "source": "Reuters",
-   "paywall": false,
-   "published": "2026-10-16T21:26:29Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "AMZN"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "32f75ead4718",
-   "title": "SoftBank weighs $18 billion acquisition of Allied Universal, source says",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWXdNdHpBa2pKc200dGJ6aDlPYUNpNTlla3ZxM2ZWQzdXNDBxclZxc3pSRlZNelgwSnIzSzdmRVFhdzRVNVhJckNMTjhFOTNsdWlkMWxJSkJRa3huaXd6d3R6cktEODVnUE5aMGMwWEw0ZzRwTTJnX1ZoQ2F5UVhpMUZNNzNLNGNDT2RhdGZnMHZtTHZjcm9PNFk4bldiTjZ4TnJ6SF9zV0owWERWXzgyYmpYLVpFOE9ITG1kanhfOWdfME40Tmh0eTF5cjNfa3AxdFJV?oc=5",
-   "source": "Reuters",
-   "paywall": false,
-   "published": "2026-10-16T21:22:20Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "deals"
-   ],
-   "tickers": [],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "61088a894fb3",
-   "title": "Gold, silver diverge as Fed-pause expectations collide with rising crude prices - Kitco PM Report",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZDVCeWw1ZXhwRFVhZjliUklxQzV1UW9hRmF2MkdQVzBOTHJRQXZIeW4tZUZtX1Z2VkdMU29STkYzVFVZYVhucDAwNk5NVWtrODdSdUw2V0tzTjFpLWkxc20ya2ZJTVo1bVpEOHVuOHZVT1dUVHJEcC1najhaaktkWGpRa3NJRHgzTFJXUmd1Y1Bkc01fenl5ZC1vYTNkeFl4ZnNqdTVjWnkydUlkMEJUSDV0Wk01czA?oc=5",
-   "source": "Kitco",
-   "paywall": false,
-   "published": "2026-10-16T21:21:22Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "crypto_gold"
-   ],
-   "tickers": [
-    "XAUUSD"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "32612b55aa72",
-   "title": "Amazon data center communities: Here’s what’s happening near data centers across the US",
-   "summary": "Get the latest updates on how Amazon supports small businesses, creates jobs, sets up sustainability initiatives, and develops educational programs near AWS data centers.",
-   "link": "https://www.aboutamazon.com/news/aws/amazon-data-centers-locations-news?utm_source=rss",
-   "source": "Amazon News",
-   "paywall": false,
-   "published": "2026-10-16T21:12:00Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "AMZN"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "5900cfe32770",
-   "title": "Masterplan review – Stanley Tucci is wasted in Amazon’s smooth-brained heist caper",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQ1dNUWNjdkJKcWNUbXlRX0dkWnk0TFNtRDRWR2lqV1FEYm11QXIyM0dDTmV0VHg2VzNKSFlNS3RNY1oxMUpZSWh0S3h6Znd0SjRsM0tOM0pNRkVHSlFielN1OE93M0ltTTlrdFBLTldRYmYzRldldGR3LWxYdHNYRGlmMjZQY1JlX1E?oc=5",
-   "source": "The Guardian",
-   "paywall": false,
-   "published": "2026-10-16T20:54:00Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "AMZN"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "c9e87adaae2f",
-   "title": "Thoma Bravo’s Proofpoint Taps JPMorgan, UBS on Varonis Debt Deal",
-   "summary": "Thoma Bravo-backed Proofpoint Inc. has locked in $1.25 billion in financing to support its acquisition of fellow cybersecurity company Varonis Systems Inc., according to people familiar with the matter.",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-16/thoma-bravo-s-proofpoint-taps-jpmorgan-ubs-on-varonis-debt-deal",
-   "source": "Bloomberg",
-   "paywall": true,
-   "published": "2026-10-16T20:53:51Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "deals"
-   ],
-   "tickers": [],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "204ce2a84774",
-   "title": "Why silver is falling faster than gold: What it means for the next surge",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZlppZ0IzeTNwTTRjdm92NjNWc1hpT2ZRMnJXVkFHVW5wMktmSGJ0N3lXT2hPWEFSSVk1Q2hERHNucGVNWVlCZHlzSUdYc1dZY0pUQ0pncW5CUC1rcl85aUdUeF9QYjkyRmozbjRfZ09XYi1aRDhkN0o2MVJCOGpxZV9FU3JtcFVkcmxkV3FHbHRud2F3UmN6UGE5Tlc?oc=5",
-   "source": "Kitco",
-   "paywall": false,
-   "published": "2026-10-16T20:49:41Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "crypto_gold"
-   ],
-   "tickers": [
-    "XAUUSD"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "f7f73f9aa324",
-   "title": "CoreWeave's CEO sold nearly $1 billion of stock since IPO, filings show",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZlBOc3YwWlJVZ3JMc2tSUmd4aGdLVERla2dYZ2Y0OUpfUW5uVkJCTlRBSGFZN3RXdS1GQ3lHdktFdjFSRm5qYUNhUVhFWmkySzJxT3dFcHpwMXR4UXg1YXdUOWVWZVZQMDV2MWxHdW1mQ3dJcm5uU3FKcVFDTGktZEstcXY0LUZnUFFjcVdxVllrQjVPS1RGLWkwV2FZOWVIRV9LYmNFZVVmTjVFM3FVcW5ZR1NJUzZsYkE?oc=5",
-   "source": "Reuters",
-   "paywall": false,
-   "published": "2026-10-16T20:40:13Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "deals"
-   ],
-   "tickers": [],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "0aee7b217925",
-   "title": "US markets are weighed down by an extended sell-off in the tech sector",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdFFYejUyLUpIbnJydUstZS1rSXRsdFhVN1hNTHF0VDIyc0FUZzFObERkVURrWFhyOVJrNmlSVExieWlKYlR2U1ByRTBxVVhGbjJrZzYxOEJzZVNJTVd2d3BCaXlaV29oNTJCVVkxRXJIbDUtR2poTXBMblhETkNlV1c1R3Vrck9RaHg0dXRCd0NUTmFDcFNkbUlVNA?oc=5",
-   "source": "AP News",
-   "paywall": false,
-   "published": "2026-10-16T20:37:00Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "market"
-   ],
-   "tickers": [],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "73bf50cb42ea",
-   "title": "Nvidia CEO on AI Market Turmoil: ‘All of This Is Going to Pass’",
-   "summary": "Nvidia Corp. Chief Executive Officer Jensen Huang took a sanguine view toward the latest AI stock-market rout, saying the benefits of the technology will soon outweigh the concerns of investors.",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-16/nvidia-ceo-on-ai-market-turmoil-all-of-this-is-going-to-pass",
-   "source": "Bloomberg",
-   "paywall": true,
-   "published": "2026-10-16T20:33:15Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "NVDA"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "9df97a2a6b90",
-   "title": "Tesla, SpaceX, CoreWeave, Lam Research, Netflix, Strategy, and More Stocks That Explain Today’s Market",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBCRUhkLUxSX1NOUjR2SGIxc1B2UlVRZnVXa2c2NFpMTGFJbFZOVUhHWFZCTEdXQlJ1dFlZbVNHVWdNUFM1bmNjWXV6Ry0yVUVLYnR0cnp0Qk9DM2RRRmJLVS1WYzc?oc=5",
-   "source": "Barron's",
-   "paywall": true,
-   "published": "2026-10-16T20:32:00Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "SPCX"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "955956f1fddd",
-   "title": "Wall Street Anxiety Spreads as AI Rout Meets $110 Oil Shock",
-   "summary": "Wall Street has spent the year betting on staggering AI growth while worrying about stubborn inflation. This week, investors got a fresh taste of both risks: a deepening rout in the AI complex that reached into its debt financing, and oil at $110 a barrel threatening to make…",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-16/wall-street-anxiety-spreads-as-ai-rout-meets-110-oil-shock",
-   "source": "Bloomberg",
-   "paywall": true,
-   "published": "2026-10-16T20:31:45Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "fed",
-    "market"
-   ],
-   "tickers": [],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "cd732d9301d1",
-   "title": "Sony Walkman is coming back pricier but with better sound quality",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYTQtRFowTlJWVEZScU9QaXUtS0l6SVVhTWNqYlRyWDMzc3Z6alN2aTUwcGZnbFVXYjFadnZMY0k2UEtmVlQ5X1NfR1FpT1lXM2ludWNzMFgzWjd4VllPdDZRMF90Vl9PRmtDVHYzNURQQ1E3aEQwOTNJZzE1alBMQzlWNm5MUUhWX1FCYjFjRTR1X2dlMmVadHlwWHlqYzN5TGpoZEhGaExfS21JYjA0?oc=5",
-   "source": "Nikkei Asia",
-   "paywall": true,
-   "published": "2026-10-16T20:29:00Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "6758"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "48ab74eb470a",
-   "title": "Trump says White House didn't order Starlink restrictions in Ukraine",
-   "summary": "Ukrainian officials complained this week that SpaceX had limited internet connectivity without advance notice.",
-   "link": "https://www.cnbc.com/2026/10/16/trump-denies-musk-claim-he-ordered-starlink-restrictions-in-ukraine.html",
-   "source": "CNBC",
-   "paywall": false,
-   "published": "2026-10-16T20:28:10Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "SPCX"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "0401c0f921d6",
-   "title": "Meta employees said Lula's accounts were hindered during Brazil election, Folha reports",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPd0p1V2xfQXVzaVlPdVhQdWxra2NPSWtJRGZoZ3ZqdHd1Z1NZOVFpQUhxY2RKU2g0VVo3T280MW9rSXhJZW83TTk3M2hXSDFJcWs2LVhoblM5eTdOQV94NVk1b1YwWVBRN2hOcXB2enRBY3haQVpZd2tNZjExZGVWOTlFZDA1VkFINU5Nb1RIZWpISjVpc3pSN0MxWGxkbG9saDVWNmI5cWVVak0tTWNhZXBraGxwTXl4LWF0cUdHMFFOLVI2c3BV?oc=5",
-   "source": "Reuters",
-   "paywall": false,
-   "published": "2026-10-16T20:28:08Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "META"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "7b54baefa17c",
-   "title": "Coreweave Slides 25% for the Week as AI Credit Concerns Grow | Closing Bell",
-   "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Kristine Aquino, Carol Massar and Tim Stenovec. (Source: Bloomberg)",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-16/coreweave-slides-on-ai-fears-closing-bell-video",
-   "source": "Bloomberg",
-   "paywall": true,
-   "published": "2026-10-16T20:27:01Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "GOOG"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "8bf8784e298c",
-   "title": "Blue Origin’s Latest Move Shows How It’s Quietly Taking On SpaceX",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeWFqaGsybko2Sy10T2J5d2pDRVhCYmd2aUdIeUhBZlc4WTI3VWdlVWt0emRSMGl0UDIwalNZWG9KLTQ1T2cxRDluc1pvc1JjRXEzd0RaNmJ0Sy1JTVZoVVdYWmdKSWFjQjlCWGlBQUZRTzJNRzJPZkdkaDNmSXo1MHpNZ29kMXhHYVJ5eTNHcG8?oc=5",
-   "source": "Barron's",
-   "paywall": true,
-   "published": "2026-10-16T20:23:00Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "SPCX"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "81cd53f5583c",
-   "title": "Strive’s bitcoin buying spree earns 27% price target hike from TD Cowen",
-   "summary": "Strive plans fresh funding for bitcoin purchases as TD Cowen sees warrant-related stock pressure easing.",
-   "link": "https://www.theblock.co/news/markets/2026-10-16-strives-bitcoin-buying-spree-earns-27-price-target-hike-td-cowen-418839",
-   "source": "The Block",
-   "paywall": false,
-   "published": "2026-10-16T20:22:57Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "crypto_gold"
-   ],
-   "tickers": [
-    "BTCUSD"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "5423d977dcd3",
-   "title": "EchoStar’s stock looks like a stealthy way to ride the SpaceX wave, J.P. Morgan says",
-   "summary": "Investors aren’t giving EchoStar enough credit for the value of its future SpaceX stake or its potential to strike more spectrum deals, an analyst argues.",
-   "link": "https://www.marketwatch.com/story/echostars-stock-looks-like-a-stealthy-way-to-ride-the-spacex-wave-j-p-morgan-says-c4effa5d?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "paywall": true,
-   "published": "2026-10-16T20:05:00Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "SPCX"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "1bbe6a141905",
-   "title": "Tesla Showcases Long-Awaited Roadster With Aerial Tricks",
-   "summary": "Tesla finally rolled out its long-delayed Roadster sports car — or rather, launched the vehicle into the sky. The automaker late Thursday held a product reveal unlike any other, showcasing a prototype designed in collaboration with SpaceX outfitted with air thrusters that…",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-16/tesla-showcases-long-awaited-roadster-with-aerial-tricks-video-mvbe4ufl",
-   "source": "Bloomberg",
-   "paywall": true,
-   "published": "2026-10-16T19:58:50Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist",
-    "products"
-   ],
-   "tickers": [
-    "SPCX"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "95f46f7c984d",
-   "title": "Brazil says Amazon deforestation fell to the lowest level since 1988",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNmdzRjhRemY1Z3cxRm9wQXk4SGJoZmdNcWVYQnY5TkhxSTVNZW10eHlTOGVyQmV0QVFMcmRDa05tVVU0YVZHb3ZlMFdZN3VJcFlfVlhYZ0NRdUZoOWU0WTM1emh2akRXaGF6dGxEU0tjTjV1V2NEc0xzN2VKM2E1MW1XZ0dZUDFONTBpbDhLLV8yQ21OM0lPVGw3V3laemdDeTdPblRLZHROcHNOUEE?oc=5",
-   "source": "AP News",
-   "paywall": false,
-   "published": "2026-10-16T19:43:31Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "AMZN"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "c0dad9c986f6",
-   "title": "India gold swings to premium as lower prices lift jewellery demand",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRFdjSHEwTmVpQnhVSFRncW5BOEFsWE5ZUUFNdldiZXlnUW9JcmNVZkFaNl9mS28wQmJST1pISm1fanM3N2lTOUZQdXljRjh2RURuS2FhbUpLdnhfczdJSkxHMTdUc0plcWVoOWNCNEQ0X1hZMDBLbUh5VHZHR0xHM3BQLTFYOFYzenpnWXRoZjhOWFA0R2JFOW5BRjJoS2tZYlk2R051ZTJRVmloc0tZbA?oc=5",
-   "source": "Kitco",
-   "paywall": false,
-   "published": "2026-10-16T19:40:11Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "crypto_gold"
-   ],
-   "tickers": [
-    "XAUUSD"
-   ],
-   "also": [
-    {
-     "source": "MINING.COM",
-     "link": "https://www.mining.com/web/india-gold-swings-to-premium-as-lower-prices-lift-jewellery-demand/",
-     "paywall": false
-    }
-   ],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "5602e97485f8",
-   "title": "Opinion: Microsoft wants to make AI cheaper. Will investors actually see the savings?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVXQ0ZV9lN29UekNwejJzSzhVazRhRFJ6YlZiSEppdnRqbnd5WUhEajZJcVZuR3JyWmJhWHBxYVlQQVRlMl9FWlQ5eUhtV0VDMXVhOU9EYV93LUwtcklLZk96UU11cklxbGpDejZKc21qcnhOaDJOZlhZZkVkYjBJWGJDTnNUYkJrODhTY2l4RkNRVThqVUJZRlJ3ZTFvQXBZVzJtZVRXVGk2Y0hrTXdYNWtDOWNkSkxN?oc=5",
-   "source": "MarketWatch",
-   "paywall": true,
-   "published": "2026-10-16T19:35:00Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "MSFT"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "2bc7bd34fcf6",
-   "title": "SpaceX AI policy leader grilled by NYC Council on Grok safety, sexualized images",
-   "summary": "SpaceX head of global government affairs for AI Gabriela Castillo Madrid faced critical questions from the New York City Council on Friday.",
-   "link": "https://www.cnbc.com/2026/10/16/spacex-policy-manger-to-testify-in-nyc-council-ai-safety-investigation.html",
-   "source": "CNBC",
-   "paywall": false,
-   "published": "2026-10-16T19:30:51Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "SPCX"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "b6518ef15195",
-   "title": "Wall Street's fear gauge is ripping. Traders see it going even higher",
-   "summary": "The sell-off in AI-related stocks pushed the VIX above 22 for the first time in four months. A cluster of trades suggests it could go even higher.",
-   "link": "https://www.cnbc.com/2026/10/16/wall-streets-fear-gauge-is-ripping-traders-see-it-going-even-higher.html",
-   "source": "CNBC",
-   "paywall": false,
-   "published": "2026-10-16T19:28:10Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "market"
-   ],
-   "tickers": [],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "4690fcb178d9",
-   "title": "The affordability crisis isn't hitting all voters equally. Here's why",
-   "summary": "Younger Americans face higher inflation and housing costs than baby boomers, widening the affordability divide ahead of the 2026 midterm elections.",
-   "link": "https://www.cnbc.com/2026/10/16/affordability-inflation-midterms.html",
-   "source": "CNBC",
-   "paywall": false,
-   "published": "2026-10-16T19:22:21Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "fed"
-   ],
-   "tickers": [],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "49b63b63123d",
-   "title": "Bug turns one of the biggest fears about Ray-Ban Meta smart glasses into reality",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOHlPUEprazRLcDF3OW9MZW11SURDckdxRjdla2hLVUl5cGtvS0hyNEpyY0UzdmhyYXRraTloUW0yUVBoUVRDQnhvaUNfcm05UG92a3RtWHl2VDJCVGxHVXdMX0p4VDRzdlBnc0V0XzFlYWhNNk1sNEMwNVByWmNQQ0EzUDA0VDV2M2MweDgxQ2ZMRWQtV1J2N1U4NHk5UGZoTVhBX24yZkthNmY0OTF2eHVjcw?oc=5",
-   "source": "Ars Technica",
-   "paywall": false,
-   "published": "2026-10-16T19:11:50Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "META"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "2c663e051dd0",
-   "title": "Brazil Sees Record Low Amazon Deforestation Rate in Win for Lula",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOXzdZaTZhNkZfalExZzVUeFNMOVNVa0Q1ZG9GNi1WM1NFTXI3MmMxRXc0bVNsMGlwRjBLNHZiLXlvekVRRXloNHFUVmJfOUFUbDZZWGVla0RXMXFSMjdXQllSdG1ScUJkSVF5N0tNUVN0ZkYzTXNYY28xZUJ1ZnFUa05QYVdmZjFFTUxUY01odlU0Wno1cTVsZnpTZGpVS3JTTlFkdUlZVmxubzkwODgyc09QSXl0dw?oc=5",
-   "source": "Bloomberg",
-   "paywall": true,
-   "published": "2026-10-16T19:03:07Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "AMZN"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "e02dcd3f315b",
-   "title": "Nvidia's communications team has undergone a shake-up as its public profile exploded",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWmQ5aS01cWpzX19DUWRwV19ZbklGRUxxOUVsSzQwLThOOG9aaDh2X1RoVXEwREE4bW5ZRDFONkU4OG8xVW1oRi1yOElVbG1QXzV1V0hRbDlBX21Hc2R5OGRTVmNhSG0xd2JjWklod2J2bFVqN2toUkRncXBTWTAyZ3o2TFkxUDJHZWNWVmlGNms4UDA?oc=5",
-   "source": "Business Insider",
-   "paywall": true,
-   "published": "2026-10-16T18:58:00Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "NVDA"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "715821e7f2ad",
-   "title": "Brazilian Amazon deforestation falls to lowest on record as pivotal vote looms",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQlhnZXlIbWh3a2R3azRDUUx5R2cyM2EwRTdoQVdpMDJBc3JWWlVqbnV3aHEwaUlqUXhHWWVoSHZwaHlFUHUwOERVbTBWd3lPVTJ4RjdCWUxWY0cxOTlOQ3oxblZuNW9tQnBTUjAyRmtlVGhBdnRhMTNvdllqOFBrUDJSVGdvSEFTODVITUktMk5EcGVndFkzeWs2eTVZNzNiemJUaFJpSGg?oc=5",
-   "source": "The Guardian",
-   "paywall": false,
-   "published": "2026-10-16T18:56:00Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "AMZN"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "1bc359d0c84a",
-   "title": "Major Cryptocurrencies Mostly Higher as Dollar Eases",
-   "summary": "The dollar weakened as odds increased that the Federal Reserve will hold interest rates steady this month. Major cryptocurrencies got a boost as the dollar eased..",
-   "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-before-fed-chairmans-fireside-chat-f4462ae4?mod=rss_markets_main",
-   "source": "WSJ",
-   "paywall": true,
-   "published": "2026-10-16T18:32:00Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "fed"
-   ],
-   "tickers": [],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "5fac943d3a45",
-   "title": "Gold set for a weekly drop as traders assess Fed signals",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUFdTSHVlWTdpZG0xRlc1U3Rka1I3Q3FLdVhKUVJjRWdlb040SXdMZktTT3k1WEgxSnB0QzdaQ2FSY05KTVVOSFg4aVpSRm01Z1hfdGNxY0JnYzJqeXBCcm1SU1FaVzlPUWljNFBxWDlYZmJxYU5ycmxyb1FNUEpTcVpoc3AwS25VUUgxMkFIOXZpQU5TZlVOTEVmVQ?oc=5",
-   "source": "Reuters",
-   "paywall": false,
-   "published": "2026-10-16T18:20:09Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "fed",
-    "crypto_gold"
-   ],
-   "tickers": [
-    "XAUUSD"
-   ],
-   "also": [
-    {
-     "source": "Kitco",
-     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUTJ2WF9mLUNVWng1M1NkcUVuSkNHa1QxbWFPeF9qRzFjT2piUV84blZOWU5LUjBFak1ndmVmWDJfdm5iZUhIS19aRHc0dnhSVXZ5dERORDR6ZFBvREpSZnM1U1U5MkpBUmY0ZlVHbmdvRVNhaDJYOHJMSkpOcHI1amUzQ1hKVW45U1gyTWN3dE1NWkt6QnZteVhoWjFjRGM?oc=5",
-     "paywall": false
-    }
-   ],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
    "id": "405f334578b7",
    "title": "Tech Stocks Slump as Nasdaq Faces Weekly Loss",
    "summary": "U.S. stocks fell, led by the Nasdaq composite, as chip and AI-related shares came under new pressure.",
@@ -17637,27 +19233,6 @@
     "market"
    ],
    "tickers": [],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "f483c6aad6ad",
-   "title": "From Verizon to UnitedHealth, Corporate America Is Balking at ‘Tokenized’ Stocks",
-   "summary": "Broadcom and other companies have objected to tokenizing their shares under a new regulatory framework.",
-   "link": "https://www.wsj.com/finance/stocks/from-verizon-to-unitedhealth-corporate-america-is-balking-at-tokenized-stocks-6dbbeada?mod=rss_markets_main",
-   "source": "WSJ",
-   "paywall": true,
-   "published": "2026-10-16T18:18:00Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "AVGO"
-   ],
    "also": [],
    "ai": {
     "label": "noise",
@@ -17693,90 +19268,6 @@
    }
   },
   {
-   "id": "75afe9d7bbd8",
-   "title": "Micron Stock’s Drop Triggers ‘Buy the Dip’ Calls. No One’s Listening.",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8xSUt3YVV0N3FhRFU4cTItNHB3UTJyMHUwY1NCbERhVG90SmVFcHowWnFLNUJRY2wzLXpaSHZyRzNKejBva3B0aEdRVnpqQ0V0NXIyUWpxWHhHRU94WWFkdDdOT1BreHhvU2RFV3Q0b0RYZzczT1JSTA?oc=5",
-   "source": "Barron's",
-   "paywall": true,
-   "published": "2026-10-16T17:59:00Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "MU"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "f4b4f4a0548a",
-   "title": "Exclusive: Musk approached Trump to slow down Starlink in Ukraine",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWFlHSF96aGhKWGlsMnJONS1KYVZaSlpHdTBHQ25BX2QtQ0FoSjFTVTVBc3J5SHA1WENQNTZjOEdZQnNURTFGMDd4aHBUUTBzNDdORW9ZemFZT25wUDQwbVA3QXJHaktMR0lIdlVCSk9wdTdCVHJuY3lQbDljQ2FlanB2cy1JVmpSQUowcDZqNE52UGdpVG5raG5nQXFLLXFXUTVlN3VKWQ?oc=5",
-   "source": "The Telegraph",
-   "paywall": true,
-   "published": "2026-10-16T17:59:00Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "SPCX"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "d1fec8716f78",
-   "title": "Trump says neither he nor Musk responsible for Ukraine loss of Starlink access",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT3ZNUmdIdkZCY09EdEY2WWhKWGhCQmlWOGhFQ3FxRDExUVNORW94dUZkNmR5V1lycjlOejZVYWIxbExDSGoxYkJldWRfU1ZYejZfa3NvQ2lZSlBCcGRMTkwtLWgtaThXUE9jTUJmUFVmdlAxR3NjeC1UWFlVYW95Uk9pbExFeW5lV2w3RzllME5YTE9JcjFBUmFtMVdUQUJuTndIcWdNcElUcUdxSWV4SUF2V3BUQQ?oc=5",
-   "source": "Reuters",
-   "paywall": false,
-   "published": "2026-10-16T17:55:33Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "SPCX"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "f8fd97ab7c8b",
-   "title": "Final Trades: ServiceNow, JPMorgan Chase, Eaton Corporation and SentinelOne",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUHRKWXMyUF9ubXFhMGNtS0hGTE4xOUtXWXZ0RlR4SC1VdWlQMEhnSVhoQk5FeVE2TUFQaDMwVlpZZExWLURrYkRNVzE5amRudGF1a1hYdWc1YTN2Vjg1eFRtaW1Rbk1jWVlTekFHbktfYXZVcjg1aDdIWk9fTXZxTEdTQzFqcWNWUURWdkV2Q3ZiVVdOZ0NBS3RUNm1YOVhSQmVNVXBnaHJkbnVpVlpmNGZxaGpsZw?oc=5",
-   "source": "CNBC",
-   "paywall": false,
-   "published": "2026-10-16T17:17:00Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "NOW"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
    "id": "b195d7cd2048",
    "title": "Starlink disruptions immediately hit Ukraine's frontline troops",
    "summary": "",
@@ -17798,601 +19289,6 @@
    }
   },
   {
-   "id": "f03b21b2bdc3",
-   "title": "Starlink disruptions are being felt on the front lines of Ukraine",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOczZyd2RmczlnYjJ3SnM2TVZuSlNCdXk2YUdETXprMGVBM1JRVGRUZ1VVRjZWbU9Oel9SekRCLUFLU2Q1bTNyVmNYdTNBTUZGdjl5Z0xZZElKLXBjM2dzU3YybU5OdkRjTTBMZEFtaTdwenVhd1ZLQURhNFRrVUl1a3FxbWE3N0lLVmUxYmZXSFMxcjBtNDJKUjk5bGZVSk9NcE9FVDN3S1dJblNfeXpUdVFjNS1yNHJuWVE?oc=5",
-   "source": "Reuters",
-   "paywall": false,
-   "published": "2026-10-16T17:15:19Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "SPCX"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "4ba20ffe4542",
-   "title": "Prediction market odds on Tesla-SpaceX merger are above 50% for early 2027",
-   "summary": "Kalshi odds for a Tesla-SpaceX merger rose above 50% for early 2027 as Barclays outlined how a deal could work.",
-   "link": "https://www.cnbc.com/2026/10/16/tesla-spacex-merger-odds-rise-on-kalshi.html",
-   "source": "CNBC",
-   "paywall": false,
-   "published": "2026-10-16T17:02:40Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist",
-    "deals"
-   ],
-   "tickers": [
-    "SPCX"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "6eb08e256fed",
-   "title": "The SpaceX-Ukraine Situation Gets More Confusing",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeVdQeEF6a0w1YlB3aFFIUGlrcER6bFdILW1kZTNzT09qVGVzYXRhVWdrZGZyXzFpVFAtRTV2V3NyRUhJOXJhTF9NQVM4SDItQmpKTlZkOHQ4ZGVVdFZKbDBwakY1SlBBZWhmeXR0SlBPS2h2dEJ2UXZRMS1TZmdXS0FXSlc?oc=5",
-   "source": "Barron's",
-   "paywall": true,
-   "published": "2026-10-16T16:43:00Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "SPCX"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "f31a83b53915",
-   "title": "Tesla unveils long-delayed Roadster developed with SpaceX",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSUktd2hXblByWWV0NHh0Sk1PUXlKeUNlc1p6R09BbzFpb1lxaG85cU5yVGxEVzFSeGQ1YlhuWEZPTEZjMDhCLUZTRE94ejRVRTE4a05Hd1FtLUlmSWFxRXJyQ0J4N1FNY2NhdVpRTlhNMWV3c0lNRUNZaU9UUTdYRHlSWjVHNmVTQ2M3ZzNGQnFZdGttM3kxdGkyRmI2b3VaaUE?oc=5",
-   "source": "CNBC",
-   "paywall": false,
-   "published": "2026-10-16T16:40:20Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist",
-    "products",
-    "deals"
-   ],
-   "tickers": [
-    "SPCX"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "8b4050b632e2",
-   "title": "Alexandr Wang, Meta’s AI wunderkind",
-   "summary": "The 29-year-old in charge of the company’s Superintelligence Labs is being touted as a potential successor to Mark Zuckerberg",
-   "link": "https://www.ft.com/content/7477e462-c899-4841-a5cf-c01706e23982?syn-25a6b1a6=1",
-   "source": "Financial Times",
-   "paywall": true,
-   "published": "2026-10-16T16:31:25Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "META"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "e5394956a23f",
-   "title": "Analysis: Everyone expects the Fed to hold rates in October. Kevin Warsh could surprise us all",
-   "summary": "Investors expect the Fed to pause rate hikes in October, but Kevin Warsh's rejection of traditional communications practices and continued concern about inflation leave the decision uncertain.",
-   "link": "https://www.cnbc.com/2026/10/16/kevin-warsh-fed-october-rate-hike-interest-rates-markets.html",
-   "source": "CNBC",
-   "paywall": false,
-   "published": "2026-10-16T16:27:31Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "fed"
-   ],
-   "tickers": [],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "7ad6b9d74e68",
-   "title": "Dollar Has Worst Week in Month With Warsh Quiet on Rate Path",
-   "summary": "The dollar’s monthlong rally ran out of steam this week after remarks from Federal Reserve Chairman Kevin Warsh failed to give the currency a lift.",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-16/dollar-heads-for-worst-week-in-over-a-month-as-warsh-stays-quiet",
-   "source": "Bloomberg",
-   "paywall": true,
-   "published": "2026-10-16T16:24:13Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "fed"
-   ],
-   "tickers": [],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "3f526844ac56",
-   "title": "Why Nvidia Stock Can Defy the Broader Chip Sector Slump",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PVVcyTUpzN3dWbVBTZ3ZmX19KNHc1UFoyUm9JeGFfa01DWXA3Mkh3VXNtMFJ1ZTZNU1BFN3EzbTk5SnR1VXU0NERRRHlwaW5hSmMxdnhJN0t4cTNNVlNXdG1Wbjd6TG1KMVRONkYtRmY?oc=5",
-   "source": "Barron's",
-   "paywall": true,
-   "published": "2026-10-16T16:23:00Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "NVDA"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "f884ba8954a6",
-   "title": "What we want to see when Capital One and Meta report earnings next week",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSWRCXzlmcnhyMkhOc3BTSFhvSmw1VlAxNzlfV1YyS0JMNFJMTjF2Y29GNFJvdmZJT294Ui15UjJFSWxKUVlpeFpJNGtpSGJTSFVTWTNYd3BSZERkdnljMi1iSmtrX2Z4eklIeGc2V3ppc3RYb0xqbWtvVUFfNHJQR2dnQzkyZ2RRYkRRZ2xOMTF0ak90dTdLNkxxX1JBaklfeXZXNmpoMzJPOTRUSUdfZTFxRXljM1JSNTRiR2tHVGs?oc=5",
-   "source": "CNBC",
-   "paywall": false,
-   "published": "2026-10-16T16:06:29Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "META"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "a7e221dcb2e2",
-   "title": "The new Apple TV 4K just got its first (very small) discount",
-   "summary": "Earlier this week, Apple announced its new Apple TV 4K, which costs nearly twice as much as the 2022 model did at launch. Amazon is now offering the first discount on the forthcoming streaming box (coming out on November 13th), just days after discounting Apple’s new smart…",
-   "link": "https://www.theverge.com/gadgets/1012962/apple-tv-4k-fourth-generation-fanttik-s1-pro-deal-sale",
-   "source": "The Verge",
-   "paywall": false,
-   "published": "2026-10-16T16:02:22Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "products"
-   ],
-   "tickers": [
-    "AMZN"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "9e8921159de2",
-   "title": "AMD, Nvidia and More Buying Opportunities Hidden in the Chip Stock Chaos",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAwbkNEWGJ0OTR4WkVyM2pjVFBMQTBQcE0xbElNMXpsWGlvRWctSV9LSVdmakFaNk9UTktPNE1mUzFidFdfNERrZUVOOXZnejBOR2ZQTXJsbGx6bzFQSFlMRGVrYjFaZTdMNVNaVVNSMVFrSk4ybGRjWGMxN0o?oc=5",
-   "source": "Barron's",
-   "paywall": true,
-   "published": "2026-10-16T16:01:00Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "AMD",
-    "NVDA"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "e51c8758f536",
-   "title": "We’re sharing 3 tips to study smarter with Gemini Notebook.",
-   "summary": "Master your exams with Google Gemini Notebook’s new 60-second video overviews and interactive quiz formats. Try these study tools at notebook.google.",
-   "link": "https://blog.google/innovation-and-ai/products/gemini-notebook/three-tips-study-gemini-notebook/",
-   "source": "Google Blog",
-   "paywall": false,
-   "published": "2026-10-16T16:00:00Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "GOOG"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "0b6824610bf1",
-   "title": "AkzoNobel, Axalta offer remedies in bid for EU approval for $25 billion deal",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSXpwVTRIQjZkRUFBREgtX0R6VC1NVEJjaDgzN2V2QUNhUU01YzhFNFY5MG9mNk0xZkhFZ0haSGFuWkZNTm9fT2tLZkhYdTBtWWxJYXo0RWE3TW41UFRaOTdSellrbFZxNjViaDZ2SW1MZi1YOU5rck9zc2RkV01rRDdKcFVEU3RMY3BQS3ZfcHJoc1dWTTlUQ2g0UlloN1Z4UzJCY0d6VmRReGx5?oc=5",
-   "source": "Reuters",
-   "paywall": false,
-   "published": "2026-10-16T15:55:04Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "deals"
-   ],
-   "tickers": [],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "21c4752e48c4",
-   "title": "SpaceX's spectrum deal still leaves it far from rivaling telecom giants",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRHV3bWRnU1U4MHdadDJPdEtta3FXWV8zM20xbFpWNVlaVkM4VFNoRy1GQTNUOTRpTTI5MWxvdGo5S0ZvaDdJb3E1QWtzUlJETmQ4X0JMcjIxU3JRUVFFWU5RcVdZRXRHZ090Z3R0UEVYbjEySHBqRWRBQnJWenlGd2NCTEl4M0syMGZpVURMOUE1V3BlbHg3Rk05WjVndjAxbkxXbUR6T0hqWC1Ld2o0LUxSYm0wVjM2LVlnWDViOTdXQQ?oc=5",
-   "source": "Reuters",
-   "paywall": false,
-   "published": "2026-10-16T15:46:59Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist",
-    "deals"
-   ],
-   "tickers": [
-    "SPCX"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "99bbf998dc05",
-   "title": "Europe's answer to SpaceX rises 18% as Ukraine's Starshield limits raise concerns",
-   "summary": "Eutelsat's shares soared this week and continued climbing on Friday as its competitor Starshield drew criticism over its limitations in Ukraine.",
-   "link": "https://www.cnbc.com/2026/10/16/eutelsat-starshield-ukraine-spacex.html",
-   "source": "CNBC",
-   "paywall": false,
-   "published": "2026-10-16T15:45:35Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "SPCX"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "d1c08924e505",
-   "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVHBTZXBWN0tzYWdwd2tydGp4TExpVjRaaGlob3E5WVh6cDVuelJ5ajlWRVNLREJiU2VtUndvWHk3UmNZZkhuVXBNUWRCXzhDZXZ1MS16eVNGemJZdGVaaFZIRUZ3Q0duWnhCX3hEZWxfNkp4Y0o0WGNweU1zZ1ZEQUQxRmNILVRIM3lpOG9nS3lSU0VpUnFvZlVKdGJKWURKT013Z0pLZnNmZ0EzTm9jTlVlQ09ZbEhDaHJ0SkVFNWs1UQ?oc=5",
-   "source": "Ars Technica",
-   "paywall": false,
-   "published": "2026-10-16T15:41:00Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "META"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "736f6c903dc5",
-   "title": "Starlink access still not fully restored for Ukraine’s military, says Zelenskyy",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSXBLQ0Q5T3dsMXljX0NTM0JhN2lMMXBIUkFyb0RaN3FaQ1FNNTNMVGo4Zjd6Wk1uTkFpNnlKa3pZcVJtejJrMzdZODRzbDVpWTMzQTQtc3lSTjl4NmF4dUYxanJNclllNWU3b3ItQ1lvQTh6RXh1V2pKNUlJUFBVaUhpVm1MZ000TDRnUmFOUjh0clNkcllOVWVER182WXRaMzFEaXMxZHFNbGNnRWc?oc=5",
-   "source": "The Guardian",
-   "paywall": false,
-   "published": "2026-10-16T15:39:00Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "SPCX"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "e3a4d013b421",
-   "title": "AWS, Microsoft can do more to address cloud services barriers, UK competition watchdog says",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQV25lSTFVcDY5d3dzS1hqN2gxVjhUQVo3cDJfNm5RcmU1VXZJRDVHb3ctbVh4b1pIQVRocVhEUFdIWnFhQnZtM0dkVDBGR0N4Y0Z2QVdKZGlES0NwUmM0VUxJRmVvSlMxRW5vNGtVYjlHMnRHR2pkcURic29PZmpZaGhNdlA4Mm9vUVdLNlFMNHJOdE4yeXNKRG50b2k0RTVtNnVOdzZXZFVZSjA0Q2M2Yjk3MlRMZDJWXzBYQ3V6NlFndXc?oc=5",
-   "source": "Reuters",
-   "paywall": false,
-   "published": "2026-10-16T15:00:19Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "AMZN",
-    "MSFT"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "62da7c6e202f",
-   "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTVEtdFZHaGJJSUNLb1JKMkdBRlM1Y3lORGtmQVM5dlRMTTkxS20td2hScWV2azVMQWF3S2h5cVc4TkdFaFRpNTFvaEpLTDNndDIyaWZDSkRsRU1uMkRMVDRzQy1saUlOeEJaMlJUZktSM0JHb1dFTUpxYW5GaDFPSkoxbE1OczkyTlFIU1dhVjA4UVIyQTI5bWZPWG9UOEp5MzRR?oc=5",
-   "source": "The Verge",
-   "paywall": false,
-   "published": "2026-10-16T15:00:00Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "NVDA"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "0b30dea7b9b7",
-   "title": "UK competition regulator targets Microsoft's business software grip",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbmFGbmFMbzg4cDVFbFJUN1E3bUlGb0VBaGxBMVFMRG11eE13dlM0Y2lhZmJiSjg4NGg3cHY2REV4MnM5ZkZKNWJjQmJ2RnZhSzk3MEhXbVhRSDRNWWlabU1IV3Z2OXJNYjZ2dWd0emNIbi02ejBiR25iWEs5UkJmcTh5WnlaNEMwaU9GWGdWN2Vrcm1aMmMtVUJ4NTJ6RE80MG1DazZJQ0RtbzdWT2htQVhKbHFydlhxQm1Z?oc=5",
-   "source": "Reuters",
-   "paywall": false,
-   "published": "2026-10-16T14:58:38Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "MSFT"
-   ],
-   "also": [],
-   "ai": {
-    "label": "fundamental",
-    "tickers": [
-     "MSFT"
-    ],
-    "direction": "negative",
-    "impact_area": "regulation",
-    "importance": "high",
-    "reason": "UK competition regulator proposes tougher scrutiny of Microsoft's business software grip, risking market dominance restrictions.",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "af9e43dc09e8",
-   "title": "Harvard's bet on SpaceX helped its endowment grow faster than the S&P 500",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWEJzS2h1LW8zWWxtYTlTRzE2ZXNCdlEyOEVuajBoZHpxODYtNGw1YjFtTF9hRzJSU3VrbGNYZkpsRjZnTVJFMVphNFFTYUpfU1BlSG53dEFjWnlzUWdWNUV3ajM5Slk5N3Q4X1o4SWg0YnhwZ3pkVGFWU3QwUk9HUzlBLWs2U2ZINWFjSWx0S0xkOGZXUzl4c3hTSFRzemt2TGVEOUhCNWFOa0NVN19BbQ?oc=5",
-   "source": "Business Insider",
-   "paywall": true,
-   "published": "2026-10-16T14:58:00Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "SPCX"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "0908155b52db",
-   "title": "US judge rebuffs $85 million fee request by lawyers in Google Play antitrust litigation",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZWQyaGJJZjBhUzBYZnRPaFV3b0h6UzlPSHNlYXEwbkp0VjVhVVVjRUs0LTQ5SVk5WEViaGhsdzdlWGRuZjFoVVg4aFRyMzhwNFE0S2FaVXJfWXhNNXNlaUNTa0ZHYm1qQWdvTzB4NTVjMnZtdDZ1dGVRNEtZX3lXTmVFMW94M2w3YTk2U0ZhV01xZmIxVDhrbHJkaDlQMmZhemVYSGRlNVhYa19yRHdaRW9OS2tpUmpnRTdGcC1KM3p1VU0?oc=5",
-   "source": "Reuters",
-   "paywall": false,
-   "published": "2026-10-16T14:51:44Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "GOOG"
-   ],
-   "also": [],
-   "ai": {
-    "label": "fundamental",
-    "tickers": [
-     "GOOG"
-    ],
-    "direction": "positive",
-    "impact_area": "regulation",
-    "importance": "low",
-    "reason": "US judge rejects $85 million lawyer fee request in Google Play antitrust litigation, reducing settlement costs.",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "7edf24e08783",
-   "title": "Amazon pulled a $4 ‘sterling silver’ ring that was 92% cancer-causing cadmium. A jewelry expert warns it's back",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNLURpbFRYUjRaMDR2bTJ2RTB2NEg5aGxubDRLck5wUkhYN2p0THlDUVc2NzRobElPZ2p5cG5WQTZOVjA0SUY5Q0ZOejZBSnJ1clNfbHVVQ2taeVUtTGlScW1HbU5CNTFVM0F2WldZU3R6c1dHeldZZ0EtNGJXcG0yMGwwVnVRTjNvMG5V?oc=5",
-   "source": "Fortune",
-   "paywall": true,
-   "published": "2026-10-16T14:48:00Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "AMZN"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "21798f532942",
-   "title": "NY Fed service sector survey finds notable price pressures",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRUZQN0xNTG13b0ZRZk04Q0pxNHNKYjdMMFFoRTZPcHVWYXB2amtrQjJ3bWZfTUliRnR2MTlmTWJCaG9ybm8tR0JlanVIbjlGMFBiUmNtTXhKSTZQRUloN2p3eXN3b0JZa0xNaHNqWVZFZ0t0WDBzSXlsWDg4ekFzWlR5NTcxSm5NRlhlVmoxMHlHM1RJcGFXUklSbTJ3MkM4c3Q1ZHN3?oc=5",
-   "source": "Reuters",
-   "paywall": false,
-   "published": "2026-10-16T14:39:43Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "fed"
-   ],
-   "tickers": [],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "2bd088873122",
-   "title": "Meta’s new terms may allow it to train AI on news sites for free",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQ1BfcUVtdVFRaGRReVhXS3kzMkpkRjhqejJvYTBaaGVlcjJraVZaZ2RQYWxnS0Q3R01WRFd6ejc3YTlfMm1DaVI5UHkxb1IyWGpFdE5ac1RMZHAxaklBOENtY0oxclZkcms2MmNhRW1yM1Fnd1NSSUZicERuNUhlQmgzVTdnVjA?oc=5",
-   "source": "The Verge",
-   "paywall": false,
-   "published": "2026-10-16T14:02:40Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "META"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "bcd1e428a468",
-   "title": "S&P 500 Suffers Worst Week Since June as AI Fears Hit Chipmakers",
-   "summary": "The S&P 500 Index dropped on Friday to cap its biggest weekly loss since June, as a spike in crude prices renewed inflation fears while worries about the viability of the artificial intelligence trade pressured chipmakers.",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-16/s-p-500-steady-as-warsh-boosts-expectations-of-rate-hold",
-   "source": "Bloomberg",
-   "paywall": true,
-   "published": "2026-10-16T14:01:24Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "fed",
-    "market"
-   ],
-   "tickers": [],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "08579b3fa9e0",
-   "title": "Anthropic Signs First Data-Center Deal in Canada With EverWind",
-   "summary": "Anthropic PBC signed its first data-center lease in Canada, agreeing to buy capacity at a new project that’s worth more than C$10 billion ($7.1 billion) in the eastern province of Nova Scotia.",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-16/everwind-to-build-nova-scotia-data-center-lease-to-ai-developer",
-   "source": "Bloomberg",
-   "paywall": true,
-   "published": "2026-10-16T14:00:12Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "deals"
-   ],
-   "tickers": [],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "4b899b44e479",
-   "title": "Here's how the CoreWeave sell-off is affecting OpenAI vs. Anthropic valuations",
-   "summary": "The spread is widening between AI leaders OpenAI and Anthropic as a sell-off in CoreWeave leads neocloud stocks lower.",
-   "link": "https://www.cnbc.com/2026/10/16/coreweave-openai-anthropic-perps.html",
-   "source": "CNBC",
-   "paywall": false,
-   "published": "2026-10-16T13:43:53Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "market"
-   ],
-   "tickers": [],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
    "id": "dd685a85f5d7",
    "title": "Geely Auto Group to Offer Customers Greater Choice Through Google Built-In",
    "summary": "",
@@ -18406,359 +19302,6 @@
    ],
    "tickers": [
     "GOOG"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "2e4ac38ba524",
-   "title": "Felon Ran $1.5 Billion Scam Then Bought Rolls Royce, US Says",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTmlZY3NlNjRybW5QZXNRNVpTTllzUHNsN2tyZW1wdWkyNFRkY3NaUklqUkU1bGFONEd5MER4czdlSEtyN1M1ZGhEYmtIOUtITEQwVzBjSE1yMDU5RW9WelpIZGJnY3JmUXdTR2YwNzNhSjB4V1dkdHFjMVFGZElZRTF0U084Y1M2M3pmV0s1LTJNc1g1LUNrR0Y0dTNRbHJ2WWw2NHRiZW9kSndpVkVQX1U0NA?oc=5",
-   "source": "Bloomberg",
-   "paywall": true,
-   "published": "2026-10-16T13:37:20Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "RYCEY"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "efe3560d33d2",
-   "title": "BOJ chief vows to keep raising rates, anchor inflation around target",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOW5LS2JnMk04Z3BqMmlWRi1ia2NxUXJaR21PSnY1d080cXkxMTNjS3N1QmhHXzQwc3B6Y01mc0ZfX1lkRGZ4Sl9rVkVzc3NkTGlzb0FDb2lxRDJDZFgyWmRNdl9jT2pVMnZmRi1QUUlvN1Uybl9salRydEw0U0R1RE52T1RicVBTMTNJSHBzRVc4bG1FaTk0NGJwcmNvSlAtWkYzSnFKaTZOZG44aDdNWVJR?oc=5",
-   "source": "Reuters",
-   "paywall": false,
-   "published": "2026-10-16T13:28:29Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "fed"
-   ],
-   "tickers": [],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "a336c0b73ac3",
-   "title": "Bernstein sets JPY 10,000 target for Murata Manufacturing stock",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeXpfZ0lxSWpNRzhSekRrejJDMUlwQ0xzQ2x3T2tuYkRFdFB4LVd6aEl5RVo1NmJwemRUOGxZaVRPQU5MZWtrTFRZQnBiNU4tbkdpZFlLSEItNkRUeW84RWdIejRuenNEbm1FaTcyUEtKNXd3TFRQX1Y5MjE3YVZnTlhINUF5cTlmbHVVZVZyWmI4SnlOcV84WW9uRENXOFhTdXJSWXdvYXE5SXA2clRyRm85RVVFWlRGZUZ2UGluakVjRVdP?oc=5",
-   "source": "ad-hoc-news.de",
-   "paywall": false,
-   "published": "2026-10-16T13:11:37Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "6981"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "6a3cf4f0a39a",
-   "title": "Gold holds near $4,170 as inflation keeps December Fed tightening in play - Kitco AM Report",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQakQ5TkRKamtmLVRFeE51NDlQRGZYLXc1X3lyRFFDRHFqV2xRM09VV3M0Y21BQjlqek9RR294eWhUSDhpV19fZjZEUEtEcW5fMHZRMUFsNldMYVJ5a0dJVDkwaTBkNU12WVEtOVZONzRXWEhBYW9WVWgtVlJaZXd1RjlHd2tWU01wRDJqcDl6NnFkUktSX0JKVHBoVE1RWnEyUFNSRTBoQWdya3NzajU1Z01LWW5LQjl0MjdPWQ?oc=5",
-   "source": "Kitco",
-   "paywall": false,
-   "published": "2026-10-16T13:00:07Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "crypto_gold"
-   ],
-   "tickers": [
-    "XAUUSD"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "84ac6fe779ee",
-   "title": "Tesla's Roadster reveal, Apple and Meta team up, Nike's India push and more in Morning Squawk",
-   "summary": "Here are five key things investors need to know to start the trading day.",
-   "link": "https://www.cnbc.com/2026/10/16/5-things-to-know-before-the-stock-market-opens.html",
-   "source": "CNBC",
-   "paywall": false,
-   "published": "2026-10-16T12:38:58Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "META"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "5d650f6b6f30",
-   "title": "The Sony Xperia 10 VI won’t be getting a promised update to Android 17",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQU1U3OV9HM0J0ZTlYc1lZYWUzZFg0WkNUVzl2UTJEUzJ3di1GZGZDZGU2aXhwSS1hWHhlVGc3RXZLdzc0RkJtYnNPT2pDSVZWcE9XNDRRQ09Gd19GaGRhSWtxNHhtaV84c1Z5cl9VUWpBOHBybDVyb2otQVRhcl9rc3JtM0d0aFNKX3FFM0x1bkNsQnpfMmF2aw?oc=5",
-   "source": "The Verge",
-   "paywall": false,
-   "published": "2026-10-16T12:36:11Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "6758"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "5592529391a5",
-   "title": "Fed's Warsh withholds rate signal, praises recent global tightening",
-   "summary": "Warsh refrained from signaling another interest rate hike this month, pointed to a \"synchronous tightening\" by central banks in the fight against inflation.",
-   "link": "https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html",
-   "source": "CNBC",
-   "paywall": false,
-   "published": "2026-10-16T12:36:00Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "fed"
-   ],
-   "tickers": [],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "c7776c803af1",
-   "title": "Watch: Did Tesla really just unveil a flying car?",
-   "summary": "Tesla CEO Elon Musk showcased the vehicle at a facility owned by his SpaceX company, which helped develop the model.",
-   "link": "https://www.bbc.co.uk/news/videos/ckly4mj1g3n9o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC",
-   "paywall": false,
-   "published": "2026-10-16T12:32:31Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "SPCX"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "9ac9481b99c2",
-   "title": "US equity funds draw renewed inflows as Treasury yields ease",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSnEzLXc5RkdoR3NSRUxDdzZoNGpOUTlsQTM2VmpCRlVTOE04SjRfN214eHpCTnVBUW5Od0pTbnppZXRhTXFlS2lJMlIxOUpab3ZHMDh1Q3JfNFBXbENmUEQzOU5LVkZYWUxhNVFTTmM5SXdPaGlLYVY0N3BEekdhRmZTMnBycE9NWFF3dlJ0ZW1DX0VYbWtqV3ZheG85d0hLbksySw?oc=5",
-   "source": "Reuters",
-   "paywall": false,
-   "published": "2026-10-16T12:30:02Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "fed"
-   ],
-   "tickers": [],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "f88fa16d72bf",
-   "title": "Here are Friday's biggest analyst calls: Nvidia, SpaceX, Tesla, Apple, Mobileye, EchoStar, Toll Brothers & more",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNendwYkhWM1RQWUI3TGpmRzlOZ2JyYS1lbi05ZGZoNzBjQWVwUTdkQURvR19RNjVONFp6MmhiaGlZUW1lamFXalVvTGpZOE9uN19ESDRLM2RqQ2VhZkhVMlB2d0VXRVVYTEhGYXdiVTZaMXlJa3Z3eG1KWF9rbEx6T2RuUHRqYUExRzNF?oc=5",
-   "source": "CNBC",
-   "paywall": false,
-   "published": "2026-10-16T12:22:29Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "NVDA",
-    "SPCX"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "03a44a495fe9",
-   "title": "Starlink spectrum deal piles Elon Musk’s plate ever higher",
-   "summary": "Move may be part of a bigger plan but it spells even more capital expenditure at a company already spending beyond its means",
-   "link": "https://www.ft.com/content/b3979904-2252-4934-9cff-729a815cb4b0?syn-25a6b1a6=1",
-   "source": "Financial Times",
-   "paywall": true,
-   "published": "2026-10-16T12:15:35Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist",
-    "deals"
-   ],
-   "tickers": [
-    "SPCX"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "066bea2aafb8",
-   "title": "European satellite stocks rally as investors reassess Starlink rivals",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbWQ3b0dqenJhNmdlZGhMRlU0WnNEdjJZTGlXUGkzRG1SVVpMVktRNEp5REVFeVhOQ1NRcUw4V1dIdmU3c3h4SmNaamdaTDBqQ0lEZkJwSFJhSmpqS1ByM2RCSVlWNkZSZTQwVjdwamUyUzdFZ21hNkFPTDJhU2RYV041RjZ1UUczUjJGVWxJYTJwUVhSbloxb2h0MU1pY3dmSjM1Q0ZGcjBCUQ?oc=5",
-   "source": "Reuters",
-   "paywall": false,
-   "published": "2026-10-16T12:12:22Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "SPCX"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "63bb7210d226",
-   "title": "Alphabet's Waymo plans first Canada robotaxi service in Toronto in 2028",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRUVFbmxpclVROHZTbFhvQTBNNnIyZVJjVzc4MXBvNWFSQ1ZydU1Da1B1czVLbUJOZGg4MmJWVzNudDgzQ01BMm83NjBwbUludm9yc2RBMkM0SEppZ1lxaDUxVkcyY1FoZ1NyOF9vd1ZkU18xcXBxb1c3VGJpbzhDSW5MdjVkeW84OGN4Vmd2Q1JBQkVlU1F5TF9RSlRjNzRUTUIxeDR3WHZXQnc?oc=5",
-   "source": "Reuters",
-   "paywall": false,
-   "published": "2026-10-16T12:04:45Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "GOOG"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "1a03286d54d8",
-   "title": "He’s fighting food insecurity. His approach? Inspired by Amazon",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUV9UXzA0aGdLbGZ0WlEwRmZsSDNROFJmMHM3ZEVFTnh2cmt3WVpZYlhhN0NBcEQyWTZyN2tzMFkwYW0xQVVwS0E0ejgzLTlINm9NQkdCczFVMHE0TUZvRVZ6TWlWNmRIZnZQaFYtMkVNaVpralU0S3p1QkdMcnVaRg?oc=5",
-   "source": "CNN",
-   "paywall": false,
-   "published": "2026-10-16T12:00:44Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "AMZN"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "e0b6d876c35c",
-   "title": "How to dress a tech oligarch: The Social Reckoning’s costume designer on Zuckerberg’s style evolution",
-   "summary": "Susan Lyall worked with actor Jeremy Strong to research the Meta CEO’s favorite Nikes and luxury sweaters The first Aaron Sorkin Facebook movie, 2010’s The Social Network, helped cement the early aughts image of Mark Zuckerberg rebelling against corporate norms in rumpled…",
-   "link": "https://www.theguardian.com/fashion/2026/oct/16/social-reckoning-zuckerberg-fashion-costume-design",
-   "source": "The Guardian",
-   "paywall": false,
-   "published": "2026-10-16T12:00:10Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "META"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "aebb37248a33",
-   "title": "The Surface Laptop Ultra delivers on most of Microsoft’s promises",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeHdDRkVjS1lFYVNaZTNtdHlBNjVZc2ZSYXg3dUQzZC1HVk0tMDVKaVZuZDNEdlNUajU3YUVIZTBQUlBQNlpqWkVHd3hnTzFLX0gzVmtDbTV2aENibFZ3WFBxdDZLd0xOa0VPbFgybkJVYUVuUG1oc2VtTGpIcGZsTzZWa1ROaDJUSUlQVzlhWXdNSDZmNjZ6X0JBdzlGcmhSLXBESW1Hc0U?oc=5",
-   "source": "Ars Technica",
-   "paywall": false,
-   "published": "2026-10-16T12:00:05Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "MSFT"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "f4c0f3725811",
-   "title": "NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs",
-   "summary": "NVIDIA today announced the availability of NVIDIA RTX Spark™ laptops, bringing together RTX graphics and NVIDIA’s full-stack AI platform in slim, premium Windows PCs for accelerated creation, immersive gaming and powerful local AI — rolling out from ASUS, Dell, HP, Lenovo,…",
-   "link": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
-   "source": "NVIDIA Newsroom",
-   "paywall": false,
-   "published": "2026-10-16T12:00:00Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "NVDA"
    ],
    "also": [],
    "ai": {
@@ -18788,335 +19331,6 @@
    }
   },
   {
-   "id": "e2c2a8039afc",
-   "title": "Elon Musk reveals ‘world’s first flying car’ at Tesla event",
-   "summary": "The Tesla Roadster 2 drove up a curved ramp before using SpaceX rocket thrusters to fly, flip and land Elon Musk has revealed Tesla’s latest model, which he claims will be the world’s first flying car, using technology from his aerospace company SpaceX to “basically fly like a…",
-   "link": "https://www.theguardian.com/technology/2026/oct/16/elon-musk-reveals-worlds-first-flying-car-spacex",
-   "source": "The Guardian",
-   "paywall": false,
-   "published": "2026-10-16T11:53:04Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "SPCX"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "a9d2f1ba2edb",
-   "title": "Nvidia, Meta and Apple Unveil New Open Models",
-   "summary": "Plus, introducing the data center soft launch.",
-   "link": "https://www.wsj.com/cio-journal/nvidia-meta-and-apple-unveil-new-open-models-501d4173?mod=rss_Technology",
-   "source": "WSJ",
-   "paywall": true,
-   "published": "2026-10-16T11:52:00Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist",
-    "products"
-   ],
-   "tickers": [
-    "META",
-    "NVDA"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "8d80db7827fa",
-   "title": "UK Watchdog Proposes Tougher Scrutiny of Microsoft Software",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUTNlbEtVLXRPNmFnbzNrdXVidGdTbFZqOVVSZldZMG1yTV9UaENxb19EYXlyWi1uYVh2SVJ4cHBGMG9sZi1KeHBxZ0VzdkllVFFJNWJoOUwwOHB3OGVRdUs3cm5oclNZSXBsWk52S2FvanF4Y3lGU29jYUE3aE9sd1hyV0dJcm1ENFRPM1lqQjMwT1diRkJpV0pNeEJ6RHlRb2VicGJVTUdsZXNsaW5N?oc=5",
-   "source": "Bloomberg",
-   "paywall": true,
-   "published": "2026-10-16T11:48:32Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "MSFT"
-   ],
-   "also": [],
-   "ai": {
-    "label": "fundamental",
-    "tickers": [
-     "MSFT"
-    ],
-    "direction": "negative",
-    "impact_area": "regulation",
-    "importance": "high",
-    "reason": "UK watchdog proposes tougher scrutiny of Microsoft business software, escalating antitrust investigation.",
-    "model": "claude-haiku-4-5",
-    "same_event_as": "0b30dea7b9b7"
-   }
-  },
-  {
-   "id": "245c25378f14",
-   "title": "Fed chief Warsh: economy robust, but don't ask me about rates",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43QW5EMmVnOGg5Z0JaQWl0S2FyalctWkdiNVNrQzJ1d0JwMnBwVFAxYm5JbGlIZ0dWWmxPUnhHSWswT3JRZlUyMDZNb0t2UzNHUkNURVhaUjI1NkpxaGVsUGNfYndlQkE?oc=5",
-   "source": "Reuters",
-   "paywall": false,
-   "published": "2026-10-16T11:43:31Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "fed"
-   ],
-   "tickers": [],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "89e523cc31a4",
-   "title": "Stocks making the biggest moves premarket: Tesla, SpaceX, Alcoa, CoreWeave, Travelers & more",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQzdDQ0dEWjRSVHlaOUFoRjZNRG9nd2lhcFlhZXZab1JJMWp0dEpFTzJOd0xNQ09pd3lxYk9jM2llR1VzdWJVeFFhLUNjY3hRdklJVFg1TGphc2doVjE0NGpndDdlNV9WT2VHa2hZaUpFX3JhY1ZqTHlaRWhiNXZLeGhjeDJlcjNFMG1kWUlFODdFeThPZElQblJFMGE?oc=5",
-   "source": "CNBC",
-   "paywall": false,
-   "published": "2026-10-16T11:38:53Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "SPCX"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "c8ba12590aaa",
-   "title": "I watched Nvidia's Jensen Huang work the room in London. He brought big checks — and a blunt message",
-   "summary": "Nvidia has a near monopoly over the most powerful AI chips and Huang courts tech execs and world leaders with ease.",
-   "link": "https://www.cnbc.com/2026/10/16/nvidia-jensen-huang-london.html",
-   "source": "CNBC",
-   "paywall": false,
-   "published": "2026-10-16T11:33:44Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "NVDA"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "1917d60940ef",
-   "title": "Germany to unveil Nvidia AI agreement next week, government sources say",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOFhxVEl6YXFpRm9YZDJ5akl5YjBZQ0lnSzNrZ2xvRXVpQ1JvR2NybkMzRk4zdnRjQzNHNGFpZk0yZzBPM25wbDdYdWZuVGRSanNfdzM2STZxQ2hNbndENWtBd1lQemVEcVljSUJCbVU0ZEhBZVdKN2hQRkg4WUpVSjFIdlg2TlkwLXdDUzR1ZG04Z1VzVkloSHpvb2p4Z0JUeDg1MUZYd2NuQzlvWk43emh3Y184RDQ?oc=5",
-   "source": "Reuters",
-   "paywall": false,
-   "published": "2026-10-16T11:06:50Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist",
-    "products"
-   ],
-   "tickers": [
-    "NVDA"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "60bf67f0f39e",
-   "title": "A Bruising Battle Awaits Musk and SpaceX in Mobile Services",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaXpvMUZnWXlFQm0xbmZ4dzczcHVvVEVKZzlxN3VLRU9TSENnWWhLWjZOVUJxS19pUThNYWtrSXItajBlTHR5OVBvcXZqdUdiTVBqMlloYkxNRHF4STVhY21oa1dZdTZCX1JiOVgtNlBjblJfVDVsSDJUOU5KYUNfVGNOMGw5RlpGRjRfY2tSbER2ZGVLYnFJMWswQWxOa0J3VmNGSUdnbjRjUXVEalU0OWNuZw?oc=5",
-   "source": "Bloomberg",
-   "paywall": true,
-   "published": "2026-10-16T11:00:03Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "SPCX"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "6ba75be3603a",
-   "title": "Palantir, Apple and Microsoft Brace for Democrats to Go on Offensive",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRXpJWlJfM2VObnV6aUVJcGZEMDJnNEZkc1RtMEdEUnpNQkN4eWE0S3pLd3JnZjAyb1d3TG0tQ2hyUWQtUUt6VnBzVzRoa2RxU3VSSGtaMHJqY2xxTjVfSGFjbTRQWnQ3Y2FQTWJrX1FWRFRSMHRmd1Q5dHA2SjFnYW5fX3FYV2dwT0NROVNjX0NUcXlfbTdGMDZDSmtqRDFITUVBZTEwa2hUN29fQ1RKZU5sVWM?oc=5",
-   "source": "Bloomberg",
-   "paywall": true,
-   "published": "2026-10-16T11:00:00Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "MSFT"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "c7a43c373d26",
-   "title": "Besi shares fall on report ASML is working on rival hybrid bonding product",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUllrNnhvSWJZRFY3c2hEckgtR1VMV2F4b25FTGxQUlpnWEV1Z2xSb05fVThualhwRU9RVUp4UmpqOXRQT0RVbzVjZk1YSEtCYWYyN19SMHpTQl9lM0VycDR6UU1VVWVPWGQwejNaQ2xiOGZ0NER2V2dtSWVUQzdwZmV0NjFQUlkyWTBKZGxwMFZaSFctVzR2N1VHRkVNRTBBTEVQWlNJREUxV0N4Q1I1eDB4NA?oc=5",
-   "source": "Reuters",
-   "paywall": false,
-   "published": "2026-10-16T10:55:03Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "ASML"
-   ],
-   "also": [],
-   "ai": {
-    "label": "fundamental",
-    "tickers": [
-     "ASML"
-    ],
-    "direction": "negative",
-    "impact_area": "competitive_advantage",
-    "importance": "medium",
-    "reason": "ASML reportedly developing rival hybrid bonding product, threatening Besi's competitive position in advanced packaging.",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "6cbfbcb69e29",
-   "title": "Quantum Alliance forms amid warnings 6.4 million bitcoin face future quantum threat",
-   "summary": "Nine crypto companies launched the Quantum Alliance to jointly prepare for quantum attacks, but they disagree on when the threat will arrive and whether vulnerable BTC should be frozen.",
-   "link": "https://www.coindesk.com/tech/2026/10/16/experts-agree-quantum-computers-could-put-satoshi-s-bitcoin-at-risk-but-not-on-what-s-next",
-   "source": "CoinDesk",
-   "paywall": false,
-   "published": "2026-10-16T10:52:26Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "crypto_gold"
-   ],
-   "tickers": [
-    "BTCUSD"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "8e74372caa9e",
-   "title": "Microsoft president warns Trump's immigration crackdown could mean the US loses out on future AI talent",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQb0hFOVVvX0tvekFTRldxVXc0SGdIbTZiSE83OGVXbzNpbWVUQWNTcExaSElKN3pYZEdGQUZobHlRMkNtUUlmTDhvQTFPV204UU9IT1daQVZjTkZkOUsxcTNxenB3eUtPNWVCaTkyal9YVnpJcHpSUmg3bC1hd1I2bnlNVmgyeTNyMnlsYlp2NkEzTUJOMk1KZzRIX3U3VUpMSDVSQjh5UmtjamE2c0VZeG1KbXduQQ?oc=5",
-   "source": "Business Insider",
-   "paywall": true,
-   "published": "2026-10-16T10:46:00Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "MSFT"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "9facf2f76ccf",
-   "title": "Scammer gets scammed in Ledger spy-chip exploit, loses almost $5 million in bitcoin",
-   "summary": "Chainalysis says a fraudster who tricked people through fake online jobs became one of the biggest victims of the compromised hardware wallets.",
-   "link": "https://www.coindesk.com/business/2026/10/16/scammer-gets-scammed-in-ledger-spy-chip-exploit-loses-almost-usd5-million-in-bitcoin",
-   "source": "CoinDesk",
-   "paywall": false,
-   "published": "2026-10-16T10:24:30Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "crypto_gold"
-   ],
-   "tickers": [
-    "BTCUSD"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "6d90b2c2f900",
-   "title": "Live updates: Bitcoin dips to $81,000 as stocks slide, VIX soars ahead of Black Monday anniversary",
-   "summary": "A Friday surge in oil prices hit already-shaky equity markets, sending the Nasdaq down more than 2%.",
-   "link": "https://www.coindesk.com/markets/2026/10/16/live-updates-bitcoin-back-above-usd82-000-zec-jumps-11-as-etf-outflows-continue",
-   "source": "CoinDesk",
-   "paywall": false,
-   "published": "2026-10-16T09:48:14Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "crypto_gold"
-   ],
-   "tickers": [
-    "BTCUSD"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "9b2e87ba56c0",
-   "title": "Euro Snaps Five-Week Losing Streak With Warsh Remarks",
-   "summary": "The euro halted a five-week slide against the dollar after comments from Federal Reserve Chairman Kevin Warsh were interpreted as supporting the case for the US central bank to keep interest rates on hold this month.",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-16/euro-set-to-end-five-week-losing-run-as-warsh-remarks-hit-dollar",
-   "source": "Bloomberg",
-   "paywall": true,
-   "published": "2026-10-16T09:37:30Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "fed"
-   ],
-   "tickers": [],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
    "id": "860b4a56d7c3",
    "title": "Capital B posts wider H1 net loss of $78 million on bitcoin impairment charge",
    "summary": "The company attributed roughly €67.5 million ($75.9 million) of the loss to an additional bitcoin impairment charge.",
@@ -19130,147 +19344,6 @@
    ],
    "tickers": [
     "BTCUSD"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "e0663d283c78",
-   "title": "Ukraine war briefing: Starlink access restored, says UK’s Streeting after Hegseth meeting",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPYXg0U2c2aW8tRF9MZDB4N2daRkRsR3Q1eE9WNjhSQzJlc2h3cXlkeGVoNk1CUmRmYldYVmh0RkZGcUQ3bGUyVlNEMzVMOGE1aEtPR3B1amxlNm5laGZKMUNONUcxQUNjVmF1WjdHR1Exc2ZxaGRKcnlUbVpBTXFoanNtaVptVExDNXhJMnVlUFltaU5nSVU4ZlVpbHNLdTVCTWFlVXEzbGJVWGhxOG9ja1pTa2VsbDZjaGtEakRjTmpSbFVYZEtDeGlIQXJNR3ljd0Z6ZmFPQi02VHc0Z3BFQi12OHgtUQ?oc=5",
-   "source": "The Guardian",
-   "paywall": false,
-   "published": "2026-10-16T09:28:00Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "SPCX"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "d81ba4f5fc1c",
-   "title": "I left my 13-year career at Google to work in sustainability. It wasn't an easy choice, but my values had changed.",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSU91cnVzWnFiNjJNNWhwZjVkNi1OMWVjaUJuV2trUFROdHFobVRLbldnVHhfb1BfeGljM0tlSkJYX08zaXNqOGdNQ19Tb2tqeDdJdjNpaFpON0hodE5VanhuSVJma25oVE9nc0x3c3dvVHNFWkkwTjIxSGJiT05LTEFRN2FBWDlQSWNYUEVfRE8zcEh6elduQVpmTlVnNGlNNHc?oc=5",
-   "source": "Business Insider",
-   "paywall": true,
-   "published": "2026-10-16T09:05:00Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "GOOG"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "a560c0398b48",
-   "title": "Murata Manufacturing reports 10,401,300 shares bought back for Murata Manufacturing stock",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQ0lJME1hQ0NfMkh2WkY4Mzk2Q1VsV2NveHFMeGNrQVRzZlc3Q093Vm5mRjBDc2IwQkNOZTI5M25IZDN3T0FIX3JuNlZFX0tPNE9kYmxKZlI0aDJpVlZYMXlwVjNSQmw2SDE3YjR4M3QxcFBxR1h3Ylhma0hZNUFfRGhYOElVLXRabTNXc0hiNmhmeDFYQm9jN3lCWU94aHN6NXZfZVdwWUxSUGVJb0FpdmkzeU5CcVBfa1FHcUkyRnNXaFFKLUZMX3lwc2Y?oc=5",
-   "source": "ad-hoc-news.de",
-   "paywall": false,
-   "published": "2026-10-16T08:15:04Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "6981"
-   ],
-   "also": [],
-   "ai": {
-    "label": "fundamental",
-    "tickers": [
-     "6981"
-    ],
-    "direction": "unclear",
-    "impact_area": "other",
-    "importance": "low",
-    "reason": "Murata Manufacturing ซื้อคืนหุ้นจำนวน 10,401,300 หุ้นสำหรับการจัดการทุน",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "b6d617ef3309",
-   "title": "U.S. Starlink curbs embolden Russia to intensify attacks on Ukraine, minister tells CNBC",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQR0pmanJyNWNpR0JQaEMtNFNiWm54aUd5RmlLZzdINUtKMFRsUUh6QWxZaThpdWRWUnlZQ05RMjdzVnZKV1dNanlKd1R4SUpRVEJyTGpQalpaSzZIeEh5MHpfOXIyXzFoWENXQWtCSzBzMk9ER3o2R3ZacTZjMzBoUWJkZ9IBiAFBVV95cUxQNi0ycXU1RzVKcDNEUE5NM0lIazN1NjVycEQtZE5yUURDaTlTVThaX29pVHNMX25JSWVzb3BVQ1ZkRUc1ZWZRaGE0SzNmUENkT1FOYlpzZkJEZ0VFSmpzU2c2YlQ2SVFtQ0x6ZXk1QTh6Mzh0bVNXM0lLSFpfZEgtVnZJUzVVa0tI?oc=5",
-   "source": "CNBC",
-   "paywall": false,
-   "published": "2026-10-16T08:10:32Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "SPCX"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "ade7aa69d4bc",
-   "title": "Mercedes-Benz and NVIDIA Expand Strategic Partnership to Advance Safe Highly Automated Driving in the Next Decade",
-   "summary": "Mercedes-Benz and NVIDIA today announced that they will extend their strategic partnership to advance the next generation of automated driving systems.",
-   "link": "https://nvidianews.nvidia.com/news/mercedes-benz-and-nvidia-expand-strategic-partnership-to-advance-safe-highly-automated-driving-in-the-next-decade",
-   "source": "NVIDIA Newsroom",
-   "paywall": false,
-   "published": "2026-10-16T08:00:00Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist",
-    "deals"
-   ],
-   "tickers": [
-    "NVDA"
-   ],
-   "also": [],
-   "ai": {
-    "label": "fundamental",
-    "tickers": [
-     "NVDA"
-    ],
-    "direction": "positive",
-    "impact_area": "competitive_advantage",
-    "importance": "medium",
-    "reason": "Mercedes-Benz extends partnership with Nvidia to advance automated driving systems development.",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "00132664057a",
-   "title": "Vehicles from Geely brands to come with Google built-in services outside China",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTkdKYUg3TkNueTRZR0NTZ3p1ZTNEUlg4R3QtdFFDOEFwSERqZlRheGtHdERFM2NKekZoYXdUMEJDRnBjRkVJdk5QR2JxNThYWnlPbWZJT0YwNF9Va2JqRzJLNFlDcXFsTTUzd1BNcFZlWWFrb0F3cWxtT0M5Rm85bjdkSnpTUEVhaWx1aFNIUVE4cUQydEtnUm1XalJlcTlCOUN6TkZCVE82OS1BUU9YQTBINk9yaS1helE?oc=5",
-   "source": "Reuters",
-   "paywall": false,
-   "published": "2026-10-16T07:51:54Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "GOOG"
    ],
    "also": [],
    "ai": {
@@ -19321,46 +19394,6 @@
    }
   },
   {
-   "id": "b2222374bdac",
-   "title": "Bitcoin buyers snap up a brief drop below $80,000 as Asian stocks rebound",
-   "summary": "Bitcoin tore back to $82,500 within two hours of dipping under $80,000, and chipmakers in Seoul recovered from their worst close since April.",
-   "link": "https://www.coindesk.com/markets/2026/10/16/bitcoin-buyers-snap-up-a-brief-drop-below-usd80-000-as-asian-stocks-rebound",
-   "source": "CoinDesk",
-   "paywall": false,
-   "published": "2026-10-16T04:14:22Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "crypto_gold"
-   ],
-   "tickers": [
-    "BTCUSD"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "4dda2cdf2bb6",
-   "title": "Fed's Warsh sees US resilience, mum on rate-path view",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbUpNSUtZSU1FYnJCSDNWNnJRMmF3bmQ1QkdEaVhZb3I3c0lpYWhyQjNSemVVdGttRHE3UTFNOXg0enZ6eHAzcDY3UXBmQUJJRzl1T3gtMEZad0Z0Xy12TTlFcVRGeVdNYmVkZ3NPQThlUWRLUTh5c2J0UHFPVVRKT0hpR2RyU2tlRnJhVnBZZkxxUFhaTzRBVUlkbWFUUQ?oc=5",
-   "source": "Reuters",
-   "paywall": false,
-   "published": "2026-10-16T03:57:00Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "fed"
-   ],
-   "tickers": [],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
    "id": "5feb04fb3474",
    "title": "Japan core inflation likely exceeded BOJ target for first time since December",
    "summary": "",
@@ -19369,182 +19402,6 @@
    "paywall": false,
    "published": "2026-10-16T03:13:00Z",
    "first_seen": "2026-10-18T02:06:20Z",
-   "categories": [
-    "fed"
-   ],
-   "tickers": [],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "b3934ea0bbff",
-   "title": "Japan bets on physical AI as Murata, AWS, Hitachi showcase self-learning robots at CEATEC 2026",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdjNVbVdxVzlzNFdVQi1BVUN3TUQ5ckZrUEdwVml4OElCek5adkYzMjlsTjdPM1pyUEtMTDlBaEVJSDE3QTRCa1hPclozRGFaa05vaWpTWW9OWE50Vk81YzdWRDI0OVpoc0U5U3VyejJZRUVCOEJ0UHpKeFczMHN3VUNuRU1XY01VWE85RjVn?oc=5",
-   "source": "digitimes",
-   "paywall": false,
-   "published": "2026-10-16T03:02:08Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "AMZN"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "ddf1b826d7a8",
-   "title": "Ambani's Reliance breaks silence on Musk, says Jio awaits same clearances as Starlink",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNXZBZ1J0X3R5QlJjcFQ1MzlNRkVQNHRVRUd4RW1pWnBYNk1aelYwcVdaR1ZaQWJBLVhtVENYSm1nQm5QSzRrQlU0QWMxbnE2TkRuQmlVTWJOX3JYY3JLR3FpeFBudVRsQ3hTTDMtbllJbTF0QjZ5bGZ6VWdIVXdFNFBtMFI4R2Nnd2UtYzNTZkpTMGpJUi1jVzZQMDZoVlNLazYtd25wUi00ZUZERjZudFFRUVU4VkFHTXVnTE5Jd1NpenAydkpFdGpqbUxPUQ?oc=5",
-   "source": "Reuters",
-   "paywall": false,
-   "published": "2026-10-16T02:53:00Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "SPCX"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "994dd4a4909c",
-   "title": "TSMC trotz Rekordgewinn mit verhaltenem Ausblick - Reuters",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUVJEY3M3eC0tOExMSlNxcE5pVGtXX1hzWVpqbFRsdkVlMWN5cHRoaGFnaHl3ZG1SNklQbEVFYkt5VEp2cjl4T2hrdjBuV2tiRVdvYTFPS3FFOFdpZkFKWnN1SU9wTG9EOG1kWlFGNERxSlJHSmcxbFV3U0VNa0xtcEtpa193SUZjcS1mTzV6U2hlV2RITWJDTw?oc=5",
-   "source": "Reuters",
-   "paywall": false,
-   "published": "2026-10-16T01:45:06Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "TSM"
-   ],
-   "also": [],
-   "ai": {
-    "label": "fundamental",
-    "tickers": [
-     "TSM"
-    ],
-    "direction": "unclear",
-    "impact_area": "other",
-    "importance": "high",
-    "reason": "TSMC reports record profit but provides cautious forward guidance amid uncertain demand outlook.",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "e580903482dd",
-   "title": "Dollar set for weekly loss as Fed hike bets fade, AI clouds outlook",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVUNHeGZVcnQxblFnbDJNaGNUNHBQRGotcHVucUxBWDgtRjI3cFl0a2tVdTBpaGJaR1FUOTZGVm1sT0o1R0pqUjVTVHo3M1RnY1dKU1hFOFVKeVE0NlY0SnBTUFBjNFJMRU5rLWVtY0NhWnREUFpCLWI2MnQ0Y3h6ZllaTGk1LVNXNXRlSDlJcjJfRzZlN2J4cWFmT2prMDh4WFoxN0pSdGQ3Sy1G?oc=5",
-   "source": "Reuters",
-   "paywall": false,
-   "published": "2026-10-16T01:20:00Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "fed"
-   ],
-   "tickers": [],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "adb09f3abc85",
-   "title": "Gold Steady as Rate-Hike Bets Ease, Oil Pushes Yields Higher",
-   "summary": "Gold was little changed as traders weighed easing bets on an imminent Federal Reserve rate hike against a surge in oil prices that pushed Treasury yields higher.",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-15/gold-holds-gains-with-haven-demand-and-lower-yields-in-focus",
-   "source": "Bloomberg",
-   "paywall": true,
-   "published": "2026-10-15T23:51:46Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "fed"
-   ],
-   "tickers": [],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "379b6093765e",
-   "title": "Taiwan's chipmaker TSMC explores collaborating with Elon Musks's Terafab complex in Texas",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wcXpNbWFteDNtMjBST0E5TF9GRF9NTkM2R0padXk3aG1VTDQwLUJrQTJTZlBCUThrMzgycW9tQUoxc2p1TXVjS3lpZGtSeWlmcFRQbVVmQnJsVU5sMjBlajlKaEk3YXdZbWM0Qk5HTU0?oc=5",
-   "source": "Fortune",
-   "paywall": true,
-   "published": "2026-10-15T14:16:00Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "TSM"
-   ],
-   "also": [],
-   "ai": {
-    "label": "fundamental",
-    "tickers": [
-     "TSM"
-    ],
-    "direction": "positive",
-    "impact_area": "other",
-    "importance": "medium",
-    "reason": "TSMC explores collaboration with Elon Musk's Terafab complex in Texas for chip manufacturing.",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "cb6ab03a9271",
-   "title": "Tesla's new Roadster turns in air with SpaceX thrusters, won't land until 2028",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWGw5R18xMUUwWFdySjRKNlRpdkY1c2d4QlZWWVdxRlQ2dlpoc2JSaVJPdmpfWE1CbjE4bEF5RVpPOGFrV3E1T1BrZmFtd1FVRk45cnFCQ2FUMUk1ODNtSzF0VkxTODVyalI0MENsaTJQYkQwTGJvMXU0S2MtNmRHWEktX0lXOHpaZy1JdWs1dXBSQWw5VVQtT0pvczFxQ3ZCWmQ4VGRmQWt0OUptTWhSZkNnYlhyM2diMzlHaGl4S3VyRFgyVk5qckI1Q0NvVnFv?oc=5",
-   "source": "Reuters",
-   "paywall": false,
-   "published": "2026-10-15T10:04:00Z",
-   "first_seen": "2026-10-17T02:06:22Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "SPCX"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "a4c549b0276f",
-   "title": "Major brokerages expect next Fed rate hike in December",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWkFtUUdJTUNCU0JwWlQ1eWV5UFIyZVZ2enRYaXI5TUFBNHZzbmlkVTFQaHlpU0hxNGNhUFJwNkFqaFUzTzNoT2s1X0hXdmhnZlVkbmJpcGhON2VGOFVXcGtualozRjJ6VlRtT1h6enpqWlFkSlpDNHJWcTNqWUhpR0t3ZlFBbWtkSnpodE5BeW1DVWRFRXBSUGYzVE1PUEZEbWp6OV9fMA?oc=5",
-   "source": "Reuters",
-   "paywall": false,
-   "published": "2026-10-15T07:00:00Z",
-   "first_seen": "2026-10-17T02:06:22Z",
    "categories": [
     "fed"
    ],

@@ -2,6 +2,141 @@
  "month": "2026-10",
  "items": [
   {
+   "id": "d8f1588ea17e",
+   "date": "2026-10-24",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "AWS ได้เต็มไปหมดจนถึง 2027-2028 แสดงความต้องการ cloud ที่รุนแรงและการเติบโต revenue ที่แข็งแกร่ง",
+   "title": "Amazon cloud capacity sold out through 2027, CEO Jassy says",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeDBNbTdvV2F5U2tSX1NQWmZ2bnRGUXJMRE4xT1V3V0dIcnlFd3g0WkZ6aWdYNmNzNWxIQXNOcWxMdFlqbFNmN3lWekFUOGJVQzN5aElzeVlveVh4RzZ5aC03b3pSLUNQQ21lQ29jNVkwdmF4V2YwYUlkd0dPdkJQT1VwWF9lZUdhZnBrNWppME81Y2Q2ZzFYOWcwWFozajYyME9BQkpSZHNOTTdQX3hTcXF3RkVSS2s3OU1F?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "6382254ed459",
+   "date": "2026-10-24",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "competitive_advantage",
+   "reason": "Ukraine พัฒนา Starlink alternatives กับ Nokia และ ICEYE เพราะ SpaceX ลดความเร็ว Starlink ทำให้สูญเสียตำแหน่ง",
+   "title": "In hunt for Starlink alternative, Ukraine partners with Nokia and satellite maker ICEYE",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/23/ukraine-partners-with-nokia-and-iceye-for-starlink-alternative.html",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "a4a6cc4060f7",
+   "date": "2026-10-24",
+   "tickers": [
+    "META"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "competitive_advantage",
+   "reason": "Meta ซื้อ Sundial AI data platform ขยายความสามารถ AI สำหรับ AI assistant",
+   "title": "Exclusive: Meta acquires AI data platform Sundial",
+   "source": "Axios",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1yaUIwQVJsYmpVanBJTkF0M1g4RWZDeGh3X1NYbzVINFY4M2wxTUtTWmRZdkYtY0tlU2dBcXNXY1JxU1JNeUJsZTc5c2czQzFwX0ZOcndNekd0WE5XQXc0QzVjWHdWek9nbXZkZUZXNA?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "55bb284b7a45",
+   "date": "2026-10-24",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "regulation",
+   "reason": "Google policy อัปเดตอนุญาต Gmail ใช้สำหรับ advertising ก่อให้เกิดความเสี่ยง privacy regulation",
+   "title": "Updated Google privacy policy says your Gmail might be used for advertising",
+   "source": "Ars Technica",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRnNjMDdtTUVobzdWa1U3VVllSTFMZGZEeEQxSjJ1X1lBMUlDcWhpTk9OdHZIak5mU0VNaG1Na2FBX0sxSW1FNmhHbFV0NjJuMUxsenpaREhJNjFvWlZaZDhKZVdGMWRlOUVnM3hGU2dTREN3c3pHYTllUkJuc0gzOFRNbnR5aHVob1RpVGV6eUdEb1VKdUdaVk5kc1I1VkxTY1VydldoZ2ZkUmFCM3kwa3JqY2o4cWM?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "c292738248f8",
+   "date": "2026-10-24",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "revenue",
+   "reason": "UK ประกาศ £100 million AI Biosecurity Lab สนับสนุนโดย Google DeepMind ขยาย partnership",
+   "title": "UK Vows £100 Million for Biosecurity Lab With OpenAI, Anthropic",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-23/uk-vows-100-million-for-biosecurity-lab-with-openai-anthropic",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "ba6dab55c2dd",
+   "date": "2026-10-24",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "revenue",
+   "reason": "Amazon ตั้งเป้าสร้าง 30,000 entry-level roles UK by 2030 ขยายการจ้างงาน",
+   "title": "Amazon cut 30,000 corporate jobs to focus on AI. Now it’s promising 30,000 entry-level roles in the UK by 2030",
+   "source": "Fortune",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ2U0blJOMGJBU1pBcWFJeGZUcGRxa2UzdUc2Q200d3lJSE1WMkQ4VVMxTll3UENrb29JVHBNb25aaFpoYV83SG04ZXBjUm1OanZrMTRlSUk0dTRzbTlRV1Fxdjl5QTloNzE4TGxXajNLaEFuYksxUlFWSXVuYjdOcXQ5ZUxSU01Db0ZGUzFFY0hYUm55NTBEdTh6ZUxVUUU5Ukd5MmJKM2pidmxodlN2bA?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "ef8402c25e89",
+   "date": "2026-10-24",
+   "tickers": [
+    "META"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Meta ได้ $8 billion Treasury break ลด tax rate เหลือ 2% ปรับปรุง cash flow",
+   "title": "An $8 billion Treasury break helped Meta’s tax rate hit 2%. Senators want data center tax answers",
+   "source": "Fortune",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSEp5YjNHSUdHRHduLUVTMkxTWTB6TUV0ZzZoeEs1aTFLOWZ0ZmN5aG1OdVdoeDlGNnZkajZ5djFUSkM4SXhFdDEtaUltT2JROExfSG5TMlVTQ2Z1RUNnTVI5d012TlFGYjlFdklpa2kzU0FISnJybnZ6dmNJcUNXajJ4NzBad3Bsb0hjTUNocFFSY3VBcXM3a1B4SWVDSl9BSG1oSlAwRWRvWEVWdm9QNnR1U1Jab1M5ZFE?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
    "id": "7e7b0ead6985",
    "date": "2026-10-23",
    "tickers": [
@@ -172,6 +307,238 @@
    "paywall": true,
    "categories": [
     "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "ccb5846ef5e3",
+   "date": "2026-10-23",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "Ukraine รายงาน Starlink speed limits ยังคงมีอยู่ หลังจากการรับรองของ Trump แสดงความเสี่ยงทางธุรกิจในภูมิภาค",
+   "title": "Ukraine says Starlink speed curbs remain despite Trump assurance",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVllPNFl4NmNrOVVKSnNwWWg5S3hNc2V3N00xUnRja2UtU0Z1cHh4V0w4ek9GLWl6NW90S0JSRlpVeEtZQTVKN0d6eWIxdlNHNEh4dXFtNW1xU0NuYVB5QVdRUy0xbTQwQTJHNjBmd3lxR09UTUhKSmF3dlpxa0NHODRjWlNsOWthM25ibFVIR0t0ZDFGekxvemhnVTNKWUNCX2k5UmM5Z2JXZUhFTHJRX0Z2V0xzT25aNFFyem9CS0g?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "e74631515920",
+   "date": "2026-10-23",
+   "tickers": [
+    "RYCEY"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Rolls-Royce เข้าใกล้การตกลง government subsidy เพื่อพัฒนา engine ใหม่ในสหราชอาณาจักร",
+   "title": "Rolls-Royce nears government subsidy deal to develop new engine in UK, FT reports",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQjZyQUdrY3hOZnkyX3Z0ajIwS0RDVHBjeWRXa3pLblZXYVhOYndXUUt4ZDR2d0kteFRycExxNXZBZVBnY2I4d1hDc1VWT2VwOXJBa3Q0MUVuVFJfUUpxY0FmLTBZNnoxWUlNUGV2ei1JSGFBdmlJUG5fdElpRnJLbExXYUF3enlJaE5VbU5Ba0Y0U2UtMlhRVldWT2RkZmpfb1FLRE82Y3RpNTFXMVdjOXZPRUdxTEo4Y3loeUg5M2VzZTQxZFhEVTJNMnRuMDJhbjRr?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "e55b45fd75b5",
+   "date": "2026-10-23",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "unclear",
+   "importance": "medium",
+   "impact_area": "regulation",
+   "reason": "Silicon Valley Democrats ร้องขอการสอบสวน Starlink restrictions Ukraine หากชนะการเลือกตั้ง",
+   "title": "Silicon Valley Democrats demand investigation into Starlink restrictions in Ukraine",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/23/starlink-ukraine-musk-trump-congress.html",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "601373476e57",
+   "date": "2026-10-23",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "SpaceX mobile carrier push ตั้งเป้ากว่า 80,000 cell sites เปิดรายได้ telecoms ใหม่",
+   "title": "SpaceX’s mobile carrier push reportedly involves tapping into 80,000 cell sites",
+   "source": "The Verge",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNazZVaXlKd09aZXNQVW5Yb1dkVnFTRzY2MU54V0ViQWR5N2hBU0NvT05xNkE3VUltNDBVdmRyeHVKS1lXdXhrWllrWHZtbThMMExkeEotWjB5Zkg4STRfcXlpM3ZXUTR2dDdxekZOS1BFaG0xX0hwRld5Q2ZoaWFEdg?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "4aff99068481",
+   "date": "2026-10-23",
+   "tickers": [
+    "META"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "regulation",
+   "reason": "Meta ชะลอการเปลี่ยน business terms หลัง publisher pushback ลดความเสี่ยงทางกฎหมาย",
+   "title": "Meta delays new business terms after publisher pushback on AI scraping",
+   "source": "The Verge",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbjBNWmwyRnRGYVI4RmM3UEtBRXFIRTJTLTFpUmh6NU5aaE1nTXJQeV9sYUpGb1AtS0xmUXlLczR0Q0NxaHB6aUo0c1FXWmdDYWRxVWZFa25BM0FmTzV4QjBjTTJJUlFlOFJnTEZBTEFFaU5jN3prVFlVMFdndmJGaTUxSQ?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "26b945e3355a",
+   "date": "2026-10-23",
+   "tickers": [
+    "6981"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "revenue",
+   "reason": "Murata Manufacturing revenue JPY 486.60 billion ในไตรมาส 2 แสดงผลการดำเนินงาน",
+   "title": "Murata Manufacturing stock: Revenue reaches JPY 486.60 billion in second quarter",
+   "source": "AD HOC NEWS",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcTdkajUyZ0IzQmRnc01haVBTTnAwYzQtUVJVS09sZG81LUxMMjBseElCXzNBR0xOV01wUFFyVWFZTFdNR3dBU0JqM1dpV0I1V0lwVHB2OGZaNjUtcHhrbUwtVE55WmZoeF9rYzdtcXl3SEY2TXRBZ3dpSXNyWWg5T2hRRVBnUkRhWXZqNC1jWC1BWWR5SkxHWURLTHVJbU4tZUFRX1lpSDZ0SXhfSEwxa0RqbEs2RnJ1VEltTXJ2NkptVEEyd1M5bDAxMEs3Rk0?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "ee0af5894a39",
+   "date": "2026-10-23",
+   "tickers": [
+    "META",
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "competitive_advantage",
+   "reason": "Nvidia Meta และ Apple เปิดตัว Open AI models ลดการพึ่งพา proprietary models",
+   "title": "Nvidia, Meta and Apple Unveil New Open Models The Morning Download for Oct. 16",
+   "source": "WSJ",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRzl4Qm1LOUgzSHRaWEdvRDhKYkRaemRoOV9GWWVuU0N1THhvaXFnYnhQOWRWaGZBQlBUN3dicGJmWWVuZW9BS3BnLVlGYks2R3I1b1ZuVW9ObVhXX3I1cGViWnJyTnIwd3pfV3BXQVhWZy15dkpDTlFUSVg1YUtjR28wRkFrRHNpT2ktMnpR?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist",
+    "products"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "c7d2481a3dda",
+   "date": "2026-10-23",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "regulation",
+   "reason": "Google ถูกสั่งให้หยุดโครงการ Finnish data centers ลบต้นไม้ 250,000 ต้น เสี่ยง expansion",
+   "title": "Google told to halt work on Finnish data centers after clearing an estimated 250,000 trees",
+   "source": "Fortune",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNDY0LWNMd256NzF6dm9IQkVwY1VyVExLTmFBU1dvd1JIQ2k0NGJtbC1lTU9OMGxJd19PcHVtMnAzZHpiVFJMNHpWa3oyWm9oalJDZkJTTHpEX2owZGt3ZWdwVVhObTRIbXBfQ1dsVzZrNlhHZURuQmFYTGpXamFWVUVCQkpDYnRSVnVISA?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "4a09178bf59b",
+   "date": "2026-10-23",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "Trump โทรหา Musk ขอให้ยก Ukraine Starlink restrictions แต่ยังไม่ดำเนินการ ความเสี่ยงทางการเมือง",
+   "title": "Trump called Elon Musk and asked him to lift Ukraine Starlink restrictions: WSJ",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPY1Npb1Ryc3BaZXFKMTl0Q2VtdXRrWUlkRndyTUFzakZsOWhXOGFOWU41em5sSEpNc21GbzJaY3BEOW9aMDU1eV9oTDNWb00wNmlBbWFfS2VmRWZxTVhkT2R0VzY4dUs0Z0dJWVIwS01UQ1lPazFOamxqbXR1Wkp1d3RNTFRGbk1uYmZVTE11MmQ0bS11eG5xUkdsZmxnalBua1c2eXZnNGRrelBSN2NxNGhpY1JROUstbDBvM0VR?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "0edb9230de26",
+   "date": "2026-10-23",
+   "tickers": [
+    "XAUUSD"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "macro",
+   "reason": "Gold ตกราคาหลัง oil prices เพิ่มขึ้น ยกระดับการคาดหมาย Fed rate hike",
+   "title": "Gold set for steep weekly loss as rising oil prices bolster Fed rate hike bets",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWE1LcUgzRWRwVDZmX3FEaWszVHF0cFQ1ekt6M1pyQ0lfc05PQm9DekdZcXprdm1vQk00SlNEZjEwQllCd1VwMUJySnIxcF9ZblFaRHFsV3BzSU52SlJSSi1TeWxoTmdYc1h6UHhPQTFQYU41ZEdQTFRNY3l0N1Q2bnRDV2x1MjlveGtxTk1oQWlGd3ExcUZEd2QzdF9TUkVKcXotUlIycUgtb1RrZjJ3?oc=5",
+   "paywall": false,
+   "categories": [
+    "fed",
+    "crypto_gold"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "0a572095861b",
+   "date": "2026-10-23",
+   "tickers": [
+    "XAUUSD"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "revenue",
+   "reason": "Newmont ทำกำไรเกินประมาณการจาก higher gold prices และ Cadia recovery",
+   "title": "Newmont beats quarterly profit estimates on higher gold prices, Cadia recovery",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNajFlVFVVNzNoeTg5cTNJM2ZuNjZoU3RBUVUwdnZOUXljd2tpM2dHbDhjbUU4V0JCZkZMWmlrNWlTeHJLM2g0aE01MGE1VkZndzdPb2J0R2Q3bjJtWkJvMG5DeWdLUmJwamw3ckpNeG9jb3RYSFFiLW5PanFLdlRUUXNvN3ptWDBjZ01aR1JMaFRwXzd5RE1jWnNqMDhTWU1SZmp5ekxrWQ?oc=5",
+   "paywall": false,
+   "categories": [
+    "crypto_gold"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "e9340b9e004d",
+   "date": "2026-10-23",
+   "tickers": [
+    "BTCUSD"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "regulation",
+   "reason": "Bitcoin Core เปลี่ยน security rules เพราะ AI ทำให้หา code bugs ง่ายขึ้น ลดความเสี่ยง security",
+   "title": "Bitcoin Core changes security rules as AI makes finding code bugs dangerously easy",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/tech/2026/10/23/bitcoin-will-now-stop-hiding-bugs-an-ai-can-find-in-one-prompt",
+   "paywall": false,
+   "categories": [
+    "crypto_gold"
    ],
    "model": "claude-haiku-4-5"
   },
