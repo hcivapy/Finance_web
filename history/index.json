@@ -1,10 +1,29 @@
 {
- "generated": "2026-10-24T02:30:45Z",
+ "generated": "2026-10-25T02:17:49Z",
  "months": [
   "2026-09",
   "2026-10"
  ],
  "items": [
+  {
+   "id": "d9f8b9f86bfa",
+   "date": "2026-10-25",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "SpaceX ยกเลิกข้อจำกัด Starlink speed ใน Ukraine แต่พบความขัดแย้งเกี่ยวกับการใช้บริการ",
+   "title": "After SpaceX restores high-speed service, Musk claims Ukraine violated Starlink agreement",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/24/ukraine-starlink-starshield-service-restored.html",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
   {
    "id": "d8f1588ea17e",
    "date": "2026-10-24",
