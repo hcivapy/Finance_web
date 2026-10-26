@@ -1,20 +1,20 @@
 {
- "generated": "2026-10-25T02:16:54Z",
+ "generated": "2026-10-26T02:17:27Z",
  "ai": {
   "ok": true,
-  "sent": 63,
-  "labeled": 63,
+  "sent": 40,
+  "labeled": 40,
   "over_cap": 0,
   "model": "claude-haiku-4-5",
-  "input_tokens": 4296,
-  "output_tokens": 714,
-  "cost_usd": 0.00787,
-  "month_to_date_usd": 0.6345
+  "input_tokens": 3563,
+  "output_tokens": 657,
+  "cost_usd": 0.00685,
+  "month_to_date_usd": 0.7335
  },
  "stats": {
-  "new_items": 58,
-  "total_items": 838,
-  "history_added": 1,
+  "new_items": 40,
+  "total_items": 878,
+  "history_added": 3,
   "sources_ok": 67,
   "sources_total": 68,
   "deleted_old_files": []
@@ -25,7 +25,7 @@
    "ok": true,
    "error": null,
    "fetched": 30,
-   "relevant": 7
+   "relevant": 4
   },
   {
    "name": "CNBC Business",
@@ -39,13 +39,13 @@
    "ok": true,
    "error": null,
    "fetched": 30,
-   "relevant": 8
+   "relevant": 2
   },
   {
    "name": "CNBC Investing",
    "ok": true,
    "error": null,
-   "fetched": 26,
+   "fetched": 25,
    "relevant": 0
   },
   {
@@ -74,28 +74,28 @@
    "ok": true,
    "error": null,
    "fetched": 10,
-   "relevant": 1
+   "relevant": 3
   },
   {
    "name": "WSJ Markets",
    "ok": true,
    "error": null,
    "fetched": 60,
-   "relevant": 7
+   "relevant": 3
   },
   {
    "name": "WSJ Business",
    "ok": true,
    "error": null,
    "fetched": 85,
-   "relevant": 3
+   "relevant": 1
   },
   {
    "name": "WSJ Tech",
    "ok": true,
    "error": null,
    "fetched": 40,
-   "relevant": 2
+   "relevant": 1
   },
   {
    "name": "Bloomberg Markets",
@@ -108,22 +108,22 @@
    "name": "Bloomberg Technology",
    "ok": true,
    "error": null,
-   "fetched": 8,
-   "relevant": 1
+   "fetched": 16,
+   "relevant": 2
   },
   {
    "name": "FT Markets",
    "ok": true,
    "error": null,
    "fetched": 25,
-   "relevant": 5
+   "relevant": 3
   },
   {
    "name": "FT Companies",
    "ok": true,
    "error": null,
    "fetched": 25,
-   "relevant": 2
+   "relevant": 0
   },
   {
    "name": "BBC Business",
@@ -136,15 +136,15 @@
    "name": "Guardian Business",
    "ok": true,
    "error": null,
-   "fetched": 35,
-   "relevant": 2
+   "fetched": 39,
+   "relevant": 4
   },
   {
    "name": "Seeking Alpha Market Currents",
    "ok": true,
    "error": null,
    "fetched": 7,
-   "relevant": 2
+   "relevant": 0
   },
   {
    "name": "Federal Reserve (Monetary Policy)",
@@ -179,7 +179,7 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "relevant": 2
+   "relevant": 0
   },
   {
    "name": "TechCrunch",
@@ -200,7 +200,7 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "relevant": 1
+   "relevant": 0
   },
   {
    "name": "NVIDIA Newsroom",
@@ -221,14 +221,14 @@
    "ok": true,
    "error": null,
    "fetched": 10,
-   "relevant": 1
+   "relevant": 0
   },
   {
    "name": "Amazon News",
    "ok": true,
    "error": null,
    "fetched": 10,
-   "relevant": 2
+   "relevant": 0
   },
   {
    "name": "Salesforce News",
@@ -242,167 +242,167 @@
    "ok": true,
    "error": null,
    "fetched": 25,
-   "relevant": 9
+   "relevant": 3
   },
   {
    "name": "The Block",
    "ok": true,
    "error": null,
    "fetched": 19,
-   "relevant": 3
+   "relevant": 1
   },
   {
    "name": "Decrypt",
    "ok": true,
    "error": null,
-   "fetched": 40,
-   "relevant": 3
+   "fetched": 60,
+   "relevant": 1
   },
   {
    "name": "Cointelegraph",
    "ok": true,
    "error": null,
    "fetched": 30,
-   "relevant": 5
+   "relevant": 1
   },
   {
    "name": "Mining.com (Gold)",
    "ok": true,
    "error": null,
    "fetched": 36,
-   "relevant": 5
+   "relevant": 1
   },
   {
    "name": "Reuters (Fed)",
    "ok": true,
    "error": null,
-   "fetched": 100,
-   "relevant": 5
+   "fetched": 42,
+   "relevant": 1
   },
   {
    "name": "Reuters (ทองคำ)",
    "ok": true,
    "error": null,
    "fetched": 100,
-   "relevant": 1
+   "relevant": 0
   },
   {
    "name": "Reuters (Bitcoin)",
    "ok": true,
    "error": null,
-   "fetched": 6,
+   "fetched": 4,
    "relevant": 0
   },
   {
    "name": "Kitco (ทองคำ)",
    "ok": true,
    "error": null,
-   "fetched": 63,
-   "relevant": 11
+   "fetched": 11,
+   "relevant": 0
   },
   {
    "name": "AP (ภาพรวมตลาด)",
    "ok": true,
    "error": null,
-   "fetched": 45,
-   "relevant": 1
+   "fetched": 10,
+   "relevant": 0
   },
   {
    "name": "Google News: AMD",
    "ok": true,
    "error": null,
    "fetched": 100,
-   "relevant": 1
+   "relevant": 0
   },
   {
    "name": "Google News: AMZN",
    "ok": true,
    "error": null,
    "fetched": 100,
-   "relevant": 5
+   "relevant": 4
   },
   {
    "name": "Google News: ASML",
    "ok": true,
    "error": null,
-   "fetched": 100,
+   "fetched": 32,
    "relevant": 0
   },
   {
    "name": "Google News: AVGO",
    "ok": true,
    "error": null,
-   "fetched": 71,
+   "fetched": 48,
    "relevant": 0
   },
   {
    "name": "Google News: CRM",
    "ok": true,
    "error": null,
-   "fetched": 84,
+   "fetched": 52,
    "relevant": 0
   },
   {
    "name": "Google News: GEV",
    "ok": true,
    "error": null,
-   "fetched": 31,
-   "relevant": 0
+   "fetched": 33,
+   "relevant": 1
   },
   {
    "name": "Google News: GOOG",
    "ok": true,
    "error": null,
    "fetched": 100,
-   "relevant": 5
+   "relevant": 6
   },
   {
    "name": "Google News: META",
    "ok": true,
    "error": null,
    "fetched": 100,
-   "relevant": 18
+   "relevant": 6
   },
   {
    "name": "Google News: MSFT",
    "ok": true,
    "error": null,
    "fetched": 100,
-   "relevant": 4
+   "relevant": 3
   },
   {
    "name": "Google News: MU",
    "ok": true,
    "error": null,
-   "fetched": 100,
-   "relevant": 1
+   "fetched": 85,
+   "relevant": 0
   },
   {
    "name": "Google News: NOW",
    "ok": true,
    "error": null,
-   "fetched": 41,
-   "relevant": 1
+   "fetched": 34,
+   "relevant": 0
   },
   {
    "name": "Google News: NVDA",
    "ok": true,
    "error": null,
    "fetched": 100,
-   "relevant": 10
+   "relevant": 2
   },
   {
    "name": "Google News: OUST",
    "ok": true,
    "error": null,
-   "fetched": 49,
+   "fetched": 41,
    "relevant": 1
   },
   {
    "name": "Google News: SMR",
    "ok": true,
    "error": null,
-   "fetched": 10,
+   "fetched": 11,
    "relevant": 0
   },
   {
@@ -410,13 +410,13 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "relevant": 21
+   "relevant": 14
   },
   {
    "name": "Google News: TSM",
    "ok": true,
    "error": null,
-   "fetched": 79,
+   "fetched": 48,
    "relevant": 0
   },
   {
@@ -424,35 +424,35 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "relevant": 1
+   "relevant": 0
   },
   {
    "name": "Google News: 6981",
    "ok": true,
    "error": null,
-   "fetched": 8,
-   "relevant": 7
+   "fetched": 9,
+   "relevant": 2
   },
   {
    "name": "Google News: TYOYY",
    "ok": true,
    "error": null,
-   "fetched": 7,
-   "relevant": 2
+   "fetched": 2,
+   "relevant": 0
   },
   {
    "name": "Google News: RYCEY",
    "ok": true,
    "error": null,
-   "fetched": 76,
-   "relevant": 2
+   "fetched": 46,
+   "relevant": 0
   },
   {
    "name": "Reuters: AMD,AMZN,ASML",
    "ok": true,
    "error": null,
-   "fetched": 100,
-   "relevant": 11
+   "fetched": 43,
+   "relevant": 2
   },
   {
    "name": "Reuters: AVGO,CRM,GEV",
@@ -465,36 +465,36 @@
    "name": "Reuters: GOOG,META,MSFT",
    "ok": true,
    "error": null,
-   "fetched": 100,
-   "relevant": 11
+   "fetched": 70,
+   "relevant": 2
   },
   {
    "name": "Reuters: MU,NOW,NVDA",
    "ok": true,
    "error": null,
-   "fetched": 71,
-   "relevant": 6
+   "fetched": 26,
+   "relevant": 2
   },
   {
    "name": "Reuters: OUST,SMR,SPCX",
    "ok": true,
    "error": null,
-   "fetched": 99,
-   "relevant": 16
+   "fetched": 77,
+   "relevant": 5
   },
   {
    "name": "Reuters: TSM,6758,6981",
    "ok": true,
    "error": null,
-   "fetched": 6,
+   "fetched": 13,
    "relevant": 0
   },
   {
    "name": "Reuters: TYOYY,RYCEY",
    "ok": true,
    "error": null,
-   "fetched": 3,
-   "relevant": 1
+   "fetched": 0,
+   "relevant": 0
   }
  ],
  "categories": {
@@ -506,6 +506,822 @@
   "crypto_gold": "BTC & ทองคำ"
  },
  "items": [
+  {
+   "id": "37f19ae3359c",
+   "title": "Musk says SpaceX landed a $40 billion debt deal — and forecasts doom for some AI rivals",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZDNxMmp1ajNLdXJnOGRDbVlpamxIUUNnU29YUEZaNnFoVmxRUzRqTFVZcVVUSDhuMGxnN08wcXhzNVg3ekFRbXZxMERjaHNlX1F2Z3RhSWVBclFadmt4a1FEc0dNZFBqZG5JQ2JHd0o4MExXN252VDdtdkdpYUw2ZVRwbk9pU3c1eWNKRk5UdThyeWlneEdiNU5OakxwXzB3Qlg3SWQzLUdJYVBsZkUtYXd0TW1mb1ZaMmljWXNYU0VyTDBzU3c?oc=5",
+   "source": "MarketWatch",
+   "paywall": true,
+   "published": "2026-10-26T02:04:20Z",
+   "first_seen": "2026-10-26T02:17:27Z",
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "tickers": [
+    "SPCX"
+   ],
+   "also": [],
+   "ai": {
+    "label": "fundamental",
+    "tickers": [
+     "SPCX"
+    ],
+    "direction": "positive",
+    "impact_area": "other",
+    "importance": "high",
+    "reason": "SpaceX ปิดดีล debt $40 billion สำหรับ GPU purchases เพิ่มบัญชี balance sheet และเตรียม AI cloud infrastructure",
+    "model": "claude-haiku-4-5",
+    "same_event_as": "50b2eabb1e24"
+   }
+  },
+  {
+   "id": "13ba7c6c3ad6",
+   "title": "Amazon, Microsoft earnings key to gauging AI investment returns: CIO",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNnBqaGhoTEw1c2RwcDNjblZ1ZW5xaHFaWlI3YzAzZWpDN2VJbXM2MTRKcXZSWkMtcWZ6bFhNRHo4Rmt0bkVxTE1kaGxUQmdpVTJNRld1MlYtOVlJdTQ1X0FjUE9POGNOeXBOLXdKaDk4c0RoaldzeVJWa0phWXNLZnpUVzhnbndHUUVSdENnX2lLc1drZjl6WVlxOU1RWDBQT2RzeXNLU0dhdnh4LXc?oc=5",
+   "source": "CNBC",
+   "paywall": false,
+   "published": "2026-10-26T01:57:46Z",
+   "first_seen": "2026-10-26T02:17:27Z",
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "tickers": [
+    "AMZN",
+    "MSFT"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "ef6474178670",
+   "title": "Oil prices, Fed policy decision to steer rupee, bonds this week",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPelJyN3JpclF1bWk1YzFhM1prRER2SmsyZ0tLbEYyVnZxb0JhbV9sVEplUzhvbnFydkUtdURhektCU2Z1a3VNVk8xaGRBZXZSanpsYWkzMkh1RDBpQktlR25CeEZabmZLWTdfN0QwYUZWQjQ2VmVGdENPSm04Z1BwUF83am40bVlTYjVjV0REZWdUS3E3cUNLaFZCaEFoQzhBemhoRkFxa3hSUQ?oc=5",
+   "source": "Reuters",
+   "paywall": false,
+   "published": "2026-10-26T01:31:00Z",
+   "first_seen": "2026-10-26T02:17:27Z",
+   "categories": [
+    "fed"
+   ],
+   "tickers": [],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "d1e6f4aeaf8f",
+   "title": "Asian Currencies Consolidate; Fed Meet in Focus",
+   "summary": "Asian currencies consolidated against the dollar in early trade. Investors are waiting for the Federal Reserve’s interest-rate decision due later this week.",
+   "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-fed-meet-in-focus-c2958e7e?mod=rss_markets_main",
+   "source": "WSJ",
+   "paywall": true,
+   "published": "2026-10-26T01:29:00Z",
+   "first_seen": "2026-10-26T02:17:27Z",
+   "categories": [
+    "fed"
+   ],
+   "tickers": [],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "0ba42ef2289e",
+   "title": "Ingenia Removes Warburg Pincus From Data Room Following Rival $1.55B Offer",
+   "summary": "The retirement-village operator revoked Warburg Pincus’s data-room access after it received a US$1.55 billion takeover offer from AVID Property Group.",
+   "link": "https://www.wsj.com/business/deals/ingenia-removes-warburg-pincus-from-data-room-following-rival-1-55b-offer-47c8f800?mod=pls_whats_news_us_business_f",
+   "source": "WSJ",
+   "paywall": true,
+   "published": "2026-10-26T00:41:00Z",
+   "first_seen": "2026-10-26T02:17:27Z",
+   "categories": [
+    "deals"
+   ],
+   "tickers": [],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "ecd1dd7a74fd",
+   "title": "SpaceX closes $40 billion debt deal for AI chips, Elon Musk says",
+   "summary": "Elon Musk said in an X post that SpaceX has closed $40 billion in debt financing to purchase GPUs.",
+   "link": "https://www.cnbc.com/2026/10/26/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-.html",
+   "source": "CNBC",
+   "paywall": false,
+   "published": "2026-10-26T00:37:51Z",
+   "first_seen": "2026-10-26T02:17:27Z",
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "tickers": [
+    "SPCX"
+   ],
+   "also": [
+    {
+     "source": "Bloomberg",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbVAyZmZTRzViZmxwNzRUSGd5MXpWNlRFLWlzT3RBMWx2cUhhaFhXUGRHeHRjam9LUldoZUpJNnVyTk9JcGdzVC1FTzNhQWVnWUJlV2hEZ1lFRzR6aE1TWXFiUG1tYWF1c3FjX00tX3FoMXk5bUtrNm1Sd2k3QTd1b0dYUUlhbHBJRDRabHg5VmdyLTV5TXRtZ1ZMWmJIeF9iYWh5T1dqMUZYbkF0ZlVBaWtn?oc=5",
+     "paywall": true
+    }
+   ],
+   "ai": {
+    "label": "fundamental",
+    "tickers": [
+     "SPCX"
+    ],
+    "direction": "positive",
+    "impact_area": "other",
+    "importance": "high",
+    "reason": "SpaceX ปิดดีล debt $40 billion สำหรับซื้อ GPUs ลดต้นทุนการเข้าถึง AI infrastructure และสนับสนุนการขยายตัวตามแผน",
+    "model": "claude-haiku-4-5",
+    "same_event_as": "50b2eabb1e24"
+   }
+  },
+  {
+   "id": "814602bf81c9",
+   "title": "Ingenia Soars on Fresh $1.6 Billion Takeover Bid From AVID",
+   "summary": "Ingenia Communities Group shares soared following a takeover bid from AVID Property Group Holdings, as a bidding war ramps up for the owner of Australian retirement living accommodation.",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-26/ingenia-soars-on-fresh-1-6-billion-takeover-bid-from-avid",
+   "source": "Bloomberg",
+   "paywall": true,
+   "published": "2026-10-26T00:14:27Z",
+   "first_seen": "2026-10-26T02:17:27Z",
+   "categories": [
+    "deals"
+   ],
+   "tickers": [],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "093f1c1237c8",
+   "title": "Gold Steadies After Weekly Drop as Focus Shifts to Fed Meeting",
+   "summary": "Gold steadied after its biggest weekly drop since June, with traders weighing stubbornly high energy prices ahead of the Federal Reserve’s upcoming policy meeting.",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-25/gold-steadies-after-weekly-drop-as-focus-shifts-to-fed-meeting",
+   "source": "Bloomberg",
+   "paywall": true,
+   "published": "2026-10-25T23:23:38Z",
+   "first_seen": "2026-10-26T02:17:27Z",
+   "categories": [
+    "fed",
+    "crypto_gold"
+   ],
+   "tickers": [
+    "XAUUSD"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "524f5bb6bfc1",
+   "title": "AI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest",
+   "summary": "Similar to the Hugging Face hack, Ethereum researchers have set up an AI Agent message board to help rescue the Glamsterdam fork. ‘Steal My Bitcoin’ site successfully hacked.",
+   "link": "https://cointelegraph.com/magazine/ai-agents-help-rescue-eths-glamsterdam-fork-steal-my-bitcoin-site-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "paywall": false,
+   "published": "2026-10-25T22:48:40Z",
+   "first_seen": "2026-10-26T02:17:27Z",
+   "categories": [
+    "crypto_gold"
+   ],
+   "tickers": [
+    "BTCUSD"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "7cfb7ebb9727",
+   "title": "Through smoke and along rivers, Amazon residents make the journey to vote",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTDJiY0lKQ3JsbWVidVF6MWM5LUtHdnlEUEhzVHdfb1g3eHZlbUlQUjRxaXo2bURFN0RpMGlBS05HRG5RVlB4MXZ6SkNKdTZnVEpqRzBPSHlQQkdDLTZicUcxMENud3BiNWcwMzI2alNYX0RVT21VbmZTZzZIbG1FTjdkLTR0NEJNQktNbU0tcFBueTlfekdBQ3ppbnJtWW9kb0Ftb1VCVG9rYlpuNC15aW1KS3VLaWh0cnFPTTJhUVRzZ2xMWHhUbW9R?oc=5",
+   "source": "AP News",
+   "paywall": false,
+   "published": "2026-10-25T20:23:00Z",
+   "first_seen": "2026-10-26T02:17:27Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "AMZN"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "62c18d90fe4c",
+   "title": "Amazon residents battle wildfire smoke to vote",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5uSnpPM0tqRE5NUjFCYTRqRUlnazBFYXE2Y3ZSTkZNOUZqUm1KQ294Slo4VFEwSm41dUVzVmpXMEs4czVuU0d1T1RlNzA1RUl3dXh1enprWk4?oc=5",
+   "source": "BBC",
+   "paywall": false,
+   "published": "2026-10-25T20:08:56Z",
+   "first_seen": "2026-10-26T02:17:27Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "AMZN"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "50b2eabb1e24",
+   "title": "Musk says SpaceX raised $40 billion in debt deal, predicts neocloud shakeout",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUXFtN2R4aGlycUhma055anhqaWRzSVFqRHg3NDJHQXpJb1ZXZGtqZF8wSENhc2xNTjlBNmJyMWdzaWdQZmU2d0NvWDJ1VzI4RlVCUG1ERDFnWlJpUmlEdTJDZUt2ckM1bjBleS11a3ZQaDF1QjByVzNYV1Y4YV9CWEFOYWFVaHhhM1l3d29kQm55MjFUUTlZWm9mVnlnamJBUWg3NWVR?oc=5",
+   "source": "Reuters",
+   "paywall": false,
+   "published": "2026-10-25T20:05:00Z",
+   "first_seen": "2026-10-26T02:17:27Z",
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "tickers": [
+    "SPCX"
+   ],
+   "also": [],
+   "ai": {
+    "label": "fundamental",
+    "tickers": [
+     "SPCX"
+    ],
+    "direction": "positive",
+    "impact_area": "other",
+    "importance": "high",
+    "reason": "SpaceX ปิดดีล debt $40 billion สำหรับซื้อ AI chips เสริมขีดความสามารถการคำนวณและปั้นฐานเงินทุนตัวบริษัท",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "37b37086dd2b",
+   "title": "Bon Secours nears $6 billion takeover of Bain-backed Surgery Partners, FT reports",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZHhFbmVwamhSR2FoM1lWYmlObXluV0FYcEEtaXV1MUEzaVB0UkI3bnVvYkZlczliTUdfMVhJanJxdGI2UzZrdjQzVGN5aDVZdWhxblJRdHNMblF3SGNyX1BxODFESFUwMkVnb0p4dk00emFsNE5YclRuTlRYRVM4dzJLZHNLU28tZnAxdGoyVi1YLUVHZ29TaFhDdFRtLTBqYkl3VTk4TGtCUzR2X1kxZU5ZVHdSZFpjLVRDMGxlTFBqUGhIcFpjektuQnlfcEZL?oc=5",
+   "source": "Reuters",
+   "paywall": false,
+   "published": "2026-10-25T19:55:27Z",
+   "first_seen": "2026-10-26T02:17:27Z",
+   "categories": [
+    "deals"
+   ],
+   "tickers": [],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "6e38eec5450d",
+   "title": "Adam Mosseri admits Instagram on the iPhone Duo needs some work.",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVXBLd0tjVk5qRi1vZzFpX0VZcjNwRkNIMGduMk9ibGlXLTZSNjdlamVZLVltRlpqbXR0ZG5vc1hvNkZVVlZyZ2hzbk1JTV9mYU5BVlF1QnZYLWw4MG94azBYZFFTN0tLOEVHdElkTmZDeHpZbWVtTzJCOTNyQk1sMjlzMUdDVlVPUTN2dnFSalN5Tnh5MDlxQTlvOHJVQmlVcGRN?oc=5",
+   "source": "The Verge",
+   "paywall": false,
+   "published": "2026-10-25T19:34:19Z",
+   "first_seen": "2026-10-26T02:17:27Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "META"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "acebf6c21b21",
+   "title": "The Fed, Inflation, Verizon, Boeing, Alphabet, GE Vernova, Amazon, and Many More Stocks to Watch This Week",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcG9zX0U4WkRTYzZlblB6VEU1S3RxUTd0T0d0dHFTWmF6VHlxUjVHMEZDZk50SUJSSnZ1bFBNNkFnSmc2d1VmaUQ3MlZNZmJFN2xadWlrREExdklYMElpTXlkcllvT3JYNkMyRlNFbnRwRmFSY0UwY0REUkw4N0d2T29pSnB4ekpiWFA4Wi1ETzZZWnppN1hqa0JURGtSSm5ZTGFv?oc=5",
+   "source": "Barron's",
+   "paywall": true,
+   "published": "2026-10-25T19:12:00Z",
+   "first_seen": "2026-10-26T02:17:27Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "AMZN",
+    "GEV",
+    "GOOG"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "49dcf7f32cba",
+   "title": "Did Elon Musk Just Admit to Slowing Starlink in Ukraine?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYTZ4ZWxxRXFQdFlSNVdxYk5FWmpSRjJaazZuMzJ5VDA1Z290Q1JqNEJrUVNVcmJRcHR1ZVlqRVJ6THJHcmhCT0RIcXI0TVpta2FWazlwZGphaUFHLVZ5ak0xQlZoV3RRZDZzdkV1UmpCMTZNVnRCMzZ3VXlneDV0NFB2cjhwTXJnNUE?oc=5",
+   "source": "Barron's",
+   "paywall": true,
+   "published": "2026-10-25T18:16:00Z",
+   "first_seen": "2026-10-26T02:17:27Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "SPCX"
+   ],
+   "also": [],
+   "ai": {
+    "label": "fundamental",
+    "tickers": [
+     "SPCX"
+    ],
+    "direction": "negative",
+    "impact_area": "revenue",
+    "importance": "medium",
+    "reason": "Musk ปฏิเสธข้อกล่าวหาว่าชะลอ Starlink ใน Ukraine แต่ความสำเร็จทางการสัญญาณในสงคราม russia อยู่ในความเสี่ยง",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "5cfa4239447b",
+   "title": "Metals traders reap bonanza with another year of record profits",
+   "summary": "Metals including copper, gold and silver have soared to record highs, while the market for copper concentrate has been tight.",
+   "link": "https://www.mining.com/web/metals-traders-reap-bonanza-with-another-year-of-record-profits/",
+   "source": "MINING.COM",
+   "paywall": false,
+   "published": "2026-10-25T18:08:07Z",
+   "first_seen": "2026-10-26T02:17:27Z",
+   "categories": [
+    "crypto_gold"
+   ],
+   "tickers": [
+    "XAUUSD"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "12138da86d2a",
+   "title": "Ukraine disputes Elon Musk’s claim that its military violated Starlink’s terms of service",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZ1drdjlPWDVYNS1BaWpPZ2hYZDRSMjlIbGt1ZXNUQmgxdmk0cDJMalJqa05RWERiakhXSXVsWE5COHZMWEdJM0pWZFdwYzJ5WHdZMUh3Q0E3RW1xVmMwczBFeWlCTlRtUU1MWGVjYVQyOVRmQWtycUU5N2J1enVTa29kS2tSZUNFY25GWGpZSmN2aHhPMWNZNkxpb2NULXFkQ3BINlo2eE5LY05ob09oVHFXcmUwZw?oc=5",
+   "source": "AP News",
+   "paywall": false,
+   "published": "2026-10-25T17:14:00Z",
+   "first_seen": "2026-10-26T02:17:27Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "SPCX"
+   ],
+   "also": [
+    {
+     "source": "CNBC",
+     "link": "https://www.cnbc.com/2026/10/25/ukraine-musk-starlink-terms-dispute.html",
+     "paywall": false
+    }
+   ],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "e71f126dab4a",
+   "title": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I’m crazy. Who’s right?",
+   "summary": "“I don’t want to enter retirement owing six figures when we have the cash to clear it.”",
+   "link": "https://www.marketwatch.com/story/we-have-a-300-000-mortgage-with-a-2-75-interest-rate-i-want-to-pay-it-off-my-husband-says-im-crazy-whos-right-4ed15226?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "paywall": true,
+   "published": "2026-10-25T17:00:00Z",
+   "first_seen": "2026-10-26T02:17:27Z",
+   "categories": [
+    "fed"
+   ],
+   "tickers": [],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "5b6a514c942f",
+   "title": "Musk’s Starlink Explanation Challenged by Texas GOP Lawmaker Dan Crenshaw",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORkx3V01SN0Q0b3Z2dDBsWGdJeUgxNk5LSXl0YzUyZmNnSG5NQW9MSlR2cnZuVnk5QnlzM0lMVWQydTBFcjFlaVp0QWUwM3FvTl9TX1hITDdHa2FrN0JiRXdGdjM0VzFxTXNNcXpScFlfOFBWWk9jUTdQbnpubmx6VV9lTGphdVI4Q0x3NTdGMk1hSC1TWEN1d3h4VHpJbU0xTnpIMTZBUWdGQk5oRmtLVA?oc=5",
+   "source": "Bloomberg",
+   "paywall": true,
+   "published": "2026-10-25T16:58:27Z",
+   "first_seen": "2026-10-26T02:17:27Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "SPCX"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "129cda56f1a6",
+   "title": "Now you can watch Instagram Reels on your Apple TV",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVC11cmVGLTJicE1nc0lTRWl4SUp6U25IYkluYjJseV9UUlB3VU5NWUpSYzZHQkVfaUdZbGdVV3JRVEk2ZlJQUVVaREdwNENLT2Z1aW5keTZfcEZ6ZEhNV0xsekRrWVV1by00V0xWUndLMmpwbWV4LUVPcG56b0VGcXBmYmRFczBnTjlMamdQbC1UZw?oc=5",
+   "source": "The Verge",
+   "paywall": false,
+   "published": "2026-10-25T16:20:17Z",
+   "first_seen": "2026-10-26T02:17:27Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "META"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "5a8f46933e66",
+   "title": "Meta’s Unending AI Spending",
+   "summary": "Plus, how America’s cheapest EV fared on a Deep South road trip, Demis Hassabis’s quest to solve the world’s mysteries with AI, our iPhone Duo review and more.",
+   "link": "https://www.wsj.com/tech/ai/metas-unending-ai-spending-34e53011?mod=rss_Technology",
+   "source": "WSJ",
+   "paywall": true,
+   "published": "2026-10-25T14:55:00Z",
+   "first_seen": "2026-10-26T02:17:27Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "META"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "7495944f2b20",
+   "title": "Facebook cofounder says being a CEO was ‘exhausting’—like 82% of bosses he never intended to manage",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPY1NlT0FjMkt2UmJqamJsZ3dpajFLQ19HVUhUbHJOSlVfU21QVk8xSC1LSWpoLVR6UWhocHM1OEJucm4zXzlyZ1c2RGZ4YUdZUnJFbHlheHZWTEpwa1RvTWxVNUQwMlBpTXRibGNlaEFhNGZlbE9pNnBTSjZMLW45b3JPTjJJYmxJMlczekZXbG5EcFRJcVJXajVzeUlFT0tJQUxQb0VHTHNvUlc2RjktOW5nLTFfZ2VOQlAxS1FjMkd1OEtTdG53?oc=5",
+   "source": "Fortune",
+   "paywall": true,
+   "published": "2026-10-25T14:25:00Z",
+   "first_seen": "2026-10-26T02:17:27Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "META"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "ebb1924c15e2",
+   "title": "Inside The Two Argentinas Under Javier Milei",
+   "summary": "President Javier Milei has brought inflation down and opened Argentina to more investment, helping fuel a boom in energy and other export industries. But manufacturing, retail and small businesses are struggling, leaving many Argentines feeling that the recovery is passing them…",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-25/inside-the-two-argentinas-under-javier-milei-video",
+   "source": "Bloomberg",
+   "paywall": true,
+   "published": "2026-10-25T14:04:15Z",
+   "first_seen": "2026-10-26T02:17:27Z",
+   "categories": [
+    "fed"
+   ],
+   "tickers": [],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "da61fb33d7aa",
+   "title": "Bitcoin ETFs Snap Two-Week Losing Streak Despite Late-Week Slide",
+   "summary": "Spot Bitcoin ETFs finished the week with about $301 million in net inflows, ending a two-week losing streak, even as two straight days of outflows kept October in the red.",
+   "link": "https://decrypt.co/381777/bitcoin-etfs-snap-two-week-losing-streak-despite-late-week-slide",
+   "source": "Decrypt",
+   "paywall": false,
+   "published": "2026-10-25T14:01:03Z",
+   "first_seen": "2026-10-26T02:17:27Z",
+   "categories": [
+    "crypto_gold"
+   ],
+   "tickers": [
+    "BTCUSD"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "1e8234ff01a6",
+   "title": "More than a third of S&P 500 companies are about to report earnings as market confidence cracks",
+   "summary": "“With cautious to negative market sentiment, it could be a tricky week,” one strategist says.",
+   "link": "https://www.marketwatch.com/story/more-than-a-third-of-s-p-500-companies-are-about-to-report-earnings-as-market-confidence-cracks-03b7a8f1?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "paywall": true,
+   "published": "2026-10-25T14:00:00Z",
+   "first_seen": "2026-10-26T02:17:27Z",
+   "categories": [
+    "market"
+   ],
+   "tickers": [],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "2ee9c068a7f9",
+   "title": "Musk accuses Ukraine of violating Starlink’s terms of service following dispute over coverage",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcVpMQlNuWnNJS0JyQ0IxbElTUUxaa2NldEVWNDhaYVBiZ28yWURhcEl3aGd5NUpzVElwN1VDaF9KQUFTSTZkNldnSW1YTk5oVTM5X1ZCTUU3dXdEUnJuWUFidWg4WHJqRjlXRlV1M0pZNndUenc2TmJid1FvLTJSVm42RUI?oc=5",
+   "source": "CNN",
+   "paywall": false,
+   "published": "2026-10-25T13:34:23Z",
+   "first_seen": "2026-10-26T02:17:27Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "SPCX"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "48637020c6d4",
+   "title": "US military gives Elon Musk’s SpaceX access to sensitive tracking data",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQa1dzVjhxa0VTU2tZZ3MxbjVHM2std2Z3MkVNOGxvRlE5WVdXem02eWs5amhZdHNPXzg0d1EtbVl6WlBXNGFTem9ydWVobkJPMmpMVVNvdy1YQW9nRGZuR0JHaElvS094RERfZVZ5OXJvdVB4b0hCdHVRZnFUOWUyYTN0QVlpTVlWU0Zhd1B3?oc=5",
+   "source": "The Guardian",
+   "paywall": false,
+   "published": "2026-10-25T12:01:00Z",
+   "first_seen": "2026-10-26T02:17:27Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "SPCX"
+   ],
+   "also": [],
+   "ai": {
+    "label": "fundamental",
+    "tickers": [
+     "SPCX"
+    ],
+    "direction": "positive",
+    "impact_area": "competitive_advantage",
+    "importance": "medium",
+    "reason": "US military อนุญาตให้ SpaceX เข้าถึง sensitive tracking data สนับสนุนตำแหน่งเชิงกลยุทธ์และแหล่งรายได้ government contracts",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "8e854327faef",
+   "title": "Ray-Ban Meta Audio AI Glasses Cost More While Ditching a Key Feature: Review",
+   "summary": "Meta Platforms Inc.’s $349-and-up Ray-Ban Meta Audio, announced last month, are an odd proposition. On the one hand, they’re more expensive than some of the company’s entry-level models and yet they do many of the same things: play music, make calls, answer questions through…",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-25/ray-ban-meta-audio-ai-glasses-cost-more-while-ditching-a-key-feature-review",
+   "source": "Bloomberg",
+   "paywall": true,
+   "published": "2026-10-25T12:00:03Z",
+   "first_seen": "2026-10-26T02:17:27Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "META"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "facfabbc10dd",
+   "title": "Meta’s Pricier Camera-Free Ray-Bans Won’t Make Sense to Techies",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRzhaai1Ldl9hQS1Wc19WejdmMjVLRkpBMkNNWnhrODdNVjlOWXdaVjZFZUUtSWNOYkFGNk0tYVZ6Y2RWQnBLQlFPd05jSUpqdWV3bGhnOVBscTFiSGtiZkRUY0RtRGkzanBNVHcxMkNXYmVqaVE0bktaMHZiMDlUSTdmekI2SGV6S2FNMDhMTHRJN3RIU0pJSEs2Mld3VllEb0syUWQ2OXgxUzBRZDdVQ3dTMXlUNXVkRTJXZVd0ejRpN05n?oc=5",
+   "source": "Bloomberg",
+   "paywall": true,
+   "published": "2026-10-25T12:00:03Z",
+   "first_seen": "2026-10-26T02:17:27Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "META"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "6b5ae52d67be",
+   "title": "Will the Fed drop any hints on rate rises?",
+   "summary": "Market Questions is the FT’s guide to the week ahead",
+   "link": "https://www.ft.com/content/181316cc-0f4c-4328-b990-ad0d43ce424c?syn-25a6b1a6=1",
+   "source": "Financial Times",
+   "paywall": true,
+   "published": "2026-10-25T12:00:03Z",
+   "first_seen": "2026-10-26T02:17:27Z",
+   "categories": [
+    "fed"
+   ],
+   "tickers": [],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "3ee06560ce2b",
+   "title": "Google’s AI search changes upended online publishing",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RUXp0c3AwbVdfR25iYUthZmNFdFRqSFUxVTgyaERYX0tZbWZVUERjem8yY2tNSU5OeUp6NURuWUpuSmc4Ty1nalktYzdYN1JKYXdvdmgzYmhYX3JQTXZGYnltNkktZnliZzQyR1JXclBDZk5Ock1TVklBQVNNemM?oc=5",
+   "source": "The Verge",
+   "paywall": false,
+   "published": "2026-10-25T12:00:00Z",
+   "first_seen": "2026-10-26T02:17:27Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "GOOG"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "cf24118638ad",
+   "title": "One of Google DeepMind's top execs says lifelong learners will have an edge in the AI workplace",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxON2tEcWk4TXRUN3NDNGl3TFZRd1RldklrN2hwUko3ckQtSFRyUEFKcDJkN1dycm4waVNBU0xnTU9MRTFsaGpTdXlJeXRmRGdReWlWVGYxMHRULUFaN3pKMFA3WWt3STRoazNUUGZyMEZFSFpLZjhhT2dNN0VRSzQ0Y21zcDVaajNzc3R4bE5mcldXQQ?oc=5",
+   "source": "Business Insider",
+   "paywall": true,
+   "published": "2026-10-25T12:00:00Z",
+   "first_seen": "2026-10-26T02:17:27Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "GOOG"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "e3e83a180aea",
+   "title": "Earnings playbook: Alphabet, Microsoft, Amazon and more report this week. Here's what to expect",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQb0l5dnFfdUxybkFnYjFMWUtiZFRVWVNieXI2bEJhSi1ZUDhfQmJSa3lDekl5bkQwcDRZTWdhQUF4cnIxc2U5aERBcmk3OTgyMUwtOWxYVTZ0TjhfcllPalFSLV9zTUVueTlhLUZPYThDdzlaeTVhR2QxQkNtOXJ6REpB?oc=5",
+   "source": "CNBC",
+   "paywall": false,
+   "published": "2026-10-25T11:54:08Z",
+   "first_seen": "2026-10-26T02:17:27Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "AMZN",
+    "GOOG",
+    "MSFT"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "96d5d1a4bdfd",
+   "title": "SpaceX coverage network designs draw Wall Street's eye. Here's what analysts think",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBQZzdRSnhOUDBpVUt5QTN1dU8wand5RTBxYjRrNWltMzMzNWt4SV8tUlA0bXpVUmU4eGhQS3FXd1VsYTRGSlI3RXVRMG1vMExPeEFiQWw3X0NqNXlKWkFzMl9qMVZzSDl0VlQxVGhYeUVPNV9POHBEUlE4MA?oc=5",
+   "source": "CNBC",
+   "paywall": false,
+   "published": "2026-10-25T11:50:03Z",
+   "first_seen": "2026-10-26T02:17:27Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "SPCX"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "c057bef627cd",
+   "title": "‘You can’t bring in robots’: the leather firm handmaking everything from wallets to cigar cases",
+   "summary": "In the third article in a series on high-end British manufacturing, we visit the Ettinger factory in Walsall ‘Our town is making jeans again’: reviving jobs and skills in Wales From feathers to pet portraits, Rolls-Royce rides high on custom craze “It is all down to attention…",
+   "link": "https://www.theguardian.com/business/2026/oct/25/ettinger-leather-handmaking-wallets-cigar-cases-walsall",
+   "source": "The Guardian",
+   "paywall": false,
+   "published": "2026-10-25T08:00:57Z",
+   "first_seen": "2026-10-26T02:17:27Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "RYCEY"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "b9cfa36ccedc",
+   "title": "Mercuria challenging the ‘Dow Jones of shipping’ in court after Hormuz losses",
+   "summary": "Case will test the Baltic Exchange’s decision to keep publishing price estimates for shipping oil through the Strait of Hormuz during the war",
+   "link": "https://www.ft.com/content/eedb7159-65df-45de-91f9-fde8de99e61c?syn-25a6b1a6=1",
+   "source": "Financial Times",
+   "paywall": true,
+   "published": "2026-10-25T05:00:10Z",
+   "first_seen": "2026-10-26T02:17:27Z",
+   "categories": [
+    "market"
+   ],
+   "tickers": [],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
   {
    "id": "e833d5eb64a5",
    "title": "How an Amazon Frontier Town Became a Bolsonaro Stronghold",
@@ -520,6 +1336,28 @@
    ],
    "tickers": [
     "AMZN"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "91214031a528",
+   "title": "Two AI Chipmakers Make Up 34% of America’s Earnings Boom",
+   "summary": "Ten companies—including Nvidia, Micron and other AI giants—account for roughly two-thirds of corporate profit growth.",
+   "link": "https://www.wsj.com/finance/stocks/the-earnings-boom-is-heavily-reliant-on-just-a-handful-of-stocks-21decb53?mod=rss_markets_main",
+   "source": "WSJ",
+   "paywall": true,
+   "published": "2026-10-25T01:00:00Z",
+   "first_seen": "2026-10-26T02:17:27Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "MU",
+    "NVDA"
    ],
    "also": [],
    "ai": {
@@ -767,6 +1605,27 @@
     "reason": "Ukraine ประกาศยกเลิกข้อจำกัด Starlink speed แล้ว",
     "model": "claude-haiku-4-5",
     "same_event_as": "d9f8b9f86bfa"
+   }
+  },
+  {
+   "id": "d83db946931b",
+   "title": "Crypto longs lose $404 million in four hours as bitcoin briefly slips below $80,000",
+   "summary": "Spot bitcoin ETFs lost $773 million on Thursday and Friday after three days of net inflows, per SoSoValue data.",
+   "link": "https://www.theblock.co/news/markets/2026-10-24-crypto-longs-lose-404-million-in-four-hours-as-bitcoin-briefly-slips-below-80000-431608",
+   "source": "The Block",
+   "paywall": false,
+   "published": "2026-10-24T17:44:36Z",
+   "first_seen": "2026-10-26T02:17:27Z",
+   "categories": [
+    "crypto_gold"
+   ],
+   "tickers": [
+    "BTCUSD"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
    }
   },
   {
@@ -1289,6 +2148,25 @@
    "tickers": [
     "SPCX"
    ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "ea1e01c4e440",
+   "title": "‘Disrupter’ exchanges battle for ETFs in challenge to NYSE and Nasdaq",
+   "summary": "Cboe captures nearly half of US listings as intensifying competition reflects rapid growth in derivative-heavy funds",
+   "link": "https://www.ft.com/content/8dd8e115-c45e-4b66-8390-b5eeea4671d5?syn-25a6b1a6=1",
+   "source": "Financial Times",
+   "paywall": true,
+   "published": "2026-10-24T04:00:04Z",
+   "first_seen": "2026-10-26T02:17:27Z",
+   "categories": [
+    "market"
+   ],
+   "tickers": [],
    "also": [],
    "ai": {
     "label": "noise",

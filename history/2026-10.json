@@ -2,6 +2,45 @@
  "month": "2026-10",
  "items": [
   {
+   "id": "50b2eabb1e24",
+   "date": "2026-10-26",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "other",
+   "reason": "SpaceX ปิดดีล debt $40 billion สำหรับซื้อ AI chips เสริมขีดความสามารถการคำนวณและปั้นฐานเงินทุนตัวบริษัท",
+   "title": "Musk says SpaceX raised $40 billion in debt deal, predicts neocloud shakeout",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUXFtN2R4aGlycUhma055anhqaWRzSVFqRHg3NDJHQXpJb1ZXZGtqZF8wSENhc2xNTjlBNmJyMWdzaWdQZmU2d0NvWDJ1VzI4RlVCUG1ERDFnWlJpUmlEdTJDZUt2ckM1bjBleS11a3ZQaDF1QjByVzNYV1Y4YV9CWEFOYWFVaHhhM1l3d29kQm55MjFUUTlZWm9mVnlnamJBUWg3NWVR?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "49dcf7f32cba",
+   "date": "2026-10-26",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Musk ปฏิเสธข้อกล่าวหาว่าชะลอ Starlink ใน Ukraine แต่ความสำเร็จทางการสัญญาณในสงคราม russia อยู่ในความเสี่ยง",
+   "title": "Did Elon Musk Just Admit to Slowing Starlink in Ukraine?",
+   "source": "Barron's",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYTZ4ZWxxRXFQdFlSNVdxYk5FWmpSRjJaazZuMzJ5VDA1Z290Q1JqNEJrUVNVcmJRcHR1ZVlqRVJ6THJHcmhCT0RIcXI0TVpta2FWazlwZGphaUFHLVZ5ak0xQlZoV3RRZDZzdkV1UmpCMTZNVnRCMzZ3VXlneDV0NFB2cjhwTXJnNUE?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
    "id": "d9f8b9f86bfa",
    "date": "2026-10-25",
    "tickers": [
@@ -14,6 +53,25 @@
    "title": "After SpaceX restores high-speed service, Musk claims Ukraine violated Starlink agreement",
    "source": "CNBC",
    "link": "https://www.cnbc.com/2026/10/24/ukraine-starlink-starshield-service-restored.html",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "48637020c6d4",
+   "date": "2026-10-25",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "competitive_advantage",
+   "reason": "US military อนุญาตให้ SpaceX เข้าถึง sensitive tracking data สนับสนุนตำแหน่งเชิงกลยุทธ์และแหล่งรายได้ government contracts",
+   "title": "US military gives Elon Musk’s SpaceX access to sensitive tracking data",
+   "source": "The Guardian",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQa1dzVjhxa0VTU2tZZ3MxbjVHM2std2Z3MkVNOGxvRlE5WVdXem02eWs5amhZdHNPXzg0d1EtbVl6WlBXNGFTem9ydWVobkJPMmpMVVNvdy1YQW9nRGZuR0JHaElvS094RERfZVZ5OXJvdVB4b0hCdHVRZnFUOWUyYTN0QVlpTVlWU0Zhd1B3?oc=5",
    "paywall": false,
    "categories": [
     "watchlist"
