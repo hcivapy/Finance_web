@@ -1,10 +1,88 @@
 {
- "generated": "2026-10-27T02:54:26Z",
+ "generated": "2026-10-28T03:02:33Z",
  "months": [
   "2026-09",
   "2026-10"
  ],
  "items": [
+  {
+   "id": "c750dfb7aff2",
+   "date": "2026-10-28",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "Amazon ได้รับอนุมัติจาก FCC ในการซื้อ Globalstar ในราคา $11.5 billion เพิ่มความสามารถทางการสื่อสาร",
+   "title": "US agency approves Amazon Leo’s $11.5 billion acquisition of Globalstar",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU2pZY3J4T2Fvd0hub09FM2RkaHJQc21pOWRWal80cHpZMXN2RS1La2M2WmpVY1hnbzlnUHNBZG5rQ3hWTFZPdmh0cmFPMHVHV0ttRlhzXzZ2SVdFOTd5ZU42YWFTblZtQnRPQUZNcENPSWJUeEF2TE5JRFFXaUdCRlZmLUFCT1JhT0wxWGpKNlZXYnowUG52dlBqc1JYS2EwcE1PS3gwVzhhYWZ4RkJURTh0LWl6SWxEOVIzT3RXbG1EZw?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "708b8b2ccb3a",
+   "date": "2026-10-28",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "OpenAI วางแผนซื้อ AI chips จาก Google เป็นส่วนของการสร้าง infrastructure",
+   "title": "OpenAI Plans to Buy Google’s Chips as Part of Its AI Build-Out",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-28/openai-plans-to-buy-google-s-chips-as-part-of-its-ai-build-out",
+   "paywall": true,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "430ba87b796d",
+   "date": "2026-10-28",
+   "tickers": [
+    "META"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "Meta เพิ่มการจัดหาเงิน equity offering เป็น $98 billion เพื่อสนับสนุน AI investments",
+   "title": "Watch Meta Boosts Equity Offering to $98 Billion, Raising Its AI Bet",
+   "source": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSGpVbDdveE9rZTlzcmU2bHFlOEZkMEVqbE82R3BHdlVfbzZyZ2hsOVdKUkNhdDRLNHRNR3JCQndVdklxOHpiLUdpLWRJY29KXzF5MzVJRVhXaS1lbUNCeHZ2ckdETnFJcXlSSWtIOGV3YnQ5ZWZsQ3c5bmg0bVBPeHZNVjBGaHM?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "21066a1d2fcd",
+   "date": "2026-10-28",
+   "tickers": [
+    "XAUUSD"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "macro",
+   "reason": "Gold ขึ้นไปเหนือ $4,050 เนื่องจาก market optimism ก่อน Fed decision",
+   "title": "Gold climbs above $4,050 as Wall Street rallies ahead of Fed decision - Kitco PM Report",
+   "source": "Kitco",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcjRRaHpiVklRZWs2dGN4Mlk1SGxlVjR0aW81SGZvR3V4dUpRMW9wTi15cFhZcmVtYUszWTAyY3ZFd1pZQU5vRnNIcm1YOVBxbjlIRWdiNDJkQ202OEJWcGtoQm9SY0w3OW5BeU9iejR2UElrVjB1Yk9VQUVaMzVyd2V6c3FEMHRqN1dyMWpiNldUaW5iWGRMSGgtMjl2aXpuOV9GNzVxNU5zYnFLbnNkSlFCSmdNamM?oc=5",
+   "paywall": false,
+   "categories": [
+    "crypto_gold"
+   ],
+   "model": "claude-haiku-4-5"
+  },
   {
    "id": "71dfb4ba202c",
    "date": "2026-10-27",
@@ -79,6 +157,168 @@
    "paywall": false,
    "categories": [
     "crypto_gold"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "c96dba6bbdc5",
+   "date": "2026-10-27",
+   "tickers": [
+    "GOOG",
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Oracle ขยายข้อตกลงการจัดหา chip กับ Nvidia และเพิ่ม Google TPUs เข้าใน OCI",
+   "title": "Oracle expands chip supply deal with Nvidia, adds Google and Cerebras offerings",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWDJXeTV2b1RmZFlma2hTZktBN0RYbFJKNXhFU1pkN0ZzYjYxYVUtcTgyNFpqcGdQTGxWWFFxTFpHMUtGb0tBOURUcm0ya0RiSXFXMHRmTWZCYnBMeVZTUlRRR3VDZVpuWndJeDhjdTZoSjVOdWtHQjBqLThJUG9aT0l0MkNUWFBRZnhnNG9vampRVXFSTHBvZkpzSVdDZ2JDZm9xdlFvNUp6Rm0xQnBvQUZRcGVPVl9QWHU0?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "759b33d7c75e",
+   "date": "2026-10-27",
+   "tickers": [
+    "META",
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "Nvidia ลงทุน $3 billion ในหุ้น Meta ของ Meta ในการขยายความร่วมมือด้าน AI",
+   "title": "Nvidia, Meta deepen AI ties with $3 billion investment deal",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPS2Q3RzNwUk5IQWZ1NjIwYmxWV2xCVjZRQVk2OUQ3a1B5MWhKanZMZ3JyMHVRQ2MwSzRzZVZ4VmxNTGNKWDljd084OTRUSWcwNHdFYmduNTJ1RTAtcW0xRHVobW1BcVNQakJrT3paQkdQODl0dVoxZHNwYXhiVFJpclpNaVZrQ2lqRk5oMnBZYzlPOGc2alc3Q2szb2pDOWJhUDJXUA?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "db386a9f228f",
+   "date": "2026-10-27",
+   "tickers": [
+    "AMD",
+    "META",
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "Nvidia และ AMD ลงทุน $4 billion รวมใน Meta เพื่อสนับสนุนโครงสร้างพื้นฐาน AI",
+   "title": "Nvidia, AMD to invest $4 billion in Meta as tech giants deepen AI partnership",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/27/nvidia-invest-meta.html",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "8371a8be4b85",
+   "date": "2026-10-27",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "Nvidia และ Oracle ขยาย Vera Rubin เป็นระดับ multi-gigawatt บน OCI",
+   "title": "NVIDIA and Oracle Expand NVIDIA Vera Rubin to Multi-Gigawatt Scale and Bring NVIDIA Vera CPU to Oracle Cloud Infrastructure",
+   "source": "NVIDIA Newsroom",
+   "link": "https://nvidianews.nvidia.com/news/nvidia-and-oracle-expand-nvidia-vera-rubin-to-multi-gigawatt-scale-and-bring-nvidia-vera-cpu-to-oracle-cloud-infrastructure",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "2b9313ff725f",
+   "date": "2026-10-27",
+   "tickers": [
+    "META"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "Meta เสร็จสิ้นเฟสแรกของ equity financing $37.5 billion เพื่อสนับสนุน AI buildout",
+   "title": "Meta Wraps Up First Phase of Equity Financing—$37.5 Billion. Convertibles Yield 6.5%",
+   "source": "Barron's",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNa014b1RWVkdOWXZLZlZvempZVW9NY0JheW9aeTJPS2dRbHlFTXR0dzVHVGc4N2RlUkZFYVpqTTFxbEhkQVY2WGQ2WC0wMjAtYW0wZWVTQVY0R28xWlo5b1VlTE04ckNYbVplbTNNSXM4VlczVnc3NXpCMEJPbktnLU5kZmx0a2dEZzRCcWpuc2ZWOW9ueUsyN0czcTBqWEVy?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "b0ec6714351b",
+   "date": "2026-10-27",
+   "tickers": [
+    "MSFT"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "management",
+   "reason": "Microsoft เสนอ buyout ให้กับ 60,000 พนักงาน เพื่อลดต้นทุนสำหรับ AI buildout",
+   "title": "Microsoft to Offer Buyouts to 60,000 Workers in New Cost Cut",
+   "source": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTEtWZHk3MHVmT1VtM1ZlaUUwZnRxSHhLd25MMUdINTc4RnV4eVVGdUt1bHhRMGpXYU1Uc0J1Tjd4c2lwd0xERFdkSnllb2Zqa1ZxMVJFX05KcnRDTlBUa3lnNWxZeUhWc3Ixa1ZNQnpUQWkySnp6bXFHOHBwWjFVWEh3b0JOZW0ya0lmdjIxbGFFQ0hfY1FRZElXR0E3cXRRNThDVHpZd1FGQl9YMzZOMW9qZG4?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "96841f4f1a37",
+   "date": "2026-10-27",
+   "tickers": [
+    "AMZN",
+    "GOOG",
+    "MSFT"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Anthropic เพิ่มการพึ่งพา Google Amazon Microsoft ในการขายเทคโนโลยี AI",
+   "title": "Anthropic Grows More Reliant on Google, Amazon, Microsoft",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-26/anthropic-ipo-filing-cites-reliance-on-google-amazon-microsoft",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "2afec806101b",
+   "date": "2026-10-27",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "DeepMind เปิดตัว Genie 4 world model ที่มี physics และ human realism ที่ดีขึ้น",
+   "title": "DeepMind unveils Genie 4 world model promising more realistic physics and humans",
+   "source": "Ars Technica",
+   "link": "https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/",
+   "paywall": false,
+   "categories": [
+    "products"
    ],
    "model": "claude-haiku-4-5"
   },
@@ -259,6 +499,26 @@
    "paywall": false,
    "categories": [
     "crypto_gold"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "a279a0bd1f9d",
+   "date": "2026-10-26",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Anthropic IPO filing แสดง cross-selling playbook เหมือน Amazon ในกลุ่มลูกค้า enterprise",
+   "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+   "paywall": false,
+   "categories": [
+    "deals",
+    "products"
    ],
    "model": "claude-haiku-4-5"
   },
