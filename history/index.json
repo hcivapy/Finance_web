@@ -1,10 +1,298 @@
 {
- "generated": "2026-10-28T03:02:33Z",
+ "generated": "2026-10-29T03:29:47Z",
  "months": [
   "2026-09",
   "2026-10"
  ],
  "items": [
+  {
+   "id": "e5783f608f76",
+   "date": "2026-10-29",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "regulation",
+   "reason": "Nvidia อยู่ภายใต้การสอบสวนของ DOJ เกี่ยวกับการเข้าซื้อ Hugging Face เนื่องจากข้อกังวลเรื่องการแข่งขัน",
+   "title": "EXCLUSIVE: US DOJ is inquiring about Nvidia's purchase of Hugging Face, sources say",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQi1pQlpXMFg0djlmZFhkcGFlc3hJWmxKNXIzeFlTOWRxSXd5YWtCX1FRdUdlWWM1NEZxQVpOWktKbVkyWWR1aFRhbFd3SnRRcW5SZTJ0YXRvQTZ6MjlmVmFMVThhSldFTUpseWRtblVrel8tM0VISmVOVmdVend5UTFOTHhKazBXalpIOHVUdkVmcm5YdTI4UWk3MUJObk9GMzRYOEpkeEFXVnhwZXc?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "ab037fe82694",
+   "date": "2026-10-29",
+   "tickers": [
+    "MSFT"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "Microsoft รายงาน earnings ดีกว่าคาดและ Azure growth 48% สะท้อนความแข็งแรงของ cloud business",
+   "title": "Microsoft's cloud growth, cash flow offer respite from AI spending fears",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPLTNUYVRBd0RuOWg5SUc2SzFCSTR1TGJsRndOTjNDWmtkeU1fRHZwWUxaakxsdE9sSV8tZzZDMXpXV2dDNDhhbTMyM291Z0Rua2lNSEwxaVZlTVVMbG5icUY1dllTNm9QVEk1R0NpdHdNRzVmSFA2MXZublNmaGN4NXJ5RGdMeWhiTHZmdENGX0t6UUdGaWNLS0JkbkVHWkRONXk5dkg0ZFA1T3Q0dGVR?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "0ba703eb2cc2",
+   "date": "2026-10-29",
+   "tickers": [
+    "META"
+   ],
+   "direction": "unclear",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Meta ยุติแนวนโยบาย commercial terms จากความกังวลของสำนักพิมพ์ต่อการ monetize content",
+   "title": "Meta delays indefinitely its rollout of new commercial terms after publishers' concerns",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYmxxX0JFWUowUGY3OXdUSDhwZkkyampiYmZUbnNVOF8tVXNMdExmTWp1TVBFTmQxQkluZUp5UHg2QTZTS1JkSlMxV0VWRURtSlZZai1COUFOYUF6RHo3aDZfMUJ1Y2NWSFI1QXQ5cExYUlgyQ1VUWkFYSkZmNlJjWFZYR01sYjVhOFFUb1RMc0hVUXBDSDh3QkN2OUk2U2FoUnFLVjhxOGFzaWNWZHYzZVFKR2Z3eC1xMWRSX1QxTzZoR2NGaWNJR1laMHBuZw?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "products"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "cacaf7bcd24f",
+   "date": "2026-10-29",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "Alphabet รายงาน earnings miss และ revenue miss ที่ search revenue ชะลอตัว จากความต้องการ AI",
+   "title": "Google misses Wall Street expectations, Alphabet stock sinks in early after-hours trading",
+   "source": "AP News",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNR25CYmFOU2xObG0wQ1N1eTI1WktadzJwZl8tdmFXV3N3eGJRWGw3T0VjaWJBMmliTXVfVlFaNDlzU1FVTnpySjhJZ0dmOVZWZ2dCY2FRVDV3ZktrZkg2OV9ZdnZNZzdENkRSR1p5aE1oalJPS0NKYVRoOWRqanI0blR3S2oybzU2bkJ5dTFkX1BBekJ0aTdmQUJyQ0JGYVhZVEw5Zkpwdms?oc=5",
+   "paywall": false,
+   "categories": [
+    "market",
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "720698bdc0f6",
+   "date": "2026-10-29",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "Google Cloud revenue พุ่ง 103% สะท้อนความแข็งแรงของธุรกิจ cloud ท่ามกลาง search ที่ชะลอตัว",
+   "title": "Google Cloud surges as Search slows",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWXBCc2VzQWl6QzVOU1RyMDFTc1ZMbURBcEJFYWptRmdIZ3VnZXRjOHNiRVF2UW54ZkRXRmxZX2VQcnFaZ3VhaV9wckNhaGVUVDhpbmJwZ19NRzFnNG9rQjdPTks5N2laVzJfRDRIZjVzZlZPcUlWbmVKSVMxRUhQTjZ0dU8?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "0a2ae9f0f187",
+   "date": "2026-10-29",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "unclear",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Nvidia ประกาศ conference call Q3 fiscal 2027 results แต่ยังไม่ได้รายงาน earnings จริง",
+   "title": "NVIDIA Sets Conference Call for Third-Quarter Financial Results",
+   "source": "NVIDIA Newsroom",
+   "link": "https://nvidianews.nvidia.com/news/nvidia-sets-conference-call-for-third-quarter-financial-results-6928873",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "a2c33bc98db9",
+   "date": "2026-10-29",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Google ปล่อย Gemini 4 Carbon AI model ที่โฟกัส cybersecurity ท่ามกลาง AI competition",
+   "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+   "paywall": false,
+   "categories": [
+    "products",
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "4134e0e4f1be",
+   "date": "2026-10-29",
+   "tickers": [
+    "META"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "revenue",
+   "reason": "Meta ร่วมมือ 5 มหาวิทยาลัยสหรัฐเพื่อพัฒนา Superintelligence models สำหรับวิทยาศาสตร์",
+   "title": "Meta Partners With Five US Universities to Accelerate Medical and Scientific Breakthroughs",
+   "source": "Meta Newsroom",
+   "link": "https://about.fb.com/news/2026/10/meta-partners-with-five-us-universities-to-accelerate-medical-and-scientific-breakthroughs/",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "7602725103ff",
+   "date": "2026-10-29",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "competitive_advantage",
+   "reason": "Alphabet revenue โต 25% จากการ in-house AI chips ท่ามกลาง Nvidia competition",
+   "title": "Google parent's revenue jumps 25% as homegrown AI chips take on Nvidia",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNem1SNUFLZmNVM1JIVkRoWDMtOFcyaXdFZTBBNjlNRm5Bc1JUUThtU2dMOUlub25QajE0UVBhVkdlYWhCakU1Q1luSFppT1VfeEpHU1dnaWYwT2tWUjdyWi1QOUJYdHNucHFtSXBUTUNHWklWRnRPMFlOTVNUc3NIcVB3SXBhZlprZ1Jud0NGUzhBQ2NIQjkxWXBsZzFZSjlZMkJhZjlWQ01XaGZfMGszTG9wZw?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "28a114fbbcc3",
+   "date": "2026-10-29",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "competitive_advantage",
+   "reason": "Google AI chip business โต ท้าทาย Nvidia dominance ที่ data centre CPU/GPU market",
+   "title": "Google's AI chip business is getting harder for Nvidia to ignore",
+   "source": "Business Insider",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRnlfNWZHWG1qTGlIS3RYdFpDRXAySTlOeTRrakdlTm1iT2twOU9BcTJCSzE5YjA1c1EwRzBsQ1UtSjBDN2xndHBvT3hHWmgyb1c4SEVDdXJHV21XdHdNdmZheV9jcFNpdElidGJDWndjak5jMVhlV2NoY1NSY1VaVER1OHd5ekFJVHNYcVpRU1VTZWFpMkxTWnpIaHQwQUlkU3hsQ0JnYjg4QQ?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "d67809f14bfe",
+   "date": "2026-10-29",
+   "tickers": [
+    "MACRO"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "macro",
+   "reason": "Federal Reserve hold rates unchanged รอ accumulation of more information บนเศรษฐกิจ",
+   "title": "Fed leaves rates unchanged as it awaits 'accumulation of more information'",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaU93czlpTHJXMTJGby0yOGppZGVlVkZzZW4tNC11WTcwVk1yQUZHTVMza0dTLURMRi0tTUtYTHhITkI2OVBWN2k0anZCN2liNnlyNFpaTmFTaWlFTHItWmtBXzh1VWhkRjZBNjVDejQxOGNUTW1HWWRBUzNjbGdKUDV0MlFSWXRsaWQwMXpWQXI?oc=5",
+   "paywall": false,
+   "categories": [
+    "fed"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "40b93f283d4e",
+   "date": "2026-10-29",
+   "tickers": [
+    "XAUUSD"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Agnico Eagle beat earnings expectations ท่ามกลาง higher gold prices offset rising costs",
+   "title": "Agnico Eagle beats earnings expectations as higher gold prices offset rising mining costs",
+   "source": "Kitco",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeHloSHVhUldSZmx5SWZ1LS1jOWotd2xtQlNLaXRZR0o4UExYcmJQQlhzd01WNjRFR1ZEbGV0OUVRU1p5b0NIeXlQNTlGQlVDMmhZVWFUVVRiQ3FwLXNNckJCRVlXR0h1aW9XdVNoeFRkU2w2YmVGX0JUOTBMYmxJOFE4ZDFManM2dGhteVc0RHV5RXg0d1otMUhPenkzRXZFQjhIUXBNMEVsSjhxUGszanhTOU4yY1FYUWdZ?oc=5",
+   "paywall": false,
+   "categories": [
+    "crypto_gold"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "81a4a6638951",
+   "date": "2026-10-29",
+   "tickers": [
+    "XAUUSD"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Gold steadies จาก Fed hold rates ขณะ 2 officials ต้องการ rate hike",
+   "title": "Gold steadies, silver falls as Fed holds rates, two officials favor hike - Kitco PM Report",
+   "source": "Kitco",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbEpMdkMycHVTTHhGWDJHdkczaF9sOXpRdUJ4cDNZUm1ydGI2ZTZBbnV2Z1dPRDlJUU8zdnpCcV9HTzk1LUNxWVJDbmkxOFd1Z2dTR0ZjZ3B6U2VObE00VTBFdU5CYWFXejNpcl9vWF9uTjRiNFpnWU1QNTc1eHp1dnN6cVc2TWVPSHRFR1dLYnhBc0FTREVVTzgxR2Y4Q05WV0RWdlJ1WXBuUDhtVzdsc2FCU1lSalVMcmZB?oc=5",
+   "paywall": false,
+   "categories": [
+    "crypto_gold"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "8453af552615",
+   "date": "2026-10-29",
+   "tickers": [
+    "MACRO"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "macro",
+   "reason": "FedEx beat earnings expectations และปรับ guidance ขึ้น สะท้อนการ economic momentum continue",
+   "title": "FedEx beats expectations, raises outlook in first report since calendar adjustment",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/28/fedex-fdx-sept-2026-earnings.html",
+   "paywall": false,
+   "categories": [
+    "market"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "f8ee89995625",
+   "date": "2026-10-29",
+   "tickers": [
+    "MACRO"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "macro",
+   "reason": "Ford รายงาน mixed Q3 results earnings beat แต่ 2027 earnings outlook guided in-line",
+   "title": "Ford reports mixed third-quarter results, says 2027 earnings will be in line with this year",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/28/ford-motor-f-earnings-q3-2026.html",
+   "paywall": false,
+   "categories": [
+    "market"
+   ],
+   "model": "claude-haiku-4-5"
+  },
   {
    "id": "c750dfb7aff2",
    "date": "2026-10-28",
@@ -77,6 +365,160 @@
    "title": "Gold climbs above $4,050 as Wall Street rallies ahead of Fed decision - Kitco PM Report",
    "source": "Kitco",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcjRRaHpiVklRZWs2dGN4Mlk1SGxlVjR0aW81SGZvR3V4dUpRMW9wTi15cFhZcmVtYUszWTAyY3ZFd1pZQU5vRnNIcm1YOVBxbjlIRWdiNDJkQ202OEJWcGtoQm9SY0w3OW5BeU9iejR2UElrVjB1Yk9VQUVaMzVyd2V6c3FEMHRqN1dyMWpiNldUaW5iWGRMSGgtMjl2aXpuOV9GNzVxNU5zYnFLbnNkSlFCSmdNamM?oc=5",
+   "paywall": false,
+   "categories": [
+    "crypto_gold"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "6172773c9dfd",
+   "date": "2026-10-28",
+   "tickers": [
+    "GEV"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "GE Vernola ซื้อ Trench ด้วย $9 billion และปรับ guidance ขึ้น จากความต้องการ energy infrastructure",
+   "title": "GE Vernova boosts grid push with $9 billion Trench deal, lifts revenue forecast",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObF9CRlpMQ1Vnb3hHT19ZaXJ2UjFrOVdORXRNVEp6TnZSMjRlcFpKVllVdDNTYWQ2V3FpMnRLMlI0SEhmQmh3bDBrUHI0SEQtaFFiQ0tyTzVteFpWb19lMkZyaThLLS13UExxVG1EaVNaZGxEZHFJYXBDVUI4cVpNU3dGSGc3amJUcEFMdGlES3FFVl9IeHg0X3UtMEQtR25SYWtNTEFSS3pQRGNUZEE?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "b6bcdae22c77",
+   "date": "2026-10-28",
+   "tickers": [
+    "RYCEY"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "Rolls-Royce ได้ £2.5 billion framework deal จากรัฐบาลบริเตนเพื่อพัฒนาเครื่องยนต์ใหม่",
+   "title": "Britain backs Rolls-Royce with £2.5 billion deal for new jet engine",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTU5NQ3ZuQ3lFUVkyOXlWcWd5cS1ucWQ2N0ZCcE9TZzU2RGtUbUlVemtvemprT0FOZ2ZwYlQ5eTJFTTZ5aXhPanFucHJmS1p4Um5yOVFIT2ZwcWh4R29WSGhBQXZXeUxCY3FiTTAyb3VCaXpZTFFpZ201a0VkMkpBVFIyekI3emlndWlfaHR6VGRmbDdhRU9XYnJsNk9xMVJRU29JamduR1Z1YmFSc3RicTJHUFZTbTc4?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "f7765e4ebb4a",
+   "date": "2026-10-28",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "competitive_advantage",
+   "reason": "Google เปิด TPU business สำหรับ partners นอก Google Cloud เพิ่ม distribution ของ AI chips",
+   "title": "Google alters its cloud playbook, enlisting partners to sell more AI chips",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/28/google-alters-cloud-playbook-turning-to-partners-to-sell-more-ai-chips.html",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "d5e425016827",
+   "date": "2026-10-28",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "competitive_advantage",
+   "reason": "Amazon ใช้ Trainium AI chip เพื่อ power Prime 360 product highlight technology",
+   "title": "Amazon's most advanced chip helps power the AI behind Prime 360—here's how",
+   "source": "Amazon News",
+   "link": "https://www.aboutamazon.com/news/innovation/trainium-ai-chip-prime-360-nba-highlights?utm_source=rss",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "798f8c0e48a6",
+   "date": "2026-10-28",
+   "tickers": [
+    "6981"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Murata Manufacturing ลงนาม 3-year contract กับ Accenture เพื่อ AI production reform",
+   "title": "Japan's Murata Manufacturing Signs 3-Year AI Production Reform Contract with Accenture, Ties Part of Fees to Results",
+   "source": "BigGo Finance",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB0Ykl4WUlMM3pROGN5TEJLYmp2YjQ4NS12TWJBWFNmT3FzWWJfSm52eEVucTdRM2NqUzY0SVl3NG1WLTRwOUNHa0luRF9nWW9wWU1yaTlTOEdpS1FjSV9Wc25Xb003YjVaWXVWaUFPMzFxUExNa1E?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "224453ac867e",
+   "date": "2026-10-28",
+   "tickers": [
+    "GEV"
+   ],
+   "direction": "negative",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "GE Vernova Venezuela grid repairs ทำให้สะดุด เนื่องจาก payment delay จากลูกค้า",
+   "title": "Venezuela Grid Repairs Stalled by Payment Delay, GE Vernova Says",
+   "source": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMmxYTHhrVkNnQV9yZjNkNUw2Vm9JR1JWN3FiOHUwbGJfZlV5Tlc3bEdDZzc1SlVhcGY4TXByY1V4dXdHMmRjalRIOFRlbHFmV3BSSDl3M0pQWHhabWFpNm1RQllfNEtGVFctMFA5MmRQbm03azRkc0hlTkFUUFE5RUt3Q1ZxOTdvSG0tV1dMWUtOeTJySkw2WFlrTTVoaVd3YzN1MmdBMG1ISmlmUjEydW1zZFM?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "76921a8bd799",
+   "date": "2026-10-28",
+   "tickers": [
+    "BTCUSD"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Bitcoin holds bullish outlook ที่ $81,000 เมื่อ Fed hold rates ทำให้ sentiment ยังดี",
+   "title": "Live updates: Bitcoin trading just above $81,000 as Fed delivers hold on rates",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/business/2026/10/28/live-updates-bitcoin-climbs-above-usd81-000-as-majors-rally-ahead-of-fed-decision",
+   "paywall": false,
+   "categories": [
+    "crypto_gold"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "04628f675650",
+   "date": "2026-10-28",
+   "tickers": [
+    "BTCUSD"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "other",
+   "reason": "Datavault AI plunge 50% ไม่สามารถ access Bitcoin assets $92.2M จากการบัญชี correction",
+   "title": "Bitcoin treasury Datavault AI plunges 50% after firm says it can’t access its BTC",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-treasury-datavault-ai-plunges-50-after-firm-says-it-can-t-access-its-btc",
    "paywall": false,
    "categories": [
     "crypto_gold"
