@@ -2,6 +2,201 @@
  "month": "2026-10",
  "items": [
   {
+   "id": "8e16d29e8f09",
+   "date": "2026-10-30",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "competitive_advantage",
+   "reason": "Nvidia ให้ credit support สำหรับ Nscale data center ของ Anthropic ยืนยัน partnership ที่แข็งแกร่ง",
+   "title": "Nvidia in talks to give credit support for Nscale's deal with Anthropic, The Information reports",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeFZKQnF5QVdNQlBQRzNMTE5PbjhUSXF0Y0NzYXpyaVJFeGplang3clhEYUtGUF9Fd2tPRjE0VllQVjV0cncwdU9za2RGZkFjQ2ZSTGdpQ3hXSkRBSjVtY2tvTzhEVTYtUkxYQjdfc1A3blJMd0c2ajJTUFp0eGMtOEtMbEk2NGl2Y2hrRFVlSHVaT1VQWi1qaGhLTkoyZVhXWFVFaXpDVEpZQV90MFNSZzN2dTl0WXJWZEhBRzJmUFVpNzI2Smc?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "265505c11462",
+   "date": "2026-10-30",
+   "tickers": [
+    "META"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "regulation",
+   "reason": "Meta แพ้ appeal ต่อมาตรการชั่วคราวจากผู้ควบคุมฝรั่งเศส สะท้อนความเสี่ยงด้านการกำกับดูแล",
+   "title": "Meta loses appeals against interim measures imposed by French regulators",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONnJENHVhbWVmOEVkWndYd3l2Y2haUjlPZllvWU5UOWUyd0ljZTZjTzVXN056MG9idWNxZU5sMUZfSF9qZTNXdGM1aHJGQTU0cVpPQmY2c0lYU3YxR0hWR3AxYXltWXdXUWE4d3RVWVRNVEFLZ0xFbDB2ZlZFSzN3Wm5hZlhnZ19WUkxvdEF3UU5IME55dS1tcnBPOVRJOUtJbGlYeG1qODFoTnhLOG53eXR6ZTk?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "ba9c118419d7",
+   "date": "2026-10-30",
+   "tickers": [
+    "CRM"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Salesforce ซื้อ Rune Technologies ขยายธุรกิจ defense เพิ่มรายได้แหล่งใหม่",
+   "title": "Salesforce to buy defense tech firm Rune in military business push",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdXktMDVIVXVCZk5lWFowUzJHRktDQmVFQVhtWFRsM0J4d1YzVFd2ZWhJMThYYXE3bWV5Vng1NWozZ25rOElHMUZrQmhnaWpNWlhlU3pxSUVGMmpsYjVaMWpTXzJKWlFTT0dPNDlOS0NRWjdUYTNoWldMOThrUll3Z1dCM1BtaXA5XzZ1Uk1yRTl6WkQ4UnI1S2tkOG8tLVlkdHUwM2NXZ3YtSGZvSnAtSHNwVTQ3aWs?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "04a792344e6a",
+   "date": "2026-10-30",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "margin",
+   "reason": "Amazon รายงาน negative free cash flow $42.4B และ guidance capex 2026 ไม่เปลี่ยนแปลง",
+   "title": "Amazon posts negative free cash flow of $42.4 billion, holds 2026 capex unchanged",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "market"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "6849cd46a7b2",
+   "date": "2026-10-30",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "AWS revenue เติบโต 39% มี signed deals ใหญ่จาก Meta และ OpenAI",
+   "title": "Amazon AWS posts 39% revenue growth as cloud rivals also accelerate",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/29/aws-q3-earnings-report-2026.html",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "669cc4a10f10",
+   "date": "2026-10-30",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "Amazon Q3 revenue และ earnings miss คาดการ",
+   "title": "Amazon.com announces third quarter results",
+   "source": "Amazon News",
+   "link": "https://www.aboutamazon.com/news/company-news/amazon-earnings-q3-2026-report?utm_source=rss",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "b8121fa40882",
+   "date": "2026-10-30",
+   "tickers": [
+    "MSFT"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "competitive_advantage",
+   "reason": "Microsoft ระดมทุน $25B bond ผ่านการอนุมัติสูง สะท้อนสถานะทางการเงินที่แข็งแกร่ง",
+   "title": "Microsoft Looks to Raise at Least $25 Billion From US Bond Sale",
+   "source": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVW1FNlVmV2VIM1BicUxLa0t2X2xDaDF5X0dScC0tVmlnX1Z3OGJYVWRVcGtJaGx4R3cwR3E3cFA0enExcXhNUE01bWdyYXl5Z1paeVYyV284SDFkVTFFeWdPYTVLODVMZ29UbzVkSzA0Vlhxc1JlNEhwMnVhMVMzQzU4cmVqdGJEY1I5X0tkaGdkZ1VTQm1JREFoYUV4Q183cFVKT1hQS3JhTkdYbHVwbw?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "4a93a5953257",
+   "date": "2026-10-30",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "margin",
+   "reason": "Amazon CEO เตือน AI spending จะสูงขึ้นอย่างมีนัยสำคัญในปี 2027 กดดัน margin",
+   "title": "Amazon CEO sees AI spending 'meaningfully' higher in 2027",
+   "source": "Business Insider",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNFNxbFBydktDRnRIeHh2MWdnd0ZkRS1sUnVoRmRHM19sY2lOOXdsR0RWakVPRV9DN05fOFRwcU00LTc0VlQ3cEdEcXZEcVJXRDVMV3JFYzZ5NTJqZHpXRFJSWHpfNnZlTi1PYk5POFJtWVNKb0JwdGVEeEw4UzRkOF8xMmZ5LW5sU2c?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "06ffda7824f4",
+   "date": "2026-10-30",
+   "tickers": [
+    "MACRO"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "macro",
+   "reason": "US Q3 GDP เติบโต 3.4% ดีกว่าคาด บ่งชี้เศรษฐกิจแข็งแกร่ง",
+   "title": "Third-quarter U.S. GDP increases a better-than-expected 3.4% as September inflation accelerates",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/29/pce-inflation-report-september-2026-.html",
+   "paywall": false,
+   "categories": [
+    "fed",
+    "market"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "acf5c0205c30",
+   "date": "2026-10-30",
+   "tickers": [
+    "BTCUSD"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "regulation",
+   "reason": "Binance รายงาน security issue ราคา Bitcoin และ crypto ตกลง",
+   "title": "Bitcoin, cryptocurrency prices fall after Binance reports security issue",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbl9LV3Z6eEFpLVBKcmR2ZG9YM1lNRmZBTGRQUF9qeVRLVmlaYnc2ZDdkNERRd3VPTTNtQ0dkRGluRG56czhmbUJKaFNYU1NSX1k0VllaY2l3bGxpNTBOOG1acWdmcW90ZW5UMVF1OU11OG1HOXhZaEF3b0lucWZpLUpQaldUMEV0V1BXU3lKUXBndXBBMGtyMzJDLVFzSzZ0MGViYlNhMGJETXFUd1l0Q0s2TmNGeDFHS2c?oc=5",
+   "paywall": false,
+   "categories": [
+    "crypto_gold"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
    "id": "e5783f608f76",
    "date": "2026-10-29",
    "tickers": [
@@ -286,6 +481,102 @@
    "paywall": false,
    "categories": [
     "market"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "587f17837027",
+   "date": "2026-10-29",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "revenue",
+   "reason": "Canada และ Nvidia ร่วมลงทุน Cohere ที่ valuation $20B+",
+   "title": "Canada, Nvidia Back Cohere in Round at Over $20 Billion Value",
+   "source": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVk0xNE9EYzVuMEQ0OUJvYXNDMTFEN2tfVkVYWV9xSXpQWnlQUkNVTTIyWG5XOThJMHY3WWs5RktqWXpVMjN1ZmtXcVFUeVJMYjJNaEhFTTg1b0RNblJUTHZ3LW1wZ0JmRUZEUURwTy0yaC1nXzlHM3ZKeWFIUVJBdUZ5VlU0RXZxcTNKdGZ0ZHVoVWFILTRRWmVyVlN3V2V1X1VONWdTNjFYYVcwYUlj?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "ac88d5911039",
+   "date": "2026-10-29",
+   "tickers": [
+    "XAUUSD"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "macro",
+   "reason": "Gold ลดลง เนื่องจากอัตราเงินเฟ้อ US สูงขึ้น ส่งเสริมเดิมพัน Fed tightening",
+   "title": "Gold slides as higher US inflation reinforces Fed tightening bets",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYlhrT3hjaWJ0VXJlcHYxRUdvdVJsVEpGN2lzQXA4a1pLNW5SdklwTFpMYmRNTGRNQ2w2MTRTR2g0UUJfMkx0c21Ja1Fqbzd4eVk1U1gySHF5cnYwQ0FqUzFWWVVMVXpWaUMtQ3d2VGs1TERHQ0dtbFpMWWgxbVpoVS13bGRORTByVkZaS0piSjNxYTk0eUtoZ0ItV2wxbzNnOXhCM2R1bW1Sa1laZUE?oc=5",
+   "paywall": false,
+   "categories": [
+    "fed",
+    "crypto_gold"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "7d86edc93eaf",
+   "date": "2026-10-29",
+   "tickers": [
+    "MACRO"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "macro",
+   "reason": "DoorDash ซื้อ Instacart ในดีล $17B ขยายตลาด grocery delivery",
+   "title": "DoorDash strikes $17 billion deal for US rival Instacart in mega grocery delivery bet",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORW5SOWQwSzcyUFRocHlTSmRhdWJtN2QzXzRCM3FPSjdXeDlBREVZSERWdGRiZUQ3OU1kMldlT3J1TnpwUFl3dEk1S1hkM0lpYmlDTlNfcllDdWc4VkYzZ2hzT0FmNm4zY2JNOEtJYUx4OVN4X045a2pXLWs5Wk9sMHdrMWFFMFI5R0VXV09uLTV4TFpnNTBPV3BNUHMxM2o2dEloNlJpWks2NjJUci13Vzd3QXlPeXdVQVpsUlhaQ1JyZk81aU5sdw?oc=5",
+   "paywall": false,
+   "categories": [
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "8dc5c9904ab2",
+   "date": "2026-10-29",
+   "tickers": [
+    "MACRO"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "macro",
+   "reason": "Canada ถือหุ้นใน Cohere funding round $4.5B สนับสนุน AI infrastructure",
+   "title": "Ottawa takes stake in Cohere as AI company opens $4.5 billion funding round",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWGNfQVUyVmlObW9LNWZfU09nUFBaUGFoS2pmNWJfM2lpdWdlRm4zRmJxeWtPXzk1Zmk5ZzlELWdvbGttdTNfMC03bFJ4ZGpfY3pGTzU5TXMzOWZ2V05UN2t6bGswdFE5dThJMDctaWRiLU5IU245Q04zN2RWb2d5UTd5RHlGVlJ5ampjaE1fUXlpenQ0ZksxMW03MGpocEZmQThtbG5falE4RmxOaEs4RUlB?oc=5",
+   "paywall": false,
+   "categories": [
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "81deb54da49b",
+   "date": "2026-10-29",
+   "tickers": [
+    "BTCUSD"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "regulation",
+   "reason": "Quantum model ใหม่ลดการต่อต้าน Bitcoin keys ลักษณะ 17 เท่า เพิ่มความเสี่ยงความปลอดภัย",
+   "title": "New quantum model slashes hardware needed to break bitcoin keys by 17 times",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/tech/2026/10/29/new-quantum-model-slashes-hardware-needed-to-break-bitcoin-keys-by-17-times",
+   "paywall": false,
+   "categories": [
+    "crypto_gold"
    ],
    "model": "claude-haiku-4-5"
   },

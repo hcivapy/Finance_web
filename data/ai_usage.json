@@ -311,8 +311,16 @@
    "input_tokens": 10437,
    "output_tokens": 4859,
    "cost_usd": 0.03473
+  },
+  {
+   "date": "2026-10-30",
+   "kind": "daily",
+   "items": 225,
+   "input_tokens": 10572,
+   "output_tokens": 2429,
+   "cost_usd": 0.02272
   }
  ],
- "month_to_date_usd": 0.8015,
+ "month_to_date_usd": 0.8242,
  "month": "2026-10"
 }
