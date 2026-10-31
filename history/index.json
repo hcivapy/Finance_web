@@ -1,10 +1,70 @@
 {
- "generated": "2026-10-30T03:32:00Z",
+ "generated": "2026-10-31T03:16:30Z",
  "months": [
   "2026-09",
   "2026-10"
  ],
  "items": [
+  {
+   "id": "68a52a9fe0c1",
+   "date": "2026-10-31",
+   "tickers": [
+    "META"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "other",
+   "reason": "S&P Global ปรับ Meta outlook เป็น negative เนื่องจากกังวล capex ใหญ่และ free cash flow",
+   "title": "Meta outlook revised downward by S&P on cash flow and capex concerns",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/30/meta-outlook-to-revised-to-negative-by-sp-after-cash-flow-negative.html",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "market"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "6e1c75ecae67",
+   "date": "2026-10-31",
+   "tickers": [
+    "CRM"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "competitive_advantage",
+   "reason": "Salesforce เสร็จสำเร็จการเข้าซื้อ Rune defense tech startup ในมูลค่า $375 million เพิ่มความสามารถ AI",
+   "title": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
+   "paywall": false,
+   "categories": [
+    "deals",
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "7f5d03ad178d",
+   "date": "2026-10-31",
+   "tickers": [
+    "6981"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "Murata ประกาศลงทุน $6.3 billion ในการผลิต capacitor เพื่อ AI ห้าปีขาด impact revenue",
+   "title": "Japan's Murata to invest $6.3bn in capacitor production for AI over 5 years",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcjhuY1FndTZ5bXpqSUlBRnk5a0xFZEFyOWJ1SlFlaUtzRlJ0QlRJSWFiTjBpaVRZcWpYSnhyaVV4b1lSaWZxUWhGbXNEemY0RUd6a0pTQUxDSlBvVWpsbWFBRUZWSGUwVS1jQTN4dFhUVExTWkNObjE4LU00OFlzS0xOR3hsNVV4RXZuVlZKVUhiTlRESzNpUS1XZXhjZ0F3dUxrQTRzanFvOUJIZVFwY2dFWldPaDd0SC1zRlB3?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
   {
    "id": "8e16d29e8f09",
    "date": "2026-10-30",
@@ -197,6 +257,331 @@
    "paywall": false,
    "categories": [
     "crypto_gold"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "0da39315b7c7",
+   "date": "2026-10-30",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "Amazon รายงาน Q3 earnings เกินคาดด้วย AWS accelerating growth และ custom chips revenue expansion",
+   "title": "Amazon beats forecasts with help from AI",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iVlMyaC00Y1FEc2h1NDc2VGJYX2xXNGpENXNIUk11OHgycHhhd3lDejdia2xhU3ZOVi0zZ0VvLTItX3hkRmFJNWg3QVRjQUxraFRpVjEtaDdSaGtuUXFydE5MaFpVV1E?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "0ea5415f5ee8",
+   "date": "2026-10-30",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "Amazon custom chips revenue commitments Graviton และ Trainium เพิ่มขึ้นกว่า 20x สะท้อนความต้องการที่แข็งแรง",
+   "title": "Q3 Earnings: Andy Jassy on why demand for Amazon’s custom chips keeps growing",
+   "source": "Amazon News",
+   "link": "https://www.aboutamazon.com/news/company-news/amazon-custom-chips-demand-q3-2026-earnings?utm_source=rss",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "7b0448295e6c",
+   "date": "2026-10-30",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "Amazon ขายสินค้าเกิน 30 billion items เมื่อปีที่แล้ว ยูนิต growth 15% YoY อย่างต่อเนื่อง",
+   "title": "Q3 Earnings: Andy Jassy on faster delivery, lowering cost to serve, groceries, pharmacy, and AI shopping",
+   "source": "Amazon News",
+   "link": "https://www.aboutamazon.com/news/company-news/amazon-stores-growth-q3-2026-earnings?utm_source=rss",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "4f5b129c6e71",
+   "date": "2026-10-30",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "AWS grew 39.3% YoY accelerating sixth straight quarter fastest growth ใน nearly five years",
+   "title": "Q3 Earnings: Andy Jassy on why AWS growth keeps accelerating",
+   "source": "Amazon News",
+   "link": "https://www.aboutamazon.com/news/company-news/aws-growth-ai-demand-q3-2026-earnings?utm_source=rss",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "727d980b9b02",
+   "date": "2026-10-30",
+   "tickers": [
+    "6981"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Murata Manufacturing ประกาศจ่ายเงินปันผล quarter ที่สอง ปีสิ้นสุด March 31 2027",
+   "title": "Murata Manufacturing Co., Ltd. Announces Dividend for the Second Quarter of Year Ending March 31, 2027, Payable on November 30, 2026",
+   "source": "marketscreener.com",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObmJ5NjBxX3VBdlpVNzQwY1VkNnEtWF9La0NTX2VjN3VIUGFCdWVLN0hGeUF2M25zVUxvMmJERHJsT1JWWXdfYkktaE1IeE9tb2ZfQ3pfS044YXZzSlFibEZvM2RCUTJCcWVpYWtEb2N1NTlYeWxaOVNoRTBXZkpFNkVNUjZnOHhnMGdHWjJwWUNjNkN1M09Db21nMG9Ubm1RU0pDZzBYdG1rQmQydzdRMy1YQ2ZyNUQyZzJNNWJiVmFvQ0ZRU0psd1Z5UFdRZHhKWW0wY054SWlPelBLa0JBZFVhQQ?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "99593f55f0d9",
+   "date": "2026-10-30",
+   "tickers": [
+    "6981"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "Murata Manufacturing ปรับ guidance full year ขึ้น ในปีสิ้นสุด March 31 2027 สะท้อนความต้องการ AI",
+   "title": "Murata Manufacturing Co., Ltd. Revises Consolidated Earnings Guidance for the Full Year Ending March 31, 2027",
+   "source": "marketscreener.com",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbXpxQ2dqd3Q3YUhFaHUzU1F5UElDTkZkTVFNQWR1WnU0MEVNNGE3WFpmbGhab2NzbGZDckJkdElRcUxya3JQa01MVnlZMEdwVzF2YWFWVnN1bHE4RFhFMGRZNkZMR1lQRDFTbUJvVGdFYjVVYWFydjlpUl9VZDFLZUVZV0lLWk1RY2tPOENBVlVsdkVOZy1TS2U1M3lVVVBXcklzS01zdVV4QndMd0ZqRDlJR0lGejg3Z1lOQjZ3Yl82NTRMTzlOWmhlX2hSN3ZnNnJON3BxV0hTb1FQa3dhRkRSY3M?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "4bbd323d1172",
+   "date": "2026-10-30",
+   "tickers": [
+    "6981"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "Murata ประกาศลงทุน €5.7 billion เพื่อเพิ่มการผลิต MLCC เป็นสองเท่า ตอบสนองความต้องการ AI data center",
+   "title": "Murata to invest €5.7 billion to double MLCC sales",
+   "source": "Evertiq",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbkJIUGlNMUhPOFRVUkdoSmZJV21XdVktOWNSdUdNX2wzUjBDRkVFY2xUc0dNWnlDMWRIbktPU3Z4QjlVdDdkUkY1dmotUUV5THgtVUg5S3BlSk1naTZmUERESXNJYXZ1dndZYmxRR1laY1lwUC0yVnFrZXNzVlRxSnd5aWZKM0pDT1hpMTF4TQ?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "8f1346ab0a0e",
+   "date": "2026-10-30",
+   "tickers": [
+    "6981"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "Murata Q2 results revenue beat estimates ที่ $3.696 billion ขับเคลื่อนโดย AI data center demand",
+   "title": "Murata Manufacturing Q2 Results: Revenue beats estimates at $3.696B",
+   "source": "scanx.trade",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNFRDQzFva2NqNGsyVjd2SndwNzdBMU1sbzRUbVlMel9XZ3o3T0M1cjdXaksweWdJVE1KX2taczB5WTlMaFd2N2hZSGVVaHlha2pwZ1ZFbUg3XzJCVGtvZjZmVm5FdUdWc0pfU2hBTGtETzlEZUh1LU93WUlnOXJMNzJ4VVJjdWY1LTg0UEN4akdQaGE2dnNpSWEwZFBKbHpvZ2F3Z2RTRURoREVQWlR4d2lDMV9kdzBQQWlR?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "5a859e406343",
+   "date": "2026-10-30",
+   "tickers": [
+    "6981"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "Murata ยกระดับ full-year guidance และวางแผนใช้เงิน ¥1 trillion ขยายกำลัง MLCC ห้าปี",
+   "title": "Murata Manufacturing Raises Full-Year Guidance, to Spend ¥1 Trillion Over Five Years Expanding MLCC Capacity",
+   "source": "BigGo Finance",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5lQ3hCOFZDMjZxX2FlWXRiZTFKV3ZMRHBsM2V4MnNXMG52d1dseGxLbnlzbnM4NnpTdjNsbHBFYnJFVTFwVlBRaXZ4WkFEakR4d0pmT3FrbGVoVUdYMWZ3bWU1MU8tRV91bDJxMUkyZWFyaXR3Nnc?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "c02110b93394",
+   "date": "2026-10-30",
+   "tickers": [
+    "6981"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "Murata operating profit เพิ่มขึ้น 49% interim พร้อมยกระดับ full-year forecast เป็น ¥520 billion",
+   "title": "Japan's Murata Manufacturing Posts 49% Rise in Interim Operating Profit on AI Data Center Demand, Lifts Full-Year Forecast to ¥520 Billion",
+   "source": "BigGo Finance",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1sYnlpckltM2t0NlM0bWExWWFjTFhCWkZZa0RhbmJEOUV1NVhMbkZ3YndfenJNNGhtOWtlWU5XRWVVb2pxYURBcXBjR2dJS09vRGZNeTlwRkF3U0l1M09USWRQQ093RUtDaHh0U1Jua1dBSEo5dFE?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "cf6123d5d061",
+   "date": "2026-10-30",
+   "tickers": [
+    "6981"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "Murata ลงทุน ¥1 trillion ในการขยาย MLCC capacity ห้าปี เพื่อเพิ่ม fiscal 2030 sales ต่อ AI boom",
+   "title": "Japan's Murata Manufacturing to invest ¥1 trillion in MLCC capacity expansion over 5 years, aiming to double fiscal 2030 sales volume",
+   "source": "BigGo Finance",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tMFlFcHJHOUNCX3hXaUVfd0RaY1BsazBvdEZUa2d6LWpDVzBVOXJBMkZOR0d3cHRBeDBxams1ZUxQdlpCTFR5M3ZKRkREQllYeGJrUlhkX0VCdGc3UmNIVmVsb0pfSkw1OUpxZEV2Ri1rQlIzV2c?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "1b4873037996",
+   "date": "2026-10-30",
+   "tickers": [
+    "6981"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "Murata รายงาน H1 revenue ขึ้น 20.8% ยกระดับ FY2027 outlook เนื่องจาก AI infrastructure demand",
+   "title": "Murata Manufacturing : to Expand Production Capacity of Multilayer Ceramic Capacitors Going Forward",
+   "source": "www.marketscreener.com",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcENjd3NlTVhONU1tS1ZKRkN4ck5Sd2hGa0htNmxIYmI0a0lsRlpoZUtNZ19wVjNmYTYtNXRUTzBlbHE5dDZ6WmMzaU1WT2lkQWtpcWw5VVFrRmg5a0FBOWFOcElKTmluZkRQQUZ6VGZpendING1PQ2xLd2VBblFFZHlXd0xFbjdET2RxdV9rcXBkWmJzaUFabHg2S0VIb0dQeFVrZ3NvRGIxa0JnRmN2VkZQXy1LX2lGMFV5MlI4SG9uWDMtZDQzQzdZa29lTEgwb0J0VUNRbVpPTG1SYktWQkUyejI?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "549be4730792",
+   "date": "2026-10-30",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "other",
+   "reason": "Amazon จัดเตรียม $80 billion supplier loan facility เพื่อ fund AI infrastructure expansion",
+   "title": "Amazon Taps $80 Billion Supplier Loan Facility to Help Fund AI",
+   "source": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTGlqT05HdWhOY0RUM0FZbUp2TThsRm5yNFVNVE40TldvNGhPWEdQYy01NTBnc0c1d3E0OFU0eFk5aHlMbWxsYUEzSGdLU2J3blhoYWNnYnFsZlp4ZHRiOVA4WjU5aU5CSC0wMGJaUkRuRW5MX3lBMHlzdmpSMGNheEZteGZ3Sks3MmtzODRMbVIyampYaFVDYmpybmhIZFBLUENNaU44VGdWYWlMTXZVZUln?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "9a6ca055ebb0",
+   "date": "2026-10-30",
+   "tickers": [
+    "META"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "regulation",
+   "reason": "UK CMA เปิด antitrust probe Meta เกี่ยวกับเงื่อนไข publisher content ที่ impact AI tools",
+   "title": "Meta Faces U.K. Antitrust Probe Over Publisher Content Terms",
+   "source": "WSJ",
+   "link": "https://www.wsj.com/tech/meta-faces-u-k-antitrust-probe-over-publisher-content-use-11637585?mod=pls_whats_news_us_business_f",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "6530f71d3e47",
+   "date": "2026-10-30",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "SpaceX ปฏิเสธคำขอลูกค้าสำหรับ Starship เดินหน้าเต็มกำลัง customers จ่ายพิเศษขึ้นเพื่อ secure seats",
+   "title": "SpaceX is turning away customers for the rocket that flew most of 2025’s trips to orbit, and some are paying extra for the last seats",
+   "source": "Fortune",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMHY0S2FGcE1GZ1dkWkppTzZ4MDFKdmtjTzFZZGhBdFZxZVdjVlRGM0tMVHVLVWpHdjhOQ1hKb3VYeXE3U19yYTdPNzQ2RFF1QWtfX242SXhVd1RMVDdyTGk1bDFHOE9iN2Z5OG94LVVaZ3Z1OWpvWnh1bUViUXI3bWFRMDctSzBNTXlFQQ?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "aadcd6ab5a86",
+   "date": "2026-10-30",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "Amazon รายงาน capex ไม่คาด และ e-commerce growth slowest ในสามปี raises capex concerns",
+   "title": "Amazon Shares Drop After Spending Soars, Online Business Slows",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-29/amazon-spending-soars-on-effort-to-meet-demand-for-ai-services",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "f2087e2bb8f8",
+   "date": "2026-10-30",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Waymo และ Toyota ลงนาม partnership เพื่อทดสอบ robotaxis Japan 2027 ขยาย autonomous business",
+   "title": "Waymo taps Toyota to supply robotaxis for Japan and the UK",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/",
+   "paywall": false,
+   "categories": [
+    "deals"
    ],
    "model": "claude-haiku-4-5"
   },
