@@ -1,0 +1,82 @@
+{
+ "date": "2026-11-01",
+ "period_start": "2026-10-25",
+ "period_end": "2026-10-31",
+ "generated": "2026-11-01T05:25:29Z",
+ "news_count": 150,
+ "model": "claude-sonnet-5",
+ "summary": {
+  "headline": "คลื่นเงินทุนมหาศาลสำหรับ AI infrastructure ท่วมตลาด ขณะที่ earnings season เผยความแตกต่างชัดเจนระหว่างผู้ชนะและผู้เผชิญแรงกดดันด้าน capex",
+  "overview": "สัปดาห์นี้เต็มไปด้วยดีล financing ขนาดใหญ่เพื่อขยาย AI infrastructure เช่น Meta ระดมทุน equity สูงถึง $98 billion, SpaceX ปิดดีล debt $40 billion, และ Broadcom จัดหา financing $63 billion ให้ Anthropic ผ่าน Broadcom chips ด้าน earnings ของ Big Tech ออกมาแตกต่างกันมาก โดย Microsoft โดดเด่นด้วย Azure growth 48% ขณะที่ Alphabet และ Amazon เผชิญแรงกดดันจาก capex และ free cash flow ที่ติดลบ นอกจากนี้ Nvidia ถูก DOJ สอบสวนดีล Hugging Face ส่วน macro มี Fed hold rates และ GDP Q3 โต 3.4% ดีกว่าคาด",
+  "companies": [
+   {
+    "t": "SPCX",
+    "direction": "positive",
+    "summary": "SpaceX ปิดดีล debt $40 billion กับ Apollo เพื่อซื้อ AI chips/GPUs เสริมขีดความสามารถ AI infrastructure นอกจากนี้ได้รับเงิน $120.5 billion จาก Anthropic และ Starship เต็มกำลังจองจนต้องปฏิเสธลูกค้าบางราย ส่วนประเด็นลบเล็กน้อยคือข้อกล่าวหาเรื่องชะลอ Starlink ใน Ukraine ซึ่ง Musk ปฏิเสธ"
+   },
+   {
+    "t": "META",
+    "direction": "mixed",
+    "summary": "Meta ประกาศระดมทุน equity offering สูงสุดถึง $98 billion เพื่อสนับสนุน AI buildout โดยได้รับการลงทุนจาก Nvidia ($3B) และ AMD ร่วมกับ Nvidia อีก $4B รวมถึงขยายความร่วมมือ Muse กับ Nvidia อย่างไรก็ตาม S&P ปรับ credit outlook เป็น negative จากความกังวล capex และ cash flow พร้อมเผชิญ antitrust probe ใน UK และแพ้ appeal ในฝรั่งเศส"
+   },
+   {
+    "t": "MSFT",
+    "direction": "positive",
+    "summary": "Microsoft รายงาน earnings beat คาดการณ์ โดย Azure revenue โต 48% เป็น $33.2 billion และมีรายได้ $10 billion จาก OpenAI พร้อมระดมทุน bond $25 billion สำเร็จ บริษัทยัง cut capex forecast จาก data centre delays ซึ่งช่วยลดความกังวลด้าน spending แม้จะประกาศ buyout ให้พนักงาน 60,000 คนเพื่อลดต้นทุน"
+   },
+   {
+    "t": "GOOG",
+    "direction": "mixed",
+    "summary": "Alphabet รายงาน revenue miss ครั้งแรกในรอบ 4 ปี จาก search revenue ชะลอตัว ทำให้หุ้นร่วง 10% และ capex 2026 คงเดิมแต่จะเพิ่มขึ้นมากในปี 2027 พร้อม free cash flow ติดลบจากการใช้จ่าย AI $51 billion อย่างไรก็ตาม Google Cloud revenue โตถึง 103% เป็น $31 billion และธุรกิจ AI chip ของ Google เริ่มท้าทาย Nvidia โดย OpenAI วางแผนซื้อ chips จาก Google ด้วย"
+   },
+   {
+    "t": "AMZN",
+    "direction": "mixed",
+    "summary": "Amazon รายงาน Q3 miss คาดการณ์ และ free cash flow ติดลบ $42.4 billion พร้อมเตือนว่า AI spending จะสูงขึ้นมากในปี 2027 และต้องใช้ supplier loan facility $80 billion เพื่อ fund AI แต่ AWS เติบโต 39% เร่งตัวต่อเนื่อง 6 ไตรมาส และ custom chips (Graviton, Trainium) commitments เพิ่มขึ้นกว่า 20 เท่า พร้อมได้รับอนุมัติซื้อ Globalstar $11.5 billion และดีล AWS กับ Verizon $2 billion"
+   },
+   {
+    "t": "AVGO",
+    "direction": "positive",
+    "summary": "Broadcom จัดหา financing $63 billion ร่วมกับธนาคารและ Blackstone เพื่อสนับสนุน AI chips ให้ Anthropic โดย CEO เข้ามาแทรกแซงเพื่อปิดดีลนี้ด้วยตนเอง"
+   },
+   {
+    "t": "NVDA",
+    "direction": "mixed",
+    "summary": "Nvidia ถูก DOJ สอบสวนดีลเข้าซื้อ Hugging Face มูลค่า $12.9 billion จากข้อกังวลด้านการแข่งขัน แต่ยังคงเดินหน้าสนับสนุน AI ecosystem ผ่านการลงทุน $3 billion ใน Meta, ให้ credit support โครงการ Nscale/Anthropic มูลค่า $45 billion, ขยาย Vera Rubin กับ Oracle และร่วมลงทุนใน Cohere"
+   },
+   {
+    "t": "GEV",
+    "direction": "positive",
+    "summary": "GE Vernova รายงาน orders และ earnings แข็งแกร่งจาก AI power demand พร้อมปรับ revenue guidance ขึ้น และประกาศซื้อ Trench Group มูลค่า $9 billion เพื่อเสริม grid infrastructure business"
+   },
+   {
+    "t": "RYCEY",
+    "direction": "positive",
+    "summary": "Rolls-Royce ได้รับการสนับสนุนจากรัฐบาลอังกฤษผ่าน framework deal มูลค่า £2.5 billion และเงินทุน £1.25 billion เพื่อพัฒนาเครื่องยนต์ไอพ่นรุ่นใหม่สำหรับเครื่องบิน single-aisle"
+   },
+   {
+    "t": "CRM",
+    "direction": "positive",
+    "summary": "Salesforce ประกาศเข้าซื้อ Rune Technologies บริษัท defense tech มูลค่า $375 million เพื่อขยายธุรกิจไปยังกลุ่ม logistics และ military"
+   },
+   {
+    "t": "6981",
+    "direction": "positive",
+    "summary": "Murata Manufacturing รายงาน operating profit ครึ่งปีแรกเพิ่มขึ้น 49% และปรับ full-year guidance ขึ้นเป็น ¥520 billion จาก AI data centre demand พร้อมประกาศแผนลงทุนราว ¥1 trillion (ประมาณ $6.3 billion) ในระยะ 5 ปีเพื่อขยายกำลังผลิต MLCC รองรับการเติบโตของ AI"
+   },
+   {
+    "t": "ASML",
+    "direction": "negative",
+    "summary": "โรงงานผลิตชิปแห่งแรกของเวียดนามมีแนวโน้มไม่ทันเป้าหมายปี 2027 และยังไม่มีการเซ็นสัญญากับ ASML"
+   },
+   {
+    "t": "TSM",
+    "direction": "negative",
+    "summary": "Anthropic ระบุว่าความเสี่ยงจากการหยุดชะงักในการดำเนินงานของ TSMC เป็นปัจจัยเสี่ยงต่อ supply chain ของ AI chip"
+   }
+  ],
+  "macro": "Federal Reserve มีมติคงอัตราดอกเบี้ยไว้เท่าเดิม โดยรอข้อมูลเพิ่มเติมก่อนตัดสินใจ ขณะที่ GDP ไตรมาส 3 ของสหรัฐฯ เติบโต 3.4% ดีกว่าคาดการณ์ แม้อัตราเงินเฟ้อเดือนกันยายนจะเร่งตัวขึ้นก็ตาม สะท้อนภาพเศรษฐกิจที่ยังแข็งแกร่งท่ามกลางแรงกดดันด้านราคา",
+  "crypto_gold": "Bitcoin ร่วงลงต่ำกว่า $80,000 หลังเกิดเหตุ Binance ถูกแฮ็กมูลค่ากว่า $6 billion ซึ่ง FBI ยืนยันว่าเป็นฝีมือของเกาหลีเหนือ แม้จะมีเงินไหลเข้า spot Bitcoin ETF กว่า $1.08 billion ในช่วง 3 วันก่อนหน้า ส่วนทองคำแกว่งตัวใกล้ $4,000-4,050 ก่อนจะปรับลดลงหลังข้อมูลเงินเฟ้อสหรัฐฯ สูงขึ้นหนุนการคาดการณ์ Fed tightening",
+  "watch_next": "ติดตามผลการสอบสวนของ DOJ ต่อดีล Nvidia-Hugging Face ความคืบหน้าของ Meta ในการปิดรอบ equity financing และแผนการใช้เงิน รวมถึงทิศทาง capex ของ Amazon และ Alphabet ในปี 2027 ที่อาจกดดัน margin ต่อเนื่อง"
+ }
+}
