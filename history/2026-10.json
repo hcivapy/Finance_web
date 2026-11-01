@@ -62,6 +62,25 @@
    "model": "claude-haiku-4-5"
   },
   {
+   "id": "6a6f3ff6b73e",
+   "date": "2026-10-31",
+   "tickers": [
+    "6981"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Murata Manufacturing ประกาศ Q2 earnings ที่แข็งแรงและแผนเพิ่ม capacity เพื่อรองรับ AI demand",
+   "title": "Murata Manufacturing stock: AI demand drives outlook and capacity plan",
+   "source": "ad-hoc-news.de",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUVlDWWl4eUtGY1JpdHZvelVLLUJ3dlFFSDUwaGNqelZzSDUyejA1QzBFZzZFTjZRTEdUdUwwY1lTUk1zd1lSWFRNSC1VQWd3LV9XX2N1WVFDSkxWdkV2TFBzOXgzX1A0WmRQUngtdkNmNmR0R0JhZ2s3NnR3YllLWGZ0WE1laXpjU21rTk5qM1ptVlY1UFFFakx3azRMRkVCV0E5RnU1N1dZNG5heDN4anNHX2Q1eEJxMGJRY1FNY1RIN052UUtWUllvX1U?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
    "id": "8e16d29e8f09",
    "date": "2026-10-30",
    "tickers": [

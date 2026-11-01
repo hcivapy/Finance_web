@@ -1,0 +1,24 @@
+{
+ "month": "2026-11",
+ "items": [
+  {
+   "id": "0b4bad7f2f6a",
+   "date": "2026-11-01",
+   "tickers": [
+    "BTCUSD"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "other",
+   "reason": "FBI ยืนยัน North Korea ยัง hack Binance $6 billion และขยายการแพร่ bitcoin ไปยังเครือข่ายหลาย addresses",
+   "title": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses",
+   "paywall": false,
+   "categories": [
+    "crypto_gold"
+   ],
+   "model": "claude-haiku-4-5"
+  }
+ ]
+}

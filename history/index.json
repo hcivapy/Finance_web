@@ -1,10 +1,30 @@
 {
- "generated": "2026-10-31T03:16:30Z",
+ "generated": "2026-11-01T03:13:55Z",
  "months": [
   "2026-09",
-  "2026-10"
+  "2026-10",
+  "2026-11"
  ],
  "items": [
+  {
+   "id": "0b4bad7f2f6a",
+   "date": "2026-11-01",
+   "tickers": [
+    "BTCUSD"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "other",
+   "reason": "FBI ยืนยัน North Korea ยัง hack Binance $6 billion และขยายการแพร่ bitcoin ไปยังเครือข่ายหลาย addresses",
+   "title": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses",
+   "paywall": false,
+   "categories": [
+    "crypto_gold"
+   ],
+   "model": "claude-haiku-4-5"
+  },
   {
    "id": "68a52a9fe0c1",
    "date": "2026-10-31",
@@ -62,6 +82,25 @@
    "categories": [
     "watchlist",
     "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "6a6f3ff6b73e",
+   "date": "2026-10-31",
+   "tickers": [
+    "6981"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Murata Manufacturing ประกาศ Q2 earnings ที่แข็งแรงและแผนเพิ่ม capacity เพื่อรองรับ AI demand",
+   "title": "Murata Manufacturing stock: AI demand drives outlook and capacity plan",
+   "source": "ad-hoc-news.de",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUVlDWWl4eUtGY1JpdHZvelVLLUJ3dlFFSDUwaGNqelZzSDUyejA1QzBFZzZFTjZRTEdUdUwwY1lTUk1zd1lSWFRNSC1VQWd3LV9XX2N1WVFDSkxWdkV2TFBzOXgzX1A0WmRQUngtdkNmNmR0R0JhZ2s3NnR3YllLWGZ0WE1laXpjU21rTk5qM1ptVlY1UFFFakx3azRMRkVCV0E5RnU1N1dZNG5heDN4anNHX2Q1eEJxMGJRY1FNY1RIN052UUtWUllvX1U?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
    ],
    "model": "claude-haiku-4-5"
   },
