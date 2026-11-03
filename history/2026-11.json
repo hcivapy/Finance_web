@@ -2,6 +2,180 @@
  "month": "2026-11",
  "items": [
   {
+   "id": "a321d06a9233",
+   "date": "2026-11-03",
+   "tickers": [
+    "META"
+   ],
+   "direction": "unclear",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Meta ประกาศแผนบอร์ด $20 billion อย่างไรก็ตามระดับความต้องการไม่ชัดเจน",
+   "title": "Meta eyes at least $20 billion from potential bond offerings, Bloomberg News reports",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZ0YxUHNFS2hBeHVPODkxZXVIMzE3b2xxLVFkOGxHUmJjSHJGUlV4Z01pZ1R0cm03bmpaQzd5TUxLSEk1Q2xydElDS1B6S2VnWkZoTTgzN2k4NFlrOWVOT2xJNmhRUEV6cEd3S09IQURYNHpISjhrWHk4QVU3aXROWUxEUDRGbkdpekdFalZ4X1lQdWsxT1lYTkRzLUtMMDBjYk5nQm8yendHZERTR0xzNFpTTGx3RFhCanRj?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "48410ba4dc7c",
+   "date": "2026-11-03",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "unclear",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Alphabet เริ่ม bond sale €6 billion ทดสอบความสนใจของตลาด",
+   "title": "Alphabet kicks off €6 billion bond sale, tests appetite for tech debt",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSm5nTThDOUxTZDlERFZrWjg0WllEVktOcXZOWGdDQWtvX3VIQXhaWGc5amxQMHdacndmRng1R3pnSko1ZnV5OExhbVVRVGh5c2RtYUw0dmNfODU1NklnbXp1dkx3ZHlpSTAtY01WOGY5SkpFTnRGaXo4OEZ0cVUweTl2bk1hTFFqbC1hM1I1MUVraXdhWVRoTWJkZjJGVDlmSmZEaEs4em0tVkhSUjdRMjlMaU5EQ2M?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "1333aa1e61b8",
+   "date": "2026-11-03",
+   "tickers": [
+    "META"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "regulation",
+   "reason": "Meta ยกเลิกข้อตกลง business terms เกี่ยวกับ web scraping หลังแรง outcry จากสื่อ",
+   "title": "Meta delays new business terms after outcry over potential web scraping of news sites",
+   "source": "AP News",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQal96aHYtRlVIOHVoRThhTHpjZ1RqekxZYnpmQ1kxZE9lcFBIVE9wVFFGazVjd0V2dTAzU0tXa3dZbm4yaFV4SVNfWU9qYUp5N2xyOHk2MTRGcTZuX0xiSDVvaHUyZTdZb3BHak1Tc3lCQ243Z05xeG42MnJfcU55bHg2MFg0N3Fzb2lCMWdLbFlCSDdVejhXWmU0XzR6VWUxaGx2ZUpQN3A2Zjd2ZTRhNFB3Y3FudHRGdHJV?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "b56f06b2b06a",
+   "date": "2026-11-03",
+   "tickers": [
+    "TSM"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "competitive_advantage",
+   "reason": "Intel foundry push ทดสอบ competitiveness กับ TSMC ที่ความต้องการ fab capacity ยังสูง",
+   "title": "Intel foundry push faces critical test after stock's 45% plunge in October",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/02/intel-foundry-faces-critical-test-after-stocks-45percent-plunge-in-october.html",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "3445ae9ceff8",
+   "date": "2026-11-03",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Alphabet เจรจาซื้อ assistant startup Howie AI เสริมความสามารถ AI",
+   "title": "Alphabet in talks to acquire assistant startup Howie AI",
+   "source": "Axios",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPN3Y0Z2hMejRvRHFGeFpBTEgzN3ZoQktOQ2R1WkE3V0pKTThFZnF5YUdkdVZldF9nMDlNZmFrRlBmM1RGRjRrRDl2c0NWUzFIRE1YOGtnVmhLVUFWVU5KYmx0Ym9SNXNEakRtRm52MThhMUJqcnltWmpfYW1tQkpFdHRNai1NaUVadXQzSw?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "7692140d4210",
+   "date": "2026-11-03",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "unclear",
+   "importance": "medium",
+   "impact_area": "competitive_advantage",
+   "reason": "Nvidia CEO Huang อนุมัติ Marvell-Lumentum megadeal $103 billion ดูแลความสามารถ ecosystem",
+   "title": "Nvidia’s Huang Gave Blessing to Marvell-Lumentum Megadeal",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-03/nvidia-s-huang-gave-blessing-to-marvell-lumentum-megadeal",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "55b8c945e66f",
+   "date": "2026-11-03",
+   "tickers": [
+    "MU"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "other",
+   "reason": "Micron คาดจะเริ่ม massive stock buyback ในดิสเซมเบอร์สะท้อนความมั่นใจในแนวโน้ม",
+   "title": "Micron Expected to Launch Massive Stock Buybacks in December. What to Know.",
+   "source": "Barron's",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PaEJIZWFJMXNaTnNieTMyTzFvT1NtOVVPT1FURXRpTEtQdWtIVDl6VTZsWjZrLWQyTDhHc19qUUN4OVNkLUpqUjN2Q3FLemM1SzNnb1VwcldfSmIwVzJ5VUpLWmQ4NFhPdWoxZ3BOczRuYmdzUEFxdEdIVTFCSnM?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist",
+    "products"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "1a2c8b42a801",
+   "date": "2026-11-03",
+   "tickers": [
+    "CRM"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "Salesforce ซื้อ Cresta startup สำหรับ $2.7 billion เสริมความสามารถ AI customer support",
+   "title": "Exclusive: Salesforce Acquires Startup Cresta for $2.7 Billion",
+   "source": "The Information",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWm95Y2tDemxpeUFueHdIU3ZuUTN4MC1VU3dGc2hpWDZWOWZJOTNNQXVNd1ZMaXRLQnA0TTN1OExoM3JyUkpOeC0yNnB1SEcwdjBleXItRmFidjBuaEw4NDBhQllEejgzdlpyN1JSYzhja0FYZkYzNllLcWp1SndMZzRDdVo3MlVkNXBYM2c5aXVMS2lsaUE5Qzd4Si1SZw?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "61f5a139eb31",
+   "date": "2026-11-03",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "competitive_advantage",
+   "reason": "Marvell ซื้อ Lumentum $115 billion deal ครั้งใหญ่ Nvidia เป็นนักลงทุนเดียวกันรองรับบริษัท",
+   "title": "Marvell doubles down on AI boom with costly $115 billion Lumentum deal",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOelFpUlRuWUdrd3oyYkZTNkxFMW9mQlBTY01YTl9ERVRsYTc1VGNWQjR1VF90aEcwY01sTDNXN3NiWVBZNTY4aGVFSlR3WlBlb0laSkptRS1EMF9fMGlna1BXSVExN2dFVGlTNWMyQzYyM1RsYm5pMGxXOWxhbmp1UGRYVjk3RVA0b25WWVZPcFZMS05IOE1CTUgzY1BsQWY3MW5DbDF1bGs1M185UlM4cjlB?oc=5",
+   "paywall": false,
+   "categories": [
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
    "id": "b9467a7bd301",
    "date": "2026-11-02",
    "tickers": [
@@ -18,6 +192,141 @@
    "categories": [
     "watchlist",
     "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "a522a2ea8c53",
+   "date": "2026-11-02",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "SpaceX เจรจาซื้อ Boost Mobile เพื่อขยาย wireless coverage และใช้ Starlink network",
+   "title": "SpaceX in talks to buy Boost Mobile or use its network, Washington Post reports",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWE5XcHI5ZDVTSTViS05jTG9pTGdTV2UxVUpuZkpLeF9Bc29MSWVza3VXeTQtNEc4VmtpMG02dWduN2dqUXFLT2N6WTZSd2g5S1VXVGY4TDB5dVpkSGZMYUttRm50U040WXJ0emt1dTZkTEFjQnI1YTRuVFpWV09jbGQ5M08tRllhM2hMZWM1ZGN5VVpnR2FpN3QySlZnWGtxYWZGV0JzbGRYR3NpZksycGFfeG5UVFlCUVROYXlqZlh1Snl0NmJOQmhlMA?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "f467e958c1ab",
+   "date": "2026-11-02",
+   "tickers": [
+    "6981"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "AI demand แข็งแรง ทำให้ MLCC supply tight สนับสนุนการเติบโตของ Murata",
+   "title": "Robust AI-Demand Tightens MLCC Supply, Enabling Medium-Term Growth for Murata",
+   "source": "Morningstar",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTEtMWlZiUE84dXJtdnUtZzc3RWdoTWxlMnk1Z0MtOXJ4dU84ZVp4Q3VYVzdnSjAyNm05Z3gwRW9aNjZ4cktwajhhWUFXbUFvT05fMXNHTDlTQ2hHQ0Q5ZWdRQUFKamZxMF9QeGxMYlBRbE1JNXZTZGc5cS1UTTdZYnd5SlJfUXFYa3Bod294aE1EZkotX0VtMXpkRHp5NHpBaGZpb282bEtoM01xakF5cXRTeGY4UDRrWkNfVHB5c1dZaFFRSXpz?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "d75e17fe765c",
+   "date": "2026-11-02",
+   "tickers": [
+    "6981"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "Murata ลงทุน JPY1 trillion ขยาย MLCC capacity เพื่อรองรับ AI demand",
+   "title": "Murata to invest JPY1 trillion in expanding MLCC capacity across Asia plants",
+   "source": "digitimes",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTzBnQVFQY2I2ZmxSZU8zRlVGMjBCeUt4UDF3cmNCeEFuNFh3c1h5MjZkdEdUUWlBNzY2MHBKRFhYMHhVRUpsX2U2dEtPdGVUSmFhUlNFVjdhNlcyakx1c1puRVAwLXhiQXA0QllFSUM4ekExd2s3WE1vcy1TaFJNRDhpaDlBX2J6VWFz?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "1bd219b8ea28",
+   "date": "2026-11-02",
+   "tickers": [
+    "TSM"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "TSMC $265 billion campus ในฟีนิกซ์ ขับเคลื่อน expansion สหรัฐฯและการว่างานสร้างความต้องการ",
+   "title": "TSMC’s $265 Billion Campus Is Driving a Real Estate Boom in the Phoenix Suburbs",
+   "source": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcTRqYm9vX2Q3QmNhOHlVckZhOThOdFZ0dXlYQmJLcm1ST0ZFdXZVN2FXSWJZV0hpM1ZWMjNmMGppRDU5OWFUVGVueENHSWg0N2hpVlZjTXhlelFUM2ZPT0w1UFJuOFZwNklDMmtRbmw0RmFQcU1oQmQ4SEZ6LXp3M1FNeXh1NEFtbDNxUURhcGlwMl9YVl9SUmRRbnhfT2k4bjNJWENrMlJ1NThtQV9iaGxURQ?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "21a320b19a22",
+   "date": "2026-11-02",
+   "tickers": [
+    "META"
+   ],
+   "direction": "unclear",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Meta ลดลง bond offerings จาก $20 billion ขณะที่ Oracle เพิ่มเติม $20 billion สำหรับ AI",
+   "title": "Oracle Raises $20 Billion for AI Growth as Meta Weighs New Debt",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-02/oracle-is-offering-10-billion-of-high-grade-dollar-bonds",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "e41acbc8b0c9",
+   "date": "2026-11-02",
+   "tickers": [
+    "BTCUSD"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "other",
+   "reason": "Brazil's Mercado Bitcoin breach $40 million drained สัญญาณเสี่ยงด้านความปลอดภัย crypto exchanges",
+   "title": "Brazil’s Mercado Bitcoin halts withdrawals after $40 million drained across 10 chains",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/business/2026/11/02/brazil-s-mercado-bitcoin-halts-withdrawals-after-usd40-million-drained-across-10-chains",
+   "paywall": false,
+   "categories": [
+    "crypto_gold"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "d1e126379cf7",
+   "date": "2026-11-02",
+   "tickers": [
+    "BTCUSD"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "other",
+   "reason": "Binance customers ถอน $3.6 billion หลังเปิด withdrawals ETF ขาดทุน $643 million",
+   "title": "Bitcoin eases to $77,900 as Binance customers pull $3.6 billion after withdrawals reopen",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/markets/2026/11/02/bitcoin-eases-to-usd77-900-as-binance-customers-pull-usd3-6-billion-after-withdrawals-reopen",
+   "paywall": false,
+   "categories": [
+    "crypto_gold"
    ],
    "model": "claude-haiku-4-5"
   },
