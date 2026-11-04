@@ -2,6 +2,104 @@
  "month": "2026-11",
  "items": [
   {
+   "id": "907f81b63917",
+   "date": "2026-11-04",
+   "tickers": [
+    "AMD",
+    "META"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "other",
+   "reason": "AMD กำหนด $1 billion quarterly charge จาก OpenAI และ Meta chip deals ส่งผลต่อ profitability",
+   "title": "AMD's OpenAI, Meta chip deals trigger $1 billion quarterly charge",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPY3RKZ3JJTFBHVzJUVXg5b3plRk1ia1FPSFhZNE9FUEtPd3pBQ2ZSa2psVmphTk43UEs2cUxxc1ZfMDRYOUFzMHhROXN5WmoxZURqU29xRDVhS05CRnFJZjZwTHNySkJGbzd1Z0ZadDdlcUdxaV9CSE1xUERDQXZ4S1hWT0dZME1mV1VpTW45dXVMRzNiRmcyZHN0Ql9mbHlpdzBZd216czZCY29ydzdZbGtWSFByRDdvcGc?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "b49be52d530f",
+   "date": "2026-11-04",
+   "tickers": [
+    "META"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "other",
+   "reason": "Meta ระดมทุน $15 billion bond sale เพื่อสนับสนุนการลงทุนใน AI infrastructure",
+   "title": "Meta raises $15 billion in five-part US bond sale to fund AI expansion",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ0dOQjhPM1A5WmJrZFlkRV9MeFZLNHJZakRnUzQwa0ZpY1J2eXVuZmJ6QkQ3TXpZY3Q0VW9tWlJ1S0tQU25YbHZqS3QwUEFnZmlFcjJMZ2t3V19QX2ttXzNMTFNHS3BsWU9qOFFJamd6R2ttQVE3bnM0MGRlNUJpTzY0WXNzMnlMSS1fRDJzWVpoYUhreERlblhKMA?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "256e63cf5cd6",
+   "date": "2026-11-04",
+   "tickers": [
+    "AMD"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "AMD ปรับ guidance ขึ้นกับ data-center sales surge แสดง AI chip demand ที่แข็งแรง",
+   "title": "AMD forecast eases AI spending fears as data-center sales surge",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNM01ic0VHVkhaaTh2RV9KVV8zNHFCNW1TZnRlc29mMDg5T200aGRFZkdhd0JtYmtiZGt4LVJRdTdzWlV4dnhnRk9WVW5NWE1QWEFXSmhnZFVDNHpUVk94b0NFOEt4MXNLRWFmYTQzZnlZN3VvTGNtVzZFNnFHQVJ6NWlISXlsNFFBYnVVMnhXTVlOUHE0MWk2TWhYUFgtQ2Yzc1JzVHVRNmo5RmpvQ3Qwc3E3bkJVQTRnQ2JIX2x5NVg?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "3daa08a3e85f",
+   "date": "2026-11-04",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "regulation",
+   "reason": "EU court adviser เตือนว่า Google AI chatbot อาจละเมิด copyright rules สร้างความเสี่ยง",
+   "title": "Setback for Google as EU court adviser warns AI chatbot may breach copyright rules",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPS3A5SlVKWVF6XzVHRldMWS1qd1FqWV9sVnF6RFJiMTIzd18wZUgtc1VtOXJabjY3LThCR045bFBrVzcyUmxJUDFWajYtX1l4RkVxY0xHTUZlRUFlR2dkcmtqOXI5MzIxMS16VEVBSE1JcExxbkJrVkk1S3NGa2g5WjhVZEJXczA3S0NUOVFudElESjBaMExucVBLQzRCLUJrVU9icU9fSkkyb1FoR2NfT29hT2JSbmhaMW9Z?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "97217adf6ed5",
+   "date": "2026-11-04",
+   "tickers": [
+    "MU",
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "other",
+   "reason": "Micron และ Nvidia ได้ momentum earnings boom จากความต้องการ AI infrastructure",
+   "title": "Audi Announces Its First U.S. Factory; Nvidia, Micron Drive Earnings Boom",
+   "source": "WSJ",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQmNYbU14T29fbUlGcmZXY1FYaE9vZEVSaWpRU3NvT25oSDBuS2NKMEg2Ykk2ZEVDWHlOVXV5MUNJb3V3M19vVlBfNlVSWGwtZmdtTlRoMURzRzNmTWZZd3E2cFk3UnpLZllLcW9seTlBdnA4N1dpS01zYnpzSHRhWEJ5VXF2OGFWVU55UDFQTlpIWGJrYnNDVFhtaDhoWDI3M3dlSnc5dDlvN2lxbFhGRg?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
    "id": "a321d06a9233",
    "date": "2026-11-03",
    "tickers": [
@@ -176,6 +274,121 @@
    "model": "claude-haiku-4-5"
   },
   {
+   "id": "68dd0b3484cd",
+   "date": "2026-11-03",
+   "tickers": [
+    "AMD",
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "other",
+   "reason": "Samsung จะผลิต AMD และ Nvidia chip parts ที่ Texas plant ที่สอง เพิ่มกำลังการผลิต",
+   "title": "Samsung to make AMD, Nvidia chip parts at second Texas plant, Maeil Business reports",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdnFHVnpXOTk4UEYwSlJ5WHhOaUNkVEtPN2o4N3hnSDl2MW12ejZscWRBNnAyRUdyUnhSbGlVdS12UGwzUDFnNlNiWmFzY3Bya3E0NjZIMDhBZzN3YWNJWlZMaGF6amFORVJiVXlONHZrOVFEcW5VbGV6bUF3cDdJbV83dnJXSXh0NnF1RUlkWkJkdWhsbEZRWVJkeXo5THhPLUl1LTFZUVgwM3JLZGhnTGsxeHJ0OFVTRktPOEZpVm9Cc2M5QkVUcTlrZw?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "b0663eb0d9f5",
+   "date": "2026-11-03",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "regulation",
+   "reason": "Nvidia สั่งให้ data centre clients ลดความเสี่ยง China exposure ตอบสนองการควบคุมส่งออก",
+   "title": "Nvidia orders data centre clients to reduce China exposure, FT reports",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcDF4VTJJTTNQYW1keXlqU2pZWks4ak1McFRsVFhtYW1XSkxNMC1xSHFiVk1aZjFINmFsY1VXVlN4STVVOXRaSmVIZFNJMG9QdmdJdXB5R3R1dzRidzVpVnJWanNWeGRwREZweFdIWGRGdGhYclhJT2FXYVNWdkpueXVTcTVuZXE2RDJjVXFiUEh4TElDS0k2b3FLMUFoeGxjOVRmRWI4VjYta0tadVFXZ1ZJQ1JFZHJZY3p4cTdn?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "d554cf5ecc70",
+   "date": "2026-11-03",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "other",
+   "reason": "Nvidia และ Equinix ร่วมมือเสนอ AI supercomputers ขยายช่องทาง revenue",
+   "title": "Nvidia, Equinix team up to offer AI supercomputers",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tOWlwbUw3anl1eGJvc3ZiUjhCUUZYUS1hNjJXSXZWUjFWenNwUUxQcGNDaTZFcXhKTEVYdXAtMi13MlNGbGhIVWw0d0czR2lySkJQOGxLV0lxM01lOGJ3YVUzMVM4VEk?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "6aacd3b66b23",
+   "date": "2026-11-03",
+   "tickers": [
+    "CRM"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "other",
+   "reason": "Salesforce สมบูรณ์ acquisition Cresta ด้วย $2.7 billion เพื่อเสริมความสามารถ AI",
+   "title": "Salesforce continues spending spree with $2.7B Cresta buy",
+   "source": "Axios",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPc0daWjluQUtiS0dVaXU0UXBYRUFzVFNXeUw3REtoaHBCY3JwR1NzWjd2eE41SjJqcDBYRGMzTy1jakl1MzhXRjhLMEhIWmcxSE5GbEpqeGIwdlRVVUJ4ajRjNzNjamZna1NuaU5pb3ZyY0I3ZlJwbGQ4N1NIV184UXZtZHJSekNjMXQya2ZSQ3Y4NXlVbGNZb1ZvX0k?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "3dd80ef3ecee",
+   "date": "2026-11-03",
+   "tickers": [
+    "BTCUSD"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "other",
+   "reason": "Bitcoin spot ETFs outflow $399 million และ Binance customers withdrew $4.72 billion สะท้อน market weakness",
+   "title": "Bitcoin steadies after dip to $76,300 as ETF outflows and midterm elections weigh on crypto",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/markets/2026/11/03/bitcoin-steadies-after-dip-to-usd76-300-as-etf-outflows-and-midterm-elections-weigh-on-crypto",
+   "paywall": false,
+   "categories": [
+    "crypto_gold"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "02c02bbdf8c5",
+   "date": "2026-11-03",
+   "tickers": [
+    "BTCUSD"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "other",
+   "reason": "Liquid's bitcoin IOUs exploit $320 million หลังจาก September bug แสดงความเสี่ยงในระบบ",
+   "title": "Liquid’s bitcoin IOUs are fully backed again after a $320 million exploit",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/markets/2026/11/03/liquid-s-bitcoin-ious-are-fully-backed-again-after-a-usd320-million-exploit",
+   "paywall": false,
+   "categories": [
+    "crypto_gold"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
    "id": "b9467a7bd301",
    "date": "2026-11-02",
    "tickers": [
@@ -327,6 +540,25 @@
    "paywall": false,
    "categories": [
     "crypto_gold"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "9c33833a8429",
+   "date": "2026-11-02",
+   "tickers": [
+    "MACRO"
+   ],
+   "direction": "unclear",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Marvell agrees buy Lumentum $80 billion deal combine AI enablers แต่ไม่เกี่ยวข้องบัญชีรายชื่อ",
+   "title": "Chip Maker Marvell Agrees to Buy Lumentum in $80 Billion Deal",
+   "source": "WSJ",
+   "link": "https://www.wsj.com/business/deals/marvell-to-buy-lumentum-for-80-billion-in-all-stock-ai-deal-c9fd43a6?mod=pls_whats_news_us_business_f",
+   "paywall": true,
+   "categories": [
+    "deals"
    ],
    "model": "claude-haiku-4-5"
   },
