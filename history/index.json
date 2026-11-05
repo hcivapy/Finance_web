@@ -1,11 +1,145 @@
 {
- "generated": "2026-11-04T03:54:40Z",
+ "generated": "2026-11-05T04:14:34Z",
  "months": [
   "2026-09",
   "2026-10",
   "2026-11"
  ],
  "items": [
+  {
+   "id": "16be785c0718",
+   "date": "2026-11-05",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "unclear",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Goldman และ Apollo หาผู้ซื้อสำหรับ SpaceX AI chip deal มูลค่า $40 billion ที่อยู่ในขั้นการหาคู่ค้า",
+   "title": "Goldman, Apollo seek buyers for $40 billion SpaceX AI chip deal, Bloomberg News reports",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMWUxSzVqTVBwUmFlWHFWS0xiRTN1ZVR1TXRUZi01bHBQbF9VOTl1N05uYk5HSGs2NVFCR0hJYVBVNjBKQUR0MlV6ZnRBc3pHVDFHRzAzZUZEaFU4elRlN0lLYXc2NWRzZWNHaVRkOTZTeHZvNGFEU0NXVUZienFBbTBYWlU0WE9BanBDeTVoZG41MW92cXV1OEIwbWNydWZkWjhmUmk3OUx0c2dxUndKWjFxYjFpT0t0eWpadENSMm1OdlQwVk1GdFEyQkVyeHFmanc?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "405e7818eb01",
+   "date": "2026-11-05",
+   "tickers": [
+    "META"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "competitive_advantage",
+   "reason": "Meta ซื้อ AI coding startup เพื่อแข่งขันในตลาด AI-powered software development",
+   "title": "Meta bought an AI coding startup.",
+   "source": "The Verge",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPM3hUTnlvZ2duV1lrWGk2YWxNSzRtMElxUmQ5VHpkWE1HbXBsNG5HNnctdWVLOHJueFoxNGhPSGJ3ajQ3WVV1dmxzQVNreVRWcUI2Y1RaUFJqa3BBSHdtUFNHNS1iS2xuZzdVWkthUTdZd0kweExuOVFDU2JtQ01RRnBjaTNlYVJNZFh0T1IwZw?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "f0c19c3d69f2",
+   "date": "2026-11-05",
+   "tickers": [
+    "CRM"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "revenue",
+   "reason": "Salesforce Agentforce Memory update ช่วยให้ฟีเจอร์ใหม่สำหรับ enterprise AI agents",
+   "title": "Double recall: Inside the Agentforce Memory update",
+   "source": "Salesforce News",
+   "link": "https://www.salesforce.com/news/linked-content/double-recall-inside-the-agentforce-memory-update/",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "c0e6d61c3498",
+   "date": "2026-11-05",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "other",
+   "reason": "Isomorphic Labs (Alphabet subsidiary) ในการเจรจาหา funding ประมาณ $5 billion สำหรับ AI drug discovery",
+   "title": "Isomorphic Labs in Talks for About $5 Billion in Funding",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-04/isomorphic-labs-in-talks-for-about-5-billion-in-funding",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "27f44ae503d7",
+   "date": "2026-11-05",
+   "tickers": [
+    "MSFT"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "other",
+   "reason": "Microsoft ลด data center spending หลังจาก delays จาก cloud firm Iren",
+   "title": "Exclusive: Microsoft Lowered Data Center Spending Following Delays By Cloud Firm Iren",
+   "source": "The Information",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYVJ5WmdRNU81TGVkcGpRby1jRGx5QnV6ZVFUUTgxc1U1Q2JxOUFCYXNrQVhnTlZMRlhGdW80RUZObUVudjl6QTlNVlM4X2t4ek9KNkw1N3dyVG1jUUVuZFlyb0drYm55Z29DNVctWjVYQVJIVDVaeHZXR1Q4SkVHaW9aS2hYWWNEbGhrc1JNcjBQbXVDUjl4MEZIUFFYS1RHOFp1R0FFdDV2NjZJb1lVb05PTDZOTF81RWJhUGFESQ?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "a9f6cc492cbe",
+   "date": "2026-11-05",
+   "tickers": [
+    "XAUUSD"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "macro",
+   "reason": "Gold ขยายขึ้นเหนือ $4,100 เมื่อ dollar และ yields ลดลง",
+   "title": "Gold Extends Rebound Above $4,100 as Dollar and Yields Decline",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-04/gold-holds-above-4-000-as-dollar-yields-fall-on-midterm-result",
+   "paywall": true,
+   "categories": [
+    "fed"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "a540c13a5d74",
+   "date": "2026-11-05",
+   "tickers": [
+    "BTCUSD"
+   ],
+   "direction": "unclear",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Trump Media ย้าย $342 million bitcoin ไป Crypto.com ตาม blockchain data",
+   "title": "Trump Media moves $342 million in bitcoin to Crypto.com, blockchain data show",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/markets/2026/11/05/trump-media-moves-usd434-million-in-bitcoin-to-crypto-com-blockchain-data-show",
+   "paywall": false,
+   "categories": [
+    "crypto_gold"
+   ],
+   "model": "claude-haiku-4-5"
+  },
   {
    "id": "907f81b63917",
    "date": "2026-11-04",
@@ -101,6 +235,257 @@
    "paywall": true,
    "categories": [
     "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "ad2b9254395d",
+   "date": "2026-11-04",
+   "tickers": [
+    "META"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Meta ได้รับคำสั่งซื้อเรคคอร์ดสำหรับการออก euro bond ครั้งแรก สะท้อนความเชื่อมั่นของตลาด",
+   "title": "Meta draws record orders for debut euro bond sale, Bloomberg News reports",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOclIxSG9rZm1QNjJmV1I2N0hxY1V1RXl3NEpPQTF2ZF90RWlBdWhpTXd6bFB0UDdUbi1IenJFNXB0ZGNHM05JUDRzYmo1MEU5ZTlJbk1sVnRCY1BXcjF3WjBxS1VISDRvY1hqMFJaOS0xWkVUVFE3cV9TdEFDQ3I0TXRfbmhfV0xfd3VtYThyaWhOSWpmbGJNbmloTXJockNqMXYzNUxhUWhyOEkxekJjT1BiMA?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "products"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "ba415a797f10",
+   "date": "2026-11-04",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Google ให้การสนับสนุนด้านเครดิตให้ TeraWulf สำหรับ data center ของ Anthropic",
+   "title": "TeraWulf gets credit backstop from Google for Anthropic data-center project",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdDRnZlVlY01kVjVYczh3YzN1N3ZrLWlLRFVURERNQ0lFcDFURElfOVJ3OXpvR3RodUpvaWZWaGtQMDBaNUFYVUNDZFFicC1DclF1aWl0dERFYkJXMVhFZnAwWE1uV0t2VUhkQmhYajRlWjZjWHpiRUJJR1ZtakdPQjNRWXRBRzFOLTRZZktDSldPcjFNa0ZSQm5yUWdOWGNHTFVvVGduOUQ5SlB3NHhHV2gtSQ?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "3f9185bc833c",
+   "date": "2026-11-04",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "Qualcomm ลงนาม major deal กับ SpaceX สำหรับ 5G infrastructure สำหรับ Starlink Mobile network",
+   "title": "Qualcomm signs major 5G infrastructure deal with SpaceX for Starlink Mobile network",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVWZCaVBsMkw1X24ydGtHeEN2cVhCZ09DcV9TTG9pQkJYMXlhUDZLOElIS21YbEdyeDdxM2RRY2dCazN1MXRFdUNNeEtHck05SFNUd2lpVkw4N1FiakdlTk1kWDFpZ08ycjlSajV0V29sdkJsZEVDbTZOc21ON2t2dkxtbDRDRmx0OFVIdWMyWXo3RUd0ckswYkRyV3RnekU5bmJyNXlvelR6VTRVeElGM2U2Wll4azlpbmNvbURfWDhDX29CMnRkN3ZWaHF6S3VHTTdPOQ?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "58ce6eee04f7",
+   "date": "2026-11-04",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "other",
+   "reason": "Google วางแผนลงทุน $15 billion ในมาเลเซียในปี 2027-2028 สำหรับ data center",
+   "title": "Google to invest $15 billion in Malaysia in 2027 and 2028",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPY1FaR0wwZ3NzY3ZuM1lwaExfWVRlOGVrTGFJakc1dHZsY2RyMV9tYXNVbDJKYVczUk1DUFVCYURtejVSOTNtR1ZzMVh2Z2NSQjl5UG9jRzlza0h6NUFMS3EzTnRsQTlmWTF4dzd6bkpfbnV4TFdLRFNST0ZxblFIMjVIdzIwRE9pUWNKUU1LWVJqRFlhZFhXWFhzb1owSkU?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "53bcbdf7e67c",
+   "date": "2026-11-04",
+   "tickers": [
+    "AMD"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "AMD รายงาน data center revenue เพิ่มเกือบ 2 เท่าใน Q3 และคาดการณ์ว่าการเติบโตจะเร่งตัว",
+   "title": "AMD's data center revenue nearly doubles in Q3 and CEO Su expects growth to accelerate",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/03/amd-amd-q3-earnings-report-2026-.html",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "3c7ec71c4672",
+   "date": "2026-11-04",
+   "tickers": [
+    "6981"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Murata Manufacturing มีแนวโน้มดีขึ้นเนื่องจากความต้องการ data center เพิ่มขึ้น",
+   "title": "Murata Manufacturing stock: Outlook rises as data-center demand accelerates",
+   "source": "ad-hoc-news.de",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOM0ZaUDB2TDVDQmo5VGZTS0xiUzhnUC05ME95bjNlN01aME1LdVV2ZWNqVFZzajNMUEZtTjJDZ0dRVnNfQ0F2WDFHQzFXa0pvdmp1NzlhMnhVVzNaTkFtci1uT045RThJaGhMSlBmMnRrSzQyRFVEaVU0YXdweFIzRVFkRjNabkVDUGtoM3o2Z2tFOE1yY3AyUE94NDVBVlE0Z1VBSTFESTlfVzZERUgzNUxHSE9uS3NWMW1zUkxiU1poU2NxR0xiS2Y2M3dMRFFxNWpV?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "357660c9f0eb",
+   "date": "2026-11-04",
+   "tickers": [
+    "CRM"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Salesforce Agentforce Coworker usage พุ่งขึ้น 21 เท่าใน 3 เดือน ที่มี 185,000+ ผู้ใช้",
+   "title": "Salesforce’s Agentforce Coworker Usage Soars 21x in Three Months as Enterprises Delegate Real Work to AI",
+   "source": "Salesforce News",
+   "link": "https://www.salesforce.com/news/stories/agentforce-coworker-surpasses-185k-users/",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "fdcaee002c0d",
+   "date": "2026-11-04",
+   "tickers": [
+    "MSFT"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "competitive_advantage",
+   "reason": "OpenAI ทำ deal เพื่อ target GitHub ซึ่งเป็นคู่แข่งกับ Microsoft",
+   "title": "Exclusive: OpenAI targets Microsoft's GitHub with deal for startup",
+   "source": "Axios",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5OaUdITlV1WEtmam1aNDlWMG4yd1hMZXBSc19qTExTVkdOeTgtbkt0VGtzWklpUlg0VENqOXBmUjlZUjEtNmNPdDdBak01dmRZTlAtd0kyTlA4WFlQdFVVUHluVFpKNjZPQS1CRWRHcw?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "4e92ff8857a7",
+   "date": "2026-11-04",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "unclear",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Google อนุญาตให้ school ปิด Gemini แต่ไม่สามารถปิด AI ใน Search",
+   "title": "Google Lets Schools Turn Off Gemini, But Not the AI in Search",
+   "source": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPX01PbzdCYy1Ndkt3Sjg2cG51Q1pEbzJJa2dSMzAtUUYwZ1VTQTJ1djd3bW5uVnVZdHQ1d2NZMlRGbTRRXzg0Qzh2T0lwa0VOSjkzTV91ekJlam51WDJvU3FoS2NxazI4R25CSWt0TnFxT2YzRjlvTU5YNVYwT1VqYS1Oajd4QVVPb1BEc09oZ0xodDk0SFdvUzYteDRlYXBjdWRMQTZDVEQ1N0hwYTNRQg?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "cbf814f6e047",
+   "date": "2026-11-04",
+   "tickers": [
+    "CRM"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "competitive_advantage",
+   "reason": "Andavi Solutions ซื้อ Infilect เพื่อขยาย AI-powered retail execution บน Salesforce",
+   "title": "Andavi Solutions Acquires Infilect to Expand AI-Powered Retail Execution and Agentic AI Capabilities",
+   "source": "PR Newswire",
+   "link": "https://www.prnewswire.com/news-releases/andavi-solutions-acquires-infilect-to-expand-ai-powered-retail-execution-and-agentic-ai-capabilities-302929466.html",
+   "paywall": false,
+   "categories": [
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "f59699bcd22b",
+   "date": "2026-11-04",
+   "tickers": [
+    "CRM"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "competitive_advantage",
+   "reason": "Copado ซื้อ Valo.ai เพื่อขยาย AI-powered governance สำหรับ Salesforce teams",
+   "title": "Copado Acquires Valo.ai to Extend AI-Powered Governance from Release to Runtime",
+   "source": "PR Newswire",
+   "link": "https://www.prnewswire.com/news-releases/copado-acquires-valoai-to-extend-ai-powered-governance-from-release-to-runtime-302928956.html",
+   "paywall": false,
+   "categories": [
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "3afbb19493d9",
+   "date": "2026-11-04",
+   "tickers": [
+    "BTCUSD"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "other",
+   "reason": "Bitcoin miners ต่อสู้ AI ต้องเผชิญความไม่แน่นอนเรื่อง power access และ construction permits หลัง Texas election",
+   "title": "Wall Street rethinks AI data center boom as Texas election raises new risks",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/markets/2026/11/04/wall-street-cuts-bitcoin-miner-price-targets-after-democrats-texas-win-threatens-ai-data-center-boom",
+   "paywall": false,
+   "categories": [
+    "crypto_gold"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "6aaed23fbe5e",
+   "date": "2026-11-04",
+   "tickers": [
+    "BTCUSD"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "macro",
+   "reason": "Bitcoin rises เหนือ $80,000 เมื่อ stocks gain หลัง Blue Wave midterm elections",
+   "title": "Live updates: Bitcoin rises above $80,000 as stocks gain following Blue Wave",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/tech/2026/11/04/live-updates-bitcoin-and-stocks-reverse-overnight-plunge-following-blue-wave-landslide",
+   "paywall": false,
+   "categories": [
+    "crypto_gold"
    ],
    "model": "claude-haiku-4-5"
   },
@@ -394,6 +779,44 @@
    "model": "claude-haiku-4-5"
   },
   {
+   "id": "7d736a61e3d2",
+   "date": "2026-11-03",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "other",
+   "reason": "Apollo ให้ record lending $114 billion รวม funding สำหรับ Anthropic และ Nvidia",
+   "title": "Apollo lends record $114bn as it piles into AI financing boom",
+   "source": "Financial Times",
+   "link": "https://www.ft.com/content/72cb3140-49ba-4ce1-be8c-ee5295612b55?syn-25a6b1a6=1",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "dbce7c15b542",
+   "date": "2026-11-03",
+   "tickers": [
+    "AVGO"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "revenue",
+   "reason": "Expedient ซื้อ phoenixNAP's managed VMware Cloud business เพื่อขยาย footprint",
+   "title": "Expedient Acquires phoenixNAP's U.S. Managed VMware Cloud Business",
+   "source": "PR Newswire",
+   "link": "https://www.prnewswire.com/news-releases/expedient-acquires-phoenixnaps-us-managed-vmware-cloud-business-302927268.html",
+   "paywall": false,
+   "categories": [
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
    "id": "b9467a7bd301",
    "date": "2026-11-02",
    "tickers": [
@@ -562,6 +985,25 @@
    "source": "WSJ",
    "link": "https://www.wsj.com/business/deals/marvell-to-buy-lumentum-for-80-billion-in-all-stock-ai-deal-c9fd43a6?mod=pls_whats_news_us_business_f",
    "paywall": true,
+   "categories": [
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "a4aa76955fb5",
+   "date": "2026-11-02",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "other",
+   "reason": "Anthropic วางแผนขาย $3.5 billion shares ให้ Japan investors ในการสูญเสีย IPO filing",
+   "title": "Anthropic plans to sell $3.5 billion of shares to Japan investors in IPO, filing shows",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOazUtcTBWVFNLd21jTk9YOFRDRHoyc2ZuV1haZ21JaUdIei1leFkxVVF5V0JpLXJGdV9raXhrV0k0bU1xM0g5TnR6cTA5dWNFZ3VVVUo1UHVyU3pUUWw0YjFreXNTZ3Q4TXdoazBwT1dxRU52bTkxMXlEbG95LVY1eUlLMGZHUk9hQUd4aVZxWkxMUzBMVmhELWNpaUhSaGR3V19UYy00R3UzMUVkWU80ZHl0aW9URGdlQ19RX2dmZHFreHNS?oc=5",
+   "paywall": false,
    "categories": [
     "deals"
    ],
