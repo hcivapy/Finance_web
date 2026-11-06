@@ -1,11 +1,338 @@
 {
- "generated": "2026-11-05T04:14:34Z",
+ "generated": "2026-11-06T04:12:24Z",
  "months": [
   "2026-09",
   "2026-10",
   "2026-11"
  ],
  "items": [
+  {
+   "id": "a758beaa0c44",
+   "date": "2026-11-06",
+   "tickers": [
+    "MSFT"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "IREN ดีเลย์การส่ง AI โครงการให้ MSFT และ เพิ่มเป้าหมาย capex เป็น $15B ยาวต่อระเยียด",
+   "title": "AI data center firm IREN delays Microsoft AI deliveries, plans $15 billion spending push",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSnlxQ1JoQmdtMWZ4UzhHRWJacmNRTGNCeDJmTWRRV2xpdU9xUzY2MzhVSklqMkNxeG93QVNnRUZCYUxvVUNBaHVta2lPS2VxMDlxQnZvandHTXZQVk1LNmVTakZxTzJjcHFGbjBwUHd0ajBwdl9HUERfaEsyWGNicU9yeklKMldtNldLMk5rNWpRNnMyWXY1QUNVa3lLU21tcXEwbXUzMFUzTTZtNnRN?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "3909e26c6b24",
+   "date": "2026-11-06",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "revenue",
+   "reason": "Lyft ขยาย Waymo robotaxi fleet ในเนชวิลล์ก่อนสิ้นปี สะท้อนความก้าวหน้า autonomous ride-hailing",
+   "title": "Lyft to expand Waymo robotaxi fleet in Nashville by year-end",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOa2tiTkVnWkx3ZWdXa0tOTU1ZdFRlelRpN2R5bnR3Vmo5dHVqdDBycEVpUjJ1SmxScE54WmF6dWRUVF9keWVwdk5RYXdyZEpjV0pPMmVMbFM3ZDBza1NTS1Itb0NNUHYtc0RoUnBuOHJSakxxTzJ4Nk9vMjJVVEF2dGxRdXdRdW9IY2hfZmNVQ0g1VGFOTkVBbk1PdkQybTc2bnJteTJCMnZoUWtyT2hpYXYwY3RKbnk4YWQwVw?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "ec21c6581e47",
+   "date": "2026-11-06",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "other",
+   "reason": "Google วางแผน $17B data center ในไวโอมิ่ง กลางข้อกังวล regulatory และ data center backlash",
+   "title": "Google plans $17 billion Wyoming data center amid rising threats of curbs",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSXNTLVJtQV9yc3AzLTh3VGlkVkl5M1ZmMmhjOHkzSGtCWTctUHhwMkhaaHZvLTVhUXNMdmgyNGFYVldhN2RrM0FtUVRRcnBFYnV4Zkxwa0NaRjNOSlJha1RoZ0tWeHVZaTlFb0tQdjUtMTAwNm5XdERkSDVWSjhQc1pYSjV4azVJZVYteF9zb0VCbFA5OEtUZXhnbGhLQTBZUXlkNlJpUGR1RTY4TGRzQVFWLXQ?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "30c69b66c467",
+   "date": "2026-11-06",
+   "tickers": [
+    "GOOG",
+    "META"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "regulation",
+   "reason": "Google, Meta, TikTok ฟ้องร้องเพื่อบล็อก California youth social media law เสี่ยงต่อการแบน",
+   "title": "Google, Meta, TikTok sue to block California youth social media law",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN3ZhN0lzM1RYWDl3eXBsdjZ2NU13NjJRMjB0clhpbW9rRTAwWnJIaFNGdEdhcW1tbHdfYmVQQXhSOEJUZXd6Z2Y2WVlZVDJpN3RuY1VnTE1rOHVUZkVLRGxBbGo1OWxPZkhmMGE4dkR1YWN6WHdFcnBtZDdoOFJTYU1DbnVCM0R0THhVa19xVVhIdWxpa2dRYWx5M25kNXhWTTNQbWNVV3EtQUU?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "0b82beaea05d",
+   "date": "2026-11-06",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "other",
+   "reason": "สหรัฐฯ เสนอ space launch rule changes อาจ boost สำหรับ SpaceX licensing และ operations",
+   "title": "US proposes space launch rule changes in potential boost for SpaceX",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUzZGN0pDYmZFQllRaXVhU3dwdHFPUnp6dDc5YmsycjV3NzZVc1NqYWNjblptNFpqMlNqY2tkLXI2SzJJQ3lwZFJRdU84d0JyREdVQm1mNmpReDRfdzlLaXBOdXZScEJMS1RDclJyMXFDaVJVYkptSVJDVnlGeTZ6c29kN1FOOXNYQ0ZiWEVMRmR6MU5ibWVjMTBiUVpVY3ZyMlo4MFJsNnJIUWZMTTRDZEgzZWUzSDBYeWJB?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "products"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "31ecc9f0d514",
+   "date": "2026-11-06",
+   "tickers": [
+    "MSFT"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Microsoft ปฏิเสธ option ขยาย Texas data center deal กับ Nscale บ่งชี้ strategy shift",
+   "title": "Microsoft declines option to expand Texas data center deal with Nscale, source says",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNb3YxSi01QlpvU2xqQVk1TUZQVTdjQnlqOUZwaFUzZ2txZHBJaHZ5bTVNOXpRZGV0czNzQkRCamNqNXZ2cUFoZ1JsV1l0cGFKazh4SXpjSlJ0Q1pMR0IyVWhfQkZlbTAtWFJ1ZERpbDdfNzZqaVlZUjg2a2RKNlRfS0N4OFMwSmpERG9EWng5MC1XXy1ENURJMUNWTTEyR3Q0UkE3WnRSMVJmVDAwdlJoVDhXa0h1YXpyYjBR?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "81d70524b1d1",
+   "date": "2026-11-06",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "revenue",
+   "reason": "Amazon เพิ่ม Uber Eats เข้าบริการ Prime ขยาย ecosystem marketplace",
+   "title": "Amazon adds Uber Eats to list of services for Amazon Prime members",
+   "source": "AP News",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeTB4MzItSlgwV2pIdDFjLVprQ29IMmJ2YndBMWNOMW1TOUo0RmlXTlkxSjV5OWcxNHJRb0FFVWZKeENXNUYySkpweFNtY1hRaEhGWmZCeDVkbXRXVmpwVERkdnRBSUhRY0dVSGpTOFhDOG00NkdoZ0o2eUNNS2pFOHpxV2tFanV5bXFMUy1wSVBjWWh0NmV4Tno3eG0?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "da8e3550d733",
+   "date": "2026-11-06",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "revenue",
+   "reason": "Serve Robotics launch Physical AI Services เพื่อหาท่อ hardware connectivity revenue",
+   "title": "Serve Robotics launches new business to become the AWS for robots",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/",
+   "paywall": false,
+   "categories": [
+    "products",
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "ca60d186afe6",
+   "date": "2026-11-06",
+   "tickers": [
+    "META"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "other",
+   "reason": "Meta cảnh báo US election backlash อาจขัดขวาง AI expansion plans ส่งผลต่อ capex",
+   "title": "Meta warns that election backlash against data centers could make AI expansion harder",
+   "source": "TechCrunch",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOY21mOFBzQUMwT294N0tJbjFRLTloX05WNmtsRlV5NWJHekZTSElCRG9fandsM3VyTktxNlZ4bzY3T29qemJnZlBnbjBrVkZITUdWclFWVmhLSnpkLUtWNk5Sd1ZNWnpia1NiZHJ0QURyZFYyU0ZDMnBsenhZUWFTTkV2QUd5TU85SVRZOElzTXVPV1N4OWZzeEtraEFkZEUwR3NNOF9Lc1pLQjBNbVRTUmpoaWkwZmh4dTdmX3h3?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "b929860bd262",
+   "date": "2026-11-06",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "other",
+   "reason": "Texas governor-elect ขอให้ SpaceX หยุด land negotiations อาจชะลอ Starbase expansion",
+   "title": "Texas Governor-Elect Requests Pause on Land Talks With SpaceX",
+   "source": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUmo5bGd6NWxSRkMyY09hNDJJMVdYc1RuY1B1UUlrZG4wT2hCdVY3aERmejgwR2RWZlhGRjRLeXVnYXk0X3ZaMVNhSm54LXhVQlgtU2NrS0JSSWV0dXpfUmRtMHlGYmtBYlo1RG53NjJPMTB0QnZENlp0TFJXY0FnQ01yQklnc1hIV0ZmU2lhV28tN3RYdGNvWGdWczU3cENFRHFWaFpBbVNPT3V6UzgyRURR?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "d5f1bd192559",
+   "date": "2026-11-06",
+   "tickers": [
+    "6758"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "Sony ยก outlook หลัง Spider-Man และ gaming revenue boost strengthen guidance",
+   "title": "Sony Lifts Outlook After Spider-Man and Games Fuel Growth",
+   "source": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOXJkVWJXa1NLbks1aW5XX19yUG10LVNHTllWbThsRURPRi1wWGE4U3lMT1VKT0xCYWxzTVVWU1lvMVlIOXk1ZjdqT2VNalpIbUxXOU4wQVFBTWd3NGdzVnZMX2xwMmVha2JqV1FQT1VYYmdaVUR1aHQ1X1k3N3E0RzVublVYUEtuZUgyZVFWTEYwTUhmaEJQUzRvOVJDS0RJTVdydHZUdVdnTkUxTEljSkJ1UVM?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "ae3a863b2420",
+   "date": "2026-11-06",
+   "tickers": [
+    "MSFT"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "Microsoft ปลดปล่อย neocloud (IREN, Nebius, Nscale) จากปัญหา delays และ rising costs ยาวต่อ strategy",
+   "title": "Microsoft Sours on Neoclouds Amid Data Center Delays, Costs",
+   "source": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUTR2cGs0cFlMMmd0Zmx6SjMxblBNUWJVajQtQ2tWaGVyeEswUkZvbE5NeEwtSzQxVlNodHFjalBvQU95TW5UcG9Ja3FTMWRHZEplcEFCTFZNcEhiVFlUNHVVaTlJQnpsajNUQzFIRmhJa1BsQzItMkNfZndsdHZBenV3U3lIcGtsVllpZEp1NDkxREJsd25qd3kwV05IekQ4bmVlNkxZNzc2VnRjYTBIWWJ1Rm8?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "cad66f0e3e9d",
+   "date": "2026-11-06",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "unclear",
+   "importance": "high",
+   "impact_area": "regulation",
+   "reason": "Nvidia CEO Jensen Huang ถูกกดดัน US lawmakers เกี่ยวกับสปายจากจีน อาจนำไปสู่ scrutiny",
+   "title": "Nvidia CEO Pressed by US Lawmakers Over Tie to Firm in Spy Probe",
+   "source": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbTI0MFVuSmI4SjRNUkNiRDRWb1V4eGJqNXZRb19oZHRRMzNGeWJsMm4ySWtIdG1qWmtRTkpYVndDSlI2TUpWM1gteU5QN3NpQ2c3bExmNXB5Rk5keXQ2czRlQUxsLTRZYWhQdWhTUkFkcXg0cUZvYm9vcjlLUndWbXc1QWZ5bnRmcEZ5SVpZRnQ1OGxDTjZfODY1N1lQM3plMm5TNjc2TGZkVU15bm1mQlIwOUpLZw?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "ccfd518b4485",
+   "date": "2026-11-06",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "other",
+   "reason": "Google วางแผน $17B Wyoming data center กลางข้อกังวล data center backlash ขยาย capex",
+   "title": "Google Plans to Spend $17 Billion on Wyoming Data Center",
+   "source": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNE1UblF4V2JrTFJGbnZvOWxFaURSZ3d6Y1VFRjcwWHVCcXlMQm94STFoeF95ekVHclBNbWtURXppSW1iV2NpWVFJNXdwZlU5MFd2UjlOWEhubnIyX2t5N1hhUU12MWh1QVJHZDljSjdOQk5EMHZNeWRMQ2tWUGhqdFpqR1JmMTBoUjdtZFpSSlFWU3FpaElDQV9mUzB5RWtSdnRQVmF3QTF5Zw?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "e6cf810dfdcb",
+   "date": "2026-11-06",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "regulation",
+   "reason": "FTC ฟ้องร้องว่า Amazon triple ad prices Black Friday/Prime Day ใน misleading statements ว่าคุณค่า",
+   "title": "FTC Claims Amazon Tripled Ad Prices for Black Friday, Prime Day",
+   "source": "WSJ",
+   "link": "https://www.wsj.com/tech/ftc-claims-amazon-tripled-ad-prices-for-black-friday-prime-day-ae340913?mod=pls_whats_news_us_business_f",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "0c3d5a4b00fb",
+   "date": "2026-11-06",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "unclear",
+   "importance": "high",
+   "impact_area": "regulation",
+   "reason": "US lawmakers summon Nvidia CEO Jensen Huang เพื่อ brief congress เกี่ยวกับ Chinese spying concerns",
+   "title": "US lawmakers summon Jensen Huang over Chinese spying concerns",
+   "source": "Financial Times",
+   "link": "https://www.ft.com/content/20119746-a285-482e-a0ae-336ce13b26bc?syn-25a6b1a6=1",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "01388b4ab094",
+   "date": "2026-11-06",
+   "tickers": [
+    "MSFT"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "IREN blamed Microsoft-requested networking changes for delays $9.7B AI project ขัดต่อ timeline",
+   "title": "IREN blames Microsoft-requested networking changes for delays to its $9.7 billion AI project",
+   "source": "Business Insider",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcG1rLVZMeC1NdGpuZ0xrOENTYzFELVhTeUFnMGhMR29nU1Y4T1ZlSGtxYmdvRHQ2dGd5ZlJheWhEYWFLNHg0bHhCaHNHeFVQVkRWU0MwcnUybjVyOUthc1hwYTBMMV94bTNHUDY4RHA1WXhwNlJTVlVSQkVKRVgtdnY5Q2luai13eTlzTXVhZGVGbkljQy1GdHhBRWdBQQ?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
   {
    "id": "16be785c0718",
    "date": "2026-11-05",
@@ -137,6 +464,353 @@
    "paywall": false,
    "categories": [
     "crypto_gold"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "f1f12b409cfe",
+   "date": "2026-11-05",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "revenue",
+   "reason": "Box ขยาย Nvidia partnership, unveils AI workflow builder deepening platform integration",
+   "title": "Box expands Nvidia partnership, unveils AI workflow builder",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQ2lEWV9lOTI0YTVOWDFYeGtCeEkzUThubC1qdlY3Qmdpc1NsVVZUSnNBdlR2WGdKSm1pcWprVnVQN0Y4d1N1OXRnU0h4a05wYlZyNEtLRDBDUkJ4M19qTmxQbkQ4dkVSOU9heVdIY2NPTVRHZ1pvTFYySlN4MkpoSGhNNm5KR3JBZmRXMmVjNFN4SGdBNm5kT3RuS0JiZnRHSlhnZnpB?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals",
+    "products"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "b1cd39cf9453",
+   "date": "2026-11-05",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "regulation",
+   "reason": "Nvidia chips กองสำรองในฮ่องกง จีนหยุด import approval ขัดขวาง revenue stream",
+   "title": "EXCLUSIVE: Nvidia chips pile up in Hong Kong as China withholds import approval",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZHNUQnlURFBWSTlTSE5wNWUzekR0cDZfcWQzQVRFLVNweXJiSGhtSFZ6cWdvMXF4SHpLRy1YT1Y2QjJZMGxRajNaRGQ1Y25SVGkycEphaU4zTTRJSzV0QjNPTFMxeEl0Mm9CdGFQc0JJTHBNemVoSXdkTnhsR1FNR0t1b2hoUHdfSW0yVnlGMl95Qkd4dDAtMGdhYTFhUzRhc0U1Mm9fdGxLRnhacUNr?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "8e53e975e57c",
+   "date": "2026-11-05",
+   "tickers": [
+    "MU"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Micron pause $4.5B Taiwan plant expansion หลัง labor dispute ชะลอความจุ DRAM",
+   "title": "Micron pauses work on $4.5 billion Taiwan plant, Bloomberg News reports",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPc1FIQjgxQnIzUkVoM0ZJM1BaY3Jid3NRdlpUVU9MRlNMZlB2aGRNVjJjVk5SZWRZaUo1QkhSVzh1dXpoa1dNNUxacHZnSElMd3FPOHVFR0ZGU3E2S0JQZ0kzRGQyOENPVkh2VFdSc09FbmdGUGEtQTZuUGxRamlTTF82WDczMlEzUXVzSTFfNFRYN3R0aEFFV0dRZGpZMHFrYmVUcTIzc2liSmN1MjlmbXp1ekVnSk9udS1rTA?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "d2b148fc88c5",
+   "date": "2026-11-05",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "revenue",
+   "reason": "Amazon integrate Uber Eats ใน Prime ขยาย delivery services portfolio",
+   "title": "Japan’s Sony reports a hefty profit on the back of its blockbuster ‘Spider-Man’ movie",
+   "source": "AP News",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU2ljWmhUei1PcUotNVhYcElOS0YwY0wyZTE5aVdjSEdxQS1rVTZrcDNvMDZBYmx6Q0lCWkg0RGpHVlUyVGZUVkp1eXAxZnB5STJPT3ZnSnU5blliMDk3cmx3c1k3N0o0Uk9KT2NtSGROVExGRm5yeTJHcE1OZFVxOVdVbWxfa01MX08wMEI3YlpndU9IRDhvRkVPVHFjMnVZS05Z?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "0d8ccf229196",
+   "date": "2026-11-05",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "unclear",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Google อาจรับ stake TeraWulf $19B data center หาก Anthropic default unusual hedge clause",
+   "title": "Google could take stake in bitcoin miner TeraWulf’s $19 billion AI project if Anthropic defaults",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/tech/2026/11/05/google-could-take-ownership-stake-in-bitcoin-miner-terawulf-s-ai-project-if-anthropic-defaults",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "bb957e34933d",
+   "date": "2026-11-05",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Amazon ประกาศ Uber Eats partnership ให้ Prime members $0 delivery สร้างvalue bundling",
+   "title": "Amazon announces partnership with Uber Eats offering Prime members $0 delivery",
+   "source": "Amazon News",
+   "link": "https://www.aboutamazon.com/news/retail/prime-uber-eats-free-delivery?utm_source=rss",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "1e72cee9b3e9",
+   "date": "2026-11-05",
+   "tickers": [
+    "TYOYY"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "Taiyo Yuden ปรับ FY2027 sales และ profit targets ขึ้น สะท้อนความต้องการ AI-server components",
+   "title": "Taiyo Yuden Raises Fiscal 2027 Sales and Profit Targets",
+   "source": "TipRanks",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMGk2bmpiUEtYcmZOQ19LbDRrVFRyTy1vNkFET1BQaEltQm1WMGR1UWpPcGt4Q3NyVDI0b2ZnbXRhZWpzNW9HeDBpTFNqc3JOWHc3LWxDR3dzMkVBbjFlVEt6bmxGeDFwVjRhTTdwdHJOalN4M3pBT3VmQm9jNk9GZ09GaG0xV1NVUW9yMkRnOVRzMmx5N2hJamxDTFIxQ051UDZfbTZ2RlhZdGM?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "12cf2352bd5e",
+   "date": "2026-11-05",
+   "tickers": [
+    "TYOYY"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "Taiyo Yuden รายงาน H1 higher profit และ revenue ขึ้น จากความต้องการ MLCC AI ทำให้ raising guidance",
+   "title": "Taiyo Yuden Posts Higher H1 Attributable Profit; Revenue Up",
+   "source": "www.marketscreener.com",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMVJVMUN6RktqMEFnMVhJUXhXZS03SWo3XzliWXRYMngxV29jUExtZm02WU1FUnl2N3RoanU1MXc2Vmx0bkxZQUQtalNLUk5BYjNFbW5XWEZ1V09Da0dQcF9jTDBnWkl6MHR5MVV4Qm1uR0UzOF9WbFEzZ2NnVGhfRnRWbmF6dG8za0laaVlhbDZjejIyWUsxZGhMUnp0Y3FGaVZaaUlya1JWTlNyLXVxMA?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "6a63ef873ab9",
+   "date": "2026-11-05",
+   "tickers": [
+    "TYOYY"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "Taiyo Yuden Q2 earnings แข็งแกร่ง จาก AI-server demand ขับเคลื่อน FY2027 guidance ปรับขึ้น",
+   "title": "Taiyo Yuden: Strong Al-server demand lifted Q2 earnings and drove higher FY2027 guidance",
+   "source": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPN3ZUX1V1UEhhQ0FqQjBiOHlLVDFMQVBWcmV0NGtzYl9ib0xXZHhYS0ZlTzQyWDJKSjNXZlFONXJvSW93NXduUENJa2h0eWNqS0M0dnV1X3Q5a01RMHBaT21fVGZvRlBpWU9oT3VwcEozS3RPbFRXMzB0TldoVXhtYnZfMHZJeTRFWW8ydU95dDhROVo1eV9vYmJRVjVELXVGSU11V0xBckRsa1JBd200MDBZR044QnRRWlZoYU9yd0QxanoxZlk0NElhN0gybXB6aWdGQ0FELXQ0MXdUZllWWks3RS1SMUpuV0hwWHI2cHBCcU51TURaLUV6Q1F6c2s?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "26932db605ae",
+   "date": "2026-11-05",
+   "tickers": [
+    "TYOYY"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "Taiyo Yuden profit surge จาก AI-server component demand ปรับเป้าหมายสูงขึ้น",
+   "title": "Taiyo Yuden Profit Surges on AI-Server Component Demand",
+   "source": "TipRanks",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcFZVZjhqQUp1aU1PRXR4VUZtdDVJX1IzcHAxbEJuY0RwU0xFaWpiRnMySm5kSjJsd3AwWUJUdzVtWm5WeVMxYnVIaERkNjhaTFFkTlprNl9hQk4zcWNQZ0VKVzY0enJXMVhoNzV1WVVDcExGejUyRDZ3bEc2NU9XTW9TdElWNC04V0NJcERHb1RGWWo3U1J0U2xPOXlNb2hURjZDYktjN3JaMGs?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "c7bea3f78d12",
+   "date": "2026-11-05",
+   "tickers": [
+    "MSFT"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "Microsoft ปลดปล่อย neocloud partners (IREN, Nebius) จากปัญหา delays/costs บ่งชี้ strategy shift",
+   "title": "Microsoft Sours on Neoclouds IREN, Nebius, Nscale on Delays, Costs",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-05/microsoft-sours-on-neoclouds-iren-nebius-nscale-on-delays-costs",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "d722498db3e3",
+   "date": "2026-11-05",
+   "tickers": [
+    "MSFT"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Microsoft ปฏิเสธขยาย Nscale Texas deal ก่อน IPO สะท้อนความหลังใจกับ neocloud",
+   "title": "Microsoft Declined to Expand Texas Data Center Offer With Nscale Before IPO",
+   "source": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQS3RubWFETU1KTTUzTjBEbFBmNkxGMVZudnZWRDhnNnlXdlFXUHN4Rlg1MExaa2JzdGFwbEFoOWlsMjM5YmZOdnpFT1dBV2VlMEpqaFNERVZSM0hQLWo5NmU0YlF6X1RoTDhidl9yMHYxVVB1QzRpSXp2WGpDR214M1pOTldHQ083Y2FacktrV0gzWjBOQ2VhN2lxdXJoZi1qNDBOcUZiU2lfMnpEdnJaeHotd3RGbGE4NWk3WURGcGJQNzRN?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "e5c2e666a168",
+   "date": "2026-11-05",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Amazon เพิ่ม Uber Eats perks ให้ Prime subscribers สร้าง bundled value offer",
+   "title": "Amazon Adds Uber Food Delivery Perks for Prime Subscribers",
+   "source": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYzNoZktBbENYWk1yS2MtdzRvYWpBbzFHd0twNEw3R2dDeDBGSGFoY3lsNG5VdlVnS0tDRGJvZUp6QnJxVDFCTVN1OEk2SmJfNlV6alFKa2NDcFZhUWpCeXB6Q0FhNEpNVkF5NnFtSk1fbGVDX2dHdEVvMjRjRUpuMko0c290Z21uRzQ0dGlKdldLeW5LLXB5VUpScHN2dUp6NmR3dWVMekF2aGVRVkRSM2JrTQ?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "35e129f37654",
+   "date": "2026-11-05",
+   "tickers": [
+    "MU"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Micron pause $4.5B Taiwan plant หลัง labor spat ชะลอ DRAM capacity expansion",
+   "title": "Micron Pauses Work on $4.5 Billion Taiwan Plant After Labor Spat",
+   "source": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMno5WXd4ZUVPS3pBazN3V0drVUt4OVc1WW80WF9uUWZGYll2S0VDWFVpd1VqbXRjU2FHNkJFY1J6aTRrbFJKbFNpUDBzWWlkdEtZMWdtaGZtRVVhUUNHWEFkQnJpVmFFcUh1Q3Y2TGRtNEYwX3BRZ0xLWDVTdFBpNFRZTFA5MDVvTmt4ZTIxN1VaY0xUcF9Ka1EwdzdrUUI1SzZoOVF1Q0FxSVF6T1NSTGFmT2c?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "365f5ee16547",
+   "date": "2026-11-05",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "revenue",
+   "reason": "Nvidia-backed Agility humanoid IPO ตัวแรกของสหรัฐฯ สะท้อนความนิยมต่อ AI robotics",
+   "title": "Nvidia-Backed Humanoid Maker Agility Goes Public in First for the US",
+   "source": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNEFfTDRRc2FDSEtON0h2MDNVTUszdjVCSk9YX3BDQ092VEQ5Qm12SzBJbnczWWxxY1F3R2NNZEVBMDFzbDNRVEhGamxPWnRqVWlfdV8wbktCUHlSV3lSMnBfbFc0djBack5mOWlLZzloOEMtbmktWDFjc0p5Nm12Z2ZiUlVOREU3MWlfUGVzMENPOXVtRlRkOG13YVlHRWZDX0Z4ME5YVlNMUHAyZFJ6djRYVDBGWTNvU21n?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "98ffbfaf0bdc",
+   "date": "2026-11-05",
+   "tickers": [
+    "6758"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "Sony ยก guidance จากกำไรพุ่งหลัง Spider-Man hit และ game strength บ่งชี้strong momentum",
+   "title": "Sony Boosts Guidance as Profit Jumps on ‘Spider-Man’ Hit, Game Strength",
+   "source": "WSJ",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTXpwOEQxbFlIUHZMTWZJekVmNVJJaU82b3F6XzRQR2RrNEJfeVQtZ3JfSmRrUDk5NnVwZXh1QjRiaE9YLWxZeUQtUEZkamVtaGlDMzM4WFplb2hzNlByNk10WXhrOVhVNUpKSmJtOFVhbFRhNGUxV25YaXVWeDIzZDVZalV3YTdrMFIzaHdMLXBQTkY2NW9iR0h2X1Z3SjJrQTNfU3Y1NXhKMzlKeHNJZFpxdlpuQQ?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "b2950baad65d",
+   "date": "2026-11-05",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Amazon, Uber partner on restaurant delivery บ่งชี้ Amazon compete aggressive กับ DoorDash",
+   "title": "Amazon, Uber Partner on Restaurant Delivery as Competition Intensifies",
+   "source": "WSJ",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZlpLQ0J3RnVOMllobFI3blZIU0prOVI4Ql9tNnEzWEJRXzVjRm8yY0NfaGJDNG5EenRKLUdQNUNNRDBWQXhUOEQwTnJzdE1GN3NueVFBMHJLRGZreDhqVjdEbkVFVl9xcVBfVVFlUmdmRE5mbXY1TWdJS0I3aWhZVjFQd0tIZUFMdTZpVlVvVjBIT3VkVDUwWjd1UUY2Vll2UFk2SVZ3SGc1X0U?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "b6f5e49b549b",
+   "date": "2026-11-05",
+   "tickers": [
+    "MSFT"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "Microsoft reject multibillion-dollar AI deal กับ UK Nscale ยาวต่อ neocloud strategy rethink",
+   "title": "Microsoft rejects multibillion-dollar AI deal with UK’s Nscale",
+   "source": "Financial Times",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdnNKc0t2WlRGTk9fTmRoLXFJUWkweF9tNXY1UG1FZjUxdkhGVGtUYmlvMmtvS2ZpX3VabTE1VW1jaUNGalhsbTRENTNTZXVwb1dfZ2FDaUJwUkxhYWc0cTA4Rm5wdENKclZPTVRaQV8zT1VpcHV3eVFIUmJUWUdiWlVRRkk?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist",
+    "deals"
    ],
    "model": "claude-haiku-4-5"
   },
@@ -486,6 +1160,64 @@
    "paywall": false,
    "categories": [
     "crypto_gold"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "91b69418d0f3",
+   "date": "2026-11-04",
+   "tickers": [
+    "AVGO"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "other",
+   "reason": "Broadcom ลด Qualcomm bid ลง $3/share บ่งชี้เปลี่ยนแปลง M&A valuation assumptions",
+   "title": "Broadcom cuts Qualcomm bid by $3 per share",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBCRUUzY3VfSXU5VGVlMnJDSlpuMURSeFdRel9tLXMwX1NXUW0zaEh4N2JyYXhCRkVFRVFCeTBpb0lVa1pLb1o4aDN3eHpOQUtZWDF1MF9ZdVlrVUUx?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "b688a12e5936",
+   "date": "2026-11-04",
+   "tickers": [
+    "6981"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "Murata Manufacturing รายงาน record H1 operating profit ¥245.9B +48.9% จาก data center MLCC, raise FY2026 ถึง ¥520B",
+   "title": "【Murata FY2026 Q2 Earnings Call】Japan's Murata Manufacturing Posts Record H1 Operating Profit of ¥245.9 Billion, Up 48.9%, on Data Center MLCC Surge; Raises Full-Year Forecast to ¥520 Billion; to Invest ¥1 Trillion Over Five Years to More Than Double",
+   "source": "finance.biggo.com",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYbXE3TENsMWd5dzJMeXRZSUJMbVA5MFNTcHFCWmJvLWlVM1hjVEswN01tcXpxMUpQMzU4NVk4OU9QOXFtOHRiNGtpYjNUdTBQVW5OaVJEQUdoUjNjMkhXbw?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "7bd5eda4c81c",
+   "date": "2026-11-04",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "other",
+   "reason": "Blue wave ในเทxa สร้างความเสี่ยงใหม่สำหรับ SpaceX operations และ local government relations",
+   "title": "Blue Wave in Texas Creates New Risks for SpaceX",
+   "source": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPc0F5ZnN2MWVVaFdxelhqWU5rRkprc21QQ0w5SWNJWm5OZEt5VmlvR2NOcDdjdHpRNEhObHFPMzkxdzUyMGtZNEJyMTF6UWxyTzJibFVfLXhIS09MZC1Ca0JNWnc4TDMzVlN3LWhJdnBMczRYLVBOYVZpTDFkUzdpYk03QWFYYnhJSElSeHhzbnkyRy10NDczSjIwdXNCOTVmRlkxX2I5VF9sZ0w2VHlsajFB?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
    ],
    "model": "claude-haiku-4-5"
   },
