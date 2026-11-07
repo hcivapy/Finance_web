@@ -1,11 +1,225 @@
 {
- "generated": "2026-11-06T04:12:24Z",
+ "generated": "2026-11-07T03:44:35Z",
  "months": [
   "2026-09",
   "2026-10",
   "2026-11"
  ],
  "items": [
+  {
+   "id": "ed2a4ebee6c8",
+   "date": "2026-11-07",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Google αγορά Wyoming data center από Crusoe επεκτείνοντας AI infrastructure παραγωγικότητα",
+   "title": "Google acquires Wyoming data center site from AI infrastructure firm Crusoe",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUmdYV3dXUTRhWEJ2UTJxUXBMMmxVX292SEdXZlVJNmJIa0lzNVNRT0J3QjJhc0VnN2lYUnQybkNkd0JsRV8xUTc1Qk1nZllyQUx0RnJTTENFVEhJdXUyYW9SQXVodjFLT1RmSDF3UE1PODFDRnkzVnhkaEpVSDdwSDJRV2Y5dDZOTXF2cUoxUWlVVnBXWklYRjNpNGp0N2x1N0I1bFgtMFl3eldkdHZxUUlZRVdzQQ?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "c260acb5fa5d",
+   "date": "2026-11-07",
+   "tickers": [
+    "MSFT"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Microsoft καταργεί Oracle deal για AI cloud capacity δείχνοντας αναδιάρθρωση cloud strategy",
+   "title": "Microsoft is winding down Oracle deal to rent AI cloud capacity, Bloomberg News reports",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNN0g4UzRRaV9OckNuUjZYeVcybWl4SnhZUHVRR3pXVTFUdVMtWENOSWRKdjhUQThNTWlRWXd3YVJFTUVaM1hOaFI2UWJ6cDlWZjM4Q3NXTWZDVlJFSTdnS3RqNExHcG93anIxTDhpNXJTRGduSEgxcWNaYnNRYTdOdWF4SzBoZzBLV3o1Wi1ZaEVPWkFXZVJSSWhYZWFSdE9BRFlINGtWWjhhM2FLUEdaYjJQOTBLQ0VCLVIyXw?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "8754867cae7d",
+   "date": "2026-11-07",
+   "tickers": [
+    "GOOG",
+    "SPCX"
+   ],
+   "direction": "unclear",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Google executive Don Harrison παραιτήθηκε από SpaceX board",
+   "title": "SpaceX says Google exec Don Harrison has resigned from its board",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/06/tesdonald-harrison.html",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "55ea11dd8bce",
+   "date": "2026-11-07",
+   "tickers": [
+    "MSFT"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Microsoft περιορίζει neocloud partners και δίνει προτεραιότητα ιδίων data centers",
+   "title": "Microsoft plans to use fewer neoclouds as AI buildout shows signs of strain",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/06/microsoft-moves-to-consolidate-its-relationships-with-neoclouds-in-ai.html",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "d45089c0368f",
+   "date": "2026-11-07",
+   "tickers": [
+    "6981",
+    "TYOYY"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Murata data center sales διπλασιάστηκαν αλλά Taiyo Yuden πρέπει να ανεβάσει guidance δεύτερη φορά",
+   "title": "AI Demand Divides Japan's Big Five Electronic Component Makers: Murata's Data Center Sales Double, Taiyo Yuden Raises Guidance a Second Time",
+   "source": "BigGo Finance",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jc2xVeXdnemp6c0tfLXpQNDVoVFFhSjBLdGcxTUluaFRZOUg2NFhMTUJwekE3M3dCeHpxMkpYMFBLMTJrcFozc3VKQjRIY2RQYUZFVGZYNmdkcUtQUFhyLUg1T1NhTmJEMUt6SjA5Zk1KdFFJVmc?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "f2b5c84af726",
+   "date": "2026-11-07",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "unclear",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Google executive Don Harrison παραιτήθηκε από SpaceX board μετά εκλογές",
+   "title": "SpaceX Director Resigns From Board One Day After US Election",
+   "source": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQWNtaG5kQTlLMHJoRXhBaGM1QkJSQlE0Rnctdk96WDFQQmJOZ1ZVZlQyYlNlNHkxdVZ6aGh0bk5wRV92VUFvV2pJN1dMNGcxdXdTdlFnY3FiRXFXMkVoTVF0Sk1RSmd6QWhmaVRzdWFOQkxTQWp3blNfZWpHWXFvSE83X2R0UlVRTG5zZXFqa2k2eUxPdDZyNEp2M2Jmd2UwRHFfcDhUM3dRdWxTbWQ1Yg?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "825a18abf94f",
+   "date": "2026-11-07",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "Musk είπε SpaceX θα λάβει κάτω από 10% revenue από US government αυξάνοντας εξάρτηση compute",
+   "title": "SpaceX to Get Under 10% of Revenue From US Government, Musk Says",
+   "source": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcjJvSGdpNUVSSXYyaUJDX0VDdUJYMzVLOGR2ZGljUE42QTZKQjNFSDZjZjhFdGU3N2pLeVNidFo4UG02WFNvRkJubzdfaTlwZjBEaTB5TlRfZnU3YUNzRHFYQzZXWVdPMzRfVUtLMlk0TDZ0R2tLN2dua0pkUzl1bWdiM3ptOURmaEpKeUNqS0JoTFlQWmFoWC1STm0xM19ZSERlYUhGTkttcFhVSjlYZFlYcw?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "8b97572bf5af",
+   "date": "2026-11-07",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Alphabet Wing τμήμα επενδύει $125M Texas facility για tens thousands aircraft ετησίως",
+   "title": "Alphabet’s Drone Unit to Invest Up to $125 Million in New Texas Facility",
+   "source": "WSJ",
+   "link": "https://www.wsj.com/business/alphabets-drone-unit-to-invest-up-to-125-million-in-new-texas-facility-d9725c3b?mod=pls_whats_news_us_business_f",
+   "paywall": true,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "c6bbb41be15e",
+   "date": "2026-11-07",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "Musk είπε SpaceX sales 'εκρήγνυνται' με revenue πρόβλεψη διπλάσια Wall Street",
+   "title": "Elon Musk Says SpaceX Sales Are ‘Exploding’—and Forecasts Revenue Twice Wall Street’s Estimate",
+   "source": "Barron's",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUmNBOVZudDlZREhxOTBldFJEbEI4Wlg4M3ZSdGlPSlNPa25YZDE5UXVoWl9nWU16V3htR2hBcmU3ZVBZaENHbF9QdDcyZFZoVHhpeDFMUll3bURFaUFPd1pIZDlxNjJtZG94WEpCLXpDeFVSdktVZGxrTnJiOTBObzNETDE?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "bc7ba81c4e67",
+   "date": "2026-11-07",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Firefly υπογράφει $1.3B deal παρέχοντας engines για AST SpaceMobile Blacklift rocket",
+   "title": "Firefly inks $1.3 billion deal to supply engines for new AST SpaceMobile 'Blacklift' rocket",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdER6SncwY2FDQ0otWEhWbTQzNDJvTU00QTFOWUtEaXBMRjJpY3JuX0YtVkg5d1RuRWtidmxkQ1NaZVNvaXd4TkRIc0xvUHBaX3A4MFlPdlM4WXRoWk11YWQ0U3FXcDgtb3VBTGR1ZW1lQ2l3Tm1zXzRPQmtDemNNejZWdHhIZHdUZFF1dG1GVFd0akhRMXByZW5FdWJiTWFVQ2JBNUxSamh6SlE3ZUk0QjQzaURoZFJiaDBSV0JXbkxfMXpMYzJSX0ZIT09YQWJfT1F5dU53?oc=5",
+   "paywall": false,
+   "categories": [
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "dd704f2faae8",
+   "date": "2026-11-07",
+   "tickers": [
+    "BTCUSD"
+   ],
+   "direction": "negative",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Elliptic: Binance hackers swap $124M stolen tokens για bitcoin αλλά $2.85B παγωμένο",
+   "title": "Elliptic says Binance hackers swapped stolen tokens for $124M in bitcoin, exchange plans more withdrawal reopenings",
+   "source": "The Block",
+   "link": "https://www.theblock.co/news/markets/2026-11-06-binance-hackers-swap-stolen-tokens-124-million-bitcoin-exchange-plans-withdrawal-reopenings-435930",
+   "paywall": false,
+   "categories": [
+    "crypto_gold"
+   ],
+   "model": "claude-haiku-4-5"
+  },
   {
    "id": "a758beaa0c44",
    "date": "2026-11-06",
@@ -330,6 +544,198 @@
    "paywall": true,
    "categories": [
     "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "76da3fba532f",
+   "date": "2026-11-06",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "competitive_advantage",
+   "reason": "Alphabet αγορά $548M Qualcomm stake για data center integration ενισχύοντας chip capability",
+   "title": "Alphabet takes $548 million stake in partner Qualcomm in data center push",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZXlYcFdWcV9JU25ST013NGFEdWszTUFKS0xKNG5vYVhnVm1fbHFoa2lUWk16RGhqMmVXdzFkQ0NwRGcwaTdSdl82VjdUZWREdnhJZ1VIYXJUQzdWbVJCUTlySUJHVFFzc0M1QlNieFRSTU81bkF2MWpfbUlWQUxnUEhsUzdnUlBwRGo1a0hPcWh3VkFmYnJOX3E2UnE?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "7cbe2846d614",
+   "date": "2026-11-06",
+   "tickers": [
+    "TSM"
+   ],
+   "direction": "unclear",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "TSMC εξετάζει παραγωγή advanced memory chips απαντώντας σε AI ζήτηση αλλά αβέβαιη στρατηγική",
+   "title": "TSMC considers making advanced memory chips, The Information reports",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPR3VDQTJfT19xV0p2UGZRSUVERlJKVE8xb0VENzVOMEM2UjhPd0ZUM1JISzRGbjJ5aEs0TmZnLVZVQVZlTUZyTEhfUnRJaFJyNmxwbFRhcXdHTExjQURvckJ3bUtTTUtYMmlzektZbGRQemdVMDFrNDhsMUtMdjMzREpIbm90ZjkwNWYyR3lyY2p6RW51cGNvc2czWEo2ampYSVhBaW5ZQm15TWQ0ZGFyOGFESlBEMzBKd2c?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "7c6426a4c615",
+   "date": "2026-11-06",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "revenue",
+   "reason": "Coforge ενώνεται SpaceX partner network για Grok AI deployment ειδικών περιπτώσεων",
+   "title": "India's Coforge joins SpaceX partner network to deploy Grok AI tools for enterprises",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVm1rN0dhNG5aaDhDRVRyQVpMaXVROE8wbUFRVUJLZnYwaUQwZF9jMGtfX0doQjVZM3JaRFZHd2FSNFRvODVIUy1TeXJ3d09OZEZPMDB6cEE0eWhHdDNGa3FTRWRCRkhjaERjTnhudVNMTDV6RmdBX0ZqOTNjbDZFblljUE9INGpzN05KSV81YzdHTlVFS1lKeExydFBaaHVLV0pzR2tyQTBSbHV5SUF3VEY3STZHX0gzZzM1S1VYOWtpSEZsRXhKWjl3YzhQQUpy?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "34b746cd52b1",
+   "date": "2026-11-06",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "negative",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Scottish Mortgage Investment Trust μείωσε SpaceX stake σε 11.1% και πούλησε Tesla",
+   "title": "A long-term Elon Musk backer is cashing out of Tesla — and cutting its SpaceX exposure",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/06/scottish-mortgage-tesla-spacex.html",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "612f0ec8567f",
+   "date": "2026-11-06",
+   "tickers": [
+    "CRM"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "revenue",
+   "reason": "Salesforce λάνσαρε Koa Decisions για millisecond single-step decisions προσθέτοντας value",
+   "title": "Less Reasoning. More Doing. Meet Koa Decisions.",
+   "source": "Salesforce News",
+   "link": "https://www.salesforce.com/news/stories/koa-decisions-salesforce-decision-models/",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "56023cdfbaf2",
+   "date": "2026-11-06",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "revenue",
+   "reason": "Amazon λάνσαρε text-based Alexa shopping feature για customers nationwide",
+   "title": "Text, shop, done: Alexa for Shopping is now just a text away",
+   "source": "Amazon News",
+   "link": "https://www.aboutamazon.com/news/retail/alexa-for-shopping-text-to-shop?utm_source=rss",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "7ea9b015922b",
+   "date": "2026-11-06",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "regulation",
+   "reason": "Nvidia ενισχύει chip tracking Southeast Asia καταπολεμώντας smuggling risks",
+   "title": "Nvidia Boosts Chip Tracking in Southeast Asia to Fight Smuggling",
+   "source": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZ0lJLXdrVkh1Znk1NVctYlYwdjhzR2hySkctbHliLW03bmQ3WGtJT3FFQ1dUb2RSZEZVZXRNNkVPcFgxdnVfUU0zYm5xMklxekQyejBTa0JzT19uT0o1d1N6WVlzZkNNTkxiZUN3dlhwMDc2ZUZHMzlackpiVjVUU2wxNnBnSm9DOTkyc2FQdTZLaWFIUV9OYkN4eDBJdGxDY2JCVS1XNVJLSmowYzgwSGlOak5UZw?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "53f292be09a3",
+   "date": "2026-11-06",
+   "tickers": [
+    "MACRO"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "macro",
+   "reason": "US προσθέσει 165,000 jobs Οκτώβριο υπερβαίνοντας προσδοκίες με 4.1% unemployment rate",
+   "title": "U.S. economy added 165,000 jobs in October, way more than expected; unemployment rate slips to 4.1%",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
+   "paywall": false,
+   "categories": [
+    "fed"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "d568ac869a46",
+   "date": "2026-11-06",
+   "tickers": [
+    "XAUUSD"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "macro",
+   "reason": "India gold demand αυξάνεται Diwali συμπίπτοντας με price dip",
+   "title": "India's gold demand picks up as Diwali coincides with price dip",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNR2gwT09xRGJyZTl1VV9ULUdHc3QxTGJsVGZRTjdGMzRrZ2d4R3gzUHc5RjBlZmZNRzhsMktlTFI3a2NsMVpRbkt3RGtUQmlxMmtpX3Z6VWItRHFOY3VXNFlWQWJqYWlHMmhsbS1PeVhMd2hBclRMWG5TVzV0TFJ2ODFvbkdXWjJzRnV5c3lnR2V6cmxxUExZUU9wOW5LVDVKN0hDZzRJakZFdjQ?oc=5",
+   "paywall": false,
+   "categories": [
+    "crypto_gold"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "e9fde11cf9b2",
+   "date": "2026-11-06",
+   "tickers": [
+    "XAUUSD"
+   ],
+   "direction": "negative",
+   "importance": "low",
+   "impact_area": "macro",
+   "reason": "Gold πέφτει καθώς ισχυρά US payrolls δυναμώνουν dollar και yields",
+   "title": "Gold drops as strong US payrolls boost dollar, yields",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQVNBUlY0RkQ3Vm5qcDFmbS12Nlo0Wjd4RWNEWkROOFRSX0hha1VobWJkTW82YTM1QzNMUXlzX1V5bktiSHJDYklFR2ZDUnN4aEhGM3U0UmlRT3pDcjVFRkR5ak9IZ1NVbG4wempaX1Y0R2JXb0U2THRLcE80d0l1NFppQ3l5b2M4c3RQZU1sS1RNRHdiYmFsYmw0czRoUnVJRVJLNTl0VmVNODg3NWVR?oc=5",
+   "paywall": false,
+   "categories": [
+    "crypto_gold"
    ],
    "model": "claude-haiku-4-5"
   },
@@ -811,6 +1217,63 @@
    "categories": [
     "watchlist",
     "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "21e1ff3fe2da",
+   "date": "2026-11-05",
+   "tickers": [
+    "TYOYY"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Taiyo Yuden ανέβασε FY2027 outlook δεύτερη φορά λόγω υψηλών H1 αποτελεσμάτων",
+   "title": "Taiyo Yuden: Higher H1 sales and profit drove a raised FY2027 outlook",
+   "source": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPalhqWlQ5SDZYVGJSbVFKY3huVlJLYk1vY05GNk1tNkRhOXNjWjE5bEgzelhSZDFyZm44WVZ3d25JUHVwVmU4bzFqS0wwbERaYUZCY3lscmtSOTVHMkRYd3lFZ2FEdDY0TFV0b2ZYUWFLRGhxVVEzN2p5R0FZUE9QV2VuZHVSRGQyaHRwOVUyT2I0cm9fLWlTUmlzZnprYmpjNkZsdDNfSTJ5YW5HTW9lcmQyQVlWTXlNRTlmWFdTWE5fYlhUZFozYWNCNG5GS0x5RG9MSnZJTEwtcG50S0Q5OUNHWUJadw?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "e02c1085fc6d",
+   "date": "2026-11-05",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Amazon εγκαταλείπει Grubhub συνεργασία και συνεργάζεται Uber Eats για Prime",
+   "title": "Amazon ditches Grubhub, taps Uber Eats for Prime",
+   "source": "TechCrunch",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOXpMeXJzYS1KTXNRLXNYdlEyQ0J5a2VkTDdtMkNHbkdYY2pPZkJKeTF2SUlDdmZ4N2pXdC0zQVh1a1gxYlB4R2xNTG9LQnlsZ3lxaVNGeEQ0TGhUUHBWRk9lUVRybW1LWGhwU0dMWTlORXZvbzd6MXJ5R2dwMnFPcE9FQ1JHSTBoNlE?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "f79d8b122091",
+   "date": "2026-11-05",
+   "tickers": [
+    "TYOYY"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Taiyo Yuden δημοσίευσε earnings report για H1 FY2027 δείχνοντας ισχυρή επίδοση",
+   "title": "Taiyo Yuden : Earnings Release Conference Second quarter for the year ending March 31, 2027(with notes)",
+   "source": "www.marketscreener.com",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPelE0SnJNZmRaVlNLaWJYR0Vzbm9tQkZkaHlwUFdsYXpFckNscE9qMW1tOExaMFRiazdtZDFoSkNHZVg3Q0NKQVRrSUhqYWJCT1JaMXZ5dHpybDhvMEQ1R0ZpRFd5UldOWVZrdGtLUjdMcFRWY25vRi1EaWFhQUhmcFkyTmtpZ21LUjVWRjQzZlpvOUJWRmVkdS14X254MVdfdzZFc1RENXZ0ZHhmT2tPanRyYVJvY3NjamVNNU5DSzBKcTgtM0JscFlja3BHbHlXbFM0R0s4WjdMb0toemhEa0pVbHY?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
    ],
    "model": "claude-haiku-4-5"
   },
