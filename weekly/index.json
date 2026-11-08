@@ -1,6 +1,12 @@
 {
- "generated": "2026-11-01T05:26:31Z",
+ "generated": "2026-11-08T05:29:00Z",
  "weeks": [
+  {
+   "date": "2026-11-08",
+   "period_start": "2026-11-01",
+   "period_end": "2026-11-07",
+   "headline": "AMD ทำสถิติไตรมาสดีที่สุด, Microsoft ถอยจาก neocloud, Nvidia เจอแรงกดดันรอบด้าน ขณะ Murata-Taiyo Yuden ได้อานิสงส์ AI เต็มๆ"
+  },
   {
    "date": "2026-11-01",
    "period_start": "2026-10-25",
@@ -39,8 +45,8 @@
   }
  ],
  "last_attempt": {
-  "date": "2026-11-01",
-  "at": "2026-11-01T05:25:29Z",
+  "date": "2026-11-08",
+  "at": "2026-11-08T05:27:55Z",
   "ok": true
  }
 }
