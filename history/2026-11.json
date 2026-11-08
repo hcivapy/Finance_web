@@ -2,6 +2,45 @@
  "month": "2026-11",
  "items": [
   {
+   "id": "b2d025608d67",
+   "date": "2026-11-08",
+   "tickers": [
+    "META"
+   ],
+   "direction": "negative",
+   "importance": "low",
+   "impact_area": "management",
+   "reason": "Meta CFO Dave Wehner ลาออกเพื่อเป็น CFO ของ Fireworks startup แสดงการเปลี่ยนแปลงในฝ่ายบริหาร",
+   "title": "Meta chief strategy officer Dave Wehner leaves to join AI infrastructure startup Fireworks as CFO",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/07/dave-wehner-meta-fireworks-cfo.html",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "d7e5b4a43640",
+   "date": "2026-11-08",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "SpaceX ตั้งวันที่ 13 พฤศจิกายน สำหรับ Starship launch and catch ข้ามขั้นตอนสำคัญ",
+   "title": "SpaceX sets Nov. 13 date for Starship launch and catch",
+   "source": "SpaceNews",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYU9PTEhzZ2JJdHZMVk9WN2dQakRIODEtUDBNVVhSZFJVbV9DS2JvU244TDRqeEJNbFl1ZnpCREtCOHh6c2FhOGNzcUZXRkdfdkdPb2xYOWN2VDVEVnItWXQwR0lVdDNyNFdYaVVPbTZ1QjdJSXYwLW5sLTZNVkRId1RR?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "products"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
    "id": "ed2a4ebee6c8",
    "date": "2026-11-07",
    "tickers": [
@@ -212,6 +251,63 @@
    "paywall": false,
    "categories": [
     "crypto_gold"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "520ea9a70428",
+   "date": "2026-11-07",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "unclear",
+   "importance": "low",
+   "impact_area": "revenue",
+   "reason": "Musk โปรแกรม SpaceX ได้ revenue annualized $500B ต่อ December 2027 แต่ยังเป็นเป้าหมายไม่ยืนยัน",
+   "title": "Musk: SpaceX sees annualized revenue above $500 billion by December 2027",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWWotek5yN3I5YXd0ZTdIWDQ1STJpYTRuRGdpZ0tCVWtKdG9wSUZlZTRiUUhjZW9DcWFSVEhaaTNUTXJWVHBSeTNUaEliSGpaWEFNTUhiOTRlcmlrbXFpRDJ1RHdBamJVYTlBMDlFV29Oc2xNaE44eGUySnVBSWpwa3Y1c2xuSF9nVldMQlppMVRMbEJXMUh6YmZjVnlqcFhMMU5OdjVGMFRlMXdiU0t6NWhXRQ?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "eff89a4351c6",
+   "date": "2026-11-07",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "regulation",
+   "reason": "US อนุญาต Nvidia ขายชิป China office สะท้อน export control issues ต่อ AI ธุรกิจ",
+   "title": "The US let Nvidia sell chips to an empty office in China",
+   "source": "The Verge",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRWY3V3lvSXNva3FsVmVuN3p0WndDSjhJSE5hMWhrSWUtajR3dmNtY2FrNWViNkNRUXAxOXVsLVJ4WnJyMFpjamM2MTlqcFU0Y3ljNjZiam5NWU5oSWFaeTF0TXFUOGtGSUkwOFk0MG5sZ3dKNWE4UFNKZFA0eWVaZVJQbk9vWGFXWmdQN1l6dERzVkdOMEJvc3Z2WHY3UEJKUmFGaw?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "2908bb6d5573",
+   "date": "2026-11-07",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "management",
+   "reason": "US เชื่อว่า CEO Jensen Huang มีความสัมพันธ์กับ China spy อาจเป็นความเสี่ยงระบาดาน",
+   "title": "US Believes Woman Close to Nvidia CEO Was a China Spy, NYT Says",
+   "source": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeks3UUZzZHludldva0o2QkpXMGZySHJkZzNtNGJTcUcwbHBtV3pKbW9TWUc1ZWRxaDl2SGo4NzFHQnYyRlg1UmZMazRwVnRpcmhaeFR0a2VjWEpXdDhaaWNIOGVsUEc5TFJRSlVHTFlKX0NBRzZhcEVFMkU2Y2dRMGdyaDVqU1dQOWxjd3lVekxvZHFETmg5UlpGRWl3NEtVRGhYWW5hQXJVOXJVNV9reWV3QQ?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
    ],
    "model": "claude-haiku-4-5"
   },
@@ -1269,6 +1365,26 @@
    "paywall": false,
    "categories": [
     "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "7e87ae8b0499",
+   "date": "2026-11-05",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "competitive_advantage",
+   "reason": "Blue Origin ล่าช้า launches จนกว่า 2027 หลัง explosion ทำให้ SpaceX นำในการแข่งขันมากขึ้น",
+   "title": "Blue Origin delays launches until 2027",
+   "source": "Financial Times",
+   "link": "https://www.ft.com/content/39efbb7e-44a3-4a75-883b-e76ed6f9f5fd?syn-25a6b1a6=1",
+   "paywall": true,
+   "categories": [
+    "watchlist",
+    "products"
    ],
    "model": "claude-haiku-4-5"
   },
