@@ -1,20 +1,20 @@
 {
- "generated": "2026-11-08T03:20:31Z",
+ "generated": "2026-11-09T03:39:46Z",
  "ai": {
   "ok": true,
-  "sent": 52,
-  "labeled": 51,
+  "sent": 75,
+  "labeled": 75,
   "over_cap": 0,
   "model": "claude-haiku-4-5",
-  "input_tokens": 3864,
-  "output_tokens": 870,
-  "cost_usd": 0.00821,
-  "month_to_date_usd": 0.2074
+  "input_tokens": 4980,
+  "output_tokens": 162,
+  "cost_usd": 0.00579,
+  "month_to_date_usd": 0.3024
  },
  "stats": {
-  "new_items": 45,
-  "total_items": 684,
-  "history_added": 6,
+  "new_items": 74,
+  "total_items": 720,
+  "history_added": 0,
   "sources_ok": 67,
   "sources_total": 68,
   "deleted_old_files": []
@@ -25,35 +25,35 @@
    "ok": true,
    "error": null,
    "fetched": 30,
-   "relevant": 3
+   "relevant": 8
   },
   {
    "name": "CNBC Business",
    "ok": true,
    "error": null,
    "fetched": 30,
-   "relevant": 0
+   "relevant": 1
   },
   {
    "name": "CNBC Technology",
    "ok": true,
    "error": null,
    "fetched": 30,
-   "relevant": 7
+   "relevant": 6
   },
   {
    "name": "CNBC Investing",
    "ok": true,
    "error": null,
    "fetched": 30,
-   "relevant": 0
+   "relevant": 1
   },
   {
    "name": "CNBC Finance",
    "ok": true,
    "error": null,
    "fetched": 30,
-   "relevant": 2
+   "relevant": 0
   },
   {
    "name": "CNBC Economy",
@@ -81,42 +81,42 @@
    "ok": true,
    "error": null,
    "fetched": 60,
-   "relevant": 7
+   "relevant": 3
   },
   {
    "name": "WSJ Business",
    "ok": true,
    "error": null,
    "fetched": 85,
-   "relevant": 4
+   "relevant": 3
   },
   {
    "name": "WSJ Tech",
    "ok": true,
    "error": null,
    "fetched": 40,
-   "relevant": 1
+   "relevant": 5
   },
   {
    "name": "Bloomberg Markets",
    "ok": true,
    "error": null,
    "fetched": 20,
-   "relevant": 7
+   "relevant": 6
   },
   {
    "name": "Bloomberg Technology",
    "ok": true,
    "error": null,
-   "fetched": 7,
-   "relevant": 0
+   "fetched": 20,
+   "relevant": 8
   },
   {
    "name": "FT Markets",
    "ok": true,
    "error": null,
    "fetched": 25,
-   "relevant": 7
+   "relevant": 1
   },
   {
    "name": "FT Companies",
@@ -129,22 +129,22 @@
    "name": "BBC Business",
    "ok": true,
    "error": null,
-   "fetched": 43,
+   "fetched": 47,
    "relevant": 1
   },
   {
    "name": "Guardian Business",
    "ok": true,
    "error": null,
-   "fetched": 36,
-   "relevant": 1
+   "fetched": 39,
+   "relevant": 0
   },
   {
    "name": "Seeking Alpha Market Currents",
    "ok": true,
    "error": null,
    "fetched": 7,
-   "relevant": 3
+   "relevant": 1
   },
   {
    "name": "Federal Reserve (Monetary Policy)",
@@ -179,21 +179,21 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "relevant": 1
+   "relevant": 0
   },
   {
    "name": "TechCrunch",
    "ok": true,
    "error": null,
    "fetched": 20,
-   "relevant": 3
+   "relevant": 0
   },
   {
    "name": "The Verge",
    "ok": true,
    "error": null,
    "fetched": 10,
-   "relevant": 0
+   "relevant": 1
   },
   {
    "name": "Ars Technica",
@@ -221,105 +221,105 @@
    "ok": true,
    "error": null,
    "fetched": 10,
-   "relevant": 1
+   "relevant": 0
   },
   {
    "name": "Amazon News",
    "ok": true,
    "error": null,
    "fetched": 10,
-   "relevant": 2
+   "relevant": 0
   },
   {
    "name": "Salesforce News",
    "ok": true,
    "error": null,
    "fetched": 10,
-   "relevant": 1
+   "relevant": 0
   },
   {
    "name": "CoinDesk",
    "ok": true,
    "error": null,
    "fetched": 25,
-   "relevant": 3
+   "relevant": 2
   },
   {
    "name": "The Block",
    "ok": true,
    "error": null,
    "fetched": 20,
-   "relevant": 5
+   "relevant": 1
   },
   {
    "name": "Decrypt",
    "ok": true,
    "error": null,
    "fetched": 39,
-   "relevant": 4
+   "relevant": 1
   },
   {
    "name": "Cointelegraph",
    "ok": true,
    "error": null,
    "fetched": 30,
-   "relevant": 7
+   "relevant": 3
   },
   {
    "name": "Mining.com (Gold)",
    "ok": true,
    "error": null,
    "fetched": 36,
-   "relevant": 1
+   "relevant": 0
   },
   {
    "name": "Reuters (Fed)",
    "ok": true,
    "error": null,
-   "fetched": 90,
-   "relevant": 11
+   "fetched": 42,
+   "relevant": 5
   },
   {
    "name": "Reuters (ทองคำ)",
    "ok": true,
    "error": null,
-   "fetched": 98,
-   "relevant": 2
+   "fetched": 75,
+   "relevant": 1
   },
   {
    "name": "Reuters (Bitcoin)",
    "ok": true,
    "error": null,
-   "fetched": 14,
+   "fetched": 9,
    "relevant": 0
   },
   {
    "name": "Kitco (ทองคำ)",
    "ok": true,
    "error": null,
-   "fetched": 52,
-   "relevant": 10
+   "fetched": 17,
+   "relevant": 0
   },
   {
    "name": "AP (ภาพรวมตลาด)",
    "ok": true,
    "error": null,
    "fetched": 100,
-   "relevant": 4
+   "relevant": 1
   },
   {
    "name": "Google News: AMD",
    "ok": true,
    "error": null,
    "fetched": 100,
-   "relevant": 2
+   "relevant": 0
   },
   {
    "name": "Google News: AMZN",
    "ok": true,
    "error": null,
    "fetched": 100,
-   "relevant": 2
+   "relevant": 6
   },
   {
    "name": "Google News: ASML",
@@ -332,21 +332,21 @@
    "name": "Google News: AVGO",
    "ok": true,
    "error": null,
-   "fetched": 96,
+   "fetched": 45,
    "relevant": 0
   },
   {
    "name": "Google News: CRM",
    "ok": true,
    "error": null,
-   "fetched": 41,
+   "fetched": 43,
    "relevant": 0
   },
   {
    "name": "Google News: GEV",
    "ok": true,
    "error": null,
-   "fetched": 32,
+   "fetched": 23,
    "relevant": 0
   },
   {
@@ -354,34 +354,34 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "relevant": 7
+   "relevant": 0
   },
   {
    "name": "Google News: META",
    "ok": true,
    "error": null,
    "fetched": 100,
-   "relevant": 9
+   "relevant": 3
   },
   {
    "name": "Google News: MSFT",
    "ok": true,
    "error": null,
    "fetched": 100,
-   "relevant": 13
+   "relevant": 0
   },
   {
    "name": "Google News: MU",
    "ok": true,
    "error": null,
-   "fetched": 100,
-   "relevant": 2
+   "fetched": 64,
+   "relevant": 0
   },
   {
    "name": "Google News: NOW",
    "ok": true,
    "error": null,
-   "fetched": 33,
+   "fetched": 37,
    "relevant": 0
   },
   {
@@ -389,20 +389,20 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "relevant": 12
+   "relevant": 39
   },
   {
    "name": "Google News: OUST",
    "ok": true,
    "error": null,
-   "fetched": 66,
+   "fetched": 45,
    "relevant": 0
   },
   {
    "name": "Google News: SMR",
    "ok": true,
    "error": null,
-   "fetched": 44,
+   "fetched": 19,
    "relevant": 0
   },
   {
@@ -410,90 +410,90 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "relevant": 20
+   "relevant": 4
   },
   {
    "name": "Google News: TSM",
    "ok": true,
    "error": null,
-   "fetched": 94,
-   "relevant": 4
+   "fetched": 67,
+   "relevant": 0
   },
   {
    "name": "Google News: 6758",
    "ok": true,
    "error": null,
    "fetched": 100,
-   "relevant": 2
+   "relevant": 1
   },
   {
    "name": "Google News: 6981",
    "ok": true,
    "error": null,
-   "fetched": 11,
-   "relevant": 9
+   "fetched": 6,
+   "relevant": 3
   },
   {
    "name": "Google News: TYOYY",
    "ok": true,
    "error": null,
-   "fetched": 9,
+   "fetched": 6,
    "relevant": 3
   },
   {
    "name": "Google News: RYCEY",
    "ok": true,
    "error": null,
-   "fetched": 45,
+   "fetched": 60,
    "relevant": 0
   },
   {
    "name": "Reuters: AMD,AMZN,ASML",
    "ok": true,
    "error": null,
-   "fetched": 98,
-   "relevant": 4
+   "fetched": 67,
+   "relevant": 0
   },
   {
    "name": "Reuters: AVGO,CRM,GEV",
    "ok": true,
    "error": null,
-   "fetched": 3,
+   "fetched": 1,
    "relevant": 0
   },
   {
    "name": "Reuters: GOOG,META,MSFT",
    "ok": true,
    "error": null,
-   "fetched": 99,
-   "relevant": 17
+   "fetched": 55,
+   "relevant": 0
   },
   {
    "name": "Reuters: MU,NOW,NVDA",
    "ok": true,
    "error": null,
-   "fetched": 70,
-   "relevant": 4
+   "fetched": 95,
+   "relevant": 5
   },
   {
    "name": "Reuters: OUST,SMR,SPCX",
    "ok": true,
    "error": null,
-   "fetched": 86,
-   "relevant": 9
+   "fetched": 15,
+   "relevant": 0
   },
   {
    "name": "Reuters: TSM,6758,6981",
    "ok": true,
    "error": null,
-   "fetched": 11,
-   "relevant": 1
+   "fetched": 5,
+   "relevant": 0
   },
   {
    "name": "Reuters: TYOYY,RYCEY",
    "ok": true,
    "error": null,
-   "fetched": 1,
+   "fetched": 0,
    "relevant": 0
   }
  ],
@@ -506,6 +506,1544 @@
   "crypto_gold": "BTC & ทองคำ"
  },
  "items": [
+  {
+   "id": "68e6c8e4f061",
+   "title": "What’s Next for Nvidia, AI Market After Jensen Huang Admits to Affair?: Live Q&A",
+   "summary": "Bloomberg reporters answer your questions on Nov. 9 at 12 p.m. HKT",
+   "link": "https://www.bloomberg.com/sessions/2026-11-08/live-q-amp-a-what-s-next-for-nvidia-ai-market-after-jensen-huang-admits-to-affair",
+   "source": "Bloomberg",
+   "paywall": true,
+   "published": "2026-11-09T03:32:58Z",
+   "first_seen": "2026-11-09T03:39:46Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "NVDA"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "09f70353f41b",
+   "title": "Mitsui Chemicals to Acquire JSR With Development Bank of Japan for $8.8 Billion",
+   "summary": "Mitsui Chemicals has agreed to acquire semiconductor materials maker JSR jointly with government-owned Development Bank of Japan for about $8.8 billion.",
+   "link": "https://www.wsj.com/business/deals/mitsui-chemicals-to-acquire-jsr-with-development-bank-of-japan-for-8-8-billion-578ccd86?mod=pls_whats_news_us_business_f",
+   "source": "WSJ",
+   "paywall": true,
+   "published": "2026-11-09T03:32:00Z",
+   "first_seen": "2026-11-09T03:39:46Z",
+   "categories": [
+    "deals"
+   ],
+   "tickers": [],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "8c2e96ac15d9",
+   "title": "Bitcoin drops, then pops as Nvidia cheating scandal and failed Iran talks trigger volatility",
+   "summary": "Volatile price action has once again liquidated leveraged bullish plays worth millions.",
+   "link": "https://www.coindesk.com/markets/2026/11/09/bitcoin-drops-then-pops-as-nvidia-cheating-scandal-and-failed-iran-talks-trigger-volatility",
+   "source": "CoinDesk",
+   "paywall": false,
+   "published": "2026-11-09T03:21:49Z",
+   "first_seen": "2026-11-09T03:39:46Z",
+   "categories": [
+    "crypto_gold"
+   ],
+   "tickers": [
+    "NVDA",
+    "BTCUSD"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "4cc4fc4a9f7d",
+   "title": "Trump Backs Jensen Huang After Nvidia CEO Confirmed His Affair",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTW1qeVhkYmM3aDRUeTNrYURGdmxLUTlrQy1ZZGRvRlRKTjB6OTNuTjVaMFE4SThDLTRXLUp3Z1E5SWh5U2xvTi1mUi1uLXNPdGlaTjNRc1BvNHh4V1ZzUk1BU3BERGJMdS1FTlpDSXhpR0liXy1OR0F3c1dKYlZYb3k3enhWTXlhb1ZWck5jS3Uyc2tLYWhzTHA4UDNfUTA?oc=5",
+   "source": "Business Insider",
+   "paywall": true,
+   "published": "2026-11-09T03:12:00Z",
+   "first_seen": "2026-11-09T03:39:46Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "NVDA"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "cc24c32f3f61",
+   "title": "Watch Is Nvidia Too Powerful? Jensen Huang Responds",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWGw3QWp2aTg0NjJBRVk1U19SRndHeElOb1VvRHg1bVVPRHpoaTlPWEhOZzBTWkJfSG8zTk93X0N3eExjeHJpTHhUR0NBdi1yRXgxd29wcmk3ZHg5bUR5S0FXRFBmSUt6LXVWMGNocWZNWEdTc0N0RmllYTJsMjQxUjhIdDU1dW43V3gwRHhySWRlcVhta1FKMXRkMVlTOC1G?oc=5",
+   "source": "Bloomberg",
+   "paywall": true,
+   "published": "2026-11-09T03:01:14Z",
+   "first_seen": "2026-11-09T03:39:46Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "NVDA"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "390fa49bcf3d",
+   "title": "Gold gains more than 1% as softer oil prices ease inflation worries",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbEdIVXlJc2RaUEw2RmFrR2FZcXYzYlBKUG9Cdl9WUVFfalVxT0hGcGFCdW1DS3JMT2daanhDYktBeXVGNGt5TGlsOGZJVWVSMFpnT3ZVa2RBUjZYakRlVlQ3SXd1ZkpTQVNXVkpoNUZoemdycWY0MG02dVk0cWRuWG4taG5VMm9kbEluSHctTVZVMXJwWXNWSWdVcmxQeWtRSW1EWDQ2dTJ6QVV2TzhoeQ?oc=5",
+   "source": "Reuters",
+   "paywall": false,
+   "published": "2026-11-09T03:01:00Z",
+   "first_seen": "2026-11-09T03:39:46Z",
+   "categories": [
+    "fed",
+    "crypto_gold"
+   ],
+   "tickers": [
+    "XAUUSD"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "ac698f16ec66",
+   "title": "Nvidia falls about 3% in after-hours and perpetual futures trade",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb0pTclA4c2pDZlE3NXExNGt0dU9JUDRTaU80SVhfU1FzV2pmSzhYZG9rdzdPaGZSRHV3LXEtaDAwX0ttREhYUGwtalVma1ktTlBCSUdzLUJETkhFVm5ETDVrNVF6OGswVE5EempEc01PSXlrbWRtUERvWDlwVk5KMnlmRmlNNDRYRS1ubHB2bl9oRXp6WFg1cGFYVVdzSnBaNE53?oc=5",
+   "source": "Reuters",
+   "paywall": false,
+   "published": "2026-11-09T03:00:00Z",
+   "first_seen": "2026-11-09T03:39:46Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "NVDA"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "405b50f80360",
+   "title": "Nvidia CEO’s affair engulfs AI giant in Chinese spying probe",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbHo2ZllXQjJ2RlVYVnIwSDRhSzhQbld3b1lBVUdFM3VFNnZ1dm1WQjJSUWs5OS1qYTZ5d1RaWXR6OHpHVUFoQzEzTVQzcFFsQWVGUWdaZHhfNWhvcDlXMGdGZjYyc3lZOXVJM2NUZjhaZEY5QjdiRUpmSFJVamU5VVNNS2liVHJtVjZRSU5n?oc=5",
+   "source": "The Japan Times",
+   "paywall": false,
+   "published": "2026-11-09T03:00:00Z",
+   "first_seen": "2026-11-09T03:39:46Z",
+   "categories": [
+    "watchlist",
+    "products"
+   ],
+   "tickers": [
+    "NVDA"
+   ],
+   "also": [
+    {
+     "source": "Bloomberg",
+     "link": "https://www.bloomberg.com/news/videos/2026-11-09/nvidia-ceo-s-affair-engulfs-ai-giant-in-spying-probe-video",
+     "paywall": true
+    }
+   ],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "70b2a3604ae9",
+   "title": "Asian Markets at Risk of Pressure on Nvidia Probe: Markets Wrap",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQR1JWME4tcFN3Vlh6UlhVeEN3c2FlRUFkUWRrczJ6OUZ1QWRkRndtMy1nZFhBaU5Lc0dzaXU2ZjJnNUtwN2RSa3dyLXlwUV9QanZmaC1Wb2xhbUVZekZhaXdXZkpSazFDVnJqZWIweWtvdGczQi0xTnB1aEhiSy00aVFsMWdYaE1sRkN3NlU2YmVJdzhv?oc=5",
+   "source": "Bloomberg",
+   "paywall": true,
+   "published": "2026-11-09T02:53:00Z",
+   "first_seen": "2026-11-09T03:39:46Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "NVDA"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "b9300d7bc9e4",
+   "title": "China wholesale inflation hits highest in more than four years as consumer measure slows",
+   "summary": "The PPI for October came in at 5.7%, compared to the 5.3% expected by economists polled by Reuters.",
+   "link": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html",
+   "source": "CNBC",
+   "paywall": false,
+   "published": "2026-11-09T02:50:22Z",
+   "first_seen": "2026-11-09T03:39:46Z",
+   "categories": [
+    "fed"
+   ],
+   "tickers": [],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "f47d69d8fe42",
+   "title": "Jensen Huang on Who Could Succeed Him as Nvidia CEO",
+   "summary": "Nvidia CEO Jensen Huang, in an interview filmed on October 14, discusses his unconventional leadership style, the pressures of the job and who might succeed him. Huang has since acknowledged an affair, and US intelligence officials reportedly suspect the woman was recruited by…",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-09/jensen-huang-on-who-could-succeed-him-as-nvidia-ceo-video",
+   "source": "Bloomberg",
+   "paywall": true,
+   "published": "2026-11-09T02:48:29Z",
+   "first_seen": "2026-11-09T03:39:46Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "NVDA"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "0de6a2931696",
+   "title": "Nvidia’s Jensen Huang: China Is 'Not Our Enemy,' US Chip Policy a 'Mistake'",
+   "summary": "In an interview filmed on October 14, Nvidia CEO Jensen Huang defended engaging with China and criticized US chip restrictions. He has since acknowledged having an affair, and US intelligence officials reportedly suspect the woman was recruited by Beijing to influence him.…",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-09/nvidia-ceo-jensen-huang-on-selling-chips-to-china-video",
+   "source": "Bloomberg",
+   "paywall": true,
+   "published": "2026-11-09T02:46:23Z",
+   "first_seen": "2026-11-09T03:39:46Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "NVDA"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "2aafca6a80fa",
+   "title": "South Korea says Nvidia issues won't affect contracted GPU supplies",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcUVlREFfdFVvdmk1OXFEamNOcFVZTGJFX1gxZkhjYjhXNTFnZkJqUmpLLTliVmRCZUNtRGdHSDZ2cVBvRXlLdldZSG1rVmFfMFk5M1dKNnBnVnNnUzZ1NmVSNkRWakkyNktBZmhGbzJwYkh5YTZBekVPY3pyUU9lTXY1WGt4TkhLcHVPTldJb1k3MGVPdzBLcTIyVzNuRUpyRGt5cDJpMV91QzdjcWFtQy1MekMwU3lkRlNXUFNn?oc=5",
+   "source": "Reuters",
+   "paywall": false,
+   "published": "2026-11-09T02:27:00Z",
+   "first_seen": "2026-11-09T03:39:46Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "NVDA"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "22b53f65ce9d",
+   "title": "Jim Cramer: What Jensen Huang's affair with an accused Chinese spy means for Nvidia stock",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZEFTaEZSMlA2THJTN21PeGpnSG1SLXNVNHlKT2xTNWxhbXF3TkxGZ0s5ZGlwZXl2NTRqWjJ3Y0p5U0kyNlI2TTVVd0h3N25hX1NvZGJFRlpyZGVJdnBKU2djZ0pSQUYtaWVJZlhaZkI3NEJzVHoyZU5JWTYtbVdWYlBuckxQSFlsS3R3bllUNWxnTmF6RDBLblJRY2Q2Z3pZWllyN0pVNWgtbFZhSXdVNHRhUE9KZkJ0aDRjbTEwTTdrdC1Xb1RqVXdLZlo0MTZhMkgyZA?oc=5",
+   "source": "CNBC",
+   "paywall": false,
+   "published": "2026-11-09T02:09:00Z",
+   "first_seen": "2026-11-09T03:39:46Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "NVDA"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "379ec2d23650",
+   "title": "Nvidia investigates whether CEO Jensen Huang was targeted by Chinese spy with whom he had an affair",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUzB5YTdpVVRqQUNKMHhoR3ZQNEdMb00yeU1kQUpTM2tDT2lHbTRmb1p5NHpmdDZqZ21EQlVNTEIzd2tlbDh2cUIwM1RNOVVQeFF6bDdjbXplNjhnWU1VUTR1NndXOFRGTUJlbHJGcmstaWgxWGdSX05SWW9qWmRaUlpLVTBGX1VNc3RnOEpqSktRZW96d0lVYVd0SEg5ZGlnd1FFMDNpdWo?oc=5",
+   "source": "AP News",
+   "paywall": false,
+   "published": "2026-11-09T01:52:00Z",
+   "first_seen": "2026-11-09T03:39:46Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "NVDA"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "f58ca33547d6",
+   "title": "Asian stocks steady as AI, Mideast jitters recede; dollar firm on Fed bets",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV0oxRGlDMkl5NWVMcTZ3NjVxWU5RakhWT3BnZG1vc254T1RSXzg0SE5MelBYSTNsakduTFo5R0pJMkNWNXZKVW9SZEFOLWZfbWQwdG94bkpoeGw5V0I5bmtlRktsWmpqTGhwVzFNSkgyaDdEVUprbDNsMkI1WThjZ1cwQmpIRjN5VVFOVw?oc=5",
+   "source": "Reuters",
+   "paywall": false,
+   "published": "2026-11-09T01:46:00Z",
+   "first_seen": "2026-11-09T03:39:46Z",
+   "categories": [
+    "fed"
+   ],
+   "tickers": [],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "60b460feddd0",
+   "title": "China's factory-gate inflation gains momentum in October, consumer price pressures stay muted",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdHZHeWlBMm5ScUQ3Um9LTHZLdHpkZzNXNXF0NWlKUjlMaE54NnI2VUhSNktuS3BpWEtldEk4ZklwbDFaLUVGaXcxdVY3ZllyX1o5aFNNX1R0dC03Zzc3NFVkSVdTZDl5dTg0UUF4R1lLQXNlT3NmS29zVjhqQWZPVVU5OXlpLXpWdmpSeEJCVWhrY1FUcnc0REduM3VITEs0TXRvLXRtLUxXMUZYaWl5NmYxZml3MDQzUDMxU20wbWdHWWMzbERkeVZHTQ?oc=5",
+   "source": "Reuters",
+   "paywall": false,
+   "published": "2026-11-09T01:39:00Z",
+   "first_seen": "2026-11-09T03:39:46Z",
+   "categories": [
+    "fed"
+   ],
+   "tickers": [],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "bf9b4f166966",
+   "title": "Nvidia Board to Probe Spying Case After CEO Admits Affair",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeU5sZExFMm9PT0FDekcxMEVUWTFWVEJVNUNBcmx0bFlzNkI2SnZYLWVlanJfdEtxN0lMV1RMZ2lfRHlYVHMwMm05dU1lNlQzS21OQlJwY1J2VThCVUpxZU5hcmxRWE8yTUNaVzlnZzRCTUJUNFFfSERTZ0RQaU9QdmRTMUZ1dEwxVDR5MzFOOXNBVmt4eW0zbHlEaWVRWWdFQUYydXVXWFIxcE5scC05YlZ4ckw1VkNtUDd1UXBGa2I2cjg?oc=5",
+   "source": "Bloomberg",
+   "paywall": true,
+   "published": "2026-11-09T01:37:00Z",
+   "first_seen": "2026-11-09T03:39:46Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "NVDA"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "9a52afb29bf3",
+   "title": "Indian rupee tracks AI volatility, oil; inflation data next test for bonds",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZUJncUFJYWZ3Z1JsUjB6SFJfakZ2SmVEVU1MbGpYVDNOQ3hTSTQ0c0QtUDRuUEQwdmFobUNpTjliaUhMZlEzTXBjZ20wb002Q2pDcWY1SjFIWUJEeHdmVDlLb1drV2NkRklMaWlkRjNnS3FmOG1SZ3Nza2dyWV9KcGJUMEhvVVZfLXN1QXVYRmtvYjh1Uk1yRXpZdVR4aEtxSFZfWmVHdTRibDNQU2RwVkdBMmZPWWM?oc=5",
+   "source": "Reuters",
+   "paywall": false,
+   "published": "2026-11-09T01:34:00Z",
+   "first_seen": "2026-11-09T03:39:46Z",
+   "categories": [
+    "fed"
+   ],
+   "tickers": [],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "c3b1165cd891",
+   "title": "Trump Backs Nvidia CEO After He Admits Affair With Suspected Spy",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZGwxSGd5R0JaY3pOaG9xSkUtdU5iUnA0eHRNc0YycTliRm5SdmFoREZ5SlhMOHM5d3JsTEdCT1ZkNE82YjE3YWtieE91OXU5WjFSaDRHdjZHM1dBLWNqRGdDSXZ6cG5VbER1V1pzZmZGejZqdVpoUlhMaUJ4LVVBMXMyU2JjZDhuUkU0RDY4cHFoT2xENS1nSXFsUlUyMFljMlk2dWFPU3N6aE9iNUFsLQ?oc=5",
+   "source": "Bloomberg",
+   "paywall": true,
+   "published": "2026-11-09T01:32:00Z",
+   "first_seen": "2026-11-09T03:39:46Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "NVDA"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "13dbe8c6f5dd",
+   "title": "India Short Bonds May Underperform on Rate Hikes, Cash Squeeze",
+   "summary": "India’s shorter bonds will likely resume their underperformance against longer peers as tightening liquidity and monetary conditions rein in appetite for the rate-sensitive notes.",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-09/india-short-bonds-may-underperform-on-rate-hikes-cash-squeeze",
+   "source": "Bloomberg",
+   "paywall": true,
+   "published": "2026-11-09T01:30:00Z",
+   "first_seen": "2026-11-09T03:39:46Z",
+   "categories": [
+    "fed"
+   ],
+   "tickers": [],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "a45f3bd87a88",
+   "title": "Jensen Huang said his relationship with Alice Huang was 'not unusual.' Days later, he admitted to an affair.",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMFlYWXFNdGFLWkNJVFB2QW5qUzZqR256aGt6VmFSSHd6RmYzMDYxbkdOaldEQ0Z5YzE3UDlVczJ1d0duZUVPbEpCa092M0NXal85dnlMZFdLYjlYVUk2SndfdDNrRnhOUFRSeHppZUFSVWRqTzNLZWNiX25XNksyMU9WOU5pMFZLVmlmWUNBVEVtS3FvS2xzZw?oc=5",
+   "source": "Business Insider",
+   "paywall": true,
+   "published": "2026-11-09T01:21:00Z",
+   "first_seen": "2026-11-09T03:39:46Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "NVDA"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "6a25f278cc57",
+   "title": "Nvidia’s Board Investigates Reports That CEO Was Spying Target After Affair",
+   "summary": "Jensen Huang apologized for being unfaithful to his wife, after he had an affair with an executive suspected of working for Chinese intelligence.",
+   "link": "https://www.wsj.com/tech/ai/nvidias-board-to-investigate-reports-that-jensen-huang-was-spying-target-c630325e?mod=pls_whats_news_us_business_f",
+   "source": "WSJ",
+   "paywall": true,
+   "published": "2026-11-09T01:15:00Z",
+   "first_seen": "2026-11-09T03:39:46Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "NVDA"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "2d0172c150a3",
+   "title": "Nvidia’s Huang admits to affair after allegations of relationship with Chinese spy",
+   "summary": "Silicon Valley chipmaker opens investigation into chief executive as he confirms extramarital liaison in message to employees",
+   "link": "https://www.ft.com/content/1397e2f4-d7f5-4cbb-a4d9-04ecf661d1aa?syn-25a6b1a6=1",
+   "source": "Financial Times",
+   "paywall": true,
+   "published": "2026-11-09T01:08:15Z",
+   "first_seen": "2026-11-09T03:39:46Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "NVDA"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "a6dddf393c71",
+   "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+   "summary": "Jensen Huang also admitted to having been \"unfaithful\" to his wife and says he will cooperate with a security investigation.",
+   "link": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
+   "source": "BBC",
+   "paywall": false,
+   "published": "2026-11-09T00:50:06Z",
+   "first_seen": "2026-11-09T03:39:46Z",
+   "categories": [
+    "watchlist",
+    "products"
+   ],
+   "tickers": [
+    "NVDA"
+   ],
+   "also": [
+    {
+     "source": "Sky News",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaTNJSlRMNlh5dWhmMWFaY1dpdzJIT0Zldm9pQTMyLWFXcmpYTjU0WUlLWHpfdHlfOHhGdnNvYmY2UENPN0tXTEhmX1NSYTBibEdvRHRrS08zSWRKU1c3UWNzaThtLWlvNVQtYXo1VzBTS2ZZcUhid3FQRHE1NGgzcmFLT1Y0bVB1WTdaY3VLcnZ0SmltbzBRRFpmc1FrTlFKaGZHX29PbEFSeFg3R2g3bzdiMTlFaEZYaXNxdVE3blVUSGlqMGhtRW52MA?oc=5",
+     "paywall": false
+    }
+   ],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "686295b52099",
+   "title": "Brazil's Lula, worried about high interest rates, pledges budget discipline",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTmRxVlVzb3VXRTFVRFRoNi12OFZQMDRRNGpoQWJNckR5R0p0SFU3VHRwVDZCTkdGZnRra3lueG5maDl0bVRMQkxKVGg2dU1uMjhFMV81bTVSc01HYW1USWo5bGRXZXRES1I1MkhNckRTMThqLTV0M0UwSVkyVHhJZEQ2c0JNekZXcDZPTWg1dktPcXdYZThtWk56ZTNJbW5ORGl6NGlVeDFDcVZWem1EeTZDX0Ywam1jbEJTZUZMR1I?oc=5",
+   "source": "Reuters",
+   "paywall": false,
+   "published": "2026-11-09T00:26:00Z",
+   "first_seen": "2026-11-09T03:39:46Z",
+   "categories": [
+    "fed"
+   ],
+   "tickers": [],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "4f16d09919ad",
+   "title": "Nvidia's importance to U.S. national security and AI trade highlighted in CEO affair and spy probe",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMEhfcnZKYmpFTzJhUHRWdHZOZUhpX3ZvV09aWVkyMTNXZE13N2RBTW1Gdi1Ga2U2VTlkVThiOVNGOF83WGNTdkFtdnN3dURXYy1qb1M5b1ByeHVvaDlWWThYSEcwRUdaQzd4dFo5RzNnZk9JTzV0emhUQm9xc2dqU1V6RTVkMlByQ1JaUVNvcFhXLTVq?oc=5",
+   "source": "CNBC",
+   "paywall": false,
+   "published": "2026-11-09T00:24:57Z",
+   "first_seen": "2026-11-09T03:39:46Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "NVDA"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "eddbdfb97373",
+   "title": "Trump backs Nvidia's Huang amid affair, spy investigation",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5odGlnT3dHVTZLdURJYmJCbmxLVnFMOXBZU3g4N25PMW1mZ2FkV1JfZE1HUmdRVjJ1ejV2MjRrUFNYLVdVNXNkSHZtWS1QUEs1T3ZKbjN4ZnBYdXVlMUN0aTNISEE1cjFWeGc?oc=5",
+   "source": "Axios",
+   "paywall": false,
+   "published": "2026-11-09T00:18:20Z",
+   "first_seen": "2026-11-09T03:39:46Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "NVDA"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "4186232c8261",
+   "title": "Reports of Jensen Huang's ties to alleged Chinese spy come at a 'terrible time' for Nvidia: Strategist",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQW1IMVBqTl9ObDdsSUU4VV9DTnl4NE1BTGFaQ2NUSXRQVHZmYUVxY1FLS0doSDJwQXZoekVfTml1YUpsdnZDMEVLWGRTNjRtNnpXTHB0Tzlsb2VYbXEwT2RxMy11S0FiYkkwTnR0bUw3R3hON0VQNm44Z1h3NlR5RmRZeC1mLWNGdEIwZjZtX2JoSVpGQ0xWQkhGVXNZZEtQdG5zQmJwd0E4TUpzVmx0eE1R?oc=5",
+   "source": "CNBC",
+   "paywall": false,
+   "published": "2026-11-09T00:14:04Z",
+   "first_seen": "2026-11-09T03:39:46Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "NVDA"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "1c01161048ec",
+   "title": "Here's what smart people are saying about Nvidia's investigation of CEO Jensen Huang",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONkYxOXlfaXpDRUotV1lQNnRsNExLNkpkb204eS1vbTBjNDdOZ01ZY2VxWEpST0VXSE1teHVuZUhuTHhDSHlwRThHNl8tWFNnQmJiSEtULUhtb3VBWHFPZllXUUcyazVoUUFza1lnR2NxSUU0dldPSzl1Z3ZQYUxpcDdfWm5DZ0RYY1ZkV0dKLUlteWYwR1ZWTw?oc=5",
+   "source": "Business Insider",
+   "paywall": true,
+   "published": "2026-11-09T00:08:00Z",
+   "first_seen": "2026-11-09T03:39:46Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "NVDA"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "448597d450e4",
+   "title": "Trump calls Nvidia's Huang 'honorable,' says he has not discussed allegations with him",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPY2QzRFRsZW5sUmJrR1o5RDl2eDRqdjM0TUczSmpsVVZzVWN5TkVTOWVEdmFqN2RHelRydTVBcTZKb3h6VzQzaktGTVdDdHZsSDZ5TnFkZnp3S2xnR1hJU18xcTVxTkFWMGpTMi1mX0VwZGs0RGhVVFJzc1lIblh5ak5QV2ZYTnNwU1lnMDhUZGY2aWRULVcxVlFBSzBtU3NBd3NzYXl4a2g2bkNGMnB4YzZUN3p1RUhFNEp2RVZZbDdOOFRH?oc=5",
+   "source": "Reuters",
+   "paywall": false,
+   "published": "2026-11-08T23:55:43Z",
+   "first_seen": "2026-11-09T03:39:46Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "NVDA"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "2fe4d56d8c56",
+   "title": "Read: Nvidia CEO Jensen Huang's letter to staff about affair",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQ3AxTWdha3VMSGRHTDlBanBNX3lTUTljXzJFSUE5OE9wcFY4cUtvSEpDcjgzNlEzTWpRRHA1cG1oVWVtTlJhb2ZZTDUzTGZKRkRYY1lIeWpjd3hqLWxYR1g3V0w3bHJpWE9XbGluSEJXRGw4SDRwNkdHUXhldTU3VExrc3pjRzg?oc=5",
+   "source": "Axios",
+   "paywall": false,
+   "published": "2026-11-08T23:51:37Z",
+   "first_seen": "2026-11-09T03:39:46Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "NVDA"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "30d4e0027628",
+   "title": "Gold Gains as Oil Extends Fall and Nvidia Probe Rattles Markets",
+   "summary": "Gold rose, erasing Friday’s decline, as oil extended a fall and an investigation into Nvidia Corp.’s chief executive officer weighed on technology stocks.",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-08/gold-holds-decline-as-us-jobs-data-fan-december-rate-hike-bets",
+   "source": "Bloomberg",
+   "paywall": true,
+   "published": "2026-11-08T23:40:10Z",
+   "first_seen": "2026-11-09T03:39:46Z",
+   "categories": [
+    "watchlist",
+    "crypto_gold"
+   ],
+   "tickers": [
+    "NVDA",
+    "XAUUSD"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "cb09cdccbd73",
+   "title": "Nvidia Stock Faces New Pressure as Board Investigates Huang’s Links to Alleged Spy",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMEREMjktUzJTVXRKWjNfaHNNUXJGOXd1SXo3R19qMm90NkNoSkI2UHU5X2hmZ3ZXUFJWSk5GOWxQaFBRdi11OXRZVHRpbGZjLTFWLXoteGJ1NmxxdVM4MWw0cF9CdExMWDF5Y0FDcnIxR0FuQzRjd2hjYzJZcVF4eUk0ZzMydzRVbW9UNl9pdmlmTTZ2RnpWemZn?oc=5",
+   "source": "Barron's",
+   "paywall": true,
+   "published": "2026-11-08T23:30:00Z",
+   "first_seen": "2026-11-09T03:39:46Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "NVDA"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "bf9ab093b89f",
+   "title": "Nvidia Probes Huang Affair Amid Spying Controversy",
+   "summary": "Nvidia Corp. Chief Executive Officer Jensen Huang says he is cooperating fully with an independent board investigation after admitting to an extramarital relationship. The inquiry follows US intelligence suspicions that a female executive was recruited by a Chinese intelligence…",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-08/nvidia-probes-huang-affair-amid-spying-controversy-video",
+   "source": "Bloomberg",
+   "paywall": true,
+   "published": "2026-11-08T23:22:53Z",
+   "first_seen": "2026-11-09T03:39:46Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "NVDA"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "73d794c27369",
+   "title": "The Pentagon is ramping up economic espionage. Jensen Huang's affair with a Chinese spy shows why",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORWw1alpaanV1RWdyaENWcXpfVHozaDh6d3dHRFkwbG5yR0M0WWhreW91a1BkOHMwVllac3I4ZWVxMkJKb25Td1FiZ3UySEZpUFotYzNWaTRMc0tvYjhaVF84SjZWLTVVRElBNzRJWEo3NlJqZkV6Z2djVGZ4TXNNVW1VTDRHVFNic29Ma1VPa3ZSUXBWSy1iNnV2YmRHRk9WRE9YSmpWM0Q3SnU1d2xlSEhJOEJhdw?oc=5",
+   "source": "Fortune",
+   "paywall": true,
+   "published": "2026-11-08T23:20:00Z",
+   "first_seen": "2026-11-09T03:39:46Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "NVDA"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "85998d39acfb",
+   "title": "Asian stocks face new pressure as Nvidia spy probe rattles tech sector",
+   "summary": "",
+   "link": "https://seekingalpha.com/news/4668780-asian-stocks-face-new-pressure-as-nvidia-spy-probe-rattles-tech-sector?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "source": "Seeking Alpha",
+   "paywall": true,
+   "published": "2026-11-08T23:12:00Z",
+   "first_seen": "2026-11-09T03:39:46Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "NVDA"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "c9ae2a2ca56b",
+   "title": "A new setback for the AI trade: Nvidia’s board is probing CEO Huang’s relationship with alleged spy",
+   "summary": "Jensen Huang will remain in his role and cooperate with the investigation, though analysts say the matter could cloud over Nvidia’s stock for some time.",
+   "link": "https://www.marketwatch.com/story/nvidias-board-will-probe-ceo-jensen-huangs-relationship-with-an-alleged-spy-heres-what-to-know-86656cd9?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "paywall": true,
+   "published": "2026-11-08T23:05:00Z",
+   "first_seen": "2026-11-09T03:39:46Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "NVDA"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "3c52bed3357c",
+   "title": "Vitalik ‘pivots’ ETH to store of value, crypto suffers after US midterms: Hodler’s Digest",
+   "summary": "Vitalik Buterin wants Ethereum to embrace a store of value narrative, upsetting Bitcoin maxis. The crypto industry faces an uncertain future following the US elections.",
+   "link": "https://cointelegraph.com/magazine/vitaliks-pivots-to-eth-as-a-store-of-value-us-election-weighs-on-crypto-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "paywall": false,
+   "published": "2026-11-08T22:59:06Z",
+   "first_seen": "2026-11-09T03:39:46Z",
+   "categories": [
+    "crypto_gold"
+   ],
+   "tickers": [
+    "BTCUSD"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "f940c447e850",
+   "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+   "summary": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Huang sent a memo to Nvidia employees…",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+   "source": "The Verge",
+   "paywall": false,
+   "published": "2026-11-08T22:54:50Z",
+   "first_seen": "2026-11-09T03:39:46Z",
+   "categories": [
+    "products",
+    "watchlist"
+   ],
+   "tickers": [
+    "NVDA"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "c35f5f9b6373",
+   "title": "Nvidia investigates CEO Jensen Huang's relationship with alleged Chinese spy",
+   "summary": "Huang told Nvidia staff in an email that he had an affair and that the company's board has opened an investigation into allegations the woman is a Chinese spy.",
+   "link": "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html",
+   "source": "CNBC",
+   "paywall": false,
+   "published": "2026-11-08T22:53:57Z",
+   "first_seen": "2026-11-09T03:39:46Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "NVDA"
+   ],
+   "also": [
+    {
+     "source": "The Verge",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObVlMcDNJTVpaZ1FUcFNpZkpGbG5IaFNGYVNZc3ZtRWg4UjBHdHl5NUs3TFNMeFBqWE5iV0EzdFlwZ0pYdGMySjhVRENMVTNVSk9GZFpWTTJaVU9TT0VaTV9PZ21pWjdiNkMyVTJ2WElNVmJ6VlA3R2tzbmR5V1VjOTNjempjTXE5U1U3TXVXZnItdWVod2t5RzZ1NmRkZzFjbjF5T0Q0RlBEWkxpLXdlbW5uczVWMU5aZlE?oc=5",
+     "paywall": false
+    }
+   ],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "12edd787b55b",
+   "title": "Nvidia CEO Jensen Huang faces bipartisan congressional scrutiny over reported China spy link",
+   "summary": "Lawmakers want to question Nvidia CEO Jensen Huang following reports about his relationship with an alleged Chinese intelligence asset.",
+   "link": "https://www.cnbc.com/2026/11/08/jensen-huang-nvidia-china-spy-congress.html",
+   "source": "CNBC",
+   "paywall": false,
+   "published": "2026-11-08T22:49:46Z",
+   "first_seen": "2026-11-09T03:39:46Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "NVDA"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "01348d84b5d0",
+   "title": "Meta preparing to launch Muse AI assistant in UK",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSG1XakNkLUEtamg5aGd6YWhlVVZXcVo0eUlFTkl5SmxfVEhua05pdjhJaWtCbE1mcnFqR1FxQ014NXotTFMzOVJQN3hVeWRyOGJhNGZDVjU2OUprUjdDeTdjRi1uekx2TWNwZEFxZkRoN3c1bERUZDBGNXUxX3VvM1I5UVdFaVZCS0JTZmJRcTUzUE1GQzdLS1hWRlBtUnJrUkNtTURHRlFlSXc?oc=5",
+   "source": "The Times",
+   "paywall": true,
+   "published": "2026-11-08T22:30:00Z",
+   "first_seen": "2026-11-09T03:39:46Z",
+   "categories": [
+    "watchlist",
+    "products"
+   ],
+   "tickers": [
+    "META"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "4fe5ef46b849",
+   "title": "Asian Stocks Advance on Tech Rebound, Oil Falls: Markets Wrap",
+   "summary": "Asian stocks rebounded from their biggest selloff in more than 18 months, with Taiwan leading gains after local authorities introduced measures to restore investor confidence. Crude oil fell, adding to the positive tone.",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-08/stock-market-today-dow-s-p-live-updates",
+   "source": "Bloomberg",
+   "paywall": true,
+   "published": "2026-11-08T22:20:51Z",
+   "first_seen": "2026-11-09T03:39:46Z",
+   "categories": [
+    "market"
+   ],
+   "tickers": [],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "5577c792bb11",
+   "title": "Read Huang's email to his staff and statement from Nvidia's board of directors",
+   "summary": "Here is the text of a staff email from Huang obtained by CNBC and a statement released Sunday about the investigation from Nvidia's board of directors.",
+   "link": "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-email-board-of-directors-statement.html",
+   "source": "CNBC",
+   "paywall": false,
+   "published": "2026-11-08T22:19:00Z",
+   "first_seen": "2026-11-09T03:39:46Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "NVDA"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "8e8f2ffcd563",
+   "title": "Nvidia CEO Jensen Huang says he was 'unfaithful' to his wife: Read his note to staff",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORHNLanYtZUJaWkhKNllPUktiWWpRNWo4eWVBbmctWmtpay15NW1BVWNHRHVuSzZSUjZfS3ZpRkJlVE9uNHJWcGdwT2o4Z3Z1OFp1alpwZkVETVB6UGpReDZ6U1huR2FmcjZVVU5HUXlfck9XU1ExbmpUU2hNZWQ1QzRQNWw4b2tpQnZSck82TUtMXzBGNGRIVmZIaC1RWE9fVkk4UG1zemhEbGs?oc=5",
+   "source": "Business Insider",
+   "paywall": true,
+   "published": "2026-11-08T21:56:00Z",
+   "first_seen": "2026-11-09T03:39:46Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "NVDA"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "c26e4c1110be",
+   "title": "Nvidia says it's investigating whether CEO Jensen Huang was the target of a 'foreign intelligence effort'",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZndMbEN0UXQyWDZmdUJheGNBUXpPSGNXTTAxVDRWSGlDUmVqMktxdXZVY2UxMHdsNW9uV0NoemVHLTJ2UXA4Zm9Lc1llZkJMVlRQbHRDOUVPSGNydjRnRzczbTFGaURHeE8wNGlxdm9wRWNOSGhmaHc1a3ZndUxrLTFONkVIeXl6dzZsTVd3?oc=5",
+   "source": "Business Insider",
+   "paywall": true,
+   "published": "2026-11-08T21:34:00Z",
+   "first_seen": "2026-11-09T03:39:46Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "NVDA"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "55d1717ea2bd",
+   "title": "Read the Statements From Nvidia’s Board and CEO Jensen Huang",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSWRiUGFlN2dtR1drNzJEbGU1R0JldDl2ZS10dVUyQVJQamFXejVMaEpPOUlxdkt1MlZJb1pQNDVNVzBqd2ptN0RoY1h2SDE2N29qbmRsQUxUMUdTaUdzV0JlMHdBVDJGeE96QXBVN25qcThKT01kUGRDMVJWeUxaYlNFd0ZwWkgtSE0xa1dIVlNmWTBQUjNLMHljOUNjOUNWMUZYMk1WQXVOQQ?oc=5",
+   "source": "Bloomberg",
+   "paywall": true,
+   "published": "2026-11-08T21:14:46Z",
+   "first_seen": "2026-11-09T03:39:46Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "NVDA"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "db4654d7895d",
+   "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORmUtRHJtWjZCS2MzLVB0ckV6clhJekVZTG5GRmVHZjBsbXFLV09PMFhnUjNFMEstS2NtcF83V0N6NEp6ek1MQjVGX3FGWXNNTWhBRzFPWjJPd1hPZnpyUTIzWm5mbWloa1pPbkRubmFRUUhfbkFsTFdHQ0NSdzJ0RGRsRTlGemJtMHRPNWxCam5WTHhVSnBmeVJHVG5XaEltS2VjckQ5MXozLWhyZ0NWN09USmROa3VDN3FkaDhR?oc=5",
+   "source": "TechCrunch",
+   "paywall": false,
+   "published": "2026-11-08T21:00:11Z",
+   "first_seen": "2026-11-09T03:39:46Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "NVDA"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "d4433ce2898d",
+   "title": "Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNEhNT1F4dmwzQm9NQ2xCTXJwM2pIanQzZ3YxdFJmRGdKbkg4V1JQbkpLV1NJR252SWF2V3Y4T1JUSE9EVm8wendNMEVJUU9QMXk0UUdXV1d0QmJPTnVJZGwwSlU2Rm9QTHpwakNXYmg3YmtISjlGNXdRbnpXcFNVR25OS2U0dUNL?oc=5",
+   "source": "The Guardian",
+   "paywall": false,
+   "published": "2026-11-08T21:00:00Z",
+   "first_seen": "2026-11-09T03:39:46Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "NVDA"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "78ae53212619",
+   "title": "Nvidia CEO Jensen Huang admits affair, board to launch investigation",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNblR4YzRVcEJwVHJVTXNsU2ZnWUJNcVZBZm9Ma2hLSDlHR3BZdmZ5ZGRtbm9yd1gxdm5HQTltcEIzQ3ZlNC1lYWNJbG5wOUNqVjBhYVV0MjhjbjJ4cWZKcnhqTHhSVWY0TmFzTVlIMUZqVktUNGRpREthUVFDX0w1c2xCRjRTUU5UaFZ0enhrbzk2TDhxZG5vWUNWNEF0UjV1ZEE?oc=5",
+   "source": "Axios",
+   "paywall": false,
+   "published": "2026-11-08T20:38:50Z",
+   "first_seen": "2026-11-09T03:39:46Z",
+   "categories": [
+    "watchlist",
+    "products"
+   ],
+   "tickers": [
+    "NVDA"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "68e05ba44347",
+   "title": "Nvidia CEO Jensen Huang admits affair as company launches investigation into foreign spy claims",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTDZKWXR6NWRkSU1kLUV0M3FSOHpOYUtQWlV1OWVhUGN5Z3BraUg2d3BIdEJDZjBMMV9Ca3JBaEw5bWl4a0FPVFdGMWgwTEt3SUZtMnBkcU1MempFcGRwZVlXdmVfeGgtQm1sZW5zQVJMU29DczY5MjJ2WHF2cVo0M05pbw?oc=5",
+   "source": "CNN",
+   "paywall": false,
+   "published": "2026-11-08T20:36:42Z",
+   "first_seen": "2026-11-09T03:39:46Z",
+   "categories": [
+    "watchlist",
+    "products"
+   ],
+   "tickers": [
+    "NVDA"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "0f87281f2795",
+   "title": "Nvidia probes whether CEO Huang was target of foreign spying as he admits affair",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOFNRSy1yS0duakdXT1hKbjI2MkFsMVhHeTQ1VVh4QlZYOVdvd0ZKaWVjTzFXT2JCRlR2T2IzSjRKcENSTkNLbVR2VU90Q1VyUHhEZWp0NGZLQUZPRXJ1NlNVNG9OZ0U0T2VwYmJuaURBMWVBYXhHd1hDb00zZU9aUXJGaU10bmFrclgySUZoUE1GX210Q19TQ1pXRjJTVFpoZjN2NG9qblVQMXhHUC1vV3JxaHkxbVJiVkhldEZISHlCdw?oc=5",
+   "source": "Reuters",
+   "paywall": false,
+   "published": "2026-11-08T20:16:00Z",
+   "first_seen": "2026-11-09T03:39:46Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "NVDA"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "f3aa86ff38e9",
+   "title": "Statement from NVIDIA Board of Directors",
+   "summary": "The NVIDIA Board is initiating an independent investigation in light of recent reporting that founder and CEO Jensen Huang has been the target of a foreign intelligence effort. A committee of ...",
+   "link": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
+   "source": "NVIDIA Newsroom",
+   "paywall": false,
+   "published": "2026-11-08T20:00:00Z",
+   "first_seen": "2026-11-09T03:39:46Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "NVDA"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "c777aac33ac8",
+   "title": "Treasury Rally Gets New Boost as Election Hammers the AI Trade",
+   "summary": "Wall Street sees the Treasury market emerging as a winner from the Democratic landslide in the US midterm elections, giving traders another reason to rethink this year’s sharp selloff.",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-08/treasury-rally-gets-new-boost-as-election-hammers-the-ai-trade",
+   "source": "Bloomberg",
+   "paywall": true,
+   "published": "2026-11-08T20:00:00Z",
+   "first_seen": "2026-11-09T03:39:46Z",
+   "categories": [
+    "market"
+   ],
+   "tickers": [],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "9acb02f4f259",
+   "title": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdjNMcDlWcGJrMVA0emhiNXJ0dEgzRW1MdF9FWFpjOVVsUzdOYldsWkNfSlV4cnlQejhNbk9oblpSc0RrV0lnZ21YNHBVdHhDRGxiSUFRdnAxTWNfRDhpVzVNZ0Jnby1xcWQyZmx3NVRoUzhpWDE1R3J6eUFHdEFFeW1jS2paanpmd3BERnRFTHFBT3NyMEtZQlRGSGhDMVA5RmVVYUVTZEd2V28ycll6LQ?oc=5",
+   "source": "TechCrunch",
+   "paywall": false,
+   "published": "2026-11-08T19:51:30Z",
+   "first_seen": "2026-11-09T03:39:46Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "SPCX"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "95018a224239",
+   "title": "SpaceX Schedules Starship Test 15. This Is the Cool Part.",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1hQWhkdllHY0Q1dGhyX2dmbnE1OHNKd0FzRDZVc2I1MkhfQ0dwYmtfWHdnd3NDWHVNTHRrYU1TcGVNeTJ5eTVYYjFqQ0h2NHpoRDhZQzFlSzFNazE4OUdSM2xnS25TNVZ0cWQ5Z0gxYnZ5ODJpbV9iSjBXcFg?oc=5",
+   "source": "Barron's",
+   "paywall": true,
+   "published": "2026-11-08T17:51:00Z",
+   "first_seen": "2026-11-09T03:39:46Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "SPCX"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "afe06187a472",
+   "title": "Here are the 2 big things we're watching in the stock market in the week ahead",
+   "summary": "CoreWeave earnings and inflation data will take center stage.",
+   "link": "https://www.cnbc.com/investingclub/2026/11/08/here-are-the-2-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
+   "source": "CNBC",
+   "paywall": false,
+   "published": "2026-11-08T17:40:15Z",
+   "first_seen": "2026-11-09T03:39:46Z",
+   "categories": [
+    "fed",
+    "market"
+   ],
+   "tickers": [],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "f5a91ec654e6",
+   "title": "Watching Wall Street, Deadly Mass Shooting in Poland, Back to Work After Blue Wave",
+   "summary": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by Fmr. Deputy Secretary of State & Fmr. US Special Representative for North…",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-08/bloomberg-this-weekend-11-8-2026-video",
+   "source": "Bloomberg",
+   "paywall": true,
+   "published": "2026-11-08T17:03:43Z",
+   "first_seen": "2026-11-09T03:39:46Z",
+   "categories": [
+    "market"
+   ],
+   "tickers": [],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "d511010010fb",
+   "title": "From Silicon Valley to the Pentagon, Here’s the 2026 WSJ Tech: California Recap",
+   "summary": "Plus, Apple’s beach-friendly iPad Mini and Amazon’s upscale Alexa tablet, the data-center revolt continues, investors question Anthropic’s valuation and more.",
+   "link": "https://www.wsj.com/tech/ai/from-silicon-valley-to-the-pentagon-heres-the-2026-wsj-tech-california-recap-351cb31d?mod=rss_Technology",
+   "source": "WSJ",
+   "paywall": true,
+   "published": "2026-11-08T15:55:00Z",
+   "first_seen": "2026-11-09T03:39:46Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "AMZN"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "607122bc19fc",
+   "title": "This Bitcoin Developer’s Idea Would Make Quantum Attacks a Losing Bet",
+   "summary": "Cory Fields wants future quantum attackers to post Bitcoin as collateral before touching vulnerable wallets, giving prepared owners a chance to recover their coins and collect a potentially costly penalty.",
+   "link": "https://decrypt.co/382761/bitcoin-developer-quantum-landmines-losing-bet",
+   "source": "Decrypt",
+   "paywall": false,
+   "published": "2026-11-08T14:01:03Z",
+   "first_seen": "2026-11-09T03:39:46Z",
+   "categories": [
+    "crypto_gold"
+   ],
+   "tickers": [
+    "BTCUSD"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "b63309fde67b",
+   "title": "Poppi founders are going after PepsiCo's Gatorade with new beverage startup Jetty",
+   "summary": "Poppi founders Allison and Stephen Ellsworth are launching Jetty, a hydration brand selling bottled drinks and powders at Whole Foods, Target and Amazon.",
+   "link": "https://www.cnbc.com/2026/11/08/poppi-founders-jetty-hydration-gatorade.html",
+   "source": "CNBC",
+   "paywall": false,
+   "published": "2026-11-08T14:00:01Z",
+   "first_seen": "2026-11-09T03:39:46Z",
+   "categories": [
+    "watchlist",
+    "products"
+   ],
+   "tickers": [
+    "AMZN"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "99462c0b12ea",
+   "title": "Here’s what happened in crypto today",
+   "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+   "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "paywall": false,
+   "published": "2026-11-08T13:33:00Z",
+   "first_seen": "2026-11-09T03:39:46Z",
+   "categories": [
+    "crypto_gold"
+   ],
+   "tickers": [
+    "BTCUSD"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "d4d6d424682d",
+   "title": "Amazon's Astro home robot has fans but looks destined for the 'trash heap.' Why it's trying again",
+   "summary": "Amazon has formed a new home robotics team and is hiring for a “new-to-world robot product,” according to CNBC’s analysis of job posts.",
+   "link": "https://www.cnbc.com/2026/11/08/amazon-home-robot-fauna-sprout.html",
+   "source": "CNBC",
+   "paywall": false,
+   "published": "2026-11-08T13:00:01Z",
+   "first_seen": "2026-11-09T03:39:46Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "AMZN"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "4420f548092f",
+   "title": "These Finland homes get free heat from bitcoin miners (as long as BTC stays above $70,000)",
+   "summary": "A Finnish startup has 30 bitcoin mining systems working as central heating, and at today’s prices each one earns slightly more than the electricity it burns.",
+   "link": "https://www.coindesk.com/markets/2026/11/08/these-finland-homes-get-free-heat-from-bitcoin-miners-as-long-as-btc-stays-above-usd70-000",
+   "source": "CoinDesk",
+   "paywall": false,
+   "published": "2026-11-08T12:55:59Z",
+   "first_seen": "2026-11-09T03:39:46Z",
+   "categories": [
+    "crypto_gold"
+   ],
+   "tickers": [
+    "BTCUSD"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "3b2092889356",
+   "title": "Anthropic secures $3.4 billion generator deal for AI data centers, FT reports",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTUktcGxpNENhQ1llV2F3a3V5RUZya0dDc0ZLeFVTZmFqclBqSVhuYkNiSFpSTkkwVnZ2NkFVVEVjQjZPLTJzMGMyU0dnaFg0X1pPd2pMV0ZCWWtMWlpSdTNvckRlaGxLcWs1SnljenEwcUs0N0doWG0yRDdET2o4YlZMVWl6c2lpYWJ1emstVFI1S3VyUXdIdG1xdmZpS3k3ZW5LVUpibUZ0SWxmZUNLNXN0SDBMZE5nWFJZdDlQSQ?oc=5",
+   "source": "Reuters",
+   "paywall": false,
+   "published": "2026-11-08T12:54:10Z",
+   "first_seen": "2026-11-09T03:39:46Z",
+   "categories": [
+    "deals"
+   ],
+   "tickers": [],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "a5de99f27b6e",
+   "title": "My Week With Apple’s Beach-Friendly iPad Mini and Amazon’s Upscale Alexa Tablet",
+   "summary": "Phones got bigger, laptops got lighter, but tablets still make sense for a lot of people—especially those who love their couch.",
+   "link": "https://www.wsj.com/tech/personal-tech/apple-ipad-mini-amazon-alexa-tablet-best-in-years-c5004bac?mod=rss_Technology",
+   "source": "WSJ",
+   "paywall": true,
+   "published": "2026-11-08T12:00:00Z",
+   "first_seen": "2026-11-09T03:39:46Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "AMZN"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "edda21609b0a",
+   "title": "Top Wall Street analysts like these 3 dividend stocks for consistent income",
+   "summary": "Three dividend-paying stocks that are highlighted by Wall Street’s top pros, as tracked by TipRanks.",
+   "link": "https://www.cnbc.com/2026/11/08/top-analysts-like-these-3-dividend-stocks-for-consistent-income.html",
+   "source": "CNBC",
+   "paywall": false,
+   "published": "2026-11-08T11:47:24Z",
+   "first_seen": "2026-11-09T03:39:46Z",
+   "categories": [
+    "market"
+   ],
+   "tickers": [],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "31f32bbe3d62",
+   "title": "You won’t be able to return a Christmas gift you bought on Amazon purchased before Nov. 1",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbTVMR3liTnVmWkhkYzZscXRhaW15RVVkMzJwcVV4TmF6bnczdl9RVGtfSGVpVHJZVmpoQ1pGQWtEa1lqbUs2NGZQclQwclItT1MxZmJNNDNKVXAzd1hJNzNZY1haVm9KNzdGYWEybDJWQmI2VHpsYVdSdDFVNEhudDk2XzZZVlQ5T1Z5YnZjOWkzdFVqOEFZ?oc=5",
+   "source": "Fortune",
+   "paywall": true,
+   "published": "2026-11-08T11:00:00Z",
+   "first_seen": "2026-11-09T03:39:46Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "AMZN"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "b4887fe20015",
+   "title": "DoorDash Shareholders Aren’t Convinced the Company Can Take On Amazon",
+   "summary": "Following Instacart acquisition plans and an Amazon deal with rival Uber Eats, DoorDash stock is on sale.",
+   "link": "https://www.wsj.com/business/retail/doordash-shareholders-arent-convinced-the-company-can-take-on-amazon-bdb22c70?mod=rss_markets_main",
+   "source": "WSJ",
+   "paywall": true,
+   "published": "2026-11-08T10:30:00Z",
+   "first_seen": "2026-11-09T03:39:46Z",
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "tickers": [
+    "AMZN"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "5aff9898c3ad",
+   "title": "AWS principal engineer says the best engineers are ‘paranoid and lazy’ when it comes to AI",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWGRyalF3alYySlprSjFrUGQ0NzR5REZNVXlKSHJFZ29zRjhWZ05kUXV4ZU9MdURwdDROazVLNVhrU2xBbjFBVTlCNWRVMXJUWFdBWkVNWTdCOXRYajVGMUJZODE5bE9PQ0JnRjNfSEZhdXFPVi1ELTlTM1pOcGRXZ0xiem1SMjVzUjVsTGNIcWFsZElld0VzRGVrS284Zw?oc=5",
+   "source": "Business Insider",
+   "paywall": true,
+   "published": "2026-11-08T10:21:00Z",
+   "first_seen": "2026-11-09T03:39:46Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "AMZN"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "1ebb980c599c",
+   "title": "Taiyo Yuden (TSE:6976) Stock Still Looks Below Fair Value On Cash Flow",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRmQwbzMwV1NUc3dZWUQyVGlDd2F1cUhGY2RFZEZqOTlWUkJaRUNTMXBCNkNwM2hualFiWGdZTkk5eU95cTBNTWc1TXgzQVhHNkJ6cDRJZlVQZWd0Q2F1VEVLX1p4bWl1bWxMaUdMaU4wMDYxRnlCT3NRdk9RenBaVDFWVmNNbHRKalhqSy1QYmVydmJoWWc?oc=5",
+   "source": "Yahoo Finance",
+   "paywall": false,
+   "published": "2026-11-08T08:13:33Z",
+   "first_seen": "2026-11-09T03:39:46Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "TYOYY"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "2334a6d99f06",
+   "title": "Russia races to build rival to Elon Musk’s Starlink",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYXlweW85SzBiZWVLdzRGLVpBZV9IcFVMVTF3M0JPazJwaTVUcWZqcXJ4clVDQ2dyNTlISXhYZ21qLUYzSVRxNVhZYWtBeHNxZXdOZXZEbjNDMGlHX1RBOG5tNGRHd3RydTNUbWhqV3JqVzlVb3BOUGgxRlpUQjI4SG0tS2w?oc=5",
+   "source": "Financial Times",
+   "paywall": true,
+   "published": "2026-11-08T05:03:33Z",
+   "first_seen": "2026-11-09T03:39:46Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "SPCX"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
   {
    "id": "15ae86040ae8",
    "title": "AI Slump Revives Asia’s Forgotten Trades From China to India",
@@ -651,7 +2189,10 @@
     "NVDA"
    ],
    "also": [],
-   "ai": null
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
   },
   {
    "id": "d7e5b4a43640",
@@ -957,6 +2498,27 @@
    ],
    "tickers": [
     "BTCUSD"
+   ],
+   "also": [],
+   "ai": {
+    "label": "noise",
+    "model": "claude-haiku-4-5"
+   }
+  },
+  {
+   "id": "490548770765",
+   "title": "Historical Data for Murata Manufacturing Co Ltd (Derivatives) in USD",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPR2t3NDhwazA5N0pZNWlOZm04UmEyVnh1dU14MEhsWGpVS09oOFg5TG4xYmh6QU9UWEtpcW5lTnJBMFUzc2FhTENiRk5HMmt2eWdHMk9aYXdrdUtvd0ZQTnpFUlh3QUpDZHFwOEpJSjNpNWFtWGU5T3JlUlViVnlfM0dlV2ZFemlOSE5J?oc=5",
+   "source": "CryptoRank",
+   "paywall": false,
+   "published": "2026-11-07T13:22:49Z",
+   "first_seen": "2026-11-09T03:39:46Z",
+   "categories": [
+    "watchlist"
+   ],
+   "tickers": [
+    "6981"
    ],
    "also": [],
    "ai": {
@@ -15267,534 +16829,6 @@
    }
   },
   {
-   "id": "b9467a7bd301",
-   "title": "Salesforce to Buy Defense Tech Startup, Extending Acquisition Streak",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeUszeHYyc3hnQjhoYllLZTc0aDFCZlItTDlCMF9WYmJFZE1rRU5KbzdJQUZ6cVJtUGg4MXB1OWhDcTNqTnh5SmFoY0lJWXpOcUc1X3F4T3oxbW50UHpkSWtMd29oZ18wS2h0VVFEd2Z1eU9EaUtLV2VUdjB0VHpKdjZ3M25HUG0yNE0xQ3o4Q1VFUTFsUnFxWkpMZ0dhaURMeXdORGJtSlY?oc=5",
-   "source": "The Information",
-   "paywall": true,
-   "published": "2026-11-02T03:07:00Z",
-   "first_seen": "2026-11-02T03:22:39Z",
-   "categories": [
-    "watchlist",
-    "deals"
-   ],
-   "tickers": [
-    "CRM"
-   ],
-   "also": [],
-   "ai": {
-    "label": "fundamental",
-    "tickers": [
-     "CRM"
-    ],
-    "direction": "unclear",
-    "impact_area": "other",
-    "importance": "low",
-    "reason": "Salesforce ประกาศซื้อ defense tech startup ขยายเส้นทาง acquisition strategy",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "836350e34c1e",
-   "title": "Global AI Selloff, Small-Cap Pain Push Investors Toward India Large Caps",
-   "summary": "Software services exporters claim all five top spots in the large-cap index in October.",
-   "link": "https://www.bloomberg.com/news/newsletters/2026-11-02/global-ai-selloff-small-cap-pain-push-investors-toward-india-large-caps",
-   "source": "Bloomberg",
-   "paywall": true,
-   "published": "2026-11-02T02:30:55Z",
-   "first_seen": "2026-11-02T03:22:39Z",
-   "categories": [
-    "market"
-   ],
-   "tickers": [],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "ea31d91167e5",
-   "title": "Foreigners Make Record Withdrawal From Taiwan Stocks on AI Rout",
-   "summary": "Foreign outflows from Taiwanese stocks hit a record in October as a global selloff in artificial intelligence play pushed the island’s benchmark closer to a technical correction.",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-02/foreigners-make-record-withdrawal-from-taiwan-stocks-on-ai-rout",
-   "source": "Bloomberg",
-   "paywall": true,
-   "published": "2026-11-02T01:00:27Z",
-   "first_seen": "2026-11-02T03:22:39Z",
-   "categories": [
-    "market"
-   ],
-   "tickers": [],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "796d9d5502f3",
-   "title": "Dollar rangebound ahead of US midterms; bitcoin reels from crypto heist",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPb2NfWVhRd1dsZXVELVl6emxWenVBSzdWTFVpcjlPaUtVNmgwbklnaHctbWF2VjdTTTJxQ3c4NzZZSGpSTG1QaThQQUZHY1RmeENqcTZNend0eDBla0dFNThjejRfM2dTdm1JYW9vd0duUnZFVUNWQUhETi1RVmZxNWxBZ2gzZEdBWTdGNnVqMmxVeUlKVUZPX0ttc3pnLUUxOGpoa1hpdVZNWWZrVkx6c3FoTkluMDRB?oc=5",
-   "source": "Reuters",
-   "paywall": false,
-   "published": "2026-11-02T00:57:00Z",
-   "first_seen": "2026-11-02T03:22:39Z",
-   "categories": [
-    "crypto_gold"
-   ],
-   "tickers": [
-    "BTCUSD"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "307a8f2c2c33",
-   "title": "Japanese Stocks Fall on Tech Selloff, Kioxia’s Profit Outlook",
-   "summary": "Japanese stocks fell, with technology shares taking a hit from a steep selloff in their US peers, while chipmaker Kioxia Holdings Corp. slumped after a disappointing profit outlook.",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-02/japanese-stocks-fall-on-tech-selloff-kioxia-s-profit-outlook",
-   "source": "Bloomberg",
-   "paywall": true,
-   "published": "2026-11-02T00:15:20Z",
-   "first_seen": "2026-11-02T03:22:39Z",
-   "categories": [
-    "market"
-   ],
-   "tickers": [],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "e0cbfcc5b363",
-   "title": "Gold Climbs Back From One-Year Low as Dip Buyers Arrest Slide",
-   "summary": "Gold rose, as lower oil prices offered some respite from inflationary pressures and dip buyers were drawn by the metal’s slide Friday to the lowest in a year.",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-02/gold-climbs-back-from-one-year-low-as-dip-buyers-arrest-slide",
-   "source": "Bloomberg",
-   "paywall": true,
-   "published": "2026-11-02T00:03:36Z",
-   "first_seen": "2026-11-02T03:22:39Z",
-   "categories": [
-    "crypto_gold"
-   ],
-   "tickers": [
-    "XAUUSD"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "36f9d561f100",
-   "title": "School IB economics: SpaceX and Tesla boards explore potential merger",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBOdXlWZy1pUTBmRUdJaVNBVHB1WGlNZUVoNXJfTXVHVGZScy14cmhJZ21rdDdFTFNsVnhDNmhRSTZvSGtEd1hmYXN2dTVfU2pzRFNvQU16ZmR4S0RJbjFraWozQ2R4bC1aWXNzWjdYT3A?oc=5",
-   "source": "Financial Times",
-   "paywall": true,
-   "published": "2026-11-01T23:58:21Z",
-   "first_seen": "2026-11-02T03:22:39Z",
-   "categories": [
-    "watchlist",
-    "deals"
-   ],
-   "tickers": [
-    "SPCX"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "86233732558b",
-   "title": "Brandywine Says Philippines Bond to Surge Once Inflation Eases",
-   "summary": "Philippine bonds may become one of Asia’s best performers once inflation pressures ease and risks from the Iran war recede, according to Brandywine Global Investment Management.",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-01/philippine-bonds-can-beat-asia-if-war-risks-ebb-says-brandywine",
-   "source": "Bloomberg",
-   "paywall": true,
-   "published": "2026-11-01T23:55:15Z",
-   "first_seen": "2026-11-02T03:22:39Z",
-   "categories": [
-    "fed"
-   ],
-   "tickers": [],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "b67a3cd37b6c",
-   "title": "Australian Far-Right Party Regains Poll Lead as Government Slips",
-   "summary": "Australia’s far-right One Nation party regained the lead in a national opinion poll as support for Prime Minister Anthony Albanese’s center-left government slipped against a backdrop of elevated inflation and interest-rate increases.",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-01/australian-far-right-party-regains-poll-lead-as-government-slips",
-   "source": "Bloomberg",
-   "paywall": true,
-   "published": "2026-11-01T22:09:50Z",
-   "first_seen": "2026-11-02T03:22:39Z",
-   "categories": [
-    "fed"
-   ],
-   "tickers": [],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "5ca5b5ac5eef",
-   "title": "Stock Selloff Eases in Asian Trade, Oil Declines: Markets Wrap",
-   "summary": "A selloff in stocks eased during Asian trading on Monday as regional equities fell less than their Wall Street peers and US equity futures turned higher. Oil declined.",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-01/stock-market-today-dow-s-p-live-updates",
-   "source": "Bloomberg",
-   "paywall": true,
-   "published": "2026-11-01T21:28:04Z",
-   "first_seen": "2026-11-02T03:22:39Z",
-   "categories": [
-    "market"
-   ],
-   "tickers": [],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "7044fdd70c41",
-   "title": "Used cars drive consumer prices up in August",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBybm9MNFp6OUp3bkl6eUw2QW5NVEhqT3BYRGhUa254X19UR3VzYWp5WXhJRWdIQllRaXE4VHBtVjJjcmFTeG1PakF2TTlhbVZheV8wNEZnWUR6OTBo?oc=5",
-   "source": "Reuters",
-   "paywall": false,
-   "published": "2026-11-01T21:22:38Z",
-   "first_seen": "2026-11-02T03:22:39Z",
-   "categories": [
-    "fed"
-   ],
-   "tickers": [],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "5c70a2ebb80e",
-   "title": "Tether gold holdings backing USDT fell by 3.4 tons in the third quarter",
-   "summary": "The reduction is the first since the crypto company emerged as a significant buyer of gold last year for reserves backing USDT.",
-   "link": "https://www.mining.com/web/tether-gold-holdings-backing-usdt-fell-by-3-4-tons-in-the-third-quarter/",
-   "source": "MINING.COM",
-   "paywall": false,
-   "published": "2026-11-01T19:47:29Z",
-   "first_seen": "2026-11-02T03:22:39Z",
-   "categories": [
-    "crypto_gold"
-   ],
-   "tickers": [
-    "XAUUSD"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "6f491e7dee51",
-   "title": "Microsoft AI chief says AI is not conscious and we should keep it that way",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOV1ZmRWdLNVRnWVZxX0w4dXVwU2ZfajVlN0hFOTBiNjNJQ0ZjbUlMSjlvWkw0MVBzeHhmV21mRTV1SExTcUdzOS1NSTB6UzFkSmo4eUNCMzFiWUUxVU5DekZXbDFlaEM5eXNFTHY1LWZ2SXRTYW1CQ1NqWkxMUnctSTFCbHg0d0xTbFFv?oc=5",
-   "source": "Business Insider",
-   "paywall": true,
-   "published": "2026-11-01T19:45:00Z",
-   "first_seen": "2026-11-02T03:22:39Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "MSFT"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "440e0a204e4a",
-   "title": "China finds more gold, nickel and rhenium reserves, Xinhua says",
-   "summary": "The project focused on 17 strategic minerals across more than 1,800 operating mines and large and medium-sized mining areas.",
-   "link": "https://www.mining.com/web/china-finds-more-gold-nickel-and-rhenium-reserves-xinhua-says/",
-   "source": "MINING.COM",
-   "paywall": false,
-   "published": "2026-11-01T19:04:04Z",
-   "first_seen": "2026-11-02T03:22:39Z",
-   "categories": [
-    "crypto_gold"
-   ],
-   "tickers": [
-    "XAUUSD"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "bce71d55dba9",
-   "title": "Instagram addicts and alcoholics have something in common | Letter",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObmE5Y3h4enk4UEVaeUdybi1vbWRPVy13QXd3TnA2em1kcEJzUzVmeWMyMWtlcHAzeHhuZG1EWnZuTnJuQXVvTGotanpMenBKT19lMjdKaHVpbHR6QXpuM0ZaQXVZTnYyc3lENHJKMG5oX3NuTWZPN0xfUG9RVFRXLXR1X18za0FsOVBwZUFsWkxRWEw0V2p2b05jelduekwydGluY2NuYkE1M2g5?oc=5",
-   "source": "The Guardian",
-   "paywall": false,
-   "published": "2026-11-01T17:30:00Z",
-   "first_seen": "2026-11-02T03:22:39Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "META"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "7c1bb05f3928",
-   "title": "For JPMorgan, Amazon, fighting AI bots like Meta Muse may not be a winning long-term strategy",
-   "summary": "As companies from Amazon to JPMorgan block AI personal agents like Meta's Muse, retail experts warn that technology that removes customer friction usually wins.",
-   "link": "https://www.cnbc.com/2026/11/01/jpmorgan-amazon-ai-agents-meta-muse.html",
-   "source": "CNBC",
-   "paywall": false,
-   "published": "2026-11-01T16:34:43Z",
-   "first_seen": "2026-11-02T03:22:39Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "AMZN",
-    "META"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "6cb85f07bda7",
-   "title": "Google Energy Chief: Space Data Centers Cost Up to 100 Times More Than Those on Earth",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQR0xDbXdVMEhFa0ZfT19Oc1ZKNTFwNzRVZGlySXFBOXJxTTNwR0JKYlBWV1U1Qi1NM0RTTU1lTGJBd1FyV0pvc1IycFNTUU9MM2N0QTZGalNiQ3Q2SzhQWi1DcFFqc3AtSzU4LU96MDd6RHNBTFU0WnlzV0xrVzVnNmZpMEF2cEM1amZ5ZGh1NUFCYXQ5RE9QVlh5ekVKd0FxbmhxZFVoR1dYckQ1ZVhxX3hjTm42aU1MMzZ6Rg?oc=5",
-   "source": "The Information",
-   "paywall": true,
-   "published": "2026-11-01T16:30:00Z",
-   "first_seen": "2026-11-02T03:22:39Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "GOOG"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "52a81205f848",
-   "title": "Bitcoin ETF Investors Head for the Exits After Record Binance Hack",
-   "summary": "Bitcoin ETFs saw $643.2 million in outflows Friday, the first full trading session after the $6.4 billion Binance hack, ending October with roughly $516 million in net outflows.",
-   "link": "https://decrypt.co/382309/bitcoin-etf-investors-exits-record-binance-hack",
-   "source": "Decrypt",
-   "paywall": false,
-   "published": "2026-11-01T16:01:02Z",
-   "first_seen": "2026-11-02T03:22:39Z",
-   "categories": [
-    "crypto_gold"
-   ],
-   "tickers": [
-    "BTCUSD"
-   ],
-   "also": [],
-   "ai": {
-    "label": "fundamental",
-    "tickers": [
-     "BTCUSD"
-    ],
-    "direction": "negative",
-    "impact_area": "other",
-    "importance": "medium",
-    "reason": "Bitcoin ETF ไหลออก $643.2 million หลังจาก Binance hack สะท้อนการขาดความเชื่อมั่น",
-    "model": "claude-haiku-4-5",
-    "same_event_as": "61eaf5f85b1f"
-   }
-  },
-  {
-   "id": "44491b8bc62e",
-   "title": "Murata Manufacturing Inc. (OTCMKTS:MRAAY) Shares Shorted: Short Interest Down 39.3% in October",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRDlzaEV5MnJ0SHVnTGJNZ3JHQUtuQVRkMzNsaFZ2Tmc0UHRneHFXTkI1dVF3YWlnWDdNa1UtR2l0dEE3MmM4NGc4LUtwZ1htTXpMaEJfUUdibzIzNFI4OTVJeHhMZnJXaEg5Yzh5ZkpKUGJyZFlQSVdzZlJPSDRRclJ3aFBRQkR2eTVpM0FyQ2h5U1o5Zm51R21WMWRvclhSZGNSZ0JXSmlvQlJ1T19zV1NsLW9mMzNlZV9Odi1NX0RKYW5IZGtjQUthN3RwRVJOdDBxWlhJS3hva0o0Y0g2NmFnUzA?oc=5",
-   "source": "MarketBeat",
-   "paywall": false,
-   "published": "2026-11-01T15:14:39Z",
-   "first_seen": "2026-11-02T03:22:39Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "6981"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "7cd6ea2df260",
-   "title": "Adam Mosseri tries Instagram’s new long-form Features.",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQWpMTklkNWp1ZDZwRzB3aU15VWZib0phUm9oRkZZTWdSS3FZQnFNaXdacUN2Zmp0WlBHVXFFUnZBOEZUVVJRT3FyNkF5eUNCRVdUZ1poUllxR0x0aTBXd1hJV0k5cXNfZkY5SnpKYm5zeVNNdERpTE51VHFzNGRKRUw5Q0k4QmlGNmN1TGRSWWpxVVJa?oc=5",
-   "source": "The Verge",
-   "paywall": false,
-   "published": "2026-11-01T15:09:24Z",
-   "first_seen": "2026-11-02T03:22:39Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "META"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "63bbb4c651cc",
-   "title": "Why AI is boosting Meta's ad business while hurting Google search",
-   "summary": "The gap between Meta's ad revenue growth and Google's search expansion was the widest it's been since 2021 in the latest quarter.",
-   "link": "https://www.cnbc.com/2026/11/01/ai-meta-ads-google-search.html",
-   "source": "CNBC",
-   "paywall": false,
-   "published": "2026-11-01T14:31:29Z",
-   "first_seen": "2026-11-02T03:22:39Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "GOOG",
-    "META"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "99462c0b12ea",
-   "title": "Here’s what happened in crypto today",
-   "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-   "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "paywall": false,
-   "published": "2026-11-01T14:17:00Z",
-   "first_seen": "2026-11-02T03:22:39Z",
-   "categories": [
-    "crypto_gold"
-   ],
-   "tickers": [
-    "BTCUSD"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "ae9b91989e51",
-   "title": "Google runs AI model on satellite chip, advancing orbital data center ambitions",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeTZWSWxiZEI0Q0pLeEpmSkJsMXlJUUxwTTZaYjZLLU55b1YyUkJiU2h4WUJvbk5MNVBJaFcxUTNQRzZ0LWJRTFlOU2lyY3N1RWZWTjFHNG1QaVFLYTd0NlpvblJHY0ZBRUI2WnQ5WE9WcVhBRVlUcmsxSjhKcXBVMWd4a1VtWmN2VUR4VFplSnlWNkR1NUVvSFNXT1FsaGpKWEJz?oc=5",
-   "source": "SpaceNews",
-   "paywall": false,
-   "published": "2026-11-01T13:28:16Z",
-   "first_seen": "2026-11-02T03:22:39Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "GOOG"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "7acf8d8d10b3",
-   "title": "Top Wall Street analysts are bullish on these 3 stocks for the long haul",
-   "summary": "Investors looking beyond short-term noise and focusing on long-term returns can track top analysts to pick the right stocks, backed by strong research.",
-   "link": "https://www.cnbc.com/2026/11/01/top-analysts-are-bullish-on-these-3-stocks-for-the-long-haul.html",
-   "source": "CNBC",
-   "paywall": false,
-   "published": "2026-11-01T12:33:53Z",
-   "first_seen": "2026-11-02T03:22:39Z",
-   "categories": [
-    "market"
-   ],
-   "tickers": [],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "dc93f86c875b",
-   "title": "Fashion and tradition: how John Smedley is innovating in a tough market",
-   "summary": "In the final article in a series on high-end British manufacturing we look at a clothing brand that dates to the 18th century but is increasingly on-trend Making jeans again: the Hiut Denim factory in Cardigan Rolls-Royce rides high on craze for customisation Luxury leather:…",
-   "link": "https://www.theguardian.com/business/2026/nov/01/john-smedley-knitwear-brand-innovating-fashion-tradition-tough-market-manufacturing",
-   "source": "The Guardian",
-   "paywall": false,
-   "published": "2026-11-01T12:00:11Z",
-   "first_seen": "2026-11-02T03:22:39Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "RYCEY"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
    "id": "324cdb8042f3",
    "title": "ServiceNow (NOW) Q2 2026 Earnings Call Transcript",
    "summary": "",
@@ -15813,289 +16847,6 @@
    "ai": {
     "label": "noise",
     "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "61eaf5f85b1f",
-   "title": "Binance opens crypto withdrawals in phases starting with bitcoin following $6.3 billion hack",
-   "summary": "Binance reopens customer withdrawals following a record $6.3 billion exploit. Bitcoin leads the first phase.",
-   "link": "https://www.coindesk.com/markets/2026/11/01/binance-opens-crypto-withdrawals-in-phases-starting-with-bitcoin-following-usd6-3-billion-hack",
-   "source": "CoinDesk",
-   "paywall": false,
-   "published": "2026-11-01T10:35:42Z",
-   "first_seen": "2026-11-02T03:22:39Z",
-   "categories": [
-    "crypto_gold"
-   ],
-   "tickers": [
-    "BTCUSD"
-   ],
-   "also": [],
-   "ai": {
-    "label": "fundamental",
-    "tickers": [
-     "BTCUSD"
-    ],
-    "direction": "negative",
-    "impact_area": "other",
-    "importance": "high",
-    "reason": "Binance ถูก hack $6.3 billion ส่งผลต่อความเชื่อมั่น crypto exchange และ Bitcoin",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "8ba535f8dc0e",
-   "title": "The Shopping Bots Are Coming for Amazon",
-   "summary": "The biggest U.S. company by revenue has dominated e-commerce, but a potential rival is emerging.",
-   "link": "https://www.wsj.com/tech/the-shopping-bots-are-coming-for-amazon-701caa57?mod=pls_whats_news_us_business_f",
-   "source": "WSJ",
-   "paywall": true,
-   "published": "2026-11-01T10:30:00Z",
-   "first_seen": "2026-11-02T03:22:39Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "AMZN"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "52d9ba5c7b0c",
-   "title": "Stocks gain as Fed official backs quarter-point hike",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1EemRIeUxQaTBjVndZZ0ZRbGpUSzNJa2hJZHhpUHVDUFVWdVhweTN4eUFIdG04QTZrNG1ldzZCMmdPeVNQTEFUYU83UEZiYVRNNGdwUHlVcmFkOFVFVzAtSUFNM1g5NHc?oc=5",
-   "source": "Reuters",
-   "paywall": false,
-   "published": "2026-11-01T09:15:15Z",
-   "first_seen": "2026-11-02T03:22:39Z",
-   "categories": [
-    "fed"
-   ],
-   "tickers": [],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "9c3863163129",
-   "title": "Murata Manufacturing (ADR) (MRAAY) Stock Forum and Discussion",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxPaHhhQTdReXlIZEhmcXM5eXRDd0NseUF4M0h1OUFYVVZ6OC1mcFlsUmktQ3hRdnpsalE1a3dqdTFKMjVBam1sYU1qVEtZZ0VDX1NWVTJVc3dkOGg3bzR2VWdsVElXZzhwTVJuM19Xc05XMHA3RFVVME93Y2duOHZaWUZ5VFdvMG9WVzhuQnhBbDlxbVozaE5iNW9vbjRtbnZxRlAxcVBGX0czUDdldVJJV01YTmo2UWVrTnhSY3ZMcnppekZKR05Cd1dHN1BLQWstY3ZrM3ptbXlWZUZ4bHZQa3Bka0xLaWpreGRfcERxRjdYMVlmTTZrdjZBRkdSZTZUcGFvRnFuclQ5RDBMbXZLZmhDa1d3QlpwY2xFbWtkWjZUZU5ReHkzTWpWVHl1SWpna0phQThlanEtazFoT3o2Nkc5bmxtNnBXM3BJdTVqWFM0UFkybFpxdHQ0RlBHTUdpREpoSVg0Zw?oc=5",
-   "source": "Moomoo",
-   "paywall": false,
-   "published": "2026-11-01T07:03:21Z",
-   "first_seen": "2026-11-02T03:22:39Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "6981"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "a69915d8c0fc",
-   "title": "Sony to layoff 900 at PlayStation unit as industry struggles",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51aHpqZ0UxYW12UVhIRENraDhBak9TUV9nT3h2bmY4UkZ6YW1aSHFOZDVONDJBZWl5dUdndzJEQWw1VkNOLW1kNlRHS0k2SGdRR194T0dyVjBmem14V3pHSF95WHpmWmM?oc=5",
-   "source": "Reuters",
-   "paywall": false,
-   "published": "2026-11-01T00:14:00Z",
-   "first_seen": "2026-11-02T03:22:39Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "6758"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "3b2014782814",
-   "title": "Broadcom (AVGO) Q3 2026 Earnings Call Transcript",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBQQzdmdGlLUjdhQkNMcFptWl9COFRNbXhldi02UE9IVVoyOVQtbUwyT25JZkVjY0ZhMXlPUEdKdlI3ekthTl9velFpLXJHTXBWd2g4SVBtLXd1N0dCNU5CSmFIdkM?oc=5",
-   "source": "Fortune",
-   "paywall": true,
-   "published": "2026-10-31T13:34:33Z",
-   "first_seen": "2026-11-02T03:22:39Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "AVGO"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "e6409e694f5a",
-   "title": "Trump says U.S. Fed should cut rates",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0zSnJWUlM3VGhQVTRlWmNUNGNndXVsYXFrSEgzUGZ6RGt3YVZDdXVFOVViUmphRkZjQ0o5cDBIOEp6cF9ZRngwNVFURDhucW9uUDRKaUY5dzlWR3d2?oc=5",
-   "source": "Reuters",
-   "paywall": false,
-   "published": "2026-10-31T07:00:00Z",
-   "first_seen": "2026-11-02T03:22:39Z",
-   "categories": [
-    "fed"
-   ],
-   "tickers": [],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "1025ae68f9a5",
-   "title": "Fed's Powell: Inflation jump due to 'temporary things'",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE56QmFzTFFyNFRibGR4MUlweU9fZ0lYOG5McVR4NEYwSTBYS0JXd3FNbEk0YVlXTG1pbnZ3XzR0VHFpb0NOcnJONmZPdkNacnZEcWdkSVVrblU0NzN3?oc=5",
-   "source": "Reuters",
-   "paywall": false,
-   "published": "2026-10-31T07:00:00Z",
-   "first_seen": "2026-11-02T03:22:39Z",
-   "categories": [
-    "fed"
-   ],
-   "tickers": [],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "4237db89db87",
-   "title": "Amazon picks New York City and Washington D.C. area for HQ2",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1PaE5nSWFLYnJ1MU96TzZOcGpGZ0w1WXhqeC1EenpEWnJnYlRQalBSTU5UR3BYZ3h5N1JnWDViRmZBcUJpMGVVZE1ncmlrQnNUUTMzcmlMT3RNbU5G?oc=5",
-   "source": "Reuters",
-   "paywall": false,
-   "published": "2026-10-31T07:00:00Z",
-   "first_seen": "2026-11-02T03:22:39Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "AMZN"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "8bde182e3969",
-   "title": "Google to turn searches into cash",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2MWx6VUpnRVlKdEt3dTlPWmdSWFNFYy1pVGRUTGhBamc0QVllYXhmZ0szSDllOVJuLVNMRmxmOVEtUGg5Vkl6SzZRYU1GeVlqMzlPRmRhSXB3TjNn?oc=5",
-   "source": "Reuters",
-   "paywall": false,
-   "published": "2026-10-31T07:00:00Z",
-   "first_seen": "2026-11-02T03:22:39Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "GOOG"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "d318e6356396",
-   "title": "Facebook responds on privacy as new EU law looms",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9DZjA5NF9nYjhFWUNZcHZ1OWF1YnpxemVwWWdRZk5rYlVhZlgwVGNwa25iVDlFRmh3ZFFjVW1tczBMNVVxTEFfYjNUYS0tWXZ0NVByY1VwU19HVXQ1?oc=5",
-   "source": "Reuters",
-   "paywall": false,
-   "published": "2026-10-31T07:00:00Z",
-   "first_seen": "2026-11-02T03:22:39Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "META"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "08b9cfb021a1",
-   "title": "Facebook shakes up platform before U.S. vote",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9uZnlNdVk4cndfNkhwWW5fbUd1NjRXcVFQR2xxMGRfWkJFNGNiQlRSUEVCdi04Y0ZMc1pZMU0wQ0JVVUV4T1hGRTJFUmhNZEczbWJSZTlhR1pKa004?oc=5",
-   "source": "Reuters",
-   "paywall": false,
-   "published": "2026-10-31T07:00:00Z",
-   "first_seen": "2026-11-02T03:22:39Z",
-   "categories": [
-    "watchlist"
-   ],
-   "tickers": [
-    "META"
-   ],
-   "also": [],
-   "ai": {
-    "label": "noise",
-    "model": "claude-haiku-4-5"
-   }
-  },
-  {
-   "id": "aa0c4fee1801",
-   "title": "Bitcoin stolen from Binance tops Tesla’s holdings and is over twice El Salvador’s reserve",
-   "summary": "The 18,270 BTC haul is worth about $1.4 billion and comes within 442 coins of SpaceX’s disclosed holdings. Blockchain investigators link the attack to North Korea.",
-   "link": "https://www.coindesk.com/markets/2026/10/31/bitcoin-stolen-from-binance-tops-tesla-s-holdings-and-is-over-twice-el-salvador-s-reserve",
-   "source": "CoinDesk",
-   "paywall": false,
-   "published": "2026-10-31T05:01:32Z",
-   "first_seen": "2026-11-02T03:22:39Z",
-   "categories": [
-    "crypto_gold"
-   ],
-   "tickers": [
-    "SPCX",
-    "BTCUSD"
-   ],
-   "also": [],
-   "ai": {
-    "label": "fundamental",
-    "tickers": [
-     "BTCUSD"
-    ],
-    "direction": "negative",
-    "impact_area": "other",
-    "importance": "medium",
-    "reason": "Binance hack ขโมย 18,270 BTC จาก North Korea ลดความเชื่อมั่น Bitcoin security",
-    "model": "claude-haiku-4-5",
-    "same_event_as": "61eaf5f85b1f"
    }
   }
  ]
