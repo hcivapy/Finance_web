@@ -1,11 +1,393 @@
 {
- "generated": "2026-11-09T03:40:35Z",
+ "generated": "2026-11-10T05:13:40Z",
  "months": [
   "2026-09",
   "2026-10",
   "2026-11"
  ],
  "items": [
+  {
+   "id": "c8c4dc2bfd73",
+   "date": "2026-11-10",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "management",
+   "reason": "Nvidia และ CEO Huang ถูกฟ้องร้องจากการเปิดเผยข้อมูลที่เกี่ยวข้องกับการสอบสวนสายลับจีน",
+   "title": "Nvidia, CEO Huang sued over disclosures related to suspected Chinese spy",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPc3pwXzVncjFkZFl3THF5NjBkQmFOMmpMc3RvR2ZmNmw4WnRtTHBhNkQzWlR0eE1yWW84ZnI5ZzlWSWlBRU41RkZUR2hJakpsS29VVHdhS3ZGR2NYdmg0UEtXblA3ajN1dFY2ZEJ1eGQtTG9kRDU4Sl9lcFhIMGpfUFNWYWNSUFJ0UE1SemM0ODhZRF9UUUVQZF9rdjZEMEFKQmh0MEZXdHFMRlhtSlBV?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "b9dff4db22a2",
+   "date": "2026-11-10",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "SpaceX วางแผนโครงการ power plant และ data center มูลค่า $24 billion ในเท็กซัส",
+   "title": "SpaceX plans $24 billion gas power plant, data center project in Texas",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZGhRNnpDTGdodFotZVZacFc5cC1NdnhETU5xb19iMFIxUUgySlJiOEYyX1RsdnFwY1h5VkM5RWpoVVVseFVJMFFFQ3ByaGxUOXZxY3R2M2RNSFJGaXhqU3VzSmhndWpmdklTd2RIekc1Nlg2b1FRVGdsdnN0YzVEQVVrZmpqT1JUVG9GamZ1U29EZjdaV0xFZEJTemZxdUZleGlLb055UEo0Slhod1VBU09kNWw0ajZmQnJmQUp3?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "a32089b68ba5",
+   "date": "2026-11-10",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "regulation",
+   "reason": "สถาบันการนำของสหรัฐฯ พบว่าการเปิดเผยข้อมูลของ Nvidia อาจกระตุ้นการปรับปรุงกฎหมายเพื่อจำกัดการเข้าถึง AI chips ของจีน",
+   "title": "Nvidia spy allegations likely to spur laws to tighten China's access to AI chips",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPd3I1WGxHazNEeGdYc1VaNnZPbWZwN2xOQjVRZFhEbHBXVU9iYUNxQzRpZ0wtaktjcjV5NHFBNDgyWTN5OEkyRlcwMFhEbFRSZTc3ZUhjbm5nRkFrRmNQQnlIWk5WeE5RYWNPbDZlLWFWdkhuY1puVDNqaFVySUN6WWRoUWxOaDJYNGtPRVZncGh6cENyNjU5NkVSU3VnTFM3d29iOE9LZGp5TTlKclhiVUtfUzZKMWwwdnVOZ2Y2SF9PaEUt?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "c8dd665529ab",
+   "date": "2026-11-10",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "regulation",
+   "reason": "สหรัฐฯ เปิดการสืบสวนใหม่เกี่ยวกับการละเมิดความปลอดภัยรถโรงเรียนของ Waymo",
+   "title": "US opens new probe into Waymo vehicles over school bus safety violations",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNEhWeV9XY2oweHpKMUdtT1hBa1RzRTF0Slp5eVA2VWx6QkZlRldpVDFGYXR4OHZxaFNfWVRaT1hYNzNQb2JCMlVuWmRaZm5PLVU3aXpwSFBPd0E0bzVUYjkteDRoN1BhYXYtcXNYYnVHRUVCazRDQkphRm5vejg5clNJb2tUV0RBa2pzVW9kQmZxX1J2Nm9pMmhWalVMcGJHR0xRVWRpcVJBTkUtOEJqUlBGaDltcXRqNTREbng5bXlQTUpK?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "9b6791c36447",
+   "date": "2026-11-10",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "competitive_advantage",
+   "reason": "Megaspeed บริษัท Singapore ได้เข้าถึง Nvidia advanced chips ก่อนหน้านี้ถูกสอบสวนสำหรับการสนับสนุนจีน",
+   "title": "What is Megaspeed? The Nvidia chip buyer in the spotlight after Jensen Huang’s affair",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/09/megaspeed-nvidia-jensen-huang-alice-huang.html",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "a24d320786c4",
+   "date": "2026-11-10",
+   "tickers": [
+    "TYOYY"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "margin",
+   "reason": "Taiyo Yuden รายงานการ recovery คำสั่ง และ restructuring telecom device ขับเคลื่อน margin expansion",
+   "title": "Order Recovery and Telecom Device Restructuring Drive Margin Expansion for Taiyo Yuden",
+   "source": "Morningstar",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdXUwQ2VjNlQxUTJmQkVMdUpBZHYxa3RKVkMxVGJ2Z0dDd3FsNnNHZXBCWmIwRFd5dnE1alpLNTQ2TGpyYW1tR3k3NW5uUGJqeXZ4YnNLNFRaZmZaSnJQVWM5SjBQN2t1V1ZFM05qTnJHRklqX1l4Yi1iRG5BS1ZFZEFpMDc2VWdyUjNEcGhIZTJhdmpKaEN5WTg4RmpDUjNFV0FBb2dJQmw3TGg1WjdHeHNkV1RWRzl3YlF5NGtJdHhYMTY1R3JwaTU5dkhveFhFUmcxTA?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "9fbc096d5cb6",
+   "date": "2026-11-10",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Alphabet Wing ทำการลงทุน manufacturing $125 million สำหรับ drone delivery",
+   "title": "Alphabet's Wing makes $125 million manufacturing bet on drone delivery",
+   "source": "Axios",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZGg0VUlkZU1UbTVwUTJUQmhwZXdPelVJaXRkVk9GaGl2SVJfREtFbDBMcFpzZnlmc1M5RFZFQ2tyUHlJb0JuOHNfLXdGUUtIV3ZuYjdVM2NwVTJJT1kxZkRkdHZ5dW43UmE4ek91MDhwaTZGT0JUcjF3YUYwU250cXpjYWdfeGRYbTU2c1F3RXNQOHhVcHp4V2FiMHNndmtNcm9z?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "2f2a048ba564",
+   "date": "2026-11-10",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "หลายคนเริ่มฟ้องร้อง Nvidia หลังจากข่าวการสอบสวน CEO scandal",
+   "title": "The race is on to sue Nvidia",
+   "source": "TechCrunch",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9fRWJ1S3BDNm1lTHp1dXZfTjZqVkR4WjZPTWtWazFJdUdabkxqU2RTaTZkWWlBSURfaWwtcjh1NnlqZXViQlR5anRxUnZfT3JKSjMycXU1a19DTmNUX21yWFRuMXg1OXNCS3hhX0p2N1E?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "3a4b4e7bcee1",
+   "date": "2026-11-10",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Amazon Leo จะเปิดตัว 40 satellites ในการบิน Vulcan ครั้งแรก และคุมครอง 38-launch partnership กับ ULA",
+   "title": "Amazon Leo to launch 40 satellites on its first Vulcan mission",
+   "source": "Amazon News",
+   "link": "https://www.aboutamazon.com/news/amazon-leo/amazon-leo-vulcan-satellites-launch?utm_source=rss",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "products"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "39ced87d34e0",
+   "date": "2026-11-10",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "regulation",
+   "reason": "Nvidia general counsel แทรกแซงการสอบสวนรัฐบาล Megaspeed chip smuggling probe",
+   "title": "Nvidia Intervened in US Megaspeed Chip Smuggling Probe",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-09/nvidia-intervened-in-us-megaspeed-chip-smuggling-probe-video",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "9927db76edbe",
+   "date": "2026-11-10",
+   "tickers": [
+    "NOW"
+   ],
+   "direction": "negative",
+   "importance": "low",
+   "impact_area": "revenue",
+   "reason": "ServiceNow รายงานการสำเร็จสอบการสมัครสมาชิก quarterly ที่ต่ำกว่าคาดและลดคำแนะนำ forward guidance",
+   "title": "ServiceNow Fans AI Fears on Quarterly Subscription Sales Outlook",
+   "source": "Barron's",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ZZHZ2dmQwb2ZQN1RHMWNvbUlNcGRSQnN2cHhidWhHZlptX3JNanpGWkRsMzc2cFpVSkdpTUZqNDNXY0NxdTVxeTg5UWpORjhHYUs1OXpkckduNXF2WjBhUEc5cTJpdGY5YUxraTZnY2t6S29CemNjcGxKUko1UQ?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "574c479bacc8",
+   "date": "2026-11-10",
+   "tickers": [
+    "XAUUSD"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Singapore เปิดตัว gold vault service สำหรับ central banks ต่างประเทศ",
+   "title": "Singapore to launch gold vault service for foreign central banks",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdkZPMEwxa2tfX3NsSzdWM3J1OHg1QlhWc0Nhb2hwV1ZfRWdUZDhrSWgwMmROOS15YkI0RElqMlJWWmpaUWlBSHllQ1h4UlNNaWlTa2FBbEVqVXlENmI0OHFCZzlVeEhwTjdraVhWOUxFY194dHBSbWFZZFB0SE9NYVJ2ZUhnMXVOQ1VaUm1QaFp6amVWRHVmY3c1T2tzWE5lSGRZZWJMUW1pTjFIS2pJckJB?oc=5",
+   "paywall": false,
+   "categories": [
+    "crypto_gold"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "43ef5457a5da",
+   "date": "2026-11-09",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "competitive_advantage",
+   "reason": "Google เปิดตัว AI chip variants ใหม่เพื่อการแข่งขันตรงกับ Nvidia ในขณะที่ cloud demand เพิ่มขึ้น",
+   "title": "Google unveils new AI chip variants as cloud demand surges",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOd1JDNDVNcnh0MU5wSzdrUVhVY3FpSklfazJZVWEtbGwyUkxydzhTcUVhV2F5aHdHV29OUE9Ea1JkZm93d2xVcU1VMEdEZE1xamt3RlktMVlqLUNGRVlIalpNd3ZRS2Z2LVN3b24yNUcyV1lkQm01MmJ3eHJLZVk3a3ZDSkhHcllvVHVxX1c1d3YtRHV3Q1g5d241UGNpLXJpSXRwTUYzcEdPcUhmN2FqdnBRNVZUYlM1WmJF?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "products"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "74801a1a3473",
+   "date": "2026-11-09",
+   "tickers": [
+    "META"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "regulation",
+   "reason": "Meta ขยายการตรวจสอบอายุ AI สำหรับ Instagram teens เมื่อมีการฟ้องร้องมากขึ้น",
+   "title": "Meta expands AI age checks for Instagram teens as lawsuits mount",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcEh1SWhQYVpodTlET20tR1AyNUVzQmdZTzNpclljYmdIT21OTXpiNHVOQUE1RFdaUkdydnpkOWp6Z0xONUluTkpzR0ZXbk9ld24zZlpQekhFakdPYy1DU2NJVUhpdnBRRTlRY1FOeUdOdElRMFo5dmxzQW8tMnY0MFpwN080NjFRbXgzODBudmU0MldDU1g0OGhqVFV4SWMyR1JNRFREUGd2MWJjR09R?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "0499c94acda5",
+   "date": "2026-11-09",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Norway ประกาศ $64 million สำหรับ Amazon Fund ของบราซิลหลังจากการลดลงของการตัดไม้ทำลายป่าสูงสุด",
+   "title": "Norway announces $64 million for Brazil's Amazon Fund after record deforestation decline",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOVpvQ2NoejNUVVVwQVlFVHRycHdMTzNEUmtLYjBoM1N2MjA5b1lFLWZzQ0dMaEpXSE9zcFVFT2tMQnJwUktZZTZZMVpEcElGZk5hbS1jd3NUa3Etek9HTkRETEs2cXp1TXNBbTYwYkJNcFpwWEpyRS1JRW0xUDJRaEE4WVJzbmlpUkZmRXN2bTJiRzVfVDlmSjdPRFZRNFZ3N25qRmxlVG9WNE52VGtNYnBTTGt0UEVpVjZiTjBaRDgxSEd6MkVDeWJVZw?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "f016127404ce",
+   "date": "2026-11-09",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "negative",
+   "importance": "low",
+   "impact_area": "regulation",
+   "reason": "Google เตือนว่ากฎหมายความปลอดภัยอินเทอร์เน็ตใหม่ของออสเตรเลียอาจทำให้ผู้ใช้อายุต่ำกว่า 18 ปีสูญหายจาก Gmail",
+   "title": "Google says new Australian internet safety bill could cut off under-18s from Gmail",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNFZMUWFWUTdfakEzRTR2dHpJZjFhY21SNm9SMjVDY3hyakhEejB4WVRpWDJYSUpRLV9fczF0MVZFQmpZOGNTeHZxQXZNeUloY0d1SndfeERUNTVIMHYzR241Z0JXbjl1WU42NUtkQ3Jtbm55NHFwRGxqQnU5ZHhOSnlMbjQzWTV4aXdPRVhUS1l4dG1aS0IxUWp1VU4wUEVaTlZlZUFBdkZiOTV5Vl9hOHQ3WXdMWWg5R3pYVVh4eUFubE9aMzM1WFR3?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "5c7df2051085",
+   "date": "2026-11-09",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "negative",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "การสอบสวนพบว่ามี 'obvious risk' ในการขึ้นรถไฟที่ Amazon driver เสียชีวิต",
+   "title": "‘Obvious risk of further tragedy’ at rail crossing type at which Amazon driver died, inquiry finds",
+   "source": "The Guardian",
+   "link": "https://www.theguardian.com/business/2026/nov/09/amazon-driver-died-inquiry-manually-operated-level-crossing-kent",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "524e0d29eb27",
+   "date": "2026-11-09",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "SpaceX เป็นพื้นฐาน 'infrastructure company' ตามผู้บริหาร ระดับสูง",
+   "title": "SpaceX now fundamentally an \"infrastructure company,\" senior official says",
+   "source": "Ars Technica",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSHlRUkxIaDd0cjI3MjBXdTF3NDFBZFJPNkxtSFFJVno2QlkzY19vdGZzdHRjN2h2U0tUUVllUFF2QU1oeVlSc1hpMndfaXVmUk9CaU16OEoyU1ZZTmRaSWQwX3QtSmZhM1QtSUN3WmlaSkZ2MGVxSVVYQnpidF9KSGFDV0V6TU9QMkkxa1A4M0MwRjJOcEVvNmRwZTh3QVA0X1pNVkhadWFCbGNkS29j?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "ff80391dff49",
+   "date": "2026-11-09",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "revenue",
+   "reason": "AWS คุณภาพต่อ $100 million ของ AI และ cloud technology เพื่อช่วย health organizations ขยาย services",
+   "title": "AWS commits $100 million of AI and cloud technology to help organizations expand health services worldwide",
+   "source": "Amazon News",
+   "link": "https://www.aboutamazon.com/news/aws/aws-health-impact-initiative-100-million-ai-cloud?utm_source=rss",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "c54ed6fb3c04",
+   "date": "2026-11-09",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "SpaceX หลีกเลี่ยงหนึ่งในความกลัวใหญ่ที่สุดของตลาดเกี่ยวกับราคาหุ้นของบริษัท",
+   "title": "How SpaceX was able to avert one of the market’s biggest fears about its stock",
+   "source": "MarketWatch",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSEFrS3RWVkxQN2VLeE1hQUk2REpTTHkxQklhejBnRjIwcnM0ZEdlNThfMk0wWEpCQTAyZW85RkllQUFLaFhpSFBubmhfTmNGYzMxVG5NNkZoQWJzcHVXbE5KR2h2RTBGdlNqb2pIc0VfUTlDeW52dGNVVzVIY0xLRUw4bDhFd1I4QlBodVpmV09NZ0p2bVJyR2Q4ZDk0YVRUVHpMUlFGUDRidXdmaFF5eEx3Tl9WWXRrVEFKMQ?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
   {
    "id": "b2d025608d67",
    "date": "2026-11-08",
