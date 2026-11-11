@@ -1,11 +1,613 @@
 {
- "generated": "2026-11-10T05:13:40Z",
+ "generated": "2026-11-11T03:45:51Z",
  "months": [
   "2026-09",
   "2026-10",
   "2026-11"
  ],
  "items": [
+  {
+   "id": "7120f7828498",
+   "date": "2026-11-11",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "negative",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Nscale พิจารณาล่าช้า IPO ขนาด $35 billion เนื่องจากความไม่แน่นอน",
+   "title": "Nvidia-backed AI cloud firm Nscale considers delaying $35 billion listing, the Telegraph reports",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNM2JDSnc0eHpoTTFObmZLaDNpR0EzZU1LQ3N5blRUNW01bmZsZG5mT0NsWXRGeEdSMWd5WlNjNWhwcm9wdi1JWnVVUUhMelh1Y0V4ZU1kV0djVE1LVVlualNFa2tRYTVwWHJZdWQwSEhzSlRSOE1EaWM3NlR6WGVJT1JQOUd4UFMxNzl6eWZEZ2FqRmZhQnZjMzJwWm12QTRYZ1BCSWNNVjdVQTZ3RUlHSVNvRGlqTkFxRXFiNFBiVzkyRms?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "50d9d7bb625d",
+   "date": "2026-11-11",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "regulation",
+   "reason": "นักการเมืองสหรัฐฯ ผลักดันกฎเกณฑ์ chip ต่างประเทศ เนื่องจากกรณีสิ่งที่เกี่ยวข้องกับ Nvidia CEO",
+   "title": "US lawmakers push China chip rules after Nvidia CEO allegations",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQWxqUnFpSkZaOE5LVFZnaWZJaHhteVV2dkdiQnRnX1Zua2Jnd0N3VVBxSzBtOWhETm92Mk9EY0JMbEZMNV9ibThnaWhjd1Y5RTZfMEoxYkk0TTF4Zlk4cmd2RnV2bV85VExSZmswbEJFNmZuZGNBMHYwUklvTjNmdDR1cEIteDdzSlJDc2ZVT3FrS0lZaUVJb1J2MDBvdWtNR0l5NllodU1WUQ?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "fed2c6de8cd0",
+   "date": "2026-11-11",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "negative",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "SpaceX ต้องเผชิญหน้าการเรียกร้องเรื่องการเลือกปฏิบัติทางเพศหลังศาลปฏิเสธ arbitration",
+   "title": "SpaceX must face sex-bias claims after appeals court rejects arbitration request",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNb3oxTFIxcTJKTkRFMWh6bUVyckstUEZWMEEzcm9vWElydmZfbnVEelZzOW5kS08ycVhQWHR6ekNGX3p0ZnVvYllULWtQcGlOQXVTb1J4OFk4aTBkaElvaWhBUnQ2VHNuZURvaWNXYUtoZ1lqS3lzTnFZMlZqQUQ1SW9nVko0dTNMdmZBd1hzMC1SdHNiejZLNmdqSWdQTThBUEZYbHQ0U1k5YlVhSUdDbm9GSWIwMHhpaG1OSmNsTVhJcXJWcHp3dEZ4RTZUQQ?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "374c94c1b830",
+   "date": "2026-11-11",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "regulation",
+   "reason": "Google ตกลงการคุ้มครองความเป็นส่วนตัวเพิ่มเติมในการขายข้อมูล Spirit Airlines",
+   "title": "Google agrees to additional privacy protections in Spirit Airlines data sale",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYi1wN0xOZzZqVTBKMEprWkNaWDZuQTFQa3VxLUJHQ3pfYU0xS1R4b3FZdWJLTEpwLTc3WURJakpseUdqVVRvU3F2ZG9DVXBpS04yZVRiak1VQjk5Ullxd3lHU1VqRnRrWVlEQVdKTVN4WDNCbVg2cGgzTFBSTFJ5VVdPRWY5YVlqajZZNTdqVDc4VkdJXzZ3dTZ0NFJUX3BTdHMzYlUzcTNXR0xTUExtQklReEhCNWpHcUxhRnpxWVdXUkdZUU9fa0diRQ?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "4135f6496123",
+   "date": "2026-11-11",
+   "tickers": [
+    "GEV"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "other",
+   "reason": "GE Vernova หุ้นลดลงหลังจาก SoftBank ปรับแก้แผน US data center project",
+   "title": "GE Vernova shares slide after SoftBank revises US data center project plans",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdHljdVJwNjc2SGN6SWFvUl92aGU0LTJYWHhhMWxRSWdHQlRDZ0VjQjd3MTZOZmZEOUJ3amdfUVpSSEQ1QjUzcFROeVVNQTBNTzdDLXpnN3lncjdEUElvYnhTMF9QREo3ellITkIwaGhacjJfNFh6VFFXd0ZYQjRIOUI4Z3B6U2xCX2tRS01OVlUxc00tZDhMalJKTHh4QlItRFF4VlZ5MWI2bnljY1NQT1BaR0UtaGJYbHZ1UHdqNDNWbVpZUlE?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "ca465fd5d95b",
+   "date": "2026-11-11",
+   "tickers": [
+    "MSFT",
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Microsoft ตามล้ำ Nvidia market cap เป็นครั้งแรกนับแต่ June 2025",
+   "title": "Microsoft tops Nvidia's market cap for first time since June 2025",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNGpwLVRZNGJRQ3diMmx2QnhNaERXa3RCdzR1MThDdk04TGprcXF5Z3djdXFrUnlPN25udC1qNU5BNVRhN2ZnWWd1dk5sR0lUN0FhdDR5dWFIeWZqQ2UwMGFFdmpvbkxFazJfNy1HTjR4aHZJN3ZRTnFmMFhvcm43YjRhYXB0a29LbllQYUFxNkY5WUZ1MlJ4U0tELVNTa3c3Vkl1YlJyOA?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "045168275c97",
+   "date": "2026-11-11",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "management",
+   "reason": "Nvidia และ Jensen Huang ถูกฟ้องร้องจากผู้ถือหุ้นอ้างว่าเข้าใจผิดเกี่ยวกับเรื่อง spy affair",
+   "title": "Nvidia and Jensen Huang face shareholder lawsuit alleging investors were misled about spy affair",
+   "source": "AP News",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVUVJQ2VKOGljZVBJeFJCcVg5aWw2WWVaVzNlNVkwUnQ0ZzV0R09hbkx3aWRVVjhDaHpUdk96UExZSjF0TlBkY2FUeG9tVjhjdVkzRXllRndzMUJ4ZWZFa2p5QWlPRGhRc0ZXMkd5Y0tyVVdfM1gyX0Q4Y21KUEVYTFhuTnFhZWR0Wm00N29DbWU4WnRpSFpfZ1ZpSQ?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "2ea99c8434b9",
+   "date": "2026-11-11",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "competitive_advantage",
+   "reason": "Alibaba ประกาศแผน IPO T-Head Nvidia chip rival ของตนเอง",
+   "title": "Alibaba announces plans to list T-Head, its Nvidia chip rival",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/11/alibaba-pr.html",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "846503d456e1",
+   "date": "2026-11-11",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "management",
+   "reason": "Nvidia จ้าง Wachtell Lipton สอบสวน Jensen Huang affair กับ alleged Chinese spy",
+   "title": "Nvidia hires law firm Wachtell Lipton to lead Jensen Huang affair probe",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/10/nvidia-wachtell-lipton-huang-affair.html",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "2ee1610a0479",
+   "date": "2026-11-11",
+   "tickers": [
+    "AMZN",
+    "AVGO"
+   ],
+   "direction": "unclear",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Broadcom และ Amazon ปรากฏในการสนทนา final trades อาจมีข้อมูลที่เกี่ยวข้อง",
+   "title": "Final Trades: Broadcom, EQT Corp and Amazon",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRzd2RDN4YW0tSlE2eUJFaFFNckl5SFFBRENacTVaSHBoaVM3SWNDZElTRHZkb2t4aHdSZ2QzbE1ac1J0TWNTbGdiU2xzQUdIcTRBYjQzUzZGZi1JR2tFdmRsM2lac0dBV1NreUg5UmJIRXVTSzlzQUdQdi1PTWRhbThMN1dVSmliWEF4Vg?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "d81726e67269",
+   "date": "2026-11-11",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "negative",
+   "importance": "low",
+   "impact_area": "regulation",
+   "reason": "สหราชอาณาจักร social media ban expansion สำหรับผู้ใต้ 16 ปี อาจส่งผลกระทบ YouTube Kids",
+   "title": "UK social media ban expansion for under-16s could cover YouTube Kids",
+   "source": "The Guardian",
+   "link": "https://www.theguardian.com/uk-news/2026/nov/10/uk-social-media-ban-expansion-for-under-16s-could-cover-youtube-kids",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "1b5f56f2e025",
+   "date": "2026-11-11",
+   "tickers": [
+    "6758"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "revenue",
+   "reason": "Sony เดิมพันกับ homegrown anime เพื่อ drive decades of future growth",
+   "title": "Sony bets on homegrown anime to fuel decades of future growth",
+   "source": "The Japan Times",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX3hzdnk4b3FMYXYtdFNfM1FaM19kVWlzeHV6UGNNcW5SaWRhamNPWHJkalVrWG9hVlpXSFlaTVhHZDhGb2pkaV9aa3d2clJFVEdLa1h2ZDRva0x3UUVGbWFNeUM2MEJEUHZKaS1pNFg1bnJrbGtiM3BhQWxQTGdQdnJuNUowLTg?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "c45c1830ee2d",
+   "date": "2026-11-11",
+   "tickers": [
+    "MSFT",
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "competitive_advantage",
+   "reason": "Microsoft ปล่อย Auto SR upscaling technology แข่ง Nvidia DLSS สำหรับ Xbox",
+   "title": "Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling",
+   "paywall": false,
+   "categories": [
+    "products",
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "552535e17867",
+   "date": "2026-11-11",
+   "tickers": [
+    "6758"
+   ],
+   "direction": "negative",
+   "importance": "low",
+   "impact_area": "revenue",
+   "reason": "PlayStation ยกเลิก live-service shooter Fairgames",
+   "title": "Sony cancels live-service shooter Fairgames",
+   "source": "The Verge",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uYU0yRVBwWi1qc3M3U3BmOTZsMXNPc01uM211clVockR4T2w5NF9jZGxNcDdYa0tsUDhPdWQzUkZwUFRhNUFRd3FjZDl3Z08tb2NNVHdhR3hGYlNLU1pGUXhUMnZfUUJROHBkaDhYamU3Nld5dlE2em9mYkJldjA?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "99e8e45fb92f",
+   "date": "2026-11-11",
+   "tickers": [
+    "6758"
+   ],
+   "direction": "negative",
+   "importance": "low",
+   "impact_area": "revenue",
+   "reason": "PlayStation Plus PC app ปิด next month",
+   "title": "The PlayStation Plus PC app is shutting down next month",
+   "source": "The Verge",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRE5rRG9BZ2hpU2lSVnVab0VGYVJIbW5TWTJUNjJhVW5odjN2MFVhQ1h5VklVU2pOVTBNRklYcG1hdkVhckUyWmEwMGdDSzNuLThMX2RnbTNmUnJ3c2lJT084WDViU0VFYXluX2U0eVRjUklQeFZSVEJOZWFRVVNTd2hnSWhJeWZZUng4eTYyY2pFR2c?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "3309994117da",
+   "date": "2026-11-11",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "revenue",
+   "reason": "Google Fi เพิ่มสนับสนุน 5G network ที่สองแต่ไม่เปิดเผยว่าเป็นอันไหน",
+   "title": "Google Fi adds support for a second 5G network, won’t say which one",
+   "source": "Ars Technica",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOFB5UFRhNjZjaFdkMGhaTjBwb19zZ1lkMThsVURmam9OX2xkTXFMelF3WEJrVTduOERVQWhicU1oY3dJUzhFZ3FPV0dDTk9Sd1IxMWc1TkhZcWRyVVFTcUprWkY5TTlpckY0S2dDMHZ0RWd1SHktNXFCbjN5Z2NfU2pWaktPc3hETHhRVHQ0SmY2ZThmTVVGS3NpM2kxYzN5WldHQzJ0UEU?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "b0d2482d1831",
+   "date": "2026-11-11",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "revenue",
+   "reason": "Starlink Mini 2 เพิ่ม swappable battery",
+   "title": "Starlink Mini 2 adds a swappable battery",
+   "source": "The Verge",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZkFPblNBeUhpbDhGOV9Bcl9NZy1ldEJiRUNzOTMxUXE3OUdiM1RZN20tbFo5a1BtZm5zcC12V1lYNlhlMEhBRVUwT3RNdEZuUkFhdmdzdFJuTjlXYmJaNDFnRWxKcW9VbDNoeHZSNDZMVHcwVWNlVmZsTlh1ZDVtc3NwV0JtUTJUbXVhVmRaYXRPcGFTWmVPMmdIcndYRTlnR2wtdTFaZDU?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "77ae8114cb3c",
+   "date": "2026-11-11",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "revenue",
+   "reason": "Google Fi เปิดตัว super network รวม 5G networks และ Wi-Fi networks",
+   "title": "Introducing Google Fi’s new super network",
+   "source": "Google Blog",
+   "link": "https://blog.google/products-and-platforms/products/google-fi-wireless/super-network/",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "products"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "8768c69a70f6",
+   "date": "2026-11-11",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "revenue",
+   "reason": "Calpers booking 100% gain จาก radio spectrum bet หลังจาก SpaceX deal",
+   "title": "Calpers Books 100% Gain on Radio Spectrum Bet After SpaceX Deal",
+   "source": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTGNpbDJYUXYzSWNyN05YT09sX2RlVS1oc2h5dHFVaFhtckpKcmpNOGlqdFVHT01INFNoY2E0Q0VLU0w0NHJoRW1XLUdiLWdwc1NoWU9jY2JqVkpsaDFFeVFZTFBHckNsZTdkMkxpZ2NGVnFBSzBPZTI3ZG5nWkpWelV1RnJmSWI4N2RfMHZGOXBHNmRtM2Z0RjdNd052eUJyM3pYR05zUEdPLWpoZnRDTHlOdw?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "e8c3bb56b219",
+   "date": "2026-11-11",
+   "tickers": [
+    "MSFT"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "competitive_advantage",
+   "reason": "Anthropic เปิดตัว office tools rivals Microsoft ก่อน IPO",
+   "title": "Anthropic Unveils Office Tools Ahead of IPO, Taking on Microsoft",
+   "source": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZlMwX3dzdHpVbEFBcTlGVWlibGtMcDBYOGJwbVJaaWs5X2xiVWM3ZUVDZHBoM1dyM0t1NjNYdVpzTHlYVHhKYTRHbXJTSmpRSFRLZ3FENE9kcXRFcHZVVTloYVJybUJaWWJ0a0ZGcVZpWXA1U2dZNmp1ZjRtbEJWSEtSc1RRbXdsSnh3bjV2WE90SHpBeGJkQ1hfUUtnZV9ldW14RUJoRVFMMFZmVGxBemNXSlM?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist",
+    "deals",
+    "products"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "f8210906c8d7",
+   "date": "2026-11-11",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "regulation",
+   "reason": "US commerce department ล่าช้า Megaspeed's inclusion trade blacklist entity list",
+   "title": "US commerce department delays Megaspeed’s inclusion on trade blacklist",
+   "source": "Financial Times",
+   "link": "https://www.ft.com/content/afb6c960-a910-4d67-9588-73ba3bea5b06?syn-25a6b1a6=1",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "2d67a1770e53",
+   "date": "2026-11-11",
+   "tickers": [
+    "MSFT"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "competitive_advantage",
+   "reason": "Microsoft stock ร่วงเนื่องจาก Anthropic Excel competitor unveiled",
+   "title": "Microsoft Stock Falls as Anthropic Unveils Excel Competitor. Don’t Panic.",
+   "source": "Barron's",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONTN6WVZPSEd2bVBITEc3MlhWb25Nal8zQVgtaExYMjBFWndmcHZqVHo5R0JDZTNsWUo0VGNNNzNfYkduSWJuRHp4QVVvMzBBVDNUbU5QRG5VazdWcHNfU1NqR21yS0JCR3lyOEZSZlVKT1VENG9CR1JfdDhaOWh5dWkyenIxUVU?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist",
+    "products"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "ad54d9e0f80d",
+   "date": "2026-11-11",
+   "tickers": [
+    "MU"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Micron stock ถูกวิเคราะห์ว่า soar 148% potential",
+   "title": "Micron Stock Drops Again. The Case for It Soaring 148%.",
+   "source": "Barron's",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1FTlNRaGxKTExzb0JlTGtscEUxeE1wVEF2clFJeVdicTJrbmliMkVyQURoUGZnYWlRWGFsU2RWS3ByX0RzSjh4SEFVX1YtT3VaZThlbC1HZGlvU1d0Q0xBOENMS3pXRDNPa21NV0FkMGRKSEQwVzRR?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "41df69c0d1fd",
+   "date": "2026-11-11",
+   "tickers": [
+    "MSFT",
+    "TSM"
+   ],
+   "direction": "unclear",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "TSMC Microsoft executives debate AI impact Nikkei Dialogue Day 2",
+   "title": "TSMC, Microsoft executives debate AI's impact on Day 2 of Nikkei Dialogue",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNekJsR0FLY0FRek5NZnFjeEtIczZvY2ZoWVhtNVlHZjFScmJqVVlMTm9OQUJsMTZIcHdYRjFHTFJXSmFyWnRsdUdTNUVPWlhIRGVjNTlVZFlXWHQwRDhaNEtBQllDQ1AtWDRLUG9uQjV2WXpSUU1CMzdyOHZfbnJyT2xtNXBhOFBlVmxHX0NqSEdheFRRTGZ1d20yLWNJUC1IT3NvM0pLekJJdXhDWGZ0YTh4RWptNU9uQVozWU1uZloxc3I2ZFg5Sl9EamN0OEtyLUVpZVlwNGxTeUl6YnBPU2hhdkw4OE14S0YyLTh6NTBibWlZa2w3WQ?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "a49152d930f9",
+   "date": "2026-11-11",
+   "tickers": [
+    "TSM"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "TSMC ประเมิน insatiable demand chips ผู้บริหาร tell Nikkei Forum",
+   "title": "TSMC is seeing 'insatiable' demand for chips, executive tells Nikkei Forum",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxObkF2Q2hidk5DelpQeXV4Q3NjOXM2Q0gzMlRzUkNhb1FqUHBHZDdSOTN4TkVXQkU1bUVCb3hzYnFYQmY5eDBNeW4xVU9WcGVTNHBvZnRiaW03OTYyUTRmSnR2TURSRXhlMTc5UVh3R1BHYkJaa2dVYlhKLVV6NV8zd3k0NzRoam1WajZ0MFRJNERoeHlkeTIzTzM4WVYwTmIzMW9CbzFxUGJSSDJLWmNHYlNJbGlGemVOdFhYa2NHR1NNZGY3VDFBSmdESkVGU1J2R0NHZ1E2VUhpeF9sQjZSWTVENWZTUndYLXEzRjJkR1hRZUZ4RkNB?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "811aca623995",
+   "date": "2026-11-11",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "SpaceX compete NASA $10 billion contracts moon base construction",
+   "title": "SpaceX is competing for NASA’s $10 billion in contracts to build a moon base",
+   "source": "Fortune",
+   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNSW5pbGN3cDlhVkt6YzZkZnJHQWJUZEcxZEthNi1RaDNIUG1ZRWpKbDJOcFNmNy10bENTeE1JS3J4cWh4OUhSbEZoLTRvemdnMnpkRmZSSkJrYnRDV3UtMVVEaGFlTFVhVWVtek9WUE1US09pa1lnN0JpSWRPVHBWWWdsY1lzaDVmZVpKNlEzdUxIdXFVNGNGLTAxc1VSRE9wT001QXdQUlBPZEhqTlBydXpBRXBwaXZ6ZVpZNEVLUk1udXNzWWVxUmp3dWtFaEJfcGNRb2wxWFRlR3UtLXBsdGxLT1YyZ1dYZ2VEdnZ4RU5tTnF6bFpXRUhaR01TdndOWk9VVQ?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "70ff9cfa508b",
+   "date": "2026-11-11",
+   "tickers": [
+    "GOOG",
+    "MSFT"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "competitive_advantage",
+   "reason": "Anthropic disclose $10+ billion new deals Microsoft Google; Lambda deal อาจยกเลิก",
+   "title": "Anthropic Discloses Over $10 Billion in New Deals with Microsoft, Google; Says Lambda Deal May Be Cancelled",
+   "source": "The Information",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNY29jNmZNZkNLNElZV21RQXVOY3VCWGwzOFljUXBNRkNieEVLUmFqSG1YazBuanR1dVd1U0drbV90U2xmWEJBcXdhOW14Wk43UWIxMTlTcHZHQUo3bkJUNjdfeWYwdUhGcVI4OFNBYnpnbk5CUGVmdXE2WW1iU2ZlYVBnTm9uNkxiOThacTJ1b2g1bUgyWVl5Z2RkR3dUY1M1c1pVdjRZWUduNUFtOW1LMmR4NzlSWG5CYUw5d05lN2xkVU9BQlJuNA?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "3df9ef2aad93",
+   "date": "2026-11-11",
+   "tickers": [
+    "MACRO"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "macro",
+   "reason": "Fed officials เปิดประตู quicker rate hikes เนื่องจาก inflation risk",
+   "title": "Fed officials open door to a quicker round of rate hikes as inflation worsens",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTXo5UzFWVEh5WllQOHNxS1Q2cERxOEM0X1QyN1dPX0R4XzdfT1BpajYxdi0xOEltNWh6cE15Z2ZvZ2dXV0Vwb3NkbWZ1VGQ2M2tvVVVSaWd6clhPcS1XUEU2QXE3c0tlLUhPX0c2emRnWVpwOGtoajlnSS1VRXRNZXFaNEpyVlVwcFVIOUdkT18yQ2t6a1psZGVlOFpiZl90QnVhcmxqQzNxNnlNSEdXcWpjcUdzYUNJSi1hcnl6ZEpUSUU?oc=5",
+   "paywall": false,
+   "categories": [
+    "fed"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "1481c0a2efb3",
+   "date": "2026-11-11",
+   "tickers": [
+    "MACRO"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "macro",
+   "reason": "US consumer prices เพิ่มขึ้น briskly third straight month inflation pressure",
+   "title": "US consumer prices rise briskly for third straight month",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQLWo2UHlxSDlLcGNITjBhSkhrVmNFMDZNZ29xNEdoZ045dWRUV3JoQXQ1MUZCRlNlbHBqMnh2cG1iWjN1STQzNy1OWTZSLXZONmdLZHp1V29LbWxUcnVQS0JwNFVtR3dmOXlDRVcxLXdHWldWek03TXRvU2x5aTgyR1hhVTIyb3R5NUVvdl93aEhHempGNUFtVFVfTQ?oc=5",
+   "paywall": false,
+   "categories": [
+    "fed"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "47fa6031fa52",
+   "date": "2026-11-11",
+   "tickers": [
+    "XAUUSD"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "other",
+   "reason": "Gold hold loss near $4000 hot US inflation Fed remarks rate hike odds",
+   "title": "Gold Holds Loss Near $4,000 on Hot US Inflation, Fed Remarks",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-10/gold-holds-loss-near-4-000-on-hot-us-inflation-fed-remarks",
+   "paywall": true,
+   "categories": [
+    "fed"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "008248313b85",
+   "date": "2026-11-11",
+   "tickers": [
+    "MSFT",
+    "GOOG"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "competitive_advantage",
+   "reason": "Anthropic IPO $1.4 trillion valuation raise $90.4 billion compute capacity",
+   "title": "Breaking Down Anthropic's $1.4 Trillion IPO Valuation",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-11/breaking-down-anthropic-s-1-4-trillion-ipo-valuation-video",
+   "paywall": true,
+   "categories": [
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
   {
    "id": "c8c4dc2bfd73",
    "date": "2026-11-10",
@@ -229,6 +831,451 @@
    "title": "Singapore to launch gold vault service for foreign central banks",
    "source": "Reuters",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdkZPMEwxa2tfX3NsSzdWM3J1OHg1QlhWc0Nhb2hwV1ZfRWdUZDhrSWgwMmROOS15YkI0RElqMlJWWmpaUWlBSHllQ1h4UlNNaWlTa2FBbEVqVXlENmI0OHFCZzlVeEhwTjdraVhWOUxFY194dHBSbWFZZFB0SE9NYVJ2ZUhnMXVOQ1VaUm1QaFp6amVWRHVmY3c1T2tzWE5lSGRZZWJMUW1pTjFIS2pJckJB?oc=5",
+   "paywall": false,
+   "categories": [
+    "crypto_gold"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "faffed5f6e40",
+   "date": "2026-11-10",
+   "tickers": [
+    "TSM"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "TSMC ลงทุนสูงถึง $1 billion ใน Anthropic และ OpenAI",
+   "title": "TSMC to invest up to $1 billion in Anthropic, OpenAI",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPY2I3VHRfaEF6T19qN28tZEVhN0piNERjTFpJRVlDMFdTLXJUZTlNdGJXblVLTVpEY0QzUVdvay1IazlCNTBmbGFWQ3NlNkIxRzBZSTIwSEJGUnJKTjl2YkZrUVdLVzB3T1V2WkRhRVAzcmVCVFJ6RjRfUEJveDZnWTlFYTBRZl9sMFlIUGZZaXlibmc?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "62d2b7f96c92",
+   "date": "2026-11-10",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "revenue",
+   "reason": "Amazon Ring ปล่อยตัวกล้อง drone ด้านความปลอดภัยตัวแรกจาก Ring",
+   "title": "Amazon's Ring launches flying camera, autonomous security robot",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUE9yTnVGeDUteVpSZzY1QW5jUzVxSmpna2hSb29VUE9hVTRjWHhuUTNsZlQtVGtoRkQxQ0JWNkl5amNoWksxdXQyT2c0LV9jNUctdXp3LUZGaDZsaUJCcDlIX0pHWG04WER3clpEVWtzVGI4RXRjaEZoTDBLbkVBZjUtOXhEUjM2N3FENHBrNEJlaU91elR6UmZFZjlxMWdPdHI5YnZIYmpMTkhv?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "products"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "10319be89d64",
+   "date": "2026-11-10",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "regulation",
+   "reason": "สหราชอาณาจักร aviation regulator อนุมัติ Amazon สำหรับ expanded drone delivery",
+   "title": "UK aviation regulator clears Amazon for expanded drone delivery",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcWlVRHBuVk00YUFUa1ZfRHQ0ZGN2ekwxa2IyYU5pYjhVdjVfTnF1ekU3NjU5QlRYUUV0LUU2OFRvWC0tQjVOQ2t0N0xqMlg1UmxsX29aRHVNdmdXNlFSdUF2cXVEVUJIOUZGUmc2YXdlSnhhVzRuMGRjcnQ5dVVYQm1oQ29DaXhRdEN4NkVhU3hWSk5mTzZ1dEZtNjlHWWdJNWlnYTZNNTFFYkZ0UG9GZFBuWDdQYkpORlZ3Wg?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "e545e36436e1",
+   "date": "2026-11-10",
+   "tickers": [
+    "MSFT"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "regulation",
+   "reason": "Microsoft บีบให้ Trump ยกเลิกห้าม Chinese data center tech",
+   "title": "EXCLUSIVE: Microsoft presses Trump to scuttle ban on Chinese data center tech",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYVBfNG04eWF0OFp6WHJFRFh3YjdHTHlhdU9xTkZiU3h1Qk9OdXpmM0FaZS1vcXJkdFdHRmE2a0ROLWRWYzNWUXhtcGpmVjREYjBJUC1nYzVSZkxPaHA5dVNNSlhpZzVlX2FOVElnZWNPZ0VuVS1sWEQ5cVNQYXYtT3MtUGppSTIzQ25YX0Q1UnFDbzZxc1RITGRRT1ZNeUFKQTZxWlJxc0E5Z0JjdVVEaXIxbmlqdGRZYzVsLWtRWTBuUlJsb3BTZVAwN1RYWlk?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "4f7de228da56",
+   "date": "2026-11-10",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "negative",
+   "importance": "low",
+   "impact_area": "regulation",
+   "reason": "อิตาลี prosecutors มุ่งเป้า Amazon เกี่ยวกับการขายสินค้าจีน",
+   "title": "Italian prosecutors target Amazon over sale of Chinese goods",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMWFXSW1uMTJkVm54U0R5WG9CX2wwRG14XzltLThUaHVwdXZ1ckhBYUwxQWF4WkxMaENTbzFoeDU5Q2ZtNXVWQVBxUllCeXBRT3N5VmlRS3VSVFpCSGhFOFpRRlYwZVhlaWRLNHhNWk1JbG45eVRaTE93LUFDZ1R4RDd1U3Rfc0hmcWlENzJjTjBGUGFnS0REM2VTR3NrU1JZOXl3TW9VTmJRZUxXZGRB?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "04cfdd8c456e",
+   "date": "2026-11-10",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "other",
+   "reason": "Anthropic กำหนด IPO price range $70-$78 เริ่มซื้อขาย Nov 19",
+   "title": "Anthropic sets IPO price range of $70 to $78, looks to start trading Nov. 19, sources say",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "2de51beb91ba",
+   "date": "2026-11-10",
+   "tickers": [
+    "AVGO"
+   ],
+   "direction": "unclear",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Cramer แสดงความคิดเห็น Broadcom ใน Stop Trading segment",
+   "title": "Cramer's Stop Trading: Broadcom",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1kSmpxNElaSmNNM0o0VFpseERYWTRxVTVWZjhTdWdDOTI4VTBxRi1yc3VzcFNmYXlPU2U2bmlQUHhPT0hSdTBpdVNHSll0dU93Q1QzWEdKaEdwNENrWHNGeXdkejlYSHptSlZ5VmZCRmk2UHM3cjBUelBmdjA?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "a4fddb0af183",
+   "date": "2026-11-10",
+   "tickers": [
+    "TSM"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "TSMC ยอดขาย October เพิ่มขึ้นจากโปรแกรมบูมชิป global",
+   "title": "TSMC's October sales jump as global chip boom rolls on",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/10/tsmcs-october-sales-.html",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "95605c0c12c0",
+   "date": "2026-11-10",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "competitive_advantage",
+   "reason": "Nvidia ขยาย open source commitment ด้วย OpenShell donation",
+   "title": "NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure",
+   "source": "NVIDIA Newsroom",
+   "link": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "99d4f736d890",
+   "date": "2026-11-10",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "revenue",
+   "reason": "Google ปล่อย Gemini 4 Carbon พร้อม agent swarm feature",
+   "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
+   "source": "The Verge",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOS1FMM2Rhc1RaOWNteEpIRDZLV2RNanAxOEtlY25LQ0tLejhndUQ1M1lpRFdXQjdkMnJ1SGxQSFhSODByVDhrWHp4dzdqM01pTzhTTVBpY2swLTZncWFJU1NaeXlTYk0tbFFzOVFISWFuamYzaXhiNlFfQmZoekk4YXkyaHdBRDhLMF9DSmo4UEZUV0pWcEVYZUNGci1iZw?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "products"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "c5486fa8b706",
+   "date": "2026-11-10",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "revenue",
+   "reason": "Google ขยาย AI hardware portfolio ด้วย specialized chips ใหม่สองตัว",
+   "title": "Google broadens its AI hardware portfolio with two new specialized chips",
+   "source": "TechCrunch",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSEh4akhpUUM0cjFpa1VVWkhzNk0xTzRnd2ljdnd5TWQ0M2RHRE1tN1FJdnQ4cUd5OEtDNlNfWTRFV3B4bl9maEx5WXAzYmljUEdBSlRKSVVfU3RMaE54Nkp4TjdRN3ZBbmJma2Q4Mk45NTcwekhOQjY4REE5UEs0V0J2enN5U0VNdm44NGQtc2xwUHJfaXVLdDFNdExkRF9ySkpYSnBmSWdxdmM?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "551ce822f91f",
+   "date": "2026-11-10",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "revenue",
+   "reason": "Google และ Adobe integrate creative tools ใน Drive และ Gemini",
+   "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+   "source": "Google Blog",
+   "link": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "0d9d0bbab23c",
+   "date": "2026-11-10",
+   "tickers": [
+    "CRM"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "revenue",
+   "reason": "Salesforce Missionforce National Security บรรลุ awardable status สำหรับ CDAO Tradewinds",
+   "title": "Missionforce National Security Achieves ‘Awardable’ Status for Department of War Recruiting Capabilities in the CDAO’s Tradewinds Solutions Marketplace",
+   "source": "Salesforce News",
+   "link": "https://www.salesforce.com/news/press-releases/2026/11/10/missionforce-achieves-awardable-status/",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "693aafde0523",
+   "date": "2026-11-10",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "revenue",
+   "reason": "Google Cloud ปล่อย Gemini for healthcare unify clinical data",
+   "title": "Google Cloud launches Gemini for healthcare.",
+   "source": "Google Blog",
+   "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "products"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "e3d8c9d15226",
+   "date": "2026-11-10",
+   "tickers": [
+    "6981"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Murata Manufacturing ขยาย MLCC capacity 1 trillion yen เพื่อ AI demand",
+   "title": "Murata Manufacturing stock: 1 trillion yen MLCC expansion targets AI demand",
+   "source": "ad-hoc-news.de",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdzNlZnVfbUVTYVE4SHZlUWY4ZVJuYTBZQnZWTEQ5VWZqcmI2NGx6eEtmalJwTWlqUzFIV2piNHhwb2tRSDc5UGZxcXRKSGw1Q1Q5WnV6a0t0UXpnaG9aZzM2ZHNJN05oWUU2aFp6ZU93T25GNGdqVVIycjJ2aEdJeGM4SmI4SF9uV0NUX3k4UFpmU2VRNS1nQndNaXhxUnpHdkRWV2pHSUdNSUlLZ2J3OTlrNXBhT1F2ZXVxRHdTLTJhdWNFX1QwU0NmOEJCU2ZzRjNj?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "20f85ff93734",
+   "date": "2026-11-10",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "other",
+   "reason": "SpaceX IPO record-breaking valuation มีผลกระทบต่อ index composition",
+   "title": "The index impact of SpaceX’s record-shattering IPO",
+   "source": "Financial Times",
+   "link": "https://www.ft.com/content/141176cd-79ce-4633-9def-eaee96db1762",
+   "paywall": true,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "4b0841798e93",
+   "date": "2026-11-10",
+   "tickers": [
+    "TSM"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "TSMC SoftBank reveal chasm AI winners vs losers ทำให้ TSMC ผู้ชนะชัดเจน",
+   "title": "TSMC and SoftBank Reveal a Chasm Between AI Winners and Losers",
+   "source": "Barron's",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxON19COW5ueS1YOGlEemJ6MFBfckdmOVNnTVAzMW5fRnNKMHBoV2M4bVQ2c1ZncUlERlJmbGxuQmFnSnVmYmVCLUJBQnNXMXkza1hMRklCaWdOWHNlWlZ4NURsR3JJVjJXcjlfZnBlbnFscDlkaHFjNUEzMkcxOS1PMXNRWjlRZw?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "8b775ce3827d",
+   "date": "2026-11-10",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "other",
+   "reason": "SpaceX ประเมิน early data center test ใน Texas หลังจาก IPO",
+   "title": "SpaceX Stock: Musk Faces Early Data Center Test In Texas",
+   "source": "Barron's",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbkdIX3djbHhzY28wcFpTdkFOM1lFQXR4Y1d3a01mcGhIVkhrSUZ0dWx4ODVEMzl6eWxqSWlsd2VXNVdHYUdpcHo3bHRUVm9fcmVwMDlFTFphZnZFZjZ1MlpFWE9BN1J5ZHp1dXhGTWR0WDNWaV8tRE9wZFdZSUJvMFoxaw?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "683dc7cd3bb5",
+   "date": "2026-11-10",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "revenue",
+   "reason": "Google launch Gemini for healthcare hopes hospitals reduce medical bill",
+   "title": "Google launches Gemini for healthcare, and hospitals like Northwell hope it brings down your medical bill",
+   "source": "Fortune",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMldUcmNsUzJTQXZ5UEFqcXA2aENraUZBRHdpVGV1LWhVckIyeVh6aTU0bU96eVZuWFdKNFRNR0MwV0VGRUlQWUtjcjR4dHRqNUFFNkl5TDBWaWVBT3AxOFB4YmZVTXFocnNUVHR1NUcwVnZGLVJULXdPU1Noek9UNnhRUTI0RFFzc2VwSGdERVhJdlJIU0QwMXhhdk1qNUcxV0FrR1Z2ZndmSVY2bGdmUkc2MzJyV3RGM2FSOHNsNA?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist",
+    "products"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "652f1c5a5eff",
+   "date": "2026-11-10",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "regulation",
+   "reason": "Jensen Huang yearlong ties Alice Huang enabled $7 billion+ Nvidia chip sales China",
+   "title": "How Jensen Huang’s Yearslong Ties to Alice Huang Enabled $7 Billion-Plus Nvidia Chip Sales to China",
+   "source": "The Information",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSnFMNEF5UjJUczd5eWdTQlQxOWRrMUQwSno4b2FETmM2bzVEckRLdVFqOWp1cGc5YlZVaFo0UG1FMFo2amRya1hGS2JsNVJsTnFCbDk2X3IydVhLTEJiX1VFN2tGdlQ4OGczNGpfSUZZcHRBVzFINU1VT2JRVVNteU16S01SRTZBdjdfTzNrT3p1Z0hOVk40UE9LTGlQSnVxUDRuMlRDT3ZjYjhEMzFTQlRR?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "d6cb6432df50",
+   "date": "2026-11-10",
+   "tickers": [
+    "XAUUSD"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "other",
+   "reason": "Gold ลดลง nearly 3% เนื่องจาก CPI tops forecasts lift dollar yields",
+   "title": "Gold falls nearly 3% as CPI tops forecasts, lifting dollar and yields",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUUt5d0NsOEFXZzVGWU5qOFFwbGtuT0pyM3RMcTR3ZDRXYzFqV1NkM1VadUV0VzdNUFpZREVYLU1mdWFpSDE5V0w3Qlo5X1luTXVXRkZKNHQ1bXY1X0VCNHRienZVbnhQdE93UWFYRk41T0Fhd2tiQ2dpZzF2WEZmM0hVTFpjMVFzR2JhNlpWN0R5ZkFCY0JkRUVuYw?oc=5",
+   "paywall": false,
+   "categories": [
+    "fed",
+    "crypto_gold"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "2693d0d16d2b",
+   "date": "2026-11-10",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "competitive_advantage",
+   "reason": "DeepMind reveal Gemini Robotics 2.5 open safety benchmark ASIMOV-jailbreak",
+   "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
+   "source": "Ars Technica",
+   "link": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
+   "paywall": false,
+   "categories": [
+    "products"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "512a113e89d4",
+   "date": "2026-11-10",
+   "tickers": [
+    "XAUUSD"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "other",
+   "reason": "China buy gold two straight years central bank demand support XAUUSD",
+   "title": "China buys gold for two straight years as central bank demand remains a key pillar of support",
+   "source": "Kitco",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcnMwUHdaakNobncwZG8wWE41M290UThlMmQxQV84UkRuNThLMDdwcU9JWWVKTVUtN0hiWS1nNDNqYUVocXdYZVdjSlpUN0FjamdpRGtFSmNIbk9ITGl3Q0Q4LTJ0WC1BTW03cDBIaTY5MldITlJDVVlsdVZQZkpqelJfSnpSeF9MWGRnOTZXWndsdmFIVjc5bEVNZ28zWThaaXI4VVVuVWxGbmtVOUZfZ24tdmlZX1RUbTA0?oc=5",
    "paywall": false,
    "categories": [
     "crypto_gold"
