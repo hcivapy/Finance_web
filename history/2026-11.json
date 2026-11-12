@@ -2,6 +2,197 @@
  "month": "2026-11",
  "items": [
   {
+   "id": "1e0e12e496b8",
+   "date": "2026-11-12",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Alphabet เริ่มการออก bond ใน Hong Kong และ Singapore เพื่อเพิ่มทุนสำหรับการขยายธุรกิจ",
+   "title": "Alphabet sets initial price guidance for Hong Kong, Singapore bond sales, term sheet shows",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSkZJZGdvOEZWNkZuZ3pSWXU4QUktR01VVWpXc1I3OWtjQnFYaEtRMHVjdUJCblRxdDh2Wm0tbmJQN0gtWVN6b3dnVFlMVGM1Qk8ydHgtb0tndU5xblJGOTVxRWFFYjdjdDJIQkcwckZqMnNDUkZlNE56dzVGd0dMMVFaZUMydjZPaTVkcmRGQU1sZXlscUx0UkRINlpVZk9QYXFiZElNSlc1cG5JTHYwTVplbzM5b0FLOHZLelZZWnlxcGpEdEstNi0zSFprUQ?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "4b6178229700",
+   "date": "2026-11-12",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "regulation",
+   "reason": "Commerce Secretary Lutnick ยับยั้งการเข้มงวด export controls ของ Trump ต่อ Nvidia chips ไปจีน",
+   "title": "Lutnick stalled Trump crackdown on diversion of Nvidia chips to China, Axios reports",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeDk3Z2kxT2NlVkxtZ3FMbksyU0ZlT2JzcERTTVBkeGFzUk5kaHhpazg4Mk5GSnZGTmNmbVVZakFyUHZOeGx5ZEt1N0pVZFRBcDlzMFU0dDc0RFh1ak1ndzZBVWNsN3NCVmliX040XzZHXzc3TFlCUWNTeXdyUkZ1S3B4WUhLSnNCWDVzeGd2NDZUZzBaTUNwemdVRWtqWGlzUnczR09yU09qaWwxZGRKaFBOUDdiR2lLa0VSa0tiWQ?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "b4efe9fa45b9",
+   "date": "2026-11-12",
+   "tickers": [
+    "META"
+   ],
+   "direction": "unclear",
+   "importance": "medium",
+   "impact_area": "management",
+   "reason": "Meta infrastructure head Santosh Janardhan จะออกจากตำแหน่งเมื่อต้นปี 2027",
+   "title": "Meta's longtime infrastructure head Janardhan to depart in early 2027",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORXJEeF82djRSOW5XTTdlVThvUVpDRGxwRUtOdHZfREI1LTZIc1J1VEFLVWYtejJST0tQcVJwTzN4OFN1Nkh0eEtnNExhXzNfR3NCU2hfS0pLRmRUdk5hczVRblRIQXlTUmdFTm9URlVkUUE5c3dzT1k2N1pib1lsU0NhT0J3a2ZpbV9XOEs2RDQxUE1DQjgwMzVxT29qeFJNbFFzeDBmb1JIUWF1NWc?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "decc589f4c9e",
+   "date": "2026-11-12",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "regulation",
+   "reason": "Megaspeed สัมพันธ์ Nvidia อยู่ใต้การสอบสวน US เรื่อง Nvidia chips ไปจีน",
+   "title": "What we know so far about Nvidia partner Megaspeed’s Asia footprint",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/12/nvidia-megaspeed-alice-huang-jensen-.html",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "dd07c4ee5ce9",
+   "date": "2026-11-12",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "regulation",
+   "reason": "การเปิดเผยความสัมพันธ์ Huang กระตุ้นการต่อต้านการ export controls ของ Congress ต่อ China",
+   "title": "Jensen Huang affair in D.C.: Resignation calls and moves to tighten Nvidia China exports",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-congress-resign-ai-chips.html",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "584853713ee5",
+   "date": "2026-11-12",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "competitive_advantage",
+   "reason": "JFTC อนุมัติแผน Amazon Japan เพื่อปรับปรุง seller pricing rules",
+   "title": "JFTC approves Amazon Japan’s plan to ease seller pricing rules",
+   "source": "The Japan Times",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeGlHb1p3ZnhKS0pEdnp6R0pRUy1OQVdaNkJvZGloMS1WSVpmQXJwSmp3UzVEOGhLb3FfR1Z5VmhKZ2pmanNUTmxVOXNxUU85dldueThFb2d1ODIzT2FPQzFRejZGWDRRSXdsQTFXeVBCT25xMWswYVFFMGNqLUVMNTdVTXctMUVQME1sNzZGLVE4NEszeV81ZWZDM3c2QUY4REtjTTNOXzcwdw?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "7d3455448e37",
+   "date": "2026-11-12",
+   "tickers": [
+    "TSM"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "TSMC อนุมัติการลงทุน $1 พันล้าน ใน Anthropic และ OpenAI",
+   "title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
+   "source": "Ars Technica",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNanhKZDVUckJDOTUyaHpuU1ozRV9Rc1I0czVKZmtueDFsM3pDTjRJZTFMQ0RDREhKcHRtTXIzQ2Zmdm1TWWNGbFN1RUE0dHBjWTNjV1VSR0lLTktuNVRrTnQxY0hfV0VXWUkzRnFyQ2otV0duQjdUVkdFcC1fWm9WQV9MN3k0Y3Y2YTY4d2w0dm56QUVyVlNaTlZmMi1QdTg?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "77a463d0613a",
+   "date": "2026-11-12",
+   "tickers": [
+    "MSFT"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "other",
+   "reason": "Microsoft ประกาศจะจ่ายค่าใช้จ่าย power สำหรับ data centers ของตนเอง",
+   "title": "Microsoft Vows to Pay Its Own Way to Power Data Centers",
+   "source": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbGdoX2lkTENMZU93QnRMcXZwM0hnNTMtRHdyV0M1YVpWTDljbFkwOUpiNWxCbm04bnlUa1djMHYtWUZNWnc1dVdrQk9vWjJrQnBvZDBLRE9TTGtuUWw0UlNreE1OUDRhc2djdi1lSWhkUWt2dTVyLTkwUVNucVZrLTZYVHVKdGNWS19DSnVlSWxCdnlES2d6NWt5OERrcGpfaFdWVTJXZFJ2UQ?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "65fa34cff144",
+   "date": "2026-11-12",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "regulation",
+   "reason": "Senior Democrats ขอเอกสารการ preserve Nvidia export records เพื่อสอบสวน",
+   "title": "Top Democrats Target Trump Administration’s Nvidia-China Records",
+   "source": "WSJ",
+   "link": "https://www.wsj.com/politics/policy/top-democrats-target-trump-administrations-nvidia-china-records-0c212746?mod=pls_whats_news_us_business_f",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "02cd93383dff",
+   "date": "2026-11-12",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "regulation",
+   "reason": "Nvidia หยุดรายงาน Singapore revenue เนื่อง Megaspeed probe ระเกิจ",
+   "title": "Nvidia’s Disappearing Singapore Sales Deepen Mystery Around Megaspeed",
+   "source": "WSJ",
+   "link": "https://www.wsj.com/business/earnings/nvidias-disappearing-singapore-sales-deepen-mystery-around-megaspeed-7d483180?mod=rss_markets_main",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
    "id": "7120f7828498",
    "date": "2026-11-11",
    "tickers": [
@@ -599,6 +790,181 @@
    "link": "https://www.bloomberg.com/news/videos/2026-11-11/breaking-down-anthropic-s-1-4-trillion-ipo-valuation-video",
    "paywall": true,
    "categories": [
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "fb1b7e57881a",
+   "date": "2026-11-11",
+   "tickers": [
+    "GOOG",
+    "META"
+   ],
+   "direction": "negative",
+   "importance": "low",
+   "impact_area": "regulation",
+   "reason": "Meta, TikTok, Google ต่อต้านการแก้ไข copyright law ของ Indonesia สำหรับ AI",
+   "title": "Meta, TikTok join Google to push back on Indonesia's planned AI copyright law revisions",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeDZLSGp0MHRPWUgzVTNmZEhMLWR6Z2lvdmZiQzRzblJobjdGdlRMUmhHV1dzM3lUUHdocXNoMnp4bFZHOEZtUU41T3BGT0d0blpyYnViSDZ3bklQNG50bnRyVmtYTE0xZTdWc0dDODhrd1hIRXVKTXVWMWVqWVY1aEFLN040QzJRMW40QzJzTHVYMjNEVTRuZ0NEdFI3eS1EV05WWDdjZ3g4TldaRnBrd01GY0lKckRvOTFCRUc5QVBXb0d2WHFaMXdPWno?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "d47d9810292a",
+   "date": "2026-11-11",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "regulation",
+   "reason": "มหาวิทยาลัยจีนที่เกี่ยวข้องกับทหารซื้อ Nvidia H200 chips แม้อยู่ใน blacklist สหรัฐฯ",
+   "title": "Concerns grow as military-linked Chinese university buys Nvidia chips",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UMXpQTGdfREtMZGZuWG9VdEpPSldtVWRaUzdDcE5xV29wdHZPcXU0Q0JScFpENDVSSlNyazBPQWVuS2RaSWNKU3A1QldLSUdLcktVZUtic25ZMlZ3NHREdWxBUUFZNE0?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "630dbb11928a",
+   "date": "2026-11-11",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "management",
+   "reason": "สมาชิกวุฒิสภาสัตยาธรหลัก Republicans เรียกร้องให้ Jensen Huang ลาออก",
+   "title": "Senior Republican on US Senate banking panel calls on Nvidia CEO Huang to resign",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOakhNTHdFSEhVdlBiTnJYLTZJZklCRG1iOWR3SzRlNW5MNGdGZ2xBcUtLZXdwSm5qZ1lpei1DOHdIUGpkdmVaZ3cwM29INlJ1c3V1T1hLSUcxdFYwSGdGM2tnV1VNVEZiMWYzYlUzQUpyV3F6N3VLbHlkWTVCaDczZmJLdVNsbUZhX2lWRnVMR28zZDZUUFBvUjdqdUR2VW84SndUNkFzWk9Fd2RwYnFfU2ZjRW5USXNkNXBZ?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "12591d17ed74",
+   "date": "2026-11-11",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "AWS เปิด cloud region แรกใน Chile พร้อมการลงทุนกว่า $4 พันล้าน",
+   "title": "AWS to launch first cloud infrastructure region in Chile, investing more than $4 billion",
+   "source": "Amazon News",
+   "link": "https://www.aboutamazon.com/news/aws/aws-south-america-chile-region-launch?utm_source=rss",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "products"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "13ace6bf0194",
+   "date": "2026-11-11",
+   "tickers": [
+    "6981"
+   ],
+   "direction": "unclear",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Murata Manufacturing stock buyback ถึง 13.9 ล้านหุ้น",
+   "title": "Murata Manufacturing stock: Buyback reaches 13.9 million shares",
+   "source": "ad-hoc-news.de",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaUVpRExUUW9lU2NGQ2pvQ3NhVlNDTUN4MHNuNTBKRENRZ1dVQzRHak5zcG1vOTFCSmpFSVBEVFJZN2RyQ3JfdnJlYzRaaFo4M003Z004dXdpNnZqNHk2UkY4TlFEOWVjVWtzQkpLTjRnV1JYTlI2a0JXdWlxMEIwMTZRbDllaXo5VmREZDc1VEVibkluTzNOOFFJcGhVLWlPWTY0T2NXUkY5WFFZcEdkenRSTm1BeDhFZmtYYnpTbUNIM0E?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "9fbb43638909",
+   "date": "2026-11-11",
+   "tickers": [
+    "6981"
+   ],
+   "direction": "unclear",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Murata Manufacturing treasury-share notice เตรียมแนวทาง capital returns",
+   "title": "Murata Manufacturing stock: Treasury-share notice keeps capital returns in focus",
+   "source": "ad-hoc-news.de",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPc0t0UVh3R1RadF9ST1ZONG9aQ0JhWTl0NTJZRml3WlUyWWl0MHlCWmdMc2RfRkowbVk4ODBiNDhMMWg4cHEySGdsZzJFVlRPbTBsMV9CUW9fQlM1dGNmeENaZFM0SXVCMVY5aWV3TmIzQ1lzV3plMUozVFNwa1p3Z1NUdW1BOFZfY2JnVmNTZ2V0b1g4TkhQOVp5NVgzLXRBczRjREh5UThyNlRrTGtfam5kZkVrd0RQTDhjcDdIZkVibktwenl3LVhrUzc0R3JiTnF6WXBwaVpiQQ?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "8ca93750feeb",
+   "date": "2026-11-11",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "unclear",
+   "importance": "high",
+   "impact_area": "management",
+   "reason": "Nvidia board independent members จ้าง Wachtell law firm สอบสวน CEO Huang",
+   "title": "Statement From the Independent Members of the NVIDIA Board",
+   "source": "NVIDIA Newsroom",
+   "link": "https://nvidianews.nvidia.com/news/statement-from-the-independent-members-of-the-nvidia-board",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "5944b8ed41bb",
+   "date": "2026-11-11",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "revenue",
+   "reason": "Anthropic นำ Claude เข้า Google Meet เพื่อจัดการงาน live",
+   "title": "Anthropic brings Claude to Google Meet to tackle tasks live",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPa1lkekszdzZzWXNDOXRjbGg1SWhiaFR5NXZrWVNuSjluX0xOX1BQcm9YZDlneHJJU3dEOXA4Z0pvY09pbXhua1pGWlJKWU51OVNmVFdTNzY1QWN2cjl0b0ttTHR1b0cyQW9RX0habzJ3MVp1dHc2YXh6RGZLNHJGY3hCMlhsakFsOEUtSWJXUWVpb3I5eHpmcGNhVm5JTlo2VVE?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "59aa7e9a42e3",
+   "date": "2026-11-11",
+   "tickers": [
+    "AMZN",
+    "GOOG"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Amazon และ Google คาดจะได้ผลตอบแทนจาก Anthropic IPO",
+   "title": "Amazon, Google set for big windfall from Anthropic IPO",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcjFwZHRWdU1KX1lVQzlmS2tLcE1EemFWd2trLV9Td2NtemNvRGdjbHVEUjJySldqUjRqaEtpZGpfck9QWkpCcmhoby1ERHFwSk4ySkNMQ2pQbkZsbmJXUm5NOTM3Y09XZnl1cEMxcjhZVFpEYTZDX0ZHRHNhVXdkZFdIOExqa2tHZC1qM0xuazYzRENHZzNDYUo4aVBSck5IRHc?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
     "deals"
    ],
    "model": "claude-haiku-4-5"
