@@ -1,11 +1,321 @@
 {
- "generated": "2026-11-12T04:54:11Z",
+ "generated": "2026-11-13T04:05:36Z",
  "months": [
   "2026-09",
   "2026-10",
   "2026-11"
  ],
  "items": [
+  {
+   "id": "198374bbf603",
+   "date": "2026-11-13",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "management",
+   "reason": "Colette Kress ผู้บริหาร CFO ได้รับการแต่งตั้งเป็น interim CEO หลังจาก Jensen Huang ลาออก",
+   "title": "Colette Kress, the CFO who challenged Huang's bets, is Nvidia's interim CEO",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWnRLUFljeVFkcXJzT2xiV3lQWnlaMENnaUNHVlZNdWtscEZSVnRIaWZYSERpb0hTVEc2cmVZaEw4Q1FBX3B6VmNvMnhaSm5GV1RvQ2pwNExEazBSNWRRejMyTU5NZU5RXzdhdU5xMDZZUHFWekdwZG9wWEJOeV9HQnVwLTR4b2FXc1FfWDRPVTd2Tm1JVkRCYk5aUjFROWhqR1pRay1oWVFjdnpnSTRHdzd3?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "d30ee897b222",
+   "date": "2026-11-13",
+   "tickers": [
+    "META"
+   ],
+   "direction": "negative",
+   "importance": "low",
+   "impact_area": "regulation",
+   "reason": "Meta เผชิญกรณีฟ้องร้องเกี่ยวกับความเป็นส่วนตัวข้อมูลในศาลจังหวัล Washington DC",
+   "title": "Meta faces July trial in Washington, DC data privacy lawsuit",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQb1pnQWExd3MyREZOb29RMGZkN2pQc0paZFI0SEFjRmdCYW54aFRjOUlYUTAxckxUenRLMml2VHo1V3dwTXJWbjFxaFRMNzNXZVh5S0JrcDRsRG90YTVHR3Zqbmp1OEZCUEllTmhRY0tUNTYyNWRNbXNFMF9PUGNmbmxJUmFhT0JOcnp6UnBZU0dsN20wTGxNdl9UNWM5NWpHelI3dmxlWGgyek15dnc?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "3a41baaa69b7",
+   "date": "2026-11-13",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "unclear",
+   "importance": "medium",
+   "impact_area": "other",
+   "reason": "SpaceX และ Tesla กำลังเจรจาเกี่ยวกับแผนการรวมกิจการตามรายงาน",
+   "title": "SpaceX, Tesla merger talks progress, Bloomberg News reports",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSDRsb3FNV0VLZW5Hb01MamhyMnpOS3NEZl9jT2czVGFTQ3JOdjF0WXdQNHh3SVFJVmhKTVBIb3hhT0UxTlBlOG9lY1AzVnVTY1hjZlItN1Q4X1YzVjMwVTVyVF9keUh4UnRGTnBWeGItejZObzU4QVVOeEF2ZGxuTmFfSDVyQllsRlJNNXV3N1V3ai1sMWx2RTEzR3pNNXpVRWtOTjJDQzg5YVJjT3FBM1BhRQ?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "0b87d0617e62",
+   "date": "2026-11-13",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "other",
+   "reason": "SpaceX วางแผนลงทุน $74 billion ในโครงการ data center ที่เท็กซัสและแอริโซนา",
+   "title": "SpaceX plans over $74 billion investment in Texas, Arizona AI campuses",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdlQwLUxxTENmenRpSFFXVlNUeVkzeURtNWxCZ1RuVEQwdENKV0g3MndreVZsZFYwVGtpT3Q3SDJZU0pHTGI1WFFYWERreFJmbzVjaUtOR2NjUURRMTVHNVlKdGE0VkdRVzRvekpIcHdmRGdOV2kwRXVmbWl1blRIV1VKSjQ4c19FSVFTUWZNM2ptQ0ZaMW96a2UyTFphWjNsSnc3ZmJZdWhHNWpiS19hTDhYSk9vNkpkeng1N3prZ1Y3b1lI?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "a2fcd8b19b1b",
+   "date": "2026-11-13",
+   "tickers": [
+    "MSFT"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "other",
+   "reason": "Microsoft ประสบปัญหา outage ของระบบ Outlook Teams และ 365 ที่ส่งผลต่อบริการ",
+   "title": "Microsoft outage drags on for hours, disrupting Outlook, Teams for thousands",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQWpWeUZnbllhcFk4WktZS0s3T1N6T3k3Vnhhd3pfSE9SWF9iRmRIQUljdHZXN0UtWS1uZS1rbUNZSlVPd1NXLXRtVUVtc3NQNTgxMVFMWjVnT3pPb09EX1g1YUx3WkF2VHk0bUMwWlhkRHdpT0JFRE5SQ3pQRkdmSnpUOHNXLUo1dXNSY3lFdkpSdU5laDdwSlhWRDVnNjBFcUh2Y0FwMXNldE8tSFpPaw?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "1bfb78a81268",
+   "date": "2026-11-13",
+   "tickers": [
+    "AMZN",
+    "MSFT"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Cerebras ประกาศ deal ใหม่กับ Microsoft หลังจากความเป็นพันธมิตรกับ Amazon",
+   "title": "Cerebras surges 17% after beating on quarterly revenue and announcing Microsoft deal",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "1c188c6bc372",
+   "date": "2026-11-13",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "regulation",
+   "reason": "Congress เรียกร้องให้ Jensen Huang ให้การ testimony เกี่ยวกับเรื่องสัมพันธ์กับสายลับจีน",
+   "title": "Ousted Nvidia CEO Jensen Huang summoned to testify before Congress",
+   "source": "BBC",
+   "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "4ec4e853e21b",
+   "date": "2026-11-13",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Google ปล่อย Gemini 4 Hydrogen model ที่เข้าใจคำถามที่ซับซ้อนได้ดีขึ้น",
+   "title": "Google’s new Gemini model is better at understanding complicated questions",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+   "paywall": false,
+   "categories": [
+    "products",
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "40a853206390",
+   "date": "2026-11-13",
+   "tickers": [
+    "TYOYY"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "Taiyo Yuden ปรับ FY2027 guidance ขึ้นและเพิ่มความจุ AI production เพื่อตอบสนองความต้องการ",
+   "title": "【Taiyo Yuden FY2027 Q2 Earnings Call】AI Server Demand Drives 177% Operating Profit Surge; Full-Year Forecast Raised, AI Production Capacity to More Than Double Next Fiscal Year",
+   "source": "finance.biggo.com",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Nb0RDR2Z2R2dtdWZSZy1RWFFtRk5paUJ5TmhBZFBnZkw2c3hDM3BHTllVdFNzSDlrZWtsdU13QVhIS1FSVG4zLW1qczM1dmN3enBMN21ZVGpTNzN5TlBRdg?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "d1b30ddd6cfb",
+   "date": "2026-11-13",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Google Search รับการอัปเกรด Gemini 4 Hydrogen เพื่อให้คำตอบที่ช่วยเหลือมากขึ้น",
+   "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+   "source": "Google Blog",
+   "link": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "d539f5b1e342",
+   "date": "2026-11-13",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "regulation",
+   "reason": "Singapore ฟ้องคดีบุคคลที่ 5 เกี่ยวข้องกับ Nvidia case อาจเกี่ยวกับ export control",
+   "title": "Singapore Charges 5th Person Linked to Nvidia Case, ST Says",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-13/singapore-charges-5th-person-linked-to-nvidia-chip-case-st-says",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "11d3fa7a3934",
+   "date": "2026-11-13",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Singtel ระบุว่า 'fairly insulated' จาก Nvidia developments และปรับ guidance ขึ้น",
+   "title": "Singtel Says ‘Fairly Insulated’ From Nvidia, Raises Guidance",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-13/singtel-raises-profit-outlook-as-overseas-businesses-gain-ground",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "f64c960d4b2e",
+   "date": "2026-11-13",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "competitive_advantage",
+   "reason": "Cerebras ให้ sales forecast ที่เกินคาดของ analyst ท้าทาย Nvidia ใน AI chips",
+   "title": "Cerebras Delivers Solid Outlook in Bid to Challenge Nvidia",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-12/cerebras-delivers-solid-outlook-in-its-bid-to-challenge-nvidia",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "ac94162d8a8f",
+   "date": "2026-11-13",
+   "tickers": [
+    "TSM"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "other",
+   "reason": "TSMC ส่วนโครงสร้างการลงทุนใหม่เพื่อสนับสนุน next chip titan",
+   "title": "TSMC seeks to back next chip titan with new investment arm",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMmI2dlJ3UFoyMl9Na2VBanBKcy1nVDFHYmJFS3RTYXVYNi1UUDZmMDQ5RkNuQ1U5WURYVnY1ZVI0dUI3SWtBT0ZlWVhCWkF3ZVF5RlRsSkpPZWViOHl6RjZyQ3FqUnQ4blozMUVYNF92Y24tVWNnejZrRDRvXzBZOGxWejF1Qnloay1pRGdmdjh4N0oxUnhVMUFmbXBMVXJhTU1XdEtmd1oyQ2c?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "bdf9ca8dd2ba",
+   "date": "2026-11-13",
+   "tickers": [
+    "META"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Meta และ Line chat app ช่วย Taiwan ต่อสู้กับ online fraud",
+   "title": "Meta, chat app Line help Taiwan combat online fraud",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUWwzUWRoaVg3elJNRXIwTjdnVVFpZFVJQ3psRExuUC1iSE5WQU5PYjZOeFpoa1VKTGxaNWh3QkJpVkpkOHdscGhkUi11RGU4VEJfSllHdFl3MENiMmtONkJUdWRyaHd3U3Y1UjM2VGJyczFkN2NRMDlXT3ZZbWVyZ0s2TG1yaVAtNUlkZGZyNTZDaWYyUmNoLXBYb0FRM28?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "52957eddfd9c",
+   "date": "2026-11-13",
+   "tickers": [
+    "RYCEY"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Rolls-Royce ให้ใบหนังสือประกาศว่าอาจปรับ profit guidance ขึ้น",
+   "title": "Rolls-Royce hints it may raise profit guidance",
+   "source": "The Times",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZE9XOTFQdGRFSzlza2VNaGdUYjNkMXpfRnJZNjdTUDZtLV80SHJhUEdSVFJWYTIzZ0dBcDNDNjlEazlaMERfeEt6NXNPeDIxbV9KRmFGeWlQYlNnNDB2b1pmNXJHdFZWMUZMODJlaVhfT0tyUVA3SnpKLWkxOFFURlZfRDQ1OUREZkt0Q25WSnJQMHNoNW9lZ3RPU1NvQ3J3Q2F5SXN1ZnV6V053eHp6LWliN0UtLXc?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
   {
    "id": "1e0e12e496b8",
    "date": "2026-11-12",
@@ -192,6 +502,349 @@
    "source": "WSJ",
    "link": "https://www.wsj.com/business/earnings/nvidias-disappearing-singapore-sales-deepen-mystery-around-megaspeed-7d483180?mod=rss_markets_main",
    "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "1cb13b935b73",
+   "date": "2026-11-12",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "management",
+   "reason": "Jensen Huang ลาออกจากตำแหน่ง CEO ของ Nvidia หลังพบข่าวเกี่ยวกับสัมพันธ์อเนกประสงค์",
+   "title": "Nvidia CEO Jensen Huang resigns in blow to AI boom he helped foster",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMEFwN0FWdjB6blNtR0RZaTBWZXZDaWVwYkhXREttY2FaYVNNVC1qNEFHYm9Yd1pDODBDN2tvNzhnMTY4cmxWYTg1WVFidzFlNVFEdlZNb3IyZG1nS2FKcHAzUERhQW9EdG9oOER6YmwydXZOd0t1VHRub1BCdFdoR1V4dktlUVUydjZWeU53aVdKMGwtOGFtZmd2T3VhODF3eXhPazVtbV81b0hpUi1vcw?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "0f729b6a28a4",
+   "date": "2026-11-12",
+   "tickers": [
+    "META"
+   ],
+   "direction": "negative",
+   "importance": "low",
+   "impact_area": "regulation",
+   "reason": "Meta ถูกปรับโทษของ UK regulator เนื่องจากความไม่ถูกต้องในข้อมูล WhatsApp Business",
+   "title": "Meta fined by UK regulator over repeated inaccuracies in WhatsApp Business data",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNUM1Y0YwNEY5YS1iQzZhNG51ZDhfTWxCLU9QZjhZSTZrVWluam1QdHctRUQzWjE1Vko2R3lHUklWN2xRR0UyYl8yT1F5S0tfeEM5UDg0d3B6elc2NTAydTZNbDFORDJjUm1la3JlRGNfam00QUhMY1RMNHgxQXNNSk4wVFhBRmdhQ1hkM0R1S05SWG0xTWpuX0pEeGpmWjYzZTRhUlZZNHpYOTRDMDVPQUNPbVFENE0wSnZwcGN0YU1QTk5lV3JpV0Nrc0R1cVRu?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "0e93e0d2694f",
+   "date": "2026-11-12",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "regulation",
+   "reason": "EU Court adviser สนับสนุนค่าปรับ $1.7 billion ของ Alphabet เกี่ยวกับกฎหมายผูกขาด",
+   "title": "Setback for Google as EU Court adviser backs $1.7 billion antitrust fine",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNm13elhGVjJBZFpZVlZDbDB2VGROQ3B6bFJ5dW1QcVNXdGV4cUVNWWMtQXRuVEt0YVNQMF80d3dsTFpEVFd5ZUFGdVVmU29wX243MFljWEd3cEtFZTFpQmhidE8ycFNmWXpiMTJmQnk0b1lLb3BfZkk5SC1SVDIwdE9saWREU0Nyb2ZYb2pnaDRhZWQxN2JKX0FNVkoxZEg5cTR4T0I1Sms?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "b252ed845f24",
+   "date": "2026-11-12",
+   "tickers": [
+    "RYCEY"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "other",
+   "reason": "Rolls-Royce ประกาศโครงการซื้อคืนหุ้น £1.5 billion เนื่องจากความต้องการ engine ที่เพิ่มขึ้น",
+   "title": "Rolls-Royce announces £1.5 billion buyback as engine demand grows",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQc2tJa0VEdTFscjVOVUlfLWRDeF9mM1NsM1FFOG5zLVY5bEVKUTBDM1ZKeHotSGZhUWJ4MFFYdTZGcTNoZ0RuMkphZnhIaDNBbTRFc1FpVW1JLTdzdFd1aWJ4OHdWM0JRQ2ZhUG5wMWpkcHUwRzROMHQ2TmhMSG4zY2M4azQ3NE9Bcm9kcmk4a2tEQy1Dd3hqb2J1bUl3R21sYTFjQ2NKdklycTB4T2dpUzRhaDU1V3p4dmRpR05uUlg?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "ee0924cfc513",
+   "date": "2026-11-12",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Alphabet ออกพันธบัตร $3.8 billion ในสกุล Hong Kong และ Singapore เป็นครั้งแรก",
+   "title": "Alphabet raises $3.8 billion in first Hong Kong, Singapore dollar bonds",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSkZJZGdvOEZWNkZuZ3pSWXU4QUktR01VVWpXc1I3OWtjQnFYaEtRMHVjdUJCblRxdDh2Wm0tbmJQN0gtWVN6b3dnVFlMVGM1Qk8ydHgtb0tndU5xblJGOTVxRWFFYjdjdDJIQkcwckZqMnNDUkZlNE56dzVGd0dMMVFaZUMydjZPaTVkcmRGQU1sZXlscUx0UkRINlpVZk9QYXFiZElNSlc1cG5JTHYwTVplbzM5b0FLOHZLelZZWnlxcGpEdEstNi0zSFprUQ?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "11e5ce2a96d7",
+   "date": "2026-11-12",
+   "tickers": [
+    "AMD",
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "competitive_advantage",
+   "reason": "AMD ได้รับการปรับระดับขึ้นจากการวิเคราะห์เนื่องจากช่องว่างนำของ Nvidia",
+   "title": "AMD upgraded because it will benefit from Nvidia's 'leadership vacuum'",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbVhXYllGX18xWDVaQV84dXBzeDRMYU9XRFJhYXpHa3Y1blVUVnZkTUlTZ2Z3dlk3ZDhXaHZJX3VLaXQ3bGtlOG43cWRjR2F3WVVxaE9nMUpZTlhvNl9TTl94TVBSMFJ2c3ZoQjU2MHhtOC1aMVZxeXlkdjYzbjh6aDNnaUlydDJlMk9HdnNBNGVNVUppU3J6cmRWVndKNkZVWEdtN1dLZw?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "9efc7a0cc3e1",
+   "date": "2026-11-12",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "other",
+   "reason": "Amazon กำลังสร้าง satellite network 400 ไมล์สูงเพื่อให้บริการ internet connectivity",
+   "title": "How Amazon is building an internet network 400 miles above Earth",
+   "source": "Amazon News",
+   "link": "https://www.aboutamazon.com/stories/how-amazon-leo-satellite-internet-works?utm_source=rss",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "988b77949a27",
+   "date": "2026-11-12",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "GeForce NOW เพิ่ม Warhammer 40,000 Dawn of War IV ให้บริการ cloud gaming",
+   "title": "A New Dawn in the Cloud: ‘Warhammer 40,000: Dawn of War IV’ Is Coming to GeForce NOW",
+   "source": "NVIDIA Newsroom",
+   "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-warhammer-dawn-of-war-iv-coming/",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "15fdbb91cc74",
+   "date": "2026-11-12",
+   "tickers": [
+    "META"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Meta เข้าข่ายการซื้อขายระยะยาวเพื่อต่างแบบ clean manufacturing ใน data center",
+   "title": "Meta’s New Agreements Bring Clean Manufacturing to Data Center Supply Chains",
+   "source": "Meta Newsroom",
+   "link": "https://about.fb.com/news/2026/11/meta-new-agreements-clean-manufacturing-data-center-supply-chains/",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "e184ba778f03",
+   "date": "2026-11-12",
+   "tickers": [
+    "RYCEY"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Rolls-Royce ขยาย Trent engine backlog จากคำสั่งชื้อใหม่",
+   "title": "Rolls-Royce extends Trent engine backlog with latest order flurry",
+   "source": "FlightGlobal",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeDRCaklBR0N4dmJqZU43V2lQTTR0TkM5Vm5KbzU3aXUtdGZWNVFjaUtGTzlmci1zUUhmZW9GRDZfUmM5ektOY2JMY3V5N0hBV29ZZzlmNnREYzhsLVhCdWdrQUFsT1hBVExRaTI3bEl4MFdibm8wb3JlbExReVdNWGhNWGRCNlhZWnk3NXBpZWxSeTZjX0d4TEdseUNXR2lGbklPRFVxanB1ZEpSVzA4R0Q0RQ?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "5aabb31fb351",
+   "date": "2026-11-12",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "regulation",
+   "reason": "DOJ สอบสวน Alice Huang ผู้หญิงที่สงสัยว่าเป็นสายลับจีนเกี่ยวกับการลักลอบส่ง Super Micro products",
+   "title": "US Probes If Alice Huang Helped Smuggle Super Micro Products",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-12/us-probing-if-alice-huang-helped-smuggle-super-micro-products",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "32243a5f4145",
+   "date": "2026-11-12",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Google และ Samsung จะปล่อยตัวอ่านหน้าจอ AI ในเดือนธันวาคม",
+   "title": "Google and Samsung to Release AI Smart Glasses in December",
+   "source": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVksxWWMteVJxMEtIa0tBcjdZUXY0MGlvbGlNQWZVMGtESVliVFlwODlpWUJESHNLYmlMOFpvV3lEeVNoREdheHpDS3JQUjVqWkNYT0I2RzRrS1I5ckY3MGJqWXRrc2dEVEZhUEFxVXpxRzBvVE5ONEZhZldCbndjY1d0LVFPaEpqaGRWQmFET3lJRWlmZ1ZNQk01RFpGLWZsX0I5eDhTTm5CTWRqQXpoZ29EWFZPMURyMVFFSi1Uc3ZCT2hXeDdr?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "b41f09845b83",
+   "date": "2026-11-12",
+   "tickers": [
+    "CRM"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Salesforce สนับสนุน Quantum startup Q-Ctrl ในการระดมทุน $290 million",
+   "title": "Kushner’s Affinity, Salesforce Back Quantum Startup Q-Ctrl in $290 Million Round",
+   "source": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUkV2TktqcE9sT1hkSVFMZWFVT1M0UVlQVktvdlY1aFdNYmc1VWg5QkpJQ2ZhMFBRXzB6LWNyR1RZN1RaWU9oRHljTTRsc1hSa2NBR09TYkxJUFprTVM1MWpvVW9Db05GV3hOcmd0RWVvUWREeTBPU1RsWVlHNHdLR1ZaV2VlUEloUjFZTXpKSGJDWVRTSFRSSzAtLUMzMUkwMDlWVEtSTlhHNUFSbUhNSFVuOXAzeVI0VWR4ZENFdEN5VjktYnpxVQ?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "bb1551fb664b",
+   "date": "2026-11-12",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "regulation",
+   "reason": "Singapore ห้าม Alice Huang จากการให้ข้อมูลอันไม่ถูกต้องแก่ตำรวจเกี่ยวกับการส่งออก chip",
+   "title": "Singapore barred Alice Huang for giving police ‘inaccurate information’",
+   "source": "Financial Times",
+   "link": "https://www.ft.com/content/fa23a8ad-29bf-4971-aa44-6b25b247c193?syn-25a6b1a6=1",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "30e69bed58d9",
+   "date": "2026-11-12",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "negative",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Ukraine เตือนถึงการเสียสละ Starlink restrictions หลังจาก US envoys มาถึง Moscow",
+   "title": "Ukraine says Starlink restrictions are back as US envoys land in Moscow",
+   "source": "Financial Times",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOU09mSERWUm1WZGpiZXh0ZXVxbmVSdEVucDY0UmhBZUFvMENEbmVzM2VVNmlCZkZ1SGNEaDZYaGw3S1hUZ2FpUXEzZ2Q1UDFtRnhLamJ6U2VNRWVWS2JsT1lYNVFGa1JuU2l1VzMyQ2NfWWFZaF8xU2swVjg1X2tDT2NYY0I?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "3edf6cadfa75",
+   "date": "2026-11-12",
+   "tickers": [
+    "NOW"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "ServiceNow รายงาน Q1 2026 earnings call transcript",
+   "title": "ServiceNow (NOW) Q1 2026 Earnings Call Transcript",
+   "source": "Fortune",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56ZTI2YkhwWlBxY2dHbVRzelhPcENBeDQ1WDJhUFRVS3NwX2lyQk9kYkdWUWxmaDluZGtGX3hrcTJDbHl3TlhRY1Q3NS1ZVXlRN1A3QjFCZzlkMVJMc2IxQlFKbWtFNFE?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "e3b31b49ab3b",
+   "date": "2026-11-12",
+   "tickers": [
+    "RYCEY"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "revenue",
+   "reason": "Rolls-Royce รายงาน engine flying hours สูงขึ้นแม้จะมี Gulf tensions",
+   "title": "Rolls-Royce Reports Higher Engine Flying Hours Despite Gulf Tensions",
+   "source": "Aviation Week",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNzdwcEptMFB0T3owVFdCVWFWLVVFSHVvcGZsUm5Pc2VGeS1NQncyUXBMcWpveUEwT2F6bmNVN1U4Y1N5U1VETlU4S1hGX1F0bHNqeVFITC12QlluaE1YX0xMYVFlWnpaazRaa2g0WlUwalBWV3FJNFlVSmxpa3VhRkx0T1VSMGlXblFmSGp5dGZrdHUxWWlteTBmX0I1ckFZcmROZ3pGakZKNVhQVnc0dEFLUTFGbDJ0T0E?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "c48bb690516f",
+   "date": "2026-11-12",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Amazon สร้างระบบ AI agents ที่เขียน AWS Emulator code ตัวอย่างการใช้ autonomous AI",
+   "title": "How we built the agents that built AWS Emulator",
+   "source": "Amazon News",
+   "link": "https://www.aboutamazon.com/news/aws/how-autonomous-ai-agents-built-aws-emulator?utm_source=rss",
+   "paywall": false,
    "categories": [
     "watchlist"
    ],
@@ -971,6 +1624,44 @@
    "categories": [
     "watchlist",
     "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "3de74140bfb5",
+   "date": "2026-11-11",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "SpaceX ศึกษาตัวเลือกเพื่อเชื่อม commercial และ military satellite networks",
+   "title": "SpaceX to study options to bridge commercial and military satellite networks",
+   "source": "SpaceNews",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOENYaFdJeVRLd0ROLWtDdEFEeHZ0cTFfc1RFSExwazdCQ24wR3pnN3V0TFIyT1R0M1FkaXVMdWhVcjhGSmxxdDBGekZmejFkUVAyN3VLT2RVNUVNdXZKSXBMeDJEWHlacGp4eGplQUMwRXlReENjY0o4YmhpX08tU1g2NGgzR0RJRzZaNzVXdDg2OFhTcnNWeDNGN2N5MUN3?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "665b6e82277e",
+   "date": "2026-11-11",
+   "tickers": [
+    "META"
+   ],
+   "direction": "negative",
+   "importance": "low",
+   "impact_area": "regulation",
+   "reason": "Brazil electoral court ปรับ Meta แต่ไม่เห็นความเจตนาในการหลีกเลี่ยง election bias",
+   "title": "Brazil electoral court fines Meta, sees no deliberate election bias",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLWlqWlVLM3AwUmhNN3gwV3FfNVlFTGZuelVaT0JWNVVGazJfRDFQeUZlOFlzMDRzQkVaTFB0T1h5d3VMX1czc1RlMmVSSzhVaHlZLWdBX3M4eUxjX0hVUThEVWNBdFRCd0N0QUhvd05wT21hVEotTTloY1RLd1Y4Tkh5Y2NXd0NPbTR5SmF1NzJwM1YwSkJNLVI1b2YyY0NVTU5IaUxZV242VUU5V3ZfRnJzZ2wxYUtmemE0?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
    ],
    "model": "claude-haiku-4-5"
   },
