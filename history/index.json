@@ -1,11 +1,184 @@
 {
- "generated": "2026-11-13T04:05:36Z",
+ "generated": "2026-11-14T04:02:56Z",
  "months": [
   "2026-09",
   "2026-10",
   "2026-11"
  ],
  "items": [
+  {
+   "id": "616adb2f0331",
+   "date": "2026-11-14",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "Huang exit threatens $3B Chinese AI projects reliant on Nvidia chips, risking major revenue stream.",
+   "title": "EXCLUSIVE: Huang exit and US scrutiny imperil $3 billion in Chinese AI projects reliant on Nvidia",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcGIzcVZhWDU2cVlTWlhGZFZUMGlCcldoTU4wc2Z2UUpqUzJiNWp3Sy1kTVFQTnRKbHVnY2cwWHh0WEx3YkV5ZVMxOUFnMmVIc0kzaHdHc0NEVm9NS3hsVTdfTHR1ZWR4OTc2NUNpXzUteWZvblRYcEFVRDBIVTQyanVZTGdDYVFTaDJLTWFYdWNmSzBtU09Dd1RZVkhLUjB0WkR2Rm0tVTZnXzctWTREMXF3QjhZNTUxMHhDWjJZMHc?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "2fdf3669c996",
+   "date": "2026-11-14",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "negative",
+   "importance": "low",
+   "impact_area": "revenue",
+   "reason": "Russia strikes Kyiv hospital as SpaceX Starlink system disrupts again, impacting service reliability.",
+   "title": "Russia strikes hospital in central Kyiv after SpaceX system falters again",
+   "source": "The Guardian",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcHZrWDRYUnNtd29ldUdSRnVFSjNDaEk5VnNwZk5DSXRrVVJkMnBqYmVEbjNvMGpSemRSV01FWDg5bHdoVjE3dS13TUhPVlhzTWN2RGYtajVONm4xRmYzYjYxMjNsNnFCblpZSUxldk5BQXgzMUpxOGdYeVZOR0VzdWJMM0VvazN3eGhnclQxbkVHWGp5cGhDM2xqaVBwX1B5NlN2YlZsTkZNUE9PWll2OFAyaw?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "a6032f928767",
+   "date": "2026-11-14",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Amazon plans to index world's online shopping data, building competitive moat against AI shopping agents.",
+   "title": "Amazon has a plan to index the world’s online shopping data",
+   "source": "The Verge",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yYlZ2ejBFY0JLNXZZaHBITFV0SjNINjBWQ0k4UEdScjVYQ0hrZEFyZXZ2bnZvOFdwYnVDczlRMEY0V3lEOXI5YTNvSnN1S3Q2ZHpfMF9GdS1ZdE1JbW9tdkVlcWRNS3JlemVyenZYNjJnYnBKVVJYQmFSb2ZPSzQ?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "2dc292c588ca",
+   "date": "2026-11-14",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "revenue",
+   "reason": "Amazon launches Kindle Colorsoft premium e-reader product at higher price point.",
+   "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
+   "source": "TechCrunch",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYjRfY0E0Q2VJSE9YeVdSWjhJOGlWa0lSTXhiZzFUYmo0OW9qNFVQOWVwNUl4RTBNVGRmR1BDcEh5RDZoR21PeGJQanZWQWJzYlhsTnd1cHRoZGdVRGQ1VnFoYWtQT3VVTEVXMGdPOXgwZ1gtT2pUQTJuRm83Vks4b3hETDhLQVl2d1BOUVRzazR5bllabnVFWWJrTERJaTNRTjJFZ3NlbFdoQQ?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "df53bae30b49",
+   "date": "2026-11-14",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "negative",
+   "importance": "low",
+   "impact_area": "regulation",
+   "reason": "Democrats ask Musk to preserve Starlink documents related to Ukraine military access.",
+   "title": "Democrats Ask Musk to Preserve Documents on Starlink in Ukraine",
+   "source": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVGs1elRtd3lKNHhsNUt4cW5BUEYxR0xhejN2Zmo2aUN6RGl5RnBlSDRIMmV5OWZvWGpPS1RsbXNndTMyaHNHRHVIemdsUE5HalVaUWdaVWFrWWxIMUlrTG9sWDNPWUFzanRsbWUyUmFtVkU5UUh0anJXSVBQbmRqMkZUY0x4MkhKQWdncVdsWS1ZVjlsM0g2MkFreHd0ZE1RQUJIQ2NHeUhsYmozem9BblVxd18?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "af0b7b2ff5bb",
+   "date": "2026-11-14",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "management",
+   "reason": "Amazon forced into first North American union contract in Canada after arbitration ruling.",
+   "title": "Amazon’s First North American Union Contract Imposed in Canada",
+   "source": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWUlsemhEMEVXdkMyaWhIUzlsaUJOc1JUNzhicHFGbktsdnJVb0RxekREbWNpaDlhUGxzTDFfdnBwYkpzR1Y2TC1NdGxYaU5Jdk83N0hQZVhGaDFNdE00VkYyTTVheXJXS2ZQclFZNjRQUEtrdG1KQzV0OHZ5SUppNk1ZZHA1YllBNVdoQlMwdFJ6bUtCb3I1MVJxelNEYUpGSjdNdUx0NzZaQnR5dWZ6ZzNNbw?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "727e474ff31e",
+   "date": "2026-11-14",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "unclear",
+   "importance": "low",
+   "impact_area": "revenue",
+   "reason": "Anthropic IPO buyers have more price influence than SpaceX in recent valuation market dynamics.",
+   "title": "Anthropic IPO Buyers Have More Influence on Price Than SpaceX",
+   "source": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaFNnalJQbXd0ajBKQzVHZFZuQlpzdktSNlN6MGZiNXlFaGZaOHVPbXlVYURmaVZkeE9xaTJPaFFjREdMVGJhMFZsU1pmeGpXUkpTcy1yVlFkN3MtbkhmWW5HQ2JtOXp2RlZXVUkxcF9lemc1eVlyNmJFMFlUUlg0WS1mVGJ5czVpcmQzbkswcjZ3b2Zha3dJNDNKOXJqeXVTQlJQbHdYQVNJdS01YnhkS3p3?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "9654bb86fdd5",
+   "date": "2026-11-14",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Amazon revives data-centre deal with Fermi as anchor tenant after failed prior negotiations.",
+   "title": "Amazon revives deal with troubled data centre venture backed by Rick Perry",
+   "source": "Financial Times",
+   "link": "https://www.ft.com/content/692fbfe8-da52-42c0-b436-9c4aff21fbdb?syn-25a6b1a6=1",
+   "paywall": true,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "e8df4e152146",
+   "date": "2026-11-14",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "unclear",
+   "importance": "medium",
+   "impact_area": "management",
+   "reason": "Arm CEO Rene Haas sounded out as potential Nvidia CEO successor after Huang resignation.",
+   "title": "Arm boss Rene Haas approached in Nvidia CEO search",
+   "source": "Financial Times",
+   "link": "https://www.ft.com/content/2a64f698-46dd-4178-a3f4-4c5f4c0a0926?syn-25a6b1a6=1",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
   {
    "id": "198374bbf603",
    "date": "2026-11-13",
@@ -313,6 +486,160 @@
    "paywall": true,
    "categories": [
     "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "aa5c251e808f",
+   "date": "2026-11-13",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "SpaceX launches 15th Starship flight aiming for first full round-trip vehicle recovery success.",
+   "title": "SpaceX launches 15th Starship flight with hopes of achieving first round trip",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeDE0b0ZmNTF1ZVVBMS03RlA4TDhPZVNVbUEyTG5Gb1ZFRHdnc0QtdmM1X2ZjZFQwSVBBVVRWamRTVzh0NUp1N2lKOTJDbDE3U2xob3JtLTZkb211NHR2QkZ5RnczcERVQV8zcmtVbWttdS1sMGViMmYwZnBmWDlCMkkyRVdmQVlSVmZQWTVuWGlPSTNZNFU5SExWUW1LRkNIUFhYSi1iZzRTa1BjbFQw?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "products"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "9de415849262",
+   "date": "2026-11-13",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "unclear",
+   "importance": "low",
+   "impact_area": "competitive_advantage",
+   "reason": "South Korea reaffirms Nvidia will maintain GPU supply commitments despite CEO transition.",
+   "title": "South Korea says Nvidia will keep GPU pledges after Huang's resignation",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQM2dkY0l2QVQ3TnJ2X1RqSkV6Mml6dTJXcWpkUmpGWGxSclBNeUs4SUZGeV8xRlJDWGJ5VExHOXpHUGdjRXYwRGQ2a2J6Zzh0WGZpMkFfRkF0ZTRQdVR1LTlwYkl1U0FwUllsODlPUGo4Ull0czA3aHNnRkdfZGJ3R2pSUlBWUi0wblJtcGpDdmsxTTVTTTliZmw1QXZaWUN6VFRXWExkc2RLZlZHUVlPcHhCXzBMT3A3LUluR1dmSVp1bTQ?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "9a72799aae1a",
+   "date": "2026-11-13",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "management",
+   "reason": "Nvidia CEO Jensen Huang resigns over affairs; CFO Colette Kress becomes interim head.",
+   "title": "Jensen Huang resigns as Nvidia chief executive",
+   "source": "Financial Times",
+   "link": "https://www.ft.com/content/b4a0f3d9-f075-47ea-9a85-77cdade9a06f?syn-25a6b1a6=1",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "faf382b24aec",
+   "date": "2026-11-13",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "unclear",
+   "importance": "low",
+   "impact_area": "revenue",
+   "reason": "SpaceX and Tesla advance merger talks toward potentially record-breaking combined deal.",
+   "title": "SpaceX and Tesla advance merger talks toward potentially record-breaking deal: Report",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMk1fY2oyc29IUmROTkNsUU5ocHItTnBObXZ3dkZKVE0yRmZEcW1sZF9FQUs0bGZUNUVPdnZ1OEI5UzAxSHVia0s2TUZuV3RLcnBWX3hnQkZ6dFQ5QmRwMXo2VkJRNEpweXFjdmxPaGhEZ1o4WHlEQm9veFRhTy02TlNFeEtsbDV6dGloV01SaUZ6dlVCaEU0bExKZ3R1UElNTUo4cU9uTUZSeHNkNGxHb0Q1OVNBZldzMjNQeDBCcURGa052LVE?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "7c8f9bad56e0",
+   "date": "2026-11-13",
+   "tickers": [
+    "MACRO"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "macro",
+   "reason": "Federal Reserve announces 2027 FOMC schedule with non-voting October meeting.",
+   "title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
+   "source": "Federal Reserve",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
+   "paywall": false,
+   "categories": [
+    "fed"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "dcb43bafb84d",
+   "date": "2026-11-13",
+   "tickers": [
+    "XAUUSD"
+   ],
+   "direction": "negative",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "India October trade deficit hits one-year high at $39.88B as gold imports surge.",
+   "title": "India's October trade deficit hits one-year high of $39.88 billion as gold imports jump",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVC1qbUMzMG9XdFpsRGZQQzNVa3d1R2hfem5KQUplcU1DZWd4amxfa0Z0cTQ0QkU2SkkybmlacTlaNFlNSlB0UkJ6OWJZTUxzZ19lbDlZcmt2RHFMeUF3UjhvRHpFWnVwYzU0RkN1WF9MWFFuOThuMHJUaTdPdDh4VWtQMm9pVEZDZFdjcmVicDZzVDlhSzdHUTBsNWF4VkV2Y1FtRlAyT0tYZmhCdWFyUERaQy1JNDJuVU0tSw?oc=5",
+   "paywall": false,
+   "categories": [
+    "crypto_gold"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "e283f1c40dc9",
+   "date": "2026-11-13",
+   "tickers": [
+    "XAUUSD"
+   ],
+   "direction": "negative",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Gold edges higher; investors assess market implications from Nvidia CEO's exit.",
+   "title": "TSX futures muted as gold edges higher; investors assess Nvidia CEO's exit",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUUtBRjRBRE95bmxqb2lFamE4czV4SXowbGlyc21HWlV1XzlmWl85cGJ6RzJGQm9HbmZtZjM3UTd0b25WaHZ5WlZYb3AxX0IzRk5LbUZzbkZoQjFvUWZpak9XNlVZUWQ2enpXemN6LUVicEljbEFnU2NRWUpXNnpPX2oyNVc3SXN6ZWRhV1RoRTQ5d3lzWXR4MjE1bzNCZF81S0FQdllKSXlBaUcyVXBsTmpJYjZmMjhYNlBNdw?oc=5",
+   "paywall": false,
+   "categories": [
+    "crypto_gold"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "5119731e1390",
+   "date": "2026-11-13",
+   "tickers": [
+    "XAUUSD"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "other",
+   "reason": "Rate-hike bets keep gold on track for worst week in four months as yields rise.",
+   "title": "Rate-hike bets keep gold on track for worst week in four months",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONmtMVVBHZGEyX3I4eWRfOFQwaW8zUHZDNXg1N0UxbW9jX1lhdmpuRkpZZ2hDZUEyNzZCTktodzFxUEt3NWJtN0JkU2NUa1VRLUJwVGR1bjVDR0Npak1lbk9xLXhOVmI3Y1BMRGkwTXBRb3lNVE1wMFdFb1JQWXBucV9tbF8tclNrRm1FTTNhVnpjSTlfVndYbVdqaw?oc=5",
+   "paywall": false,
+   "categories": [
+    "crypto_gold"
    ],
    "model": "claude-haiku-4-5"
   },
@@ -847,6 +1174,26 @@
    "paywall": false,
    "categories": [
     "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "48980e1c2f68",
+   "date": "2026-11-12",
+   "tickers": [
+    "XAUUSD"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "other",
+   "reason": "Gold drops to one-year low; Middle East peace hopes fade amid inflation fears.",
+   "title": "Gold drops to over one-year low as fading Middle East peace hopes fan inflation fears",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc09mRGRCVmlxTnVTdDR2Y0ktNjVkZE1xUHhyTnZWUGZvbFZFS2hsTFk1SkVfNE82SVZlMTFXbUFtckZMaDIwbzA5RlgxWUxKbE5ZMGhrRkl1UWFrVG9ibW9mdWlGM0NYRTVlQnZramhHSTVadmtEaFhWMDRFY1dYVWRPX1RzNm9YNURTVUVzeGo2aEo4UzZReXRCVlQ0amhjVGFWTU1BVFVQR1k?oc=5",
+   "paywall": false,
+   "categories": [
+    "fed",
+    "crypto_gold"
    ],
    "model": "claude-haiku-4-5"
   },
