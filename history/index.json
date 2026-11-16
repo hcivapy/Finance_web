@@ -1,11 +1,125 @@
 {
- "generated": "2026-11-15T03:48:52Z",
+ "generated": "2026-11-16T03:49:21Z",
  "months": [
   "2026-09",
   "2026-10",
   "2026-11"
  ],
  "items": [
+  {
+   "id": "e5f13461af16",
+   "date": "2026-11-16",
+   "tickers": [
+    "6758"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Sony ลดการคาดการณ์ยอดขายเนื่องจากขาดแคลน PS5 ส่งผลต่อรายได้ในระยะยาว",
+   "title": "Sony raises outlook, but battles PS5 shortage",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA1Y0lBbVJvc2lLMmttN0ttZEV4Q0t6T3JmT0dxcjBXYXZaamFBdlk4U2J6ZlhxbFh6VmhlZDk0Rl9tV0RqMmI3ZE9rWGxKY19xbl9kSERBYVZoUEdS?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "0265bf496c60",
+   "date": "2026-11-16",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "other",
+   "reason": "Vulcan rocket ของ Boeing-Lockheed ล้มเหลวและทำให้ดาวเทียม Project Leo ของ Amazon สูญหาย",
+   "title": "Rocket from Boeing-Lockheed firm fails mid-flight, destroys payload of Amazon satellites",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRENJR2FvRjB1WmJfWk56alNqNHBwRHExSk0tdU91LV9wSUMzVm9PZEtRdHc0Y1JaMW44OVBJc3puTENpMXNBY3VmSVNjSTZIazlYRGh4aUxVaW9GdXNBamZla29sRzJnajdMdU1yQU9xekdPcUwyRXdaRzF4TXhiZXV6RDZIN21yVS15bGpNVUJFZUpnWU1ZTFJqbm94OXhjamR3SXFRV3F0YWZWSnA5ei1Gd2o4UW1PSnlrTnFtMENUb2V1VjVDc09XSFJNN0JaWXc?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "664aa376b5e3",
+   "date": "2026-11-16",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "regulation",
+   "reason": "Nvidia ได้รับคำสั่งอธิบายเรื่องจัดส่ง chip AI มูลค่า 12 พันล้านดอลลาร์ให้จีน",
+   "title": "Nvidia ordered to explain $12bn supply of AI chips to China",
+   "source": "The Times",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUW01Z3lLam43aV93VTlvUjE0QWR6YzhNLU9LekIwWGFPNXl6dDhjYUFkcm40R2E5UjBPeFh5azVBTTRIc1NNTlR0Z3czTzRwZWxlUmVPSFB0R1BnS3hkM2M0M0UyVThid1ZCaWhBUTRxMHlmUWlyVzBtUGpZLVFzZFFOUV9KLVV4TmZJeG9keHU5Nk5UUGxCei1LTEVBYXI5QmxVd3Q0Z09LU2JhSzl5M3JjdzBreWM?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "d1bfb362c880",
+   "date": "2026-11-15",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "unclear",
+   "importance": "high",
+   "impact_area": "regulation",
+   "reason": "Jensen Huang ตกลงให้การสักขีสัพย์ต่อสภา คณะกรรมการตรวจสอบข้อหาการลักลอบขายชิปให้จีน",
+   "title": "House Chairman Says Huang Agrees to Testify But No Date Set Yet",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-15/house-chairman-says-huang-agrees-to-testify-but-no-date-set-yet",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "6c4a0ab3ac06",
+   "date": "2026-11-15",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "regulation",
+   "reason": "Nvidia ขอความช่วยเหลือจากไต้หวันในคดีลักลอบขายชิป AI ให้จีนของพนักงาน",
+   "title": "Nvidia Sought Taipei’s Help Over Employee’s Chip Smuggling Case",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-15/nvidia-sought-taipei-s-help-over-employee-s-chip-smuggling-case",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "912bffd96e01",
+   "date": "2026-11-15",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "regulation",
+   "reason": "Congress เสนอกฎหมายคุมเข้มกว่า export AI chip เพื่อป้องกันการไปจีน",
+   "title": "Congress moves to pass tighter AI chip export rules following Nvidia scandal",
+   "source": "Financial Times",
+   "link": "https://www.ft.com/content/3062790a-553d-41b8-9c7d-bae17b9d2e29?syn-25a6b1a6=1",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
   {
    "id": "616adb2f0331",
    "date": "2026-11-14",
@@ -174,6 +288,25 @@
    "source": "Financial Times",
    "link": "https://www.ft.com/content/2a64f698-46dd-4178-a3f4-4c5f4c0a0926?syn-25a6b1a6=1",
    "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "bcbb56ece6b2",
+   "date": "2026-11-14",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "competitive_advantage",
+   "reason": "SpaceX Starship สำเร็จการจับกลับมาจากอวกาศ พิสูจน์ความสามารถที่สำคัญ",
+   "title": "SpaceX's Starship aces first return to Texas",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9TNmNONTltMk9BVzQxdlNsU1psZWxXY0hwbGwyZWM1eWZJS1BFZ09sLUlySDg5THVMbkZIOFNkZXdhSlV1Z3hCVnhhVHVxUGxfckRoS2NmNHdQZVZkejlkNzBXRUlHQlk?oc=5",
+   "paywall": false,
    "categories": [
     "watchlist"
    ],
