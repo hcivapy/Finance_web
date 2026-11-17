@@ -2,6 +2,259 @@
  "month": "2026-11",
  "items": [
   {
+   "id": "1bc02047eae0",
+   "date": "2026-11-17",
+   "tickers": [
+    "MSFT"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "other",
+   "reason": "MIT ฟ้องร้อง Microsoft สำหรับละเมิดสิทธิบัตรเทคโนโลยี data center ที่อาจส่งผลต่อต้นทุนการดำเนิน",
+   "title": "MIT sues Microsoft for patent infringement over data center technology",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcDlaeXZ2cmhNSC1IbzBMQnNUQWhNb3k4cEQ0Zk5zNktHRG9CZnhpOFowNTBKTHNLY2J2S3pKZmRxZVBvbjE1UE41b0wwYy1XSkI5OU1YbHotRFZwcDdSZHp4cXZfWEYzaWVHMU0tN1dIZXItNEFtOTd5MHJGY2tsT2xNbXBYNThfcjUyN2VkRmo1ZEZyVTBUM1c2R1h5ZDFCTzQ1Rms1X1BVNGJRbVVLM194dERiOG1RWUtV?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "7c5dd26be479",
+   "date": "2026-11-17",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "negative",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Amazon ต่อต้านสัญญาแรกของสหภาพแรงงาน North American ที่โรงสต็อก Canada",
+   "title": "Amazon vows to fight the company's first North American union contract at a Canadian warehouse",
+   "source": "AP News",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNXdITnU2RmZGXzFuMDh5UkpGVVM5Nm5QdjNYdlF3Vzk1dWtySF83ZlNTbnhTcllwZkVVT0x0dVp0XzU4U0daYkxiQnVUckFmTlB3a3J2SDVJcGhsd0EwM0xoZWZpZFZFX0JyR1VVYlM0eXp1QlE4ZWFleGZkY0dQMHl1bGQybXRJbWR4N1JZcXA?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "4c2c924e739a",
+   "date": "2026-11-17",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "regulation",
+   "reason": "สหรัฐฯ เปิดอพยพสำหรับ remote access ของ Nvidia AI chips ไปยังจีน ระงับ export ที่เข้มงวดยิ่งขึ้น",
+   "title": "Nvidia fallout: Commerce targets loophole for China's data center use",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/16/nvidia-commerce-china-lutnick.html",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "e57fc73d6ac8",
+   "date": "2026-11-17",
+   "tickers": [
+    "MSFT"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "other",
+   "reason": "Microsoft ระบุ bug เก่าตั้งแต่ กรกฎาคม เป็นสาเหตุหลักของ global outage ที่มีผลกระทบกว้างขวาง",
+   "title": "Microsoft identifies months-old bug as a root cause of global outage",
+   "source": "The Guardian",
+   "link": "https://www.theguardian.com/technology/2026/nov/16/microsoft-global-outage-cause",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "f410d3078f60",
+   "date": "2026-11-17",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Nvidia แนะนำ DGX Spark Developer Kit สำหรับนักวิจัยและนักพัฒนา สะท้อนการขยายพอร์ต developer",
+   "title": "NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab",
+   "source": "NVIDIA Newsroom",
+   "link": "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "products"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "80386cae842a",
+   "date": "2026-11-17",
+   "tickers": [
+    "AMZN",
+    "META"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "revenue",
+   "reason": "Instagram อนุญาตให้ creators เพิ่มลิงก์ Amazon affiliate ใน reels และ feed เพื่อสร้างรายได้",
+   "title": "Instagram now lets creators add Amazon affiliate links in reels and feed posts",
+   "source": "TechCrunch",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdTVOclVuSGVlNmo0MWkySFBIcndtbFFEbGVDaUxadDBOWG01V2V6M3hkaFBKSlowOFpzQlJDUVZhYnlPMkJHaDNObXc0b25NWVg1VFhSRXVRZkhyREF0TXMwZ1lxVHdRenhqa3p5WTl2V05ydHNQWTl2NTIyVThWSzdsd2R1WHBTWlRPOHNpRnRHU1B0NjgzRWYxMzZXak54Q2ppSzVxb0RzQmVRQzlaTVlJOA?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "86cdfe7c1f36",
+   "date": "2026-11-17",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "regulation",
+   "reason": "สหรัฐฯ เสนอข้อบัญญัติควบคุม remote access ของจีนถึง Nvidia AI chips ส่งผลต่อรายได้จีน",
+   "title": "US Moves to Curb China's Remote Access to Nvidia's AI Chips",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-17/the-asia-trade-11-17-2026-video",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "432fa4da2d5c",
+   "date": "2026-11-17",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "other",
+   "reason": "Amazon โครงการ $17 billion Ohio AI data centre ถูกขัดขวาง voter backlash ต่อ Big Tech expansion",
+   "title": "Amazon’s $17bn Ohio AI data centre bet threatened by voter backlash",
+   "source": "Financial Times",
+   "link": "https://www.ft.com/content/e95adad4-b428-477d-9716-92172bbd199f?syn-25a6b1a6=1",
+   "paywall": true,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "d0b97f1ba391",
+   "date": "2026-11-17",
+   "tickers": [
+    "XAUUSD"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "macro",
+   "reason": "ทองคำขึ้นแต่อยู่ใกล้ระดับต่ำ 1 ปี เนื่องจากความกังวล Fed rate hike bets",
+   "title": "Gold ticks up but lingers near more than one-year low on Fed hike bets",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVGd6c05RMXpCQzBvWjhLZlZ6cjc4OUZ0cjZaSWxzZk9leV9WbG1EVmhoVlJfTHZZRFkxZml4Rll3TXd6SGc0dmtiSHFsYkVQWThZdkpxb3dGQkhpSkgyVC1HQlV5WkZQaHU4N3B2b2RELWdDaGpZLWtmbHo2cllMNE9tN29pYnJGM1Z4eFJ6bmNQdHJFX0lNTHZtV0x4MlNhT284LThTc1hTY2xlcEEta0wwNjg?oc=5",
+   "paywall": false,
+   "categories": [
+    "fed",
+    "crypto_gold"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "77860e6e6f65",
+   "date": "2026-11-17",
+   "tickers": [
+    "XAUUSD"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "macro",
+   "reason": "ทองคำลดลงเหลือต่ำสุด 1 ปี เนื่องจาก Treasury yields และ dollar ที่แข็งแกร่ง ปีที่แย่สุดตั้งแต่ 2015",
+   "title": "Gold sinks to 1-year low as Treasury yields and dollar bite, set for worst year since 2015",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVkNEMWt0MEpVV2U4c0tCZEQ0N3FJRnBMWEFJRktVNVpBNGZ4RWFjVXA0TnR0VE8yam5OenZaaF9KWVhuc3RCQkZXWGlwb0pPRElEM0JoU0Rsb3BpX2ZTUjBLUG52SUM1V2RkcHRKLVdLR1ZmeXFISlplcTRQU0xJMzZHcFBFbUZPVWtYeGpqbWxKU1gtQjMxZXBMZU5rdldKOTRaWXpNSkZqd3MwajRHUzVvSVI2QTBOb1dJMGc3U3VzdTFP?oc=5",
+   "paywall": false,
+   "categories": [
+    "fed",
+    "crypto_gold"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "d8caf431c723",
+   "date": "2026-11-17",
+   "tickers": [
+    "XAUUSD"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "macro",
+   "reason": "ทองคำขึ้นจากระดับ 14 เดือน ขณะที่ dip buyers หักล้างความกังวล Fed rate hike",
+   "title": "Gold Rises From 14-Month Low as Dip Buyers Offset Rate-Hike Bets",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-16/gold-steadies-near-14-month-low-as-inflation-pressure-persists",
+   "paywall": true,
+   "categories": [
+    "fed",
+    "market"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "8adec5a7c246",
+   "date": "2026-11-17",
+   "tickers": [
+    "BTCUSD"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "macro",
+   "reason": "Bitcoin ETF flows กลับมาติดลบในปี 2026 สะท้อนลดลงจากความเป็นที่นิยม",
+   "title": "Crypto SWOT: Bitcoin ETF flows have turned negative in 2026",
+   "source": "Kitco",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNd1l6d29qY2F4UHJieThpbm15Y3g0cGhXSWpXLWN1WHpzOEUzenNhd1hDcHN1am5MYkhoal9LaTc2RDFNbzZ1UVZ4X3Q1bjUxNzZZVGFfMExuWHNTN2tSWmhPaDFpUnNGYTlfR1NnTnc4dWktUU13WllxbGdrTTZ1NjJraGhSVjJCR3FOQ0FTcXRRUHpRVFUzZzhIX2k?oc=5",
+   "paywall": false,
+   "categories": [
+    "crypto_gold"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "c7587eeb94b4",
+   "date": "2026-11-17",
+   "tickers": [
+    "BTCUSD"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "macro",
+   "reason": "Wells Fargo ถืองบ BlackRock bitcoin ETF เพิ่มเป็น $2.35 billion Q3 สะท้อนการ adoption สถาบัน",
+   "title": "Wells Fargo's reported BlackRock bitcoin ETF holdings double to $2.35 billion",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/markets/2026/11/17/wells-fargo-s-reported-blackrock-bitcoin-etf-holdings-double-to-usd2-35-billion",
+   "paywall": false,
+   "categories": [
+    "crypto_gold"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
    "id": "e5f13461af16",
    "date": "2026-11-16",
    "tickers": [
@@ -55,6 +308,430 @@
    "paywall": true,
    "categories": [
     "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "9ebc6d484964",
+   "date": "2026-11-16",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "management",
+   "reason": "Nvidia บอร์ดยืนยันไม่พิจารณาให้ Jensen Huang กลับมาเป็น CEO หลังจากความเสียหายต่อช่วงโครงสร้างบริหาร",
+   "title": "Nvidia rules out Huang comeback as campaign for his return grows",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWnJmVHNCR2NpOGp0dlZibjRKMHA2S0hJM21UQTlDUmpTdXJwekFtbWxwdGVEZDVSRm0tUjZyWHQ3dGZVSmdBQkdCMHgwS0E1MU1MczV4c0p1cjRZT2I0dFpvWEZQU3VDSXNPZ1hKZHhQenJ6RVNpbFhIUm5KeVFSdHgxNGx5U2dHd0hsanhrMW1vWEUybU9maXg0cUJNUlpzcnp6NG9LS25kcjllZ3REY0o3Z3R1blU?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "a017893640cd",
+   "date": "2026-11-16",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "other",
+   "reason": "ระบบ Vulcan rocket ล้มเหลวกลางการบิน ทำลายดาวเทียม Kuiper ของ Amazon ที่มูลค่ามหาศาล",
+   "title": "US rocket fails mid-flight, destroying cargo of Amazon satellites",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xak01MW5GbGtUR0dIX1JTMERPdm1IYjFKOWFPRElyMFRnbzZ0bEpndmx3ZTJ4bVFHQ1p2Q3pYS3NGc2gtLXpzSlFWUmZyRzZWNk5adUFJRG94UmRo?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "c50d3377fba0",
+   "date": "2026-11-16",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "regulation",
+   "reason": "สิงคโปร์และสหรัฐฯ เห็นพ้องตัวกลับมาพูดคุยเกี่ยวกับ Megaspeed ท่ามกลางการสอบสวนเกี่ยวกับ Nvidia scandal",
+   "title": "Singapore, US agree to keep discussing Megaspeed as scrutiny of Nvidia scandal widens",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPa0pxOWhsOERwTHZyU2JuUjFrSENFSkNUWnlLdFBvaEdkb2NKQkxVUmNOZXVHSS1qdkJobDF6ZzB4MzdESk5BZHhaY3ZlV0JVZWRfR1FrSUc2WGdWbTVJaTN2a1hjWnRXY25yZ2R2SFRBSEYyaklDUml5ekFrWnhIbEhCd3ZxVjh2am1oMXFkZG5QaFNOa1VUUWVtcEJZWjNLVllyUG53bmZXaldEaXRKT29CeXc0aWNPLWZxVQ?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "2ec2089c8ed2",
+   "date": "2026-11-16",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "regulation",
+   "reason": "ตำรวจอินโดนีเซีย บุกค้นหน่วยในประเทศของ Megaspeed (พันธมิตร Nvidia) ตามคำขอสหรัฐฯ",
+   "title": "Indonesian police raided Nvidia partner Megaspeed's local unit in early 2026 on US request, Straits Times reports",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOLU1GeHExbUdxcTVjVHhtNjNOUmhTNkRJTEZ5QlRRR1lsVGN6WkRmZ204VjZCVkN4Nm5JZ2tfV1loOHhRYU5JN2I5UGVyVDQyVkFpQ1JWQzlUSFlGYzlmREU3MG0yM2pGQkxxQ2JnTm9TdkVxQUw5SW5BMGJXR01RTnNaSFZYSVBlQVZDcXl2SXV6OWZhamYzRUYxc3pOTHN4WUZZdUdrQU1TVEdqTVRENkd0Nmx2SDkteURUQzcxamFoYmZQYmsyRXJB?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "b49103f3a131",
+   "date": "2026-11-16",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "competitive_advantage",
+   "reason": "การบริหารจัดการ Trump ตั้งชื่อ Nvidia เป็น AI 'national champion' เพื่อช่วยการแข่งขันต่างประเทศ",
+   "title": "Trump administration to name Nvidia, other AI firms as US 'national champions', WSJ reports",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbzFERGNkd2ZLODdReVZtV3pnNVdJT3RyNDdpbUZQRXZHUEgzbVYtZTBwelhfV1hRbVVfOGsxeDJURWd2bEJubFlFUjFXZC1HM2Z4U3l2TXVhTXR3OTFPZ2xUaDhOVlBDWF93dDE0V2lsOEI3bGFGWXlmbnVldjNCQkJKQlFNbDVfaWR6cGpJdktZWlJXcEdNQkZnWWsxSlZGX19tQTIxYW5NVWQxb2NQclEza1JHaHBma3lmaFNzQWRtQld0UkRwT01IZEY0eUk?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "075b804790e4",
+   "date": "2026-11-16",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "competitive_advantage",
+   "reason": "SpaceX Flight 15 ทำให้ Starship จับ upper stage เป็นครั้งแรก สะท้อนความก้าวหน้าเทคโนโลยีที่มีนัยสำคัญ",
+   "title": "SpaceX Flight 15 makes history as Starship lands upper stage for the first time",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSnM2NzlDZVVTWExxaW9KbzB4N0lIbzFKSDZXbFRwbEgxMjFHblNwaVdKemxfUWNWSmtzVFNYNkpXajJyRXNRbjNsQjZKb0paYW9IVUNmcjJ3TFd3U3U1eDkzTDlZLUFMWlhxbW5YUWNPQ1VzLVJuZ2psVGVnby1IMlpBU2hVTU9rdGtWelZRRjRJY0tEeDh5MWtMUDlhcHhqWlotLVROZTZlbzFrRjRpUFBNZ3NNZmlZN2ZpVjdybw?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "7feb7e00efb6",
+   "date": "2026-11-16",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "competitive_advantage",
+   "reason": "นักวิเคราะห์ชื่นชมการจับ Starship ของ SpaceX เนื่องจากสำคัญต่อการนำส่ง reusability และลดต้นทุน",
+   "title": "Analysts are awed by SpaceX's Starship catch. Here's why",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTVRqVW04b21FUlEzeV9nRGpldWVtcGJhUnFXNnFrNjQ5TU9DTjQyNnBpR1pOUWVhTmdjSEJGYlcwNUZTMkdzQl9rcTJaODdHRS0wV0g2bVNtV19MSHQxMEdVVF96WjVGOGQ0c1lCb2JOVW4zTTRRYjVFQ2N3MVBFVEZlUGJvcnNMazhTY2p4a1R3bE9KNGc?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "a5072ad53cd7",
+   "date": "2026-11-16",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "competitive_advantage",
+   "reason": "Lambda ปรับปรุง AI Factory resiliency ด้วย Nvidia Photonics ทำให้ GPU network เร็วและมีประสิทธิภาพขึ้น",
+   "title": "Lambda Boosts AI Factory Resiliency and Efficiency With NVIDIA Photonics",
+   "source": "NVIDIA Newsroom",
+   "link": "https://blogs.nvidia.com/blog/lambda-photonics/",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "c621d2b27a6d",
+   "date": "2026-11-16",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Nvidia ขยาย Slurm เพื่อนำ quantum computing เข้า supercomputing สะท้อนการบูรณาการสาขาใหม่",
+   "title": "NVIDIA Expands Slurm to Bring Quantum Computing Into Supercomputing",
+   "source": "NVIDIA Newsroom",
+   "link": "https://blogs.nvidia.com/blog/slurm-quantum-computing-supercomputing/",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "8d16eff26ee7",
+   "date": "2026-11-16",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "competitive_advantage",
+   "reason": "Nvidia Vera Rubin ชนะ MLPerf training benchmarks ครอบคลุม แสดงความเหนือกว่าในประสิทธิภาพ AI",
+   "title": "NVIDIA Sweeps MLPerf Training and Endpoints as Vera Rubin Debuts With Leading Performance",
+   "source": "NVIDIA Newsroom",
+   "link": "https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin/",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "products"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "a26ec0ea2fd9",
+   "date": "2026-11-16",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Nvidia ขยาย CUDA-X libraries รวม cuPhoton, cuPotential, cuSpa เพื่อเร่งวิจัยวิทยาศาสตร์",
+   "title": "NVIDIA CUDA-X Libraries Give Agents the Tools to Accelerate Scientific Discovery",
+   "source": "NVIDIA Newsroom",
+   "link": "https://blogs.nvidia.com/blog/cuda-x-libraries-agents-accelerate-scientific-discovery/",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "7eef8535529e",
+   "date": "2026-11-16",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "competitive_advantage",
+   "reason": "Nvidia ฉลองครบรอบ 20 ปีของ CUDA เนื่องจากการปรับปรุงพื้นฐาน GPU computing และ scientific research",
+   "title": "CUDA at 20: How the Platform Transformed Scientific Computing",
+   "source": "NVIDIA Newsroom",
+   "link": "https://blogs.nvidia.com/blog/20-years-cuda/",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "30c5d87a50d8",
+   "date": "2026-11-16",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Nvidia ประกาศ Rubin HPC GPU ใหม่สำหรับ agents ในวิทยาศาสตร์ วิศวกรรม และ analytics workflows",
+   "title": "NVIDIA Announces Rubin HPC — A New GPU to Accelerate Agents for Science, Engineering and Analytics",
+   "source": "NVIDIA Newsroom",
+   "link": "https://blogs.nvidia.com/blog/rubin-hpc/",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "c0e403521e63",
+   "date": "2026-11-16",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "other",
+   "reason": "Nvidia ประกาศความร่วมมือกับ IBM และ Fermi Lab เพื่อพัฒนา quantum-classical codesign platform",
+   "title": "NVIDIA Announces Collaboration With IBM and Fermi National Accelerator Laboratory to Launch Quantum-Classical Codesign Platform, Plus Error-Correction Breakthrough to Advance Practical Quantum Computing",
+   "source": "NVIDIA Newsroom",
+   "link": "https://nvidianews.nvidia.com/news/nvidia-announces-collaboration-with-ibm-and-fermi-national-accelerator-laboratory-to-launch-quantum-classical-codesign-platform-plus-error-correction-breakthrough-to-advance-practical-quantum-computing",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "products"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "8c95c631a8ab",
+   "date": "2026-11-16",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "competitive_advantage",
+   "reason": "Nvidia ขยาย Vera CPU platform ด้วย custom data center CPU แรกและ HPC networking มาตรฐาน",
+   "title": "NVIDIA Expands Vera CPU Platform to Accelerate Scientific Discovery",
+   "source": "NVIDIA Newsroom",
+   "link": "https://nvidianews.nvidia.com/news/nvidia-expands-vera-cpu-platform-to-accelerate-scientific-discovery",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "2b7ecf185748",
+   "date": "2026-11-16",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Nvidia นำเสนอ Nemotron for Science เพื่อเร่งการค้นพบด้วย agents เปิดชุดข้อมูล chemistry",
+   "title": "NVIDIA Introduces Nemotron for Science to Accelerate Discoveries With Agents",
+   "source": "NVIDIA Newsroom",
+   "link": "https://nvidianews.nvidia.com/news/nvidia-introduces-nemotron-for-science-to-accelerate-discoveries-with-agents",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "products"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "e0f67dc79ee1",
+   "date": "2026-11-16",
+   "tickers": [
+    "GOOG",
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "competitive_advantage",
+   "reason": "Google Cloud ตีพิมพ์ 10 ผลลัพธ์ MLPerf รวม Ironwood TPUs และ Nvidia Grace Blackwell GPUs",
+   "title": "New AI training performance benchmarks for Google TPUs",
+   "source": "Google Blog",
+   "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/training-performance-benchmarks-tpus/",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "19139cb1d000",
+   "date": "2026-11-16",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "revenue",
+   "reason": "DoorDash ใช้ AWS สอนหุ่นยนต์ delivery วิธีการเดินรถ แสดงใช้งาน enterprise cloud ใหม่",
+   "title": "How DoorDash is using AWS to teach a delivery robot the rules of the road",
+   "source": "Amazon News",
+   "link": "https://www.aboutamazon.com/stories/doordash-aws-autonomous-delivery-robot?utm_source=rss",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "18805c1f4b71",
+   "date": "2026-11-16",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "revenue",
+   "reason": "Amazon เปิดสถานี delivery แรกใน Puerto Rico ชี้ขยายโครงข่าย logistics ไป 2 วัน delivery",
+   "title": "Amazon opens its first delivery station in Puerto Rico, bringing faster shipping and new jobs",
+   "source": "Amazon News",
+   "link": "https://www.aboutamazon.com/news/company-news/amazon-puerto-rico-delivery-station-dorado?utm_source=rss",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "2e13b5ceb74a",
+   "date": "2026-11-16",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Blackstone REIT ซื้อสัดส่วนใหญ่ data center portfolio ของ Amazon มูลค่า $5 billion หมายถึงการเงินสำคัญ",
+   "title": "Blackstone REIT to Buy Amazon Data Centers in $5 Billion Deal",
+   "source": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONmdvREdrMXNHU3B6VVdldWdxVWswUnNjeXU4T2xGTlFfeDkyRzg0YkRweTdtZnhJNEZQcDRIMkR0NEw4Zk5QVzFfVllmMlI2OHFZeFRUMnVLRzIzSUY1U0RVSnZma2lZQjZORXIxSjZYck1fMExpMDVncXRka0dPby1tSW14SU40eDUtTnR2SmU2N0lNN243MkRlM01xQmpJeGtXT2wwelpPcXhET1lnQg?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "9c0724ed6421",
+   "date": "2026-11-16",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Blackstone Digital Infrastructure Trust ซื้อ majority stake data center portfolio Amazon มูลค่า $5 billion",
+   "title": "Blackstone Digital Infrastructure Trust to Acquire Data Center Portfolio from Amazon for $5 Billion",
+   "source": "WSJ",
+   "link": "https://www.wsj.com/business/deals/blackstone-digital-infrastructure-trust-to-acquire-data-center-portfolio-from-amazon-for-5-billion-87e53519?mod=pls_whats_news_us_business_f",
+   "paywall": true,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "aeee2306e3fc",
+   "date": "2026-11-16",
+   "tickers": [
+    "XAUUSD"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "macro",
+   "reason": "ทองคำลดลงเหลือต่ำสุด 1 ปีกว่า เนื่องจาก US dollar ที่เดินหน้าที่สูง",
+   "title": "Gold drops to more than one-year low as US dollar marches higher",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOR0w3QnNOYVBGYjdBMGJDeml5RExhSzMzaGVTUEQ2eEdLNHhHQzRoV2thNUo4TkVGYmNfc3NsSGpVVVF2OWxCZ21CNzBMSGs0S3NuZ2Rla1d4WTR0RGJwcllfYnZ6dlR5ZGZXa3dMakUxZmNDWFExYk9HNTkyLTN6aWF0MlRRbzN4aUJUVnVCMk1fdlpVN1B0bE1QM3dkaENDNEwzaHRORFFjVDYw?oc=5",
+   "paywall": false,
+   "categories": [
+    "crypto_gold"
    ],
    "model": "claude-haiku-4-5"
   },
