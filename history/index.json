@@ -1,11 +1,360 @@
 {
- "generated": "2026-11-17T05:43:27Z",
+ "generated": "2026-11-18T05:08:11Z",
  "months": [
   "2026-09",
   "2026-10",
   "2026-11"
  ],
  "items": [
+  {
+   "id": "02850760d938",
+   "date": "2026-11-18",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "regulation",
+   "reason": "California DMV บัญญัติห้ามรถ Waymo ใช้ freeway เนื่องจากความเสี่ยงจากอุบัติเหตุลดประสิทธิภาพด้าน autonomous vehicle",
+   "title": "Waymo pauses robotaxi rides on US freeways after California ban",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTkw0bE5kQUlYTVp4amxvbkwtbnc3ZmZTc0FUaWtiUmtmbkF6SldmOXpGOUt0T3BHRk0zOVN3QXpLQ0d3UDRwakVSblEwT3h1NHV5ekdyVHhCMDJBOGtsZEdaZDJzUGlYTlMxRGxXWjZmRDU5dnh1Y1NyY0duUlFmNEF5YjVxQV85aVBhTUw3UGptQ1hBSFJQSXpVRkg4VXd4VEdlak9MTDdjM1FOTVdzaHB4djl1Y21VSGtLU1hLcS1OTTdl?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "c143738854a2",
+   "date": "2026-11-18",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "Nvidia รายงาน Q3 earnings สูงกว่าคาดและเพิ่ม guidance ขึ้น สะท้อนความต้องการ data center ที่แข็งแรง",
+   "title": "Instant view: Nvidia earnings beat estimates; attention turns to call",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaWVjeHRTNkRreHFmNVBsYkdQeFJjc1htLXA4enJfTEV5clpxOHZRRGdGZXNkZGFzY2FPWUtTMkdCSGZYZXFHMmE5OVFzUDJuc2ZjRGJybkF2MG1pTkxhMFBRam5wdjFNdG5sRGJaaEN5bE1keENqTkJGb2lPeFJQM2Y2NDAtQ3JvSG9pRXExTFpwSE9iandZTFMtcEEtX21xUXM0?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "5bba8c2e4aec",
+   "date": "2026-11-18",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "unclear",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "US bankruptcy court อนุมัติให้ Google ซื้อข้อมูล Spirit Airlines ปกติไม่กระทบต่อธุรกิจหลัก",
+   "title": "US bankruptcy judge approves Spirit Airlines data sale to Google",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM0NfLTdnMktRek1KYml0RlYtSmhsVE1RRXRIaXBCZDQ0SXppVF9WcnZwak1qSFRIbDVRck5iZ2FEcVVNZU9tVVY0LUlLQnItelVvZE81YUZSNW03clhtazNMTEd2SnNHQzhWQWlDVDIwVFgtSkFYVkVNYnQ4alE5S1dUX0lKcG9RUDFBWDh3eThQRWhBV2NtN3NJQ0tlVE5MZXVZVmVuc1gtQQ?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "33f2ad36e325",
+   "date": "2026-11-18",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "management",
+   "reason": "Nvidia board ตัดสินใจไม่นำ Jensen Huang กลับมาเป็น CEO แสดงมั่นใจในความสามารถบริหารอื่น",
+   "title": "Nvidia board says it does not intend to reinstate Jensen Huang as CEO",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOS2VmZExpa1A0SVoyamdjRlBRQ3NuSHZBWTNCUFM1eEZzS1llMUNXRmNvTm1RRWw4ejN4V2N0eWZfZEdGN3d2TlA1alY1ZUpWQjNMVXJzOUhCeVdsa3RXZmQ0UjZKd0lRZEZXQXRtNGZfVkxSVEZkYjhaRkhRbExjOWZRRC03QXU3NEVjTldFY05xQm5VbERFU1FlbnBGaFpZcHplY21Xd2Frby01WmU5ZTNWQW53b1hVNE53?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "08a1aa54ec3e",
+   "date": "2026-11-18",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "unclear",
+   "importance": "medium",
+   "impact_area": "management",
+   "reason": "Jensen Huang สามารถเสนอชื่อ 2 directors สำหรับ board หลังจากออกจาก CEO",
+   "title": "Former Nvidia CEO Jensen Huang can nominate two directors to company board, filings show",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcU1vUDEzelNFZ3BKMUQ1S2tLakNtTUVHOVBsWktncFlmOFpkY1lHQ280MlVlLUh0MGpzM3A0MHJZNmR2NzhJeURvLTdiZ0VPWi1xT0o5a3laQW5YbnFmQmZJRjhuOTdRcm1JWGctdEhMd05qUmtNUXZFMi1JUXN5UGhadkJ6UnZ6NnNoQ21rSzBKMmFFNERlTE9NdVFEeXc5eHdjcFBScGdqYmV0bEtiYnYyekgyaGRXVnBLcGhJUWdoMnZKYWFhSzd5Y1hma1hi?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "119af8206ae6",
+   "date": "2026-11-18",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "regulation",
+   "reason": "SEC สอบสวน Nvidia หลังการลาออกของ Huang ที่อาจเกี่ยวกับการเปิดเผยข้อมูลให้นักลงทุน",
+   "title": "Nvidia facing SEC probe after Huang's resignation, WSJ reports",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcWVwUXVkcFBaZ3VKNW82dWk3eU9VcDctS0Nsd0wzRHlTV3kxLW9ZbkpnNzFBbTllQ2Z6VVh1ZnpqNGZJNmtRVW9CNWNweXBOcGdFWFBOVDhOVVduRkRRZGc5Um9xVnlxOGZQTzRtYS1QWERzYTg1QWR2OFR4WnF4LWdWblJCcXJxMmR1Smp1aTgzN3dTY09jcGpfSTU5cjFuZXIzUnEyX0pMczQ?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "58cef6b69ab9",
+   "date": "2026-11-18",
+   "tickers": [
+    "AMZN",
+    "GOOG",
+    "META"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "regulation",
+   "reason": "Trump administration ขยายการ curb data center ใน China แม้ Amazon Google Meta ล็อบบี้ ส่งผลเสียต่อการขยายตัว",
+   "title": "EXCLUSIVE: Trump's China data center curb advances despite Amazon, Google, Meta lobbying",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPamZVTFBIMlk1aHp5ZUZ3ME56bnZlV3NPODhQY3JKcnI2dUtIT0FqSHFveTRSem1Rby14eXY4dnhCci1WWmNJdEZnTnNnOUJldUROSXFWc1I5SmExVXZ2dWlhMWhQSkpqTFJIN1R2aTJsX2tJQ1l6cnhRY2JWdTNpVjNKZFhuelREd1A1S29BYUhDRHlTNWxncUJ3aHFobUU1NFZNTVlkbkxLUWExUFVjWHpOSHo3aE0?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "1040f8d49ff6",
+   "date": "2026-11-18",
+   "tickers": [
+    "MSFT"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "competitive_advantage",
+   "reason": "Microsoft เปิดตัว AI models ใหม่สำหรับ coding และ cybersecurity แข่งขัน Anthropic OpenAI",
+   "title": "Microsoft unveils AI models for coding, cybersecurity as it takes on Anthropic, OpenAI",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ05INXRWaGd0ZFhsSkZWMjBZeFNJYU1JOEhkRG9PT1V5SUl6YTNNMzFWblJXZVdjVHJzZW5raFlUbzlHMTNHemFUVWZab28xS0M3RzkyN2c2Ukl6VUR4SUF6RFRpVjRieGRFUWJGZUNsMzkyR1B0bnlxSFFQMHpFT2JCQ09KM0FMcUZWXzlZaEVmanRiMmtuOGxGQnNKbDZkM0hJVGpwNURRN0daX29GX2tHZ0pIU3NrRk5JbVVpZ1d1WGN0cHc?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "products"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "d6bbe97eecb8",
+   "date": "2026-11-18",
+   "tickers": [
+    "AMZN",
+    "GOOG"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Amazon GOOG รวมเป็นเจ้าของ ~28-29% ของ Anthropic หลังจาก IPO เข้าไป AI market มากขึ้น",
+   "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+   "paywall": false,
+   "categories": [
+    "deals",
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "0ff72127fb57",
+   "date": "2026-11-18",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Nvidia ขยายสัญญากับ Kinsus Samsung Electro-Mechanics เพื่อ substrate capacity สำหรับ AI infrastructure",
+   "title": "NVIDIA Expands Commitments With Supply Chain Partners to Support AI Infrastructure Buildout",
+   "source": "NVIDIA Newsroom",
+   "link": "https://nvidianews.nvidia.com/news/nvidia-expands-commitments-with-supply-chain-partners-to-support-ai-infrastructure-buildout",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "67c1d551eacb",
+   "date": "2026-11-18",
+   "tickers": [
+    "CRM",
+    "MSFT"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Salesforce Microsoft ประกาศ Copilotforce integration นำ Salesforce context ไป Microsoft Copilot Teams",
+   "title": "Salesforce and Microsoft Announce Copilotforce, Bringing Salesforce Customer Context and Sales Workflows to Microsoft Copilot",
+   "source": "Salesforce News",
+   "link": "https://www.salesforce.com/news/stories/copilotforce-announcement/",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "70eaecca7c76",
+   "date": "2026-11-18",
+   "tickers": [
+    "CRM",
+    "MSFT"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Informatica from Salesforce นำ enterprise data ไป Microsoft Copilot Foundry Fabric เพิ่ม AI analytics",
+   "title": "Informatica from Salesforce brings Trusted Enterprise Data into Microsoft Copilot, Microsoft Foundry, and Microsoft Fabric to Accelerate AI & Analytics",
+   "source": "Salesforce News",
+   "link": "https://www.salesforce.com/news/stories/informatica-trusted-enterprise-data-microsoft-collaboration/",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "24566e4b8498",
+   "date": "2026-11-18",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Amazon's Washington data center plan หรือ facing growing resistance ลดความเป็นไปได้ของการขยายตัว",
+   "title": "Amazon's big Washington data center plans face growing resistance",
+   "source": "Axios",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY0VVUTF6RTF1ekRrZjdjTVVPYUM2bnZnZ1hudzJVNWVLOW9Ucm5tblotUjM5cy0zR3UteGJEcmdBMWZ5X3JfXzRjcFQxNUhnVVdTazdoLW5IRldFcVdIMXA4U1NWSXRZOUN4bnJjTjM3TFl2cDh2ekhfTDU1ZmRqNUl2QW1XTzRsZklPU2FRanRhSlNydENOZnQ1NE1odFJ1WHc?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "04327c1dd835",
+   "date": "2026-11-18",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "regulation",
+   "reason": "Nvidia interim CEO ประกาศไม่ส่ง AI chip ไป China อีก ส่งผลเสียต่อ China revenue potential",
+   "title": "Interim Nvidia CEO Says It’s No Longer Sending AI Chips to China",
+   "source": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVk5ZV2dpR3EyVEtJcVdSZTBCVGl6UE1qZ1gzNWdiaHJ3WGR1S3NUd2VRcWVzUWhjanFicXVzNi1zRWZNel9EdlVOaC1uMUFCckRXMkRGWkRZeHdZUnE4VTdtUkZ2N0dITkRYa040X29HanoxODdGVXV3NzEyOGhnR1VOb2VwcFNIcHFJQlFrNXM3T1hqQlN5WnB0MHJTU0R2cTZOUnBNbV9Ubm81clFKM0x5cHRxdw?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "a4b322191d40",
+   "date": "2026-11-18",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "unclear",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "SpaceX debt สำหรับ AI chips จะออก market ในสัปดาห์นี้ เพิ่มการลงทุน AI infrastructure",
+   "title": "SpaceX Debt for AI Chips to Hit Market as Soon as This Week",
+   "source": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZkE5NTdrR2ppTkFxYzA0d0NPNngwR1hhTV80Wm9uT2tCWVh3U1o3Q0dWNmpDcEdUdi1UV0szVTJyR2tOa0tGbjBlTnNPcjBNR1F3N3F6WVZfWm9GRGlMcnlWWER2Vl8yQzBSOXRzQ0pMU29uWS16UWJVVDN4RE0wTUZNVUk3NUtyN0tERTQ3cW01WTFNbHBCTkRhdi14UDR1VU9iWUZ3bzl0SDJCZU5z?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "e7fb5f4c6efc",
+   "date": "2026-11-18",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "competitive_advantage",
+   "reason": "SpaceX catch Starship ประสบความสำเร็จในการ reuse rocket ทำให้ cost competitive ต่อ satellite",
+   "title": "SpaceX Catches Starship While ULA, Blue Origin Stumble. No One Is Catching Musk.",
+   "source": "Barron's",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRjMzc3pzdTRKdmFqMTNzOGNyS3lNNFVtaTJZZThXZkRWdXNWYl9xdGFNZm5rV04xZ2Nva21aU09raDlBbTdKcV9rNldZSTZfNGdBcnBvU3YzSVFfNkh6TmlZTHlsYlVBT0NTU1VBeHl1U0Jfd3BzNGNHLWxXc3lZa0p3MXN0bEk?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "f401341eac81",
+   "date": "2026-11-18",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "competitive_advantage",
+   "reason": "Nvidia interim CEO ยืนยัน open source AI strategy ไม่เปลี่ยนและวาง acquire Hugging Face",
+   "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+   "paywall": false,
+   "categories": [
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "4189a30d3fe3",
+   "date": "2026-11-18",
+   "tickers": [
+    "XAUUSD"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "macro",
+   "reason": "Gold ปรั่กหลุด one-year low แม้ dollar แข็งและ US rate outlook เพิ่มให้มีแรงกดดัน",
+   "title": "Gold slides to over one-year low on firm dollar, US rate outlook",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVlk2MG4xbDV2emVoNk9vRVhTcTlRbkZLMDgwMjBMTEdVeXFDV21zX0NVdmF0YzQzRDZ4TkowaDJQQlZlTDBsbm9BWHFXNXpYZzVVejAtTGRZTTFHRjV4dllJV0ZxVzVvbVJCN1lxdk50NXVaNkRxTGJQbDYyZjhNNElTUElOWVU0eW0ySnBRMndSU1ZrTGE4ZlNMdDk0UXVmUjZLSEVfQlc?oc=5",
+   "paywall": false,
+   "categories": [
+    "crypto_gold"
+   ],
+   "model": "claude-haiku-4-5"
+  },
   {
    "id": "1bc02047eae0",
    "date": "2026-11-17",
@@ -256,6 +605,179 @@
    "paywall": false,
    "categories": [
     "crypto_gold"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "52de75e87c6c",
+   "date": "2026-11-17",
+   "tickers": [
+    "6758"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Sony ชนะค่า PlayStation Store pricing claim £2 billion ของ UK ลดความเสี่ยงด้านกฎหมาย",
+   "title": "Sony defeats £2 billion UK claim over PlayStation Store pricing",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNN3hMbWxfN3A3R0lvakk4Qk93Z0Iwbk5IYVhNTmhfMTNkSVlZLTdhLWVxaUFOdkFsSW04MmNHV01XelkwLWIzWGt1ZkpjdlJZSW5qWG1FMW5VX2JGM0lPcGFuVUN2M29hUU0wN3pIdzNQblR2YXZxYXc1VVNkRl9Rd3B4MGRVUk0tOExNbzIzZkhvRVRDYTJkOWlKM0tXXy1uaHQ2UDJGWQ?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "dded5969834e",
+   "date": "2026-11-17",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "regulation",
+   "reason": "Jensen Huang จะให้ประกาศต่อ Congress ใน December เกี่ยวกับข้อเรียนการส่งออก AI chip",
+   "title": "Former Nvidia CEO to appear before Congress in December",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSWxxNVZlSXFlVUtQMlNmY0U1cUI1eExJOG04NER0MWxaM3JRNVY1UkRUd2pKQ2ItYlBxdFpvSnpicFZ5akg5TFJTOFdxWW92a1MweVh5cW02MG5oelQ0QWxIMXdQcGJERWRwZjdMNkN0RmFnSEdqcFNBaFVNNnprd0ZBYWVwVUozQThyOGdYOW1KYnk2VE5FbEhGZE1wUUlvZVV6N1Q5ZjZrYThVX3hROEdXdHRRREk?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "be420f033350",
+   "date": "2026-11-17",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Amazon ลงทุน $7 billion renewable energy ใน India ขยายบริการ data center และสนับสนุน cloud",
+   "title": "Amazon to invest $7 billion in renewable energy in India",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQX2VQM2lmenVrZWFWR0hYWjNMUWlkdTVBOGVpSERjX05QZldrcnZGWE0ybHJxeE5Id3VSblZwU1A0Vmx2VkkzN0RyanlrN2R6R2xOcGpwemVVZ0owMTdwNW9WUzFTRkdVNlQzRG5lYXNQclJ1eGNyT0ZlZDJrOFpDcGtPTmNTTmlpLTdxRHk0SFpCX0V5MzJyZVNpVkhuc0U?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "97b40c7e935b",
+   "date": "2026-11-17",
+   "tickers": [
+    "6758"
+   ],
+   "direction": "unclear",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Foxconn วางแผนซื้อ Sony Semiconductor Solutions automotive camera module business ไม่กระทบหลักธุรกิจ",
+   "title": "Foxconn plans to acquire Sony Semiconductor Solutions' automotive camera module business",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZGJaT3hzb2NaLWVpNEw5Z29uaXZUYkNEUTNxck1XdmpULWo3SVY0MEVZbEVHMFkyUzRlcDUtYW9OOXNaMFV6MUVzMFJ6SFJwcmdlSFNWTmxuVjJ1UEtic1dUS0tVZ3pQYkxKOW1lelZ2TkxMUWFkV1JZMXYxTmhUQUpRZ1RybmJYZ3l1ZUU5Y1RxRng1dXd0MzY1eE4xOGxRSE8yQnF6MUxhQjIxZGVGbk5NOUFiS1JlNk5QcFBnWQ?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "564c03024904",
+   "date": "2026-11-17",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "regulation",
+   "reason": "Nvidia เตือนผู้ซื้อ chip เรื่องความเสี่ยงกฎหมายจากการให้ AI access ไป China ขัดต่อ export controls",
+   "title": "Nvidia warns chip buyers of legal risks tied to China AI access, CNBC reports",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTkRSdklpUUw5TWMwRC1JeG1YVHFnY0RXSTZwQmQ1MlJQRUhBb05zV2JUSUtiZnJKMktZRHJvdnNMT0l4NDFUaFBTUW1rZmp3ZVhHTkMwWnZNdDJURnpQZ1h1dEU0QkQ0enNEblk0Sjc2T3VXTWJlOW01SXdQY2RwMk5UTTd1RHcwVHlfdDVqd0ptVEdqSUl5ejVvbTZzcU9aUVhVR2FEU21DYWZTZGFzMlNQU1QyeldHTWc?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "9ca23e73b05a",
+   "date": "2026-11-17",
+   "tickers": [
+    "TSM"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "regulation",
+   "reason": "US ประกาศ curb ต่อการส่งออก chip ให้ China ทำให้ TSMC Samsung revenue จากตลาดนี้ลดลง",
+   "title": "Samsung Elec, TSMC shares fall after US announces curbs on China's chip access",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcGNxSE1UcHdSX01hUmo4QTVjQmZPcG1oR19fVUdINUVzaEFhaHlIemRCMnBTQkVBZjQ3LXVoNFl5bWxRTWxxU255N3NZZi0xT0JHODJwYXNaVFJVNVA1Smo5ZHdsX3dySklKUUxUd2p3djR4YklCa2xsTW9BMU9ja19aNzlXaHhaaU5rcFBvU2o3WEJnMXU1N0oxR2c0bU9hWHMybWtGdnN5NkN4NVZwbW01d1FhWE5TdVFLZFpn?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "dcba6f0c7a66",
+   "date": "2026-11-17",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "management",
+   "reason": "Nvidia board สร้าง National Security Export Control Oversight Committee เสริมการ comply export controls",
+   "title": "NVIDIA Board of Directors Establishes National Security and Export Control Oversight Committee",
+   "source": "NVIDIA Newsroom",
+   "link": "https://nvidianews.nvidia.com/news/nvidia-board-of-directors-establishes-national-security-and-export-control-oversight-committee",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "6528eddc8e98",
+   "date": "2026-11-17",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Amazon ตั้ง goal ลด electricity carbon intensity 65% ต่อ 2030 แสดง ESG commitment",
+   "title": "Amazon sets goal to cut electricity carbon intensity 65% by 2030",
+   "source": "Amazon News",
+   "link": "https://www.aboutamazon.com/news/sustainability/amazon-carbon-intensity-goal-electricity-emissions?utm_source=rss",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "a15c9e58fa12",
+   "date": "2026-11-17",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Google ประกาศ secure electricity จาก geothermal startup Quaise สำหรับ clean power data center",
+   "title": "Google Embraces Geothermal Technology to Vaporize Rock for Clean Power",
+   "source": "WSJ",
+   "link": "https://www.wsj.com/business/energy-oil/google-embraces-geothermal-technology-to-vaporize-rock-for-clean-power-dbd66d05?mod=pls_whats_news_us_business_f",
+   "paywall": true,
+   "categories": [
+    "watchlist"
    ],
    "model": "claude-haiku-4-5"
   },
