@@ -1,11 +1,420 @@
 {
- "generated": "2026-11-19T05:01:48Z",
+ "generated": "2026-11-20T04:53:17Z",
  "months": [
   "2026-09",
   "2026-10",
   "2026-11"
  ],
  "items": [
+  {
+   "id": "d654fd8d918a",
+   "date": "2026-11-20",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "regulation",
+   "reason": "Alibaba lawsuit alleges fraud by concealing ties to suspected spy in Nvidia scandal, raising governance and compliance concerns.",
+   "title": "Alibaba defrauded shareholders by concealing ties to suspected spy in Nvidia scandal, lawsuit says",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNU2NLaWxYa3VzZlBrX09yMHM0MjctV3RIZzNUVVNWbjhHODZZQlZtTkNJaWJJbkJLUTNsckRSRURrWTdzYUVNa2JwNnNmenJYb3FVTS16U1B4R3Ezc1ZHcWZ5ZTl2aTh5V2VCdkZUQzRQMXpUbEJaQnRRZ1AybGYxaFk5Yjh2c256cVJJaFAzaG03eGtiRUIydWctNHNRSUFiWmV5aTlGVzlYUVRUQ0RiUGpOMUw5LW5UbXRCMFNhMTY3UnYzSjlkNmNwQnN5azFEZGxNUjBn?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "55169ef8d38c",
+   "date": "2026-11-20",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "regulation",
+   "reason": "California AG subpoenas Nvidia over concerns about former CEO and China ties, launching formal investigation into company conduct.",
+   "title": "California AG subpoenas Nvidia over concerns about former CEO, China ties",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNY2NBVmplUHV4MUZrbVByaDVvby13dXpkX3RuaGVwd1RDMzAxdGtGSDQ3aFhjNjc3VHNxWnlYNHBrcWhRa0xiemxLOE8wTnZFVE9YZ3B4NVFjZ3d5QmJTaWtqc3JTVWdRX0IyT3VlU3BOaEFlMm5fS1lqczg1RmxyMUk4c0JfTEtUSlV4bDh0Z1BVQ0NySHZ3UHRINXZBdUM5NDhOX3Y0bUdsZXRuODdDZDJsMWNHUjY3STVCRA?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "0cee5dfce767",
+   "date": "2026-11-20",
+   "tickers": [
+    "META"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Meta to price Muse Charm AI gadget at $300, expanding hardware-based AI product offerings.",
+   "title": "Meta to price Muse Charm gadget at $300, The Information reports",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdjFzUjFCeHZYcEpLU1B4X0MzcWw1MTRZUjJYZHdYTmUzOGxEdEFYdHZMQ0ZDUk9Uc0JnV2JPVWZVMWZMekxGTmlQT3I5ODkzSjdtQXNFemUyaTZ5Q09mUEZZQ1h1c0FtcW53WEJ2eFYzS2Y1VlhnYmxuekhDVHJsa2dyZkRicWJrYW41ZmhjdjJiNnFfaE5mbWxjeWRtLWEwc0xfaUNlT21XMlFINGVKQw?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "cbfe1a48ffa7",
+   "date": "2026-11-20",
+   "tickers": [
+    "AMD"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "regulation",
+   "reason": "AMD shares slide on reports of China links potentially inviting US regulatory scrutiny similar to Nvidia concerns.",
+   "title": "AMD shares slide as report says China links could invite US scrutiny",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdGVGbWc5MzZvYkJfQTdMMHBzZllhb3dnNzYydUFXOEpWOHNuRVppNnkyVEdldnp0Z1pMX3B1NlNOVGpPOTJFTE1qcTNFUFJOZjRoQTNfbk5DcUZmZ3dlN1MtUXRMblp4MFNPdnR6d1BjRUxXbkI4RHdLSm82MDJiRFVOQVJ6MGhRSEhYdEQtYVB6RVdoZjBvbWg5Z1BZY0Jrbno4THFVdUg5MEhIQml0TEJLWQ?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "52927f61ec72",
+   "date": "2026-11-20",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "regulation",
+   "reason": "Amazon warns NYC delivery bill could add up to $5 per order if Mamdani-backed legislation passes.",
+   "title": "Amazon warns NYC delivery bill could add up to $5 per order",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNkFtMjlFYVZtVmJXQWlvMGtSdGNFZm5xd3JHSlJPaGR4ektBbEZUdWltOGhnbGpPTmNRblVaRFFnSU5KTWxZREdqVmpwTGREOTF0ajFtWkVMcURwY19tX1FkWndWOFlkMVYxTm85N2tjbno0TTNhWDV3VmRqSnJLSWdtUnRFOWxNYWFlWmRxelI2VjhPNkxxaWhIQ1JtYzJaZ0dQNmlxREd4dDY3S0o5N28zbkk0NXM?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "cb84d1d31b34",
+   "date": "2026-11-20",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "regulation",
+   "reason": "Commerce approved sales of 879,000 AI chips to Chinese companies, prompting Congressional calls for tighter export controls.",
+   "title": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "eb3bd7722531",
+   "date": "2026-11-20",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "management",
+   "reason": "Nvidia announces upcoming event for financial community amid leadership transition and regulatory investigations.",
+   "title": "NVIDIA Announces Upcoming Event for Financial Community",
+   "source": "NVIDIA Newsroom",
+   "link": "https://nvidianews.nvidia.com/news/nvidia-announces-upcoming-event-for-financial-community-6929322",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "eb97a8ece1b7",
+   "date": "2026-11-20",
+   "tickers": [
+    "NVDA",
+    "AMD",
+    "MU"
+   ],
+   "direction": "negative",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Nvidia, AMD, Micron sink as Anthropic closes IPO 17% above price, reflecting portfolio rotation.",
+   "title": "Nvidia, AMD, Micron Sink as Anthropic Closes 17% Above IPO Price",
+   "source": "Decrypt",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOUlRelhTTXFxcC1YQjNEb0g0bDFnSTY1N2d0VjBOcWhlYjBpZzlyME9jTUtQRTdOYzRoX29PX3dyUkdhVC04UVBOV2R1SnNmT1VHRGRXTlVmcUR4T2I3TWlHbmd0SmZ3UWFKY1NzV0g3Zm03ZWxocU8wLTVzaG1Qc2pJWTE?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "1b288226c551",
+   "date": "2026-11-20",
+   "tickers": [
+    "NVDA",
+    "MSFT"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Nvidia and Microsoft expand accelerated computing from Azure to Windows PCs, deepening product integration.",
+   "title": "NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs",
+   "source": "NVIDIA Newsroom",
+   "link": "https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "products"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "b3017a3b0bdb",
+   "date": "2026-11-20",
+   "tickers": [
+    "META"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "regulation",
+   "reason": "Meta's AI agent Muse mixing up conversations and exposing private data, raising privacy and regulatory risks.",
+   "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
+   "source": "TechCrunch",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcEZqS3ljbVVnME1UWVJsLWxidDBoSDZfZ3drbFRoVXVoX2w0V0RnWUM4UTV6SW5PNEFLUG82S3VRLUFST3h4OW82NmVWVVJrYXptcE9PU2RPbjAxZjdnTFVLVDhYVTlndGx6RzlLSHh5MUE5emVjM2Q2amxNNFA0cTRpTnAwUmF2SDRwV094eE02WW5MRkx1YnRoNk5WdlJKUnVQRzhXUXhvTXZNMDdCTW5LbXgzU1BvQkhF?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "519606f7f819",
+   "date": "2026-11-20",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "SpaceX sells $32 billion of AI chip debt at yields topping 8%, securing major capital for infrastructure.",
+   "title": "SpaceX Sells $32 Billion of AI Chip Debt at Yields Topping 8%",
+   "source": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONVcyODRRd3dtZnhoUVlCTGhjdjZjamw4Wll5Z1BhZ01iUFZFX2N0dUNXYlQ5Sk5uU2lVQnJJNERaTnc5TER1aGRvV3ZKWk41a1Ywbm5fTVU5LVVpcjNpaHZFQWw1ZG9aUE95TkRSSkV0Qnd0YVhXUmtpSFhJWEFrUmwwRWxMb2NDdE8zdXR4YjZhM3E4eTc3TVpoUWNkelNUM0lEUEVCcDg3UU00UTNoZVNB?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "6f8b4e130d98",
+   "date": "2026-11-20",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "revenue",
+   "reason": "Alphabet to raise at least $3.5 billion with Canadian debt sale, strengthening balance sheet.",
+   "title": "Alphabet to Raise at Least $3.5 Billion With Canadian Debt Sale",
+   "source": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaE1HUHpNckN1ekxVSURDZFUzTHB5UDA2RmtTNXd6dEFEb2Y2R0pyZHBpTGNjUk5fVkNYV04ya05pLWdsTlNmZ19TNkduSHkyWmUtcDRHaTJPb3lhOHJVWllnV2hwY0pucjRvNWM4MEZuMWZUTi04MW96UW5sc2RqTFZpcnpBWHdrVWVUMmcwYzZLdnh1Q1NwYzl0ZnJjaXNlamZZcURPaUhHVmktSE84aldoOA?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "fcc252061087",
+   "date": "2026-11-20",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "regulation",
+   "reason": "Arizona AG asks to delay vote on $50 billion SpaceX data center, creating regulatory uncertainty.",
+   "title": "Arizona AG Asks to Delay Vote on $50 Billion SpaceX Data Center",
+   "source": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOa3c2RzRRaFY1Njc1YnZvSDlpM1VpMlZkcFJiUm9lc3V4bUcwcHo1Q3pLZnZ4M2NvM2FPd0NJS2d4RTB2M0hLUU1ESjQxeVc1RC1VYl9EdEstUWxGQkM5UVpwYmhnN2VCbTI4ZW1JZVU1cmM1cDdUYVlWWDN3RWdncUE1WFFOc0s0UjBrZmRkd201ZDN0SXZmSUdDcUM5VjBYUmRwUGkyWGFVRmlWQzBhdk4wRQ?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "d9d74a5b7d2b",
+   "date": "2026-11-20",
+   "tickers": [
+    "META"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "other",
+   "reason": "Meta reconsiders 2030 net zero goal amid AI build-out, reflecting competing environmental and growth priorities.",
+   "title": "Meta Reconsiders 2030 Net Zero Goal Amid AI Build-Out",
+   "source": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVEZPWEZqTG5wRmFqUFpLTHA3X1AwUVVXOUpuLUp6QWN3Y0VqVEhDZ01NQ1pYRGItc3dPTXByVGNTZmMwWElvM3NNVlZ4MjU0WFFXZVBQMmczeml3X0VUTGFiRzZZUXFCRHhvNGdxX3BYeEs1SllIQU9NMFJOcDB5cjM1dXU3Vkhuem5oR3BueUpvNWRkSXlfQUl1VXNCU21JMnJscUFobw?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "957ebbfc6f6f",
+   "date": "2026-11-20",
+   "tickers": [
+    "NVDA",
+    "AMD"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "regulation",
+   "reason": "US approved sale of Nvidia and AMD chips to Chinese companies despite concerns they served PLA-linked groups.",
+   "title": "US approved sale of Nvidia and AMD chips to Chinese companies",
+   "source": "Financial Times",
+   "link": "https://www.ft.com/content/76342072-2781-4b16-ba3b-816a25214483?syn-25a6b1a6=1",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "7a0135a22f29",
+   "date": "2026-11-20",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "other",
+   "reason": "Lenders aim to bar SpaceX from launching $40 billion of chips into orbit, threatening collateral plans.",
+   "title": "Lenders aim to bar SpaceX from launching $40bn of chips into orbit",
+   "source": "Financial Times",
+   "link": "https://www.ft.com/content/33b5643c-2957-4d42-9116-5e34a3c54e29?syn-25a6b1a6=1",
+   "paywall": true,
+   "categories": [
+    "watchlist",
+    "products"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "a627be97c317",
+   "date": "2026-11-20",
+   "tickers": [
+    "AMD",
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "other",
+   "reason": "AMD shares fall after short seller Hunterbrook report on China links, echoing Nvidia scandal concerns.",
+   "title": "AMD shares fall after short seller report on China links",
+   "source": "Financial Times",
+   "link": "https://www.ft.com/content/69fd7870-a2cf-4e75-88bc-a1c4036efded?syn-25a6b1a6=1",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "ee0525ef204d",
+   "date": "2026-11-20",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "competitive_advantage",
+   "reason": "Nvidia in advanced talks to buy diffusion AI startup Inception for over $500 million, expanding capabilities.",
+   "title": "Nvidia in advanced talks to buy diffusion AI startup Inception for over $500M - report",
+   "source": "Seeking Alpha",
+   "link": "https://seekingalpha.com/news/4675003-nvidia-in-advanced-talks-to-buy-diffusion-ai-startup-inception-for-over-500m---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "923508b82062",
+   "date": "2026-11-20",
+   "tickers": [
+    "CRM",
+    "NOW"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "competitive_advantage",
+   "reason": "ServiceNow builds AI weapon to target Salesforce customers, intensifying competitive threat.",
+   "title": "ServiceNow Builds an AI Weapon to Target Salesforce Customers",
+   "source": "The Information",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNM3ZhV082UksyVFc2WGczVEVlTS1yYmxJa3lIVE8xQkg5OWd1QnA5SlFldWc5Vkt3cGUzUWlYdjB2blBSTGNLd0JTdnFaWndOLU5XZmFXX2JiMU1fV3RFTnNGTXF0ME5qQkd4XzJzYTljT1RINnR3aXR2RnVkdlVSUXI1YkhHUmZhWXdHMTUtOVpmekdDZGhIeGpzQTRwUlN0Z0pwVkpLYkJTM2VSUlE?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "1602b8dff08d",
+   "date": "2026-11-20",
+   "tickers": [
+    "RYCEY"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Rolls-Royce gains ground on 787 engine market with Brunei deal, expanding commercial aerospace orders.",
+   "title": "Rolls-Royce Gains Ground On 787 Engine Market With Brunei Deal",
+   "source": "Aviation Week",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOakxCLUd6SXJqbEotZG5YSlBiNVRpUC0wS25PeG9zRDc3MDRXNkhZZjVGS1JMOXRSRnQwNWZiQk9VejZDbUlKQnZwVUVSUmJXRHZ6MjRBQkZTbEEyVllBeDNiTzR1WjIxM3Z5MEZDUDZ5ZVNGcEdFYjB6VU8xVUpUSklPNUVVQWNXVGtvTWZTaEtZSmJNQjY4VHQwQ2JfR3RMbDhqQl81cjNBcDV3YmhOV3hRcw?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "64ee10da0223",
+   "date": "2026-11-20",
+   "tickers": [
+    "BTCUSD"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "other",
+   "reason": "VanEck drops Gemini as custodian of bitcoin, ether and SOL ETFs; Coinbase Custody takes over.",
+   "title": "VanEck drops Gemini as custodian of its bitcoin, ether and SOL ETFs",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/markets/2026/11/20/vaneck-drops-gemini-as-custodian-of-its-bitcoin-ether-and-sol-etfs",
+   "paywall": false,
+   "categories": [
+    "crypto_gold"
+   ],
+   "model": "claude-haiku-4-5"
+  },
   {
    "id": "c39f244d8a61",
    "date": "2026-11-19",
@@ -388,6 +797,278 @@
    "paywall": false,
    "categories": [
     "crypto_gold"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "defa54c7033f",
+   "date": "2026-11-19",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "competitive_advantage",
+   "reason": "Google partners with Blue Origin to launch AI computing satellites in 2029, expanding infrastructure capabilities.",
+   "title": "Google picks Bezos' Blue Origin to launch AI computing satellites in 2029",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNN3VqbnV1MzJhUTVfQzlfY2kyX2gzdk1FU0lyNU15dWhzVk40ZGNtRFlPaUFlS0hYeEhZQ0trUkdMUV9OQmIwZTE5aWliLVVYX0Faa2cxUUpjdWw2TFE5OTBCSnh6d3BqWnA0Znc1MV82SnpMdGZVQzRPXzVXcDV5X0hrckZ0TklGQlJmTTdiOFdob19wajZDT2dnUnlhNEZtVkhKMllQZ3R0U3VhOHdOQTl6WU5kRTNieHZqWVIyQlRERms?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "products"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "5a1a1bafdd7a",
+   "date": "2026-11-19",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Anthropic joins mega-IPO company category, validating SpaceX's association with high-value AI infrastructure partners.",
+   "title": "Anthropic joins SpaceX with a mega-IPO company",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE12cFlac2o3amVKQWstQ01BZ3VlYjJraEt5SS1IZklmSkdzeFJnQjN5aXVIa1d4alFIdFdTVEN5blBEVmhCdlk0WDR0NnhCR25vQzdYMXZYY3NjX2NvbGZyY3hHc1N1dTA5RFFsZlRhTnlmb0NQ?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "2f73987518df",
+   "date": "2026-11-19",
+   "tickers": [
+    "TSM"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "regulation",
+   "reason": "TSMC tightens China AI chip curbs as new US rules close manufacturing loophole, strengthening compliance.",
+   "title": "TSMC tightens China AI chip curbs as new US rules close manufacturing loophole, sources say",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNc1pDUGRULVJNeGdkT21ERVNzMEl6RHJKTEtLRWFFQjFpYjdxWU5NMmM3Zl8zUzlHQUd3UzJlNE1UV2tlZnZFTEZrNnRKSWU1Y1lkSU1ISmF6U1JGNWNEeUJETVpHNDI5QTEwMWJTTmRraUgyaDR2RUJ1UlRadVJZMW9MUTZCeXdpZHRZRWl1X1VIZ0xBbllSWEUxMGxmdmllVFgxbmxuTmljOFFBTUkyUGR2NDRfTmM0Rm5xcXFxaHk?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "17c1f3c9141b",
+   "date": "2026-11-19",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "management",
+   "reason": "Wall Street mixed after Nvidia earnings; Anthropic prices IPO, signaling market reassessment of AI chip dominance.",
+   "title": "Wall Street ends mixed after Nvidia earnings; Anthropic prices IPO",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Fa2FnYjFKZXU5RVdvY3JhT1ZsSFJUZ1V4TnFJMm5zeG1uME1uZFFaclN5WmpYVmN2WjByLXJha2prYThPY0pGU2Jza2FleWpxV2M0eVZrTjRaWXpXYTlCUzQtUWhidw?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "54d0641d3682",
+   "date": "2026-11-19",
+   "tickers": [
+    "CRM"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Salesforce leads consortium bringing trusted American SI to global markets, supporting government and business operations.",
+   "title": "Salesforce to Lead Consortium Bringing Trusted American SI to Global Markets",
+   "source": "Salesforce News",
+   "link": "https://www.salesforce.com/news/press-releases/2026/11/19/salesforce-si-export-consortium/",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "747522476105",
+   "date": "2026-11-19",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "regulation",
+   "reason": "Blacklisted Chinese universities procured Nvidia chips according to records, highlighting export control enforcement issues.",
+   "title": "Blacklisted Chinese universities procured Nvidia chips, records show",
+   "source": "CNN",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcGFqcVo3R2tHZlQwNG5XamN5ZXV0bWxEUUdlT00wMUl6czg5QkFfOW9WdVNIQnRvci1FR2RBUlp5MmxkVzc0TEEwX3c3dkNaUFlyb1N0c2QtblNPLTRNdm5TT2Q5c3V6dVp6dHBsQlA5RHJ0aHhibHNBT09BM0FrNExB?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "3e78fa25e526",
+   "date": "2026-11-19",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "regulation",
+   "reason": "Nscale warns of exposure to suppliers facing US blacklist amid Nvidia-backed startup's $35 billion IPO plans.",
+   "title": "Nscale warns of its exposure to suppliers facing US blacklist",
+   "source": "Financial Times",
+   "link": "https://www.ft.com/content/97912585-2412-496c-a224-78e69328bcdb?syn-25a6b1a6=1",
+   "paywall": true,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "b05c1010685a",
+   "date": "2026-11-19",
+   "tickers": [
+    "TSM"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "regulation",
+   "reason": "TSMC and Samsung suspend some chip shipments to Chinese customers amid export control enforcement.",
+   "title": "TSMC and Samsung suspend some chip shipments to Chinese customers",
+   "source": "Financial Times",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVmdYLWxyejBmNWE2ZmVSbk93M0w2ajJMbzZvWE54bG5QU2JqYzNqYUhobnJVX1h6bkcyT0JZX1VLMHNYZG4tM0Q4Vmd3dGJIRG9yS2dYcjIyLVpvV3RwUHFpRXU2cU51dXdWTTBRcy1wNHBJZEYtYURQcVhOTXlZRU5nLW8?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "b6f4a26b8e46",
+   "date": "2026-11-19",
+   "tickers": [
+    "AMZN",
+    "GOOG"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "Amazon and Google own nearly 30% of Anthropic after IPO, netting ~$260 billion paper windfall on investment.",
+   "title": "Amazon and Google will own nearly 30% of Anthropic after today’s IPO, netting a roughly $260 billion paper windfall",
+   "source": "Fortune",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZllIdVJYdEMxSlFtaUpJYXV5ZDRXeGRkUWhaQ3VlZGp4aTB0YVRIRm5UdGQ2NkFxbS1DY0lHYWdtZm42eW5SVFZFZFhmVm9XWUVIM0pJR1MyUmFRcWgxa2NVOU5MRmRZQlhMVVpWVHlkaGRBcWpPbkF3RDR5eGZvWGNUclJtSlM1ckdVZg?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "758216a5e7e8",
+   "date": "2026-11-19",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "other",
+   "reason": "Anthropic IPO raises $107.3 billion breaking SpaceX's record debut, validating mega-IPO capital market environment.",
+   "title": "Anthropic IPO: AI lab reportedly raises $107.3B breaking SpaceX’s record debut",
+   "source": "Seeking Alpha",
+   "link": "https://seekingalpha.com/news/4674013-anthropic-ipo-ai-lab-reportedly-raises-1073b-breaking-spacexs-record-debut?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "f36588ceb4d4",
+   "date": "2026-11-19",
+   "tickers": [
+    "META"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "regulation",
+   "reason": "Meta pauses new stock plan amid legal challenge, creating equity financing uncertainty.",
+   "title": "Meta Pauses New Stock Plan Amid Legal Challenge",
+   "source": "The Information",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTE56bXJIU21IU0JOM01GZEs4eGc4VUFVUktYNlpyX09LdGRqVS05cGs5dFMyWEhUT3hYTFlWTU0zRTVDNlY2dHJUZnk0Z1hseUNUQThRa1YwT0VYcmdDeTdpTElNb2h1LXBLUDR4Mzl3dTc0WVpjTU56Z1c1S3F1T0Rzb2QtbWYwQlZTRTlRbWFFQQ?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "334b174c50b8",
+   "date": "2026-11-19",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Texas starts approving data centers again, including for SpaceX, enabling infrastructure expansion.",
+   "title": "Texas Starts Approving Data Centers Again — Including For SpaceX",
+   "source": "Barron's",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPb0ZmOElxT0pSMW1rWVpydm1DMExJVzNfQ3FkS3M3VXM5dVNsamI2bTh5RTBhNGtiMnB2Y0VxVXpJdkN2NnJYOTlYOVBIZFJYbWpILWdaX1RZM0luX1IyRVNjR25YSlVieG5qZ3VNR2RlTWhNLWJSZUp0OGV5ejlkaXB3QQ?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "4bf17ac15c7e",
+   "date": "2026-11-19",
+   "tickers": [
+    "MACRO"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "other",
+   "reason": "Anthropic valued at $1.5 trillion with $81 billion IPO proceeds, reshaping AI sector capital structure.",
+   "title": "Anthropic valued at $1.5 trillion as IPO raises record $81 billion",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPR3NST2trRTZCZkdmblYtRm5pcldXRUJTVjZkZUJ6bHJYbjFUSUJ6ZGVJNW1SMVg0ZWthVnlfVVRhZnlld192c0pBaUZSUzRZS0xGdFlYRnViSU9RYVhHWXRpVDlULS0tREUzcDhfa0NGSVIzVkFTOXBzeW5JelpBVy1RV2FFWEpwdnFhZnlqUVN0bUxWSXJaTVFzTEQxTDlFVVpkRERxQmplM0V2X3c?oc=5",
+   "paywall": false,
+   "categories": [
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "3fefd0f476b2",
+   "date": "2026-11-19",
+   "tickers": [
+    "CRM"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Palo Alto raises annual forecast and signs $4.5 billion Applied Compute deal, boosting growth outlook.",
+   "title": "Palo Alto raises annual forecast, signs $4.5 billion deal for Applied Compute",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZW5sQ0s3NEtGMUtHWHpjajhUZjB3WW1PcGNIOF9IdktwUTVFbVh6V2VsMVFsWFRBMlE5VmtyUXlPMUtfZlk2UU4zbGxoZ19ocThmVjNudnNUWFhNR3BlT0V5dUxuYVk5VXUyT2EwZHI3QmtTS1N1ejVTV005UmNvdV93MjVEVDBkQldGU3E2bTBzVHpUbWZNY2wtbWx6TzA?oc=5",
+   "paywall": false,
+   "categories": [
+    "deals"
    ],
    "model": "claude-haiku-4-5"
   },
@@ -968,6 +1649,25 @@
    "paywall": false,
    "categories": [
     "crypto_gold"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "56aabe886dfd",
+   "date": "2026-11-18",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "other",
+   "reason": "Nvidia's strong fundamentals give new CEO tailwind; company inherits challenges but retains structural advantages.",
+   "title": "Nvidia’s Strong Fundamentals Give New CEO a Much-Needed Tailwind",
+   "source": "WSJ",
+   "link": "https://www.wsj.com/business/nvidias-strong-fundamentals-give-new-ceo-a-much-needed-tailwind-65859856?mod=rss_markets_main",
+   "paywall": true,
+   "categories": [
+    "watchlist"
    ],
    "model": "claude-haiku-4-5"
   },
