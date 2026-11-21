@@ -1,11 +1,392 @@
 {
- "generated": "2026-11-20T04:53:17Z",
+ "generated": "2026-11-21T04:47:42Z",
  "months": [
   "2026-09",
   "2026-10",
   "2026-11"
  ],
  "items": [
+  {
+   "id": "0e0e92b4d97c",
+   "date": "2026-11-21",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "other",
+   "reason": "SEC ตรวจสอบบัญชี Nvidia อาจนำไปสู่ผลกระทบต่อการดำเนินธุรกิจและชื่อเสียง",
+   "title": "EXCLUSIVE: Nvidia's accounting is a focus of US SEC investigation, sources say",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMzlPdFVTT2cyVkhmMFVKNWZ1MnpNT0NLcURnblg4THMwUWNuYTRBLWUxU0ZSSUR5bk1zNnBmVlhIUjByNkN6TzVBNC1uaXQxM0dwY2FkMzZQdm00a0xyMXo3NFNpSUNPdERZWU82aGZLa0lNZHpMOXVnVDBVQW9lMmNrWEVRczVYS1Racm1NNlNERDBJeTFJRG1pZVRfTC1LTy1pNjhpVzRaeGRrY25kSzQ1aDNUUQ?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "3fbb14f2185c",
+   "date": "2026-11-21",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "other",
+   "reason": "Apollo และ Goldman นำเสนอสัญญาหนี้ GPU 44 พันล้านดอลลาร์ให้ SpaceX เสริมสร้างความสามารถ",
+   "title": "Apollo, Goldman lead $44 billion SpaceX GPU debt financing",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaEhScEk2NU5wVFRpcDFmSXdjTko1Szc1YXM2Z0d0S3lvX2NTa0RVVTBGRkxROHA3UjdDOHR0Q3BmX0c4YzZka0Z2NTJrMWFVTU9NODNic1IxUjFxSkFLcGk1d29VZUI5TmJwVV82UV9xSFZEQm1KZTN4QlR6aldKaWZvZG5ITlRDVkM2RDNLVV8tSi1yTnBaT3hOXzFtRF9BdjNDZUVlbXdrMkVkUUk5cDZzaThIZw?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "43452bc5d3cb",
+   "date": "2026-11-21",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "regulation",
+   "reason": "Waymo เรียกรถ self-driving คืนเนื่องจากปัญหา freeway ที่ปิด สะท้อนความท้าทาย safety",
+   "title": "Waymo recalls self-driving cars over closed freeway lanes, manual traffic control",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTlhWdHBVZmpJb2tVT2NkNzBsSlE3V190NnozVjVsdTc3NGJhYlY1ZE4weXplUmVXYjF5c2VZeWFLTmtSa05TRlRwUTFXVDZrYmFOcHh2a1psQ19XeVlFeFZMR0ltdHNGS3dWcE5hR1otUmZGakdRblpwRENQdnB5MGllYmhFZElhYkU0YUxQYy1kemVxSDhJa2ZwNWs2NjlHRXVNTElhQnJYeEpoeGltZ2dhckZfLXBkNkUwMkc0ZWlla3QxWXRKQUN2SWlQZw?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "e88bc60f4817",
+   "date": "2026-11-21",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "regulation",
+   "reason": "YouTube ตั้งสัญญาปกครอง 3 พันล้านดอลลาร์กับเขตเรียนนครยอร์กเกี่ยวกับ addiction claims",
+   "title": "YouTube nears $3 billion settlement with US school districts over addiction claims, Bloomberg News reports",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQT1NGUi0tNlljNTY3MThuMGtGRnBHaGVlZ1FDZW9mSHdHb1IwVVYtME93N3dJWDVXOXE4RWJmdXI5UGpYQXhZM2d6ZC1fcU1rZFZnbmQyTmk0UVZIRk9MREVOUHNvR29KMXRkb3hhdENRWGNNWmhEdEJPWFYyZDk4OUI4eVNiT3o2YzJjVGhVZEhvOEJxdVBjelBrcF96NWs2ZzVWUDI1cTJXVXhSME90Rk5ZYzZqVHBFdUthTl9oVHRzQ0FMZkE?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "03a1e4493d12",
+   "date": "2026-11-21",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "other",
+   "reason": "เจนสัน หวัง อดีตซีอีโอ Nvidia ยินยอมให้ประกาศเหตุการณ์ต่อ Senate banking panel",
+   "title": "Former Nvidia CEO Huang agreed to testify at public US Senate hearing, senator's aide says",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVXRKZGYxUkVSVnNCbGJHOG9wWjFSY1puTVMtdUMyeGg4VTFXR2xhRXd1ZmxYZ1g5QlBZRzljX1F0V1R5WERUOGdhb09IWXE0MTJXWXl3Z0F1czYyck1OT1NHc012Rm1PaDdXR1BQSkVRTkNqQkpCVUZZSUdTMnY1S1Zsa0kwYV8tai16c1Z3QnBwb0JZNjA5QXA1TkllMFhacFZMcm9MNHoyYU1LNHBlY2ZiN1lHUElQSURVSFo5aw?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "97f2e08773cb",
+   "date": "2026-11-21",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "unclear",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Alphabet ระดมทุน 4.19 พันล้านดอลลาร์จากพันธบัตรแคนาดา สะท้อนความต้องการทุน",
+   "title": "Alphabet raises $4.19 billion in Canadian bond offering",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUFVQU3VBb1FwSmxpYnh6M1hNLU03RW1TSkZpbUJPcXpkQ1lZbWFocERJLTA3cUZWZ2JELUtSY050MW5Kdko5VHhoUFRqdW5XUGlWNlliWlZYLUxFa0tCY3RLaERDa3p2aGNGVEk3VjhlNFpPQTR0clR6MzJKQzBPS1JXSHljRUFIdkJRSWFFOVBrWERMQnVYTGVMTloxbVF5?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "a78f7eb03748",
+   "date": "2026-11-21",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "regulation",
+   "reason": "เลขาธิการกระทรวงการคลัง Bessent บอก ไม่จำเป็นต้องมีข้อจำกัดการส่งออก chip Nvidia เพิ่มเติม",
+   "title": "Treasury secretary says no further restrictions are needed for Nvidia chip exports to China",
+   "source": "AP News",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWVNwbUpEZjJtY1NaOWc5Z1ZfYUo2QXJqdl9WVGhJVnFvajdCTGV5RFJwNzNQTFVSeENSNzdUQ2ctRjB5Sl9ybmJqb3FfZENLMEZkeFdYSUJMa1FSamFBS2pqTGpjQzAwWHBza2JHOXBzdmV2ZG1icEgzQXp1aW4zRDFLWnN1Rm1USW9zZ3I4V2NZZ05RN2tBa295b0I4c1VIME1OR3N0VXlZc0ZxOUcwb2lrOA?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "dc7677b66f58",
+   "date": "2026-11-21",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "unclear",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Trump กล่าวเรื่องจาก Xi เกี่ยวกับ Huang; Bessent ปฏิเสธลือเรื่อง agenda",
+   "title": "Trump says he discussed Jensen Huang with Xi; Bessent tells CNBC Nvidia chip export policy is unchanged",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/20/treasury-secretary-scott-bessent.html",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "86dc1df0e9e4",
+   "date": "2026-11-21",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "other",
+   "reason": "Jensen Huang ต้องให้ประกาศต่อสำนัก Senate banking หลังข้อหาสายลับ",
+   "title": "Jensen Huang to testify publicly before Senate banking panel, Chairman Scott says",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/20/jensen-huang-nvidia-senate-testimony.html",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "bc748a15948c",
+   "date": "2026-11-21",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "other",
+   "reason": "Nvidia เผชิญปัญหากฎหมายเพิ่มเติม รวม SEC probe และอื่นๆ",
+   "title": "Nvidia's legal woes are adding up: What you should know",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOG80M3hJRlhXdEFpU2VUcGg5NUJXa0RmR0lTZVNqOUNMMUJ6VDktVlp5d3NhcHZoYTgxR2tuV0xvdFpqblI4Q2xjUkxEV3UtNXJmV2tQZ2pKbFo1TzlpQ0hiQm1ZNlVrUy1PZUV6cWVmUXdEel9nZ3BpbTJKZFFXMjdmdURUYnQzNkNDU1BycGlqQnhyYWxPZG8xZkQ?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "8addd910e64f",
+   "date": "2026-11-21",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "other",
+   "reason": "Starshield ของ SpaceX ในยูเครนมีปัญหา อาจคุกคามธุรกิจทั่วไป",
+   "title": "SpaceX’s Starshield troubles in Ukraine could threaten its broader military business",
+   "source": "Ars Technica",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbnBEUUZScjJieG11V0NBZTNFaUhydDdleGtWemhHWW1mM1ZUNnAyekdXWi14MjFZQXNHeFQwX3lXcllVV0Z6Z1N3YzQzbko5VW03emFIR0kxS2RlLXZNX0RXSmcwZ1BVNWV6bUZ5RmNJZlN1UWxMOGVpUGp2MTVGR1hFM3phd0s2cklJbXd6b1gtS3dfeG42Um9Tcml6MEk2MzNGaVVuYjRPZTBxY1E?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "be53658a5cb3",
+   "date": "2026-11-21",
+   "tickers": [
+    "META"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "other",
+   "reason": "Meta พิจารณาเปลี่ยน 2030 net-zero goal เนื่องจากปล่อยก๊าซ AI data centers",
+   "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+   "source": "Ars Technica",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcTZaRXhLWkhydFJoRDZoU1hRQVhMOVI5MVpJdmJSS1RXQm1iOHFZTHYxRVZVczM3a1U0Ukd4b2pYMlY3QkhGOVlkYTB6cWhDSDBIUlBiVWlwcExWU1MwQjlJZU9KVW1iTC1HY3Zla05DVUZiSER3S09BT0tvOEduNjlsZHFTQlVDdXZEdnduNmthRTRteWFpcWE5R09WYnFobUZFU3NfOWVWVkMyNnFwUXUwU3Y?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "c4f073ff2098",
+   "date": "2026-11-21",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "other",
+   "reason": "Trump intel chief เตือนไม่มีเงินทุน SpaceX ถ้าไม่อธิบาย Starshield ประเด็น",
+   "title": "Trump intel chief warned no funding for Musk’s SpaceX without answers on Ukraine Starshield slowdown",
+   "source": "CNN",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1NVVhZRExTWWpGYWVac3VkQ3Bsa2dpNndVUnV3NzFmV08zbFNlTUhodUNHcFQwYU1tdDRfT3RwX2Ntd1EtU096ME80cXhHSUhyRGU3SWpVMS1lb01NRkNWNWJwcWJCVUJ5Vk8yOGE2VTZxamVNZjVMeVhCOA?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "d2240ffa78fa",
+   "date": "2026-11-21",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "other",
+   "reason": "Google จะปิด Google Assistant บน smart speakers ปีหน้า ลดผลิตภัณฑ์",
+   "title": "Google says it’s going to shut off Google Assistant on smart speakers next year",
+   "source": "The Verge",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOV1NxS3B1TVlPLWRxRFczVHVpSm0wVXBJLXhsYWVLRTJYSlpQODBWRWZxakh4enAtSXltaUlpT0NjVlNTVFA3akFlQjRYRXFvZFd4ck92YWtaRXNfYzUwVjFBVFctNEQyNkVZYXRMLTZOOXhMTTRCYmctVlRRX1drUHM3Vm9XMXVpQWpVdEVmUFc3TVlTd0lmaldFSQ?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "9d48b8c8da48",
+   "date": "2026-11-21",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "management",
+   "reason": "Nvidia พนักงานเคยร้องเรียนเกี่ยวกับพฤติกรรม Huang สะท้อนปัญหาบริหาร",
+   "title": "Nvidia Employees Complained About Huang's Behavior Years Ago",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-20/nvidia-staff-complained-about-huang-s-behavior-years-ago-video",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "d9a6872f6294",
+   "date": "2026-11-21",
+   "tickers": [
+    "6758"
+   ],
+   "direction": "negative",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Sony ยกเลิก talks เพื่อ anchor NYC tower 2.7 พันล้านดอลลาร์",
+   "title": "Sony Said to Abandon Talks to Anchor $2.7 Billion NYC Tower",
+   "source": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOGRSVmRhMGJXcFJlVjhIY09IaVFkZTZ4c1FNanNFOTVVQVd4UUF2amZndUlkT0otSnhQMGN6a0JNMmdYekRZTTg5VE1zUlk2RS1OTTZWWjI0cVk3NG1QbXNwZUNqdmRENkRSSklESFJBTktzb1hMc1VlSmRXazRGaHhZR0hyTC1RalFiY29mbDNBYjg4OXFIZWVMdU9zUjFsWnhLN056YTM3OGtBWlE?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "1f485449ed0a",
+   "date": "2026-11-21",
+   "tickers": [
+    "MSFT"
+   ],
+   "direction": "unclear",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Microsoft เพิ่มค่าจ้างพนักงาน cloud เพื่อเก็บบุคลากร แต่ตัดงานบางคน",
+   "title": "Microsoft to Pay Top Cloud Workers More, Crack Down on Others",
+   "source": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPM3hLaXdod0Myc1NGcVJDbHZlMEEyaS1FdzJpVmZKeEVLN3BRQzIzVDJXd1g3RXdzVHVlaXJuOWpmQ1ZwZ0IyVGJPMHVMLWhKZHluYjRmYXhQZkZWOXY3Z0ItS0NHREE0a05KUUVuUUM5MDdpb3drSzhzb2hHdjlvTHNOY2lnOXViSkdKUXI4cndxMjZocEx5LTM5TnFYRzlLY1NBdHY4VFZTdm53MHl0Rw?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "164a1ab1f196",
+   "date": "2026-11-21",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "management",
+   "reason": "Trump เรียกร้อง Nvidia พิจารณา rehire Jensen Huang เป็นซีอีโอ",
+   "title": "Trump Calls for Nvidia to Rehire Jensen Huang",
+   "source": "WSJ",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcFpjZTl5Ni1VV2k4MndkZFgxbG5sWVNfZ1R2bWpubThpOXZsaW9sMjdrR0JnU01rN0g4NV94WUtyWnU0TUZLSXJSTEJQQWJnTDFrQWxpQlVtOGgwNTlSNXZnZDMwbXkwZmhWSC1XZDhTZTFxQkZxUnpyOFV5cVY5dTFTRlZiMk9odnVTYUs1cDU4RjlzZ2FGUXJJbnZGNE9SS090OU9JeGRCb19O?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "88c89ac0290d",
+   "date": "2026-11-21",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "other",
+   "reason": "SpaceX ปิดสัญญาหนี้ 32 พันล้านดอลลาร์ที่ yield สูง บ่งชี้ความต้องการทุน",
+   "title": "SpaceX Closes $32 Billion Debt Deal at Steep Yields",
+   "source": "The Information",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONHBPTEJlTkxtYklwUzhPZEpqZk9Xc3c3TGZoLUxHZ0pTWHNuc211WFItZW9aYnE1WGxvOGtXb19BMkRqWVpLZm1oS2NCTzJhdFVBN1dyam1SUF94YXZ4a19qSktoRTdJVldWZUV2cmMxbHJJODFGSnlCd1JfMEdsbWw1Umk2MjExVXI5bldjQ1QtZw?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "3c87f18abbfe",
+   "date": "2026-11-21",
+   "tickers": [
+    "XAUUSD"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "macro",
+   "reason": "Gold futures ที่ lowest level 15 เดือน เนื่องจาก Fed rate hike expectations",
+   "title": "Gold Falls to Nearly 15-Month Low On Interest-Rate Expectations",
+   "source": "WSJ",
+   "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-weighed-by-elevated-yields-strong-dollar-9ba37905?mod=rss_markets_main",
+   "paywall": true,
+   "categories": [
+    "fed"
+   ],
+   "model": "claude-haiku-4-5"
+  },
   {
    "id": "d654fd8d918a",
    "date": "2026-11-20",
@@ -412,6 +793,196 @@
    "paywall": false,
    "categories": [
     "crypto_gold"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "0d8d8015b4d9",
+   "date": "2026-11-20",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "competitive_advantage",
+   "reason": "Cursor ของ SpaceX พิจารณาเลิกใช้ AI models จีน เพื่อลดความเสี่ยงทางภูมิรัฐศาสตร์",
+   "title": "SpaceX's Cursor weighs phasing out Chinese AI models over geopolitical risk, CNBC reports",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeWlDTVU0ZkVnYWE3bk1yYkRRUUdLTV9YNFBQam8wYjRheXdjUnRqTFBjOWJPU0k4WmdydmZyU0hvQ0RnckFXSnVEQ2VTQy1YU1hzRDBMY1ktbnVqVUwyZ1ktaVdrSXUzS2hWeVlJanE1QXZwQW5uT0I5YjlDcWhDUS1wN0JOSVpTTU5qTGRzZjRQZEFKMEhVX2gtTlNDTENCWThBNFlqTUt1ZnA1ZjZZWEdSbTctTWR1VWxqSFBKb1d2RWFQd0I2MTlHbzBLakR5NzdwMA?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "64d5460e5ec4",
+   "date": "2026-11-20",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "regulation",
+   "reason": "Dems สอบสวน Nvidia เกี่ยวกับอิทธิพลต่อการตรวจสอบ Megaspeed",
+   "title": "Democrats open probe into Nvidia influence on US Megaspeed investigation",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONXlIa2U1bk4zSS1KNXFDNEVGNWhqdkY1NXlrT1RVSGZlUk5CUVc1cEFEc204WVBJLXVsZDVybGM0d1E5RTNmdnNla0xiZm1RZXFILXdkeGRWcjFmbm9rTDM4TVczU0pBWmpRcFdPWEdJUENqdFBMM3FtRkd1U1lsaHIzd2NZbnE3aW1Pdmx6Sy1XLU93MDlpZ2xpTE9qMUVpV3NncXphaHhQbWNDZ1hlMXhjQVVUbVNVVTJVelFDWQ?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "817334fd76a1",
+   "date": "2026-11-20",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "regulation",
+   "reason": "California สอบสวน Nvidia เกี่ยวกับการส่งออก chip ไปที่จีน",
+   "title": "California investigates Nvidia over whether chip exports ended up in China",
+   "source": "The Guardian",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQktrdFZUUFNrN0daOGdiTHVDb1V6NDEwcmxMQzFnU3JYbGhPWUhkM3ViZVhWNjF0b2pOMC10WGxOczVfVjhXUm54bzhEbE9YcVJWbTA2NE1VdmRzTGotenZkc2pjM0htaWJjUHN1Mkk2VUFCWVVMRlVLN3htZE9sT2IteFh5Mk5kOXNOZUxaTFJEV0dxeTB3cnNyUERSQlpxUG1abkVPWGZCYkU0dGpJU2NPdUwyMWROeE1ING9IWkdCM3c?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "cdc40e0bb896",
+   "date": "2026-11-20",
+   "tickers": [
+    "RYCEY"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "other",
+   "reason": "Rolls-Royce เปิดรายละเอียด £2.5bn UltraFan development plan ชัดเจนยิ่งขึ้น",
+   "title": "More clarity emerges on Rolls-Royce’s £2.5bn UltraFan development plan",
+   "source": "FlightGlobal",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSnVvcG15b0RLdjFVZzVvVWhzeGg4TGJDLUFfMFFDRzl6YnkxR3NHd0Q5UnNBVHpiclRsTWlGS3pHZmdETlJ3R0JLWlNReHVXdmIyRWJCdFd2YlpudElzZHlwLXNPR1JPVlFScWhRWEtPaTVYQTJEUFRHSlhqdndRWE9vVmZxaU1JaFdKWUlMYTdoaXhkU2JpREhCMVREQjczUGdKcEVRcU5KZDl0eGlVaXZwU1BuYk0?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "994849c449e4",
+   "date": "2026-11-20",
+   "tickers": [
+    "CRM"
+   ],
+   "direction": "unclear",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Salesforce Q1 2027 earnings call transcript ไม่เปิดเหตุการณ์ใหม่",
+   "title": "Salesforce (CRM) Q1 2027 Earnings Call Transcript",
+   "source": "Fortune",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5RQ250Skp1ZmstQ08yNENhUDNGSDFGSWZZcEwtQ3dHc0NYczh6OWhHUzEwV0xsamRnT2ZONTh5aE0weWJGWS1RUmFvQXVrekxUNFVhcHZDWjVkWG1KNkpxNWtZTmdkTmllTnJQSw?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "2a9e6f4aa493",
+   "date": "2026-11-20",
+   "tickers": [
+    "AMD"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "other",
+   "reason": "AMD ลดลงหลังจาก short-seller ระบุปัญหา China ของ AMD",
+   "title": "AMD Shares Slump After Shortseller Raises China Concerns",
+   "source": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbkp6di1ZYkMzQlhjTmkxbHFwNzIzLWMyc3NKXzBqSV9hZ05wODRRYUhjYl9pSmIyNENPaHpXWmlScUpaYXhfT3AyQ1hKYVhWZnhHRVp1a0g2dkVGWmpYa2lXdmdjaE1TUTQwbFlyNjJVNjVkRmlIbWt3WHhWYjNJWXNGSG9RcFkwYUFRZzdYMVNpQXVnZllfU0ZlZEc0QnFsQ1RnWk9tUmc5d2luUVVSaWRKMA?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "2a19ff4d6ef6",
+   "date": "2026-11-20",
+   "tickers": [
+    "AMD"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "other",
+   "reason": "AMD ลดลงหลัง short report บอกว่า AMD ไม่ใช่ Nvidia replacement ที่ดี",
+   "title": "AMD Stock Drops After Short Report Says It Isn’t an Nvidia Replacement",
+   "source": "Barron's",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5vOE1LWHU3SlUwbnlZRHlYTUpYZEJzTUJYRlMwdjVaRXdiTXg3NHJKSEVNcTNOVTVOLXFac0xDUUU2dy1OM0tFcERGUG1BSV9hX0Z0Wk41bTdEbW1fNmFMNjh2cEVyeE1ldHFvQ2hoMHUtVTExT0ZPb2Y2V09Kdw?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "2d50d7a464e1",
+   "date": "2026-11-20",
+   "tickers": [
+    "MACRO"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "macro",
+   "reason": "BOJ จะขึ้น interest rates ธันวาคมและอีกครั้งภายเดือนมีนาคม ชะลอความต้องการ",
+   "title": "Bank of Japan to raise interest rates in December and again by end-March, economists say",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNd2tVS3ktQThQZmhzbFBGVmwzRDlycmtudVhLTk1vLWpJeDlQMFBqV1J3bFZXNGtTT0VfRGJaWUxBeWNWck0tblgzbTJsQmM4SXNRbUVXZEo1Nk1UdWpONURjY1I5RnJsVmRuRzdra2VFSVlyYnJUTnhjUXNjNUJKU2YtWDBfQkZuWFV2d3FJZTdFSzZKdHgyM242QzVReUJENE52TEtXaWlfMnNlNGZkejlzRGR3TnM?oc=5",
+   "paywall": false,
+   "categories": [
+    "fed"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "e7b2e964fa55",
+   "date": "2026-11-20",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "other",
+   "reason": "Anthropic ระดมทุน 93.5 พันล้านดอลลาร์รวม greenshoe ทำให้ IPO สูงสุด",
+   "title": "Anthropic raises $93.5 billion total as underwriters scoop up ‘greenshoe’ overallotment",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/20/anthropic-ipo-greenshoe.html",
+   "paywall": false,
+   "categories": [
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "7adcb81f4fef",
+   "date": "2026-11-20",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "other",
+   "reason": "Bondholders ต้องการ SpaceX chip collateral อยู่บนพื้นดิน ไม่ส่งชั้นวิทยาศาสตร์",
+   "title": "SpaceX lenders don’t want Elon Musk launching their collateral into space",
+   "source": "Ars Technica",
+   "link": "https://arstechnica.com/space/2026/11/spacex-lenders-dont-want-elon-musk-launching-their-collateral-into-space/",
+   "paywall": false,
+   "categories": [
+    "products"
    ],
    "model": "claude-haiku-4-5"
   },
@@ -1069,6 +1640,25 @@
    "paywall": false,
    "categories": [
     "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "05c87aff79a2",
+   "date": "2026-11-19",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "management",
+   "reason": "Nvidia หาผู้สมัครซีอีโอใหม่ รวมทำให้ Rene Haas จาก Arm เป็นตัวเลือก",
+   "title": "Nvidia approaches Arm boss Rene Haas in search for new CEO",
+   "source": "The Guardian",
+   "link": "https://www.theguardian.com/technology/2026/nov/19/nvidia-new-ceo-search-jensen-huang-arm-rene-haas",
+   "paywall": false,
+   "categories": [
+    "watchlist"
    ],
    "model": "claude-haiku-4-5"
   },
