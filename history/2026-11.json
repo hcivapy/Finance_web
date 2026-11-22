@@ -2,6 +2,65 @@
  "month": "2026-11",
  "items": [
   {
+   "id": "ff69ae905ed2",
+   "date": "2026-11-22",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "regulation",
+   "reason": "California ตรวจสอบ Nvidia เกี่ยวกับการขายชิปเพื่อ China และการทำให้นักลงทุนเข้าใจผิด อาจมีการละเมิด criminal law",
+   "title": "California Nvidia Probe Covers Potential Criminal Law Violations",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-21/california-nvidia-probe-covers-potential-criminal-law-violations",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "4db6212e6773",
+   "date": "2026-11-22",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "regulation",
+   "reason": "Nvidia ยักษ์ชิป สัมพันธ์ Alice Huang กับการลักลอบส่งชิป China ระบุการเลี่ยง export controls",
+   "title": "The Alice Huang Associate Accused of Funneling Nvidia Chips to China",
+   "source": "WSJ",
+   "link": "https://www.wsj.com/tech/li-ming-megaspeed-nvidia-chips-china-6260d836?mod=rss_Technology",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "431dd3075c4b",
+   "date": "2026-11-22",
+   "tickers": [
+    "AMZN",
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "competitive_advantage",
+   "reason": "Amazon ซื้อ Decart $7.5 billion เพื่อแข่ง Nvidia ใน AI computing power",
+   "title": "Amazon closes in on $7.5bn deal to buy AI start-up Decart",
+   "source": "Financial Times",
+   "link": "https://www.ft.com/content/dc7749dc-0f40-44a6-80bc-7f747d383616?syn-25a6b1a6=1",
+   "paywall": true,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
    "id": "0e0e92b4d97c",
    "date": "2026-11-21",
    "tickers": [
@@ -379,6 +438,44 @@
    "paywall": true,
    "categories": [
     "fed"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "11cde84095e0",
+   "date": "2026-11-21",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "SpaceX ระดมทุน $32 billion bond เพื่อเงินลงทุน AI chip สะท้อนความเชื่อมั่นในธุรกิจ",
+   "title": "Goldman Sachs, Apollo Price $32 Billion SpaceX Bonds to Fund AI Chip Purchases",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-21/goldman-s-spacex-pitch-helps-solve-ai-debt-puzzle-credit-weekly",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "868c15c42fb0",
+   "date": "2026-11-21",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "regulation",
+   "reason": "FINRA สอบ Nvidia accounting practices สะท้อนความวิตกกังวลเกี่ยวกับความโปร่งใส",
+   "title": "Wall Street Regulator Probing Nvidia’s Accounting, Report Says",
+   "source": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQanJ2Vy1aLVpxUExDcF84eWx2YUlCNWZnY2JZbFp5YVlLMktzM3d5THFxTnpEajNHakd6bnNtNGRrTDJnNkprX1dWYVFwRTFudF9zcHh3QWpJZ1pxNlB6eHVVbTJLanNOYndlSURJSDBEYkFnckRCOWxSV1BoQnNOX3doTmlWNWVCeGM3SlNCelZSYVVKX2IxNnRjUW84eU5JMkFMT09uTFZsVmVrY3AzS2RSdw?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
    ],
    "model": "claude-haiku-4-5"
   },
@@ -978,6 +1075,25 @@
    "paywall": false,
    "categories": [
     "products"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "dd85e2a7e03f",
+   "date": "2026-11-20",
+   "tickers": [
+    "AMD"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "regulation",
+   "reason": "AMD มี China export control risks ที่คล้ายกับ Nvidia ตามกล่าวของ short-seller",
+   "title": "AMD stock plunges after short-seller says the chip maker has its own China problems",
+   "source": "Business Insider",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbW0tRzZBUlk0UFA3dmpTQ1Z5WFBrTy1LZ2d0dnd4bWRvSWRfeGgzbzc1ZDBYbkxTNXFKcThsRWZJMUNqdkNaTHhNbUxGNDJmYk53OFZ4SXZzSlptY0xrVXlRVjRqZnZQVjYzVjlOYXBGc0tkaHFaLWRrY21ybGFJUjE1YUtDR1Q3OVlGT2Jn?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
    ],
    "model": "claude-haiku-4-5"
   },
