@@ -1,11 +1,30 @@
 {
- "generated": "2026-11-22T04:02:10Z",
+ "generated": "2026-11-23T04:45:03Z",
  "months": [
   "2026-09",
   "2026-10",
   "2026-11"
  ],
  "items": [
+  {
+   "id": "3d5aaf6ea79e",
+   "date": "2026-11-23",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "regulation",
+   "reason": "US commerce secretary ขอการชี้แจงจาก Nvidia เกี่ยวกับการขายชิปให้จีน ส่งผลต่อการปกครองส่วนนอก",
+   "title": "US seeks answers on Nvidia's sale of chips to China, Bessent says",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcm1fbVJENmFGZU81bGR4WXVfeDMwdWdaY0xNbmVBN3hmaXVVeVBLelJxT3dubnROYnVkM2NCRXRfcFFvMGNtZ0FlM3c5LWt1WUVGclQzY1ZJTVBCR2d2dXozSXRqN0VIM1NsV0d2YVJLRjJpRnlIcVRNSlZqeURwLWhKa1V4dUNvWDdlZmNoMnQxQ1d6WlVGalNpdjVSZm9PMXRzUA?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
   {
    "id": "ff69ae905ed2",
    "date": "2026-11-22",
@@ -62,6 +81,44 @@
    "categories": [
     "watchlist",
     "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "ba5bf653f6e3",
+   "date": "2026-11-22",
+   "tickers": [
+    "META"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "regulation",
+   "reason": "Meta offices ในอินเดียถูกบุกรุกโดยผู้ประท้วง เกี่ยวข้องกับการลบบัญชี",
+   "title": "Protesters storm Meta offices in India",
+   "source": "The Verge",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNS25MSVByVTc3Rk5sU1VfcjJENk1fMjJ0VVVKa211NURJeWtCZkZjcHFlbVlFRlNYQkhYWEY1T3cyVGY3c05Xdl9VTjhKRVBLVXZ0SlMzMHJ6ejVnVVNfXzdOeV95UmIwNkloUFhIeWZlVktuTVRCRmxvSjFsbEtobUxB?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "648e342c2678",
+   "date": "2026-11-22",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "unclear",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "SpaceX เดิมพัน $74 billion บน AI data centers ยังคงเจรจาเรื่องต้นทุนไฟฟ้า",
+   "title": "Elon Musk's SpaceX is betting $74 billion on AI data centers. Texas and Arizona want to know who pays for the power",
+   "source": "Fortune",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdloySTJONWxBb2FZbXlwLVJaLU1ocUV6dzZjWU1pV2NUZEFaOEJBVFB6cjhxZWhvbE9jUi1XMWRNYXd2T0MwLTJMam1zUlJTZjZ6aU01bGpfVG9lZVlHRE1mNlNfWmdweHZMb2FyVUt5OERDd2xweW5kWkRUUWt1dzI5bnZ6VHVkTGx0d0ZlVlFQUQ?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
    ],
    "model": "claude-haiku-4-5"
   },
