@@ -2,6 +2,141 @@
  "month": "2026-11",
  "items": [
   {
+   "id": "0421756033f6",
+   "date": "2026-11-24",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "unclear",
+   "importance": "medium",
+   "impact_area": "management",
+   "reason": "SpaceX และ Tesla แต่งตั้ง five directors เพื่อนำทาง merger talks ที่มีผลต่อโครงสร้างบริหาร",
+   "title": "SpaceX, Tesla appoint five directors to guide merger talks, FT reports",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQXlLNG9FZFJ0SjJ6YmxybS03UEdTTDZuMUpzQ1pHdmZQUG1WRVdMRktKZ3ptRVVCNXkxdm92eEVBZ0N5c0pDemw5M3NOLUpxWV9tZHdQRWtJM2NnQnZZZVljOEtaRjQzdlRDR2hjM2VIWU9MZS12QmkwbDkyUl9mNGxRRUk4WW5IVm1QVWJuQWhyYS1jN1FMQzBmOHdhLWhTMjRHUnJhOVplSnY4Nm9YMmNfUHdqbms?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "195576682158",
+   "date": "2026-11-24",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "management",
+   "reason": "Nvidia board reinstate Jensen Huang เป็น CEO หลังได้รับความเห็นจาก US government ว่าไม่มีความเสี่ยง national security",
+   "title": "Nvidia reinstates Huang as CEO, citing no national security risk",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBLeG56REZpTzRyV0FwNEZTdDVVaVlXeThybU52OEZiYmxSRmNGelhISjdLWVNXcmZmZUhfV2xxVW1lNmQ4WnR5YTJkTzJpQVZIWXd6cFMxQTBuT0lkY2dkTDJwTEZIUUk?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "5d7bc90f9dc9",
+   "date": "2026-11-24",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "regulation",
+   "reason": "US blacklist Alibaba subsidiary และ Megaspeed ที่เกี่ยวข้องกับ Nvidia scandal สะท้อนความเสี่ยง export controls",
+   "title": "US blacklists Alibaba subsidiary and Megaspeed linked to Nvidia scandal",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZ3ZUR1ZCZXpLTkNjVFA5cm1ueHd6VjlHUzZSZWUtNE40NndKNFNWQVJqV3k4WHA5SU5BQTBvWmw5dlN3S1RZZHQ5WG5LRGhWMDFxUk83RjdGV0dqWUtjU3c4RlVkdkFBVlhfbXdiVm1WWW44dEtpUXY0Yjk0ZndBN2w3MURmNkVJLUlvM3ZpSmRfV3RTeUJYNHQtS29HaUFwejF2SlVtR2lpY0NqX3BYMg?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "59d7ffd5b924",
+   "date": "2026-11-24",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "regulation",
+   "reason": "Virginia และ Oregon sue SpaceX เกี่ยวกับ Grok AI creation ของ child sexual abuse images ส่งผลต่อการดำเนินการ",
+   "title": "Virginia, Oregon sue Musk's SpaceX over Grok AI's creation of child sexual abuse images",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObnVxU21QWWFOSHYzcW1sajgxS25DUndFTGd6dTh6UzdyaFR5U0QtMWlROWIxZ01IcU0wNG5FLXRaMWZoS1o0dHhEUUFiaDItWFVIbE01S1pTbDZxYVZGN1hMaHlNYXBZck84N3JPaW1xcW5VMHdNeFBHSWZmRVN6MzlHZjdEcl8wTkVERGhBU3M0dVBXSHBFUHNpM1pCc1Q0MV9HTWlveVJSV1hiSEFaWjJDMEI0b2p2bzBIZEdrampIVFlVWEE?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "debf4d650006",
+   "date": "2026-11-24",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "regulation",
+   "reason": "Britain บอกว่า SpaceX restrictions ใน Ukraine ทำให้ confidence และ trust ถูกทำลาย",
+   "title": "Britain says SpaceX restrictions in Ukraine 'dented confidence and trust'",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVVUwM3E2S25ITGFnMXI3UUZUcHRmTldCaHAzSnpFWDVjaEZXbF9kZV9fcXZOMWZkemxmV1NVYmYyNkhpTkdzUmVtRzkzRHpkcjFnQ0s1RFNpcnRuY095UzN2Z3hiN2l4OW5BM0hmUmNTVUlXQTVlbGpSQnFzNV9ZSTM0WEpWMnNfcHJCT3pmTFUyd2tVT2E0ZHBmN0V2UDh0YVJ4Z3M2ZzhUR0Z3LS16YUZTb1prcWxBLXd0R0RwdVQ?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "f91e40d411ad",
+   "date": "2026-11-24",
+   "tickers": [
+    "META"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "competitive_advantage",
+   "reason": "Meta launch Muse personal AI agent ใน UK ขยาย AI product offering",
+   "title": "Meta launches Muse in UK – the AI agent that can do your Christmas shopping",
+   "source": "The Guardian",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYnNPV3c5WnFtTU5oUUFrMDU5ZXpxTWljNm9hZHhlUFFtNDBEclNETVF5RGc1ei04dlNPbGZLazJRLUEwMkdCbDZkckE1UUNBU1R3QkpYR3JORDZkNnJMckFCelFldldjRElLWmxLbllyNHU3cFQ2d1AwMGItU205eWhRZFF2WFd1MFdTbzVBNXBGdTdiVlhEaWVrZnZUN2V0SFpOSFFn?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "products"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "33d6b6e6e348",
+   "date": "2026-11-24",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "regulation",
+   "reason": "Jensen Huang ยังคงอยู่ใต้ several probes แม้กลับมาเป็น CEO สะท้อนความเสี่ยง regulatory",
+   "title": "Jensen Huang Is Back at Nvidia. Major Investigations Still Surround Him.",
+   "source": "WSJ",
+   "link": "https://www.wsj.com/tech/ai/jensen-huang-is-back-at-nvidia-major-investigations-still-surround-him-c904001c?mod=rss_markets_main",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
    "id": "3d5aaf6ea79e",
    "date": "2026-11-23",
    "tickers": [
@@ -14,6 +149,45 @@
    "title": "US seeks answers on Nvidia's sale of chips to China, Bessent says",
    "source": "Reuters",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcm1fbVJENmFGZU81bGR4WXVfeDMwdWdaY0xNbmVBN3hmaXVVeVBLelJxT3dubnROYnVkM2NCRXRfcFFvMGNtZ0FlM3c5LWt1WUVGclQzY1ZJTVBCR2d2dXozSXRqN0VIM1NsV0d2YVJLRjJpRnlIcVRNSlZqeURwLWhKa1V4dUNvWDdlZmNoMnQxQ1d6WlVGalNpdjVSZm9PMXRzUA?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "d67f45d8d649",
+   "date": "2026-11-23",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "competitive_advantage",
+   "reason": "Amazon acquire Decart AI chip optimization tech เพิ่มความสามารถในการปรับปรุง AI chips",
+   "title": "Amazon to buy Decart's AI chip optimization tech in latest AI talent grab",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORW5Dd2o3Ty1RU2Rmbl9tMi1pcS1DUTlFY0x0c1d5czk4R2Z0YXZObUJyRkFTYk1yMlhyYk5YUGIwOFg0dUotVGR1cU15VjhOVVNzYmVxQlVQN1hPeDBPOHdGZ1FjS21BRVdWYkF5azRKdzBWLVh2WnV4YWp5dlFtRFpPSHdZNkx4V2syeHpOOXV0RHBSUnFjRkZEc3RHR2gtUFZuNVVPWm9YOW84VmM5dnpXMGt6OHpNalpiTlBpM1ZIcE1JSlE?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "9b1475a8094a",
+   "date": "2026-11-23",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "regulation",
+   "reason": "US probe Megaspeed และ Alice Huang ในเคส Nvidia chip security investigation",
+   "title": "U.S. probes Megaspeed, Alice Huang as new figure emerges in Nvidia chip case",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/23/nvidia-megaspeed-chipmaker-us.html",
    "paywall": false,
    "categories": [
     "watchlist"
