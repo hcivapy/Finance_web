@@ -1,11 +1,221 @@
 {
- "generated": "2026-11-24T07:36:17Z",
+ "generated": "2026-11-25T06:04:52Z",
  "months": [
   "2026-09",
   "2026-10",
   "2026-11"
  ],
  "items": [
+  {
+   "id": "fbb56a7fad7d",
+   "date": "2026-11-25",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "regulation",
+   "reason": "US Schumer กล่าวหา Huang ละเมิดกฎควบคุมการส่งออก AI ที่มีความสำคัญต่อระบบการรักษาความมั่นคงแห่งชาติ",
+   "title": "Schumer accuses Nvidia CEO of violating US export control law",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWkIyNDFsT2dsN05tM0U4NFZjRU9IZG1Bemx1b2hqOXFneHV3bDBnY0gzc3drRkxjY0JqWVdPTW8xR29QUy1wczZRM0FaemMzMEk3X2I5Wlp5elVhS0dTb2tIMFJ3VlZ3a0dNelRZYWFpeVA0THA3UDkwMGVtd1BZMENTbEZ6alRuR3pnNnI0TGdMWjZ3VVBmb2lDZHd4ckJwVzJRTk1veERGQQ?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "8428b27d731b",
+   "date": "2026-11-25",
+   "tickers": [
+    "META"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Meta Muse personal AI agent เพิ่ม ad impressions ให้ Meta แม้ไม่มี ads ในตัว tool",
+   "title": "How Meta is using Instagram to get an ad boost from its Muse personal AI agent",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/24/meta-instagram-muse-ad-revenue.html",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "62a548996c59",
+   "date": "2026-11-25",
+   "tickers": [
+    "META"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "regulation",
+   "reason": "ศาลตัดสินว่า Meta และ social media firms ไม่รับผิดชอบสำหรับ Buffalo shooting",
+   "title": "Meta and other social media firms are not liable for Buffalo mass shooting, court rules",
+   "source": "The Guardian",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQUxHdVpmTVV3cmNteUw4NTBmR2s2MU9WXzZ3S3RtRVRxZnFfV1JVWVhjbmFpYXJ1THdFU0ZCajFlekJZVWpCdTkzYi03Rkg5aWY1Nk1pS1hZYVNxN3NiUmlyTGJ5UklnNW8yNVpFVWtwbXZYUGw5VmQ2a21aeVVmOFV5bEE4UFI0MTI4MDg5bWJwcU5fSVZ6eFZGRG5QeGM?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "dba2ba29d643",
+   "date": "2026-11-25",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Amazon Autos ขยายไปยัง UK ครั้งแรกนอก US เพิ่มรายได้ใหม่จากบริการ",
+   "title": "Amazon Autos is coming to the UK—the first country outside the US",
+   "source": "Amazon News",
+   "link": "https://www.aboutamazon.com/news/retail/amazon-autos-uk?utm_source=rss",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "5ca6464a50a3",
+   "date": "2026-11-25",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "revenue",
+   "reason": "Amazon Leo satellites ได้การสนับสนุนจาก 13 ประเทศยุโรป ที่มี 600+ ธุรกิจช่วยสร้าง",
+   "title": "How Amazon Leo's satellites launch with help from 13 European countries",
+   "source": "Amazon News",
+   "link": "https://www.aboutamazon.com/news/amazon-leo/amazon-leo-ariane-space?utm_source=rss",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "products"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "bdc0971ba237",
+   "date": "2026-11-25",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "competitive_advantage",
+   "reason": "Amazon Falcon 9 และ Ariane 6 สามารถจัดส่ง satellites เมื่อบริษัทอื่นทำไม่ได้",
+   "title": "Amazon discovers Falcon 9 and Ariane 6 can deliver when nobody else can",
+   "source": "Ars Technica",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOR3dUNnBuS2JEQmNhdkJSQ0cyR3RGbjNtVFUtNzdmQWZTN3R2cVN6cWs5aWkxd0ZVcnBvaWVXdFRuU1NIOXFMUVNOMEwzaGJISVpBRW45eWYzNGphZ1k5bXVRWmJ3R0NtZHowMW9NYi13TUVNdjl0M0FEYkNyOWc5YkVBRTVlNWFFSldXU1cxYXR2MWR4cG9hN1Vxd0NFS3BvRTNfM3p4NGZwdw?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "df52bab03433",
+   "date": "2026-11-25",
+   "tickers": [
+    "6981"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Murata Manufacturing stock พุ่ง 14.89% เนื่องจาก data center sales เพิ่มเป็นสองเท่า",
+   "title": "Murata Manufacturing Stocks Jump 14.89% as Data Center Sales Double",
+   "source": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMFlKaUd5ZVRxYWxTemtsVXZPYW51bkxEdDFvMV9WenFPWTA3dFltUXJqY2hLbzBJR3lNOW1GQTVYazZnblhZblEwc3BjVmtva1FFUkRESU9LWTU2V1pBRWlYalczLVdKUUdqUjZyeWkxQTFLNF91RDZCaXotVWZoWjlsZjdKVFlfbFU5Zl9fY1Q0NFRmaGh2ZTZ3TllFRFZYZ3dSNHBINGU5R194NXNFcGJGVUlUNVVRaTJGOEYtX29nVXFO?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "676c9852aae1",
+   "date": "2026-11-25",
+   "tickers": [
+    "MU"
+   ],
+   "direction": "unclear",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Micron วางแผน buyback แต่ไม่ชัดว่าจะช่วยเพิ่ม stock price ได้",
+   "title": "Micron Stock Is Counting on a Buyback Bounce. Why It’s No Slam Dunk.",
+   "source": "Barron's",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBpZ3dObUpYUENEWWp5NG43UDdpMlI0ZVdPRUp5clkzTXg1UlhCYVFlem9wYzU2eEV2UENYSXRHZjhTb1kxRlI5MXpvRFJ0dTJ3eElCeU01OGJWRUFvdHM5LV9GZkJiWnlOYW9IMFIxRQ?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "76765278d4e4",
+   "date": "2026-11-25",
+   "tickers": [
+    "MU"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "BNP Paribas analyst เตือน memory chips oversupply risk อาจขัด Micron pricing power",
+   "title": "Micron’s stock falls as an analyst warns about a future supply glut",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/microns-stock-falls-as-an-analyst-warns-about-a-future-supply-glut-f7fbeefb?mod=mw_rss_topstories",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "02f90544e251",
+   "date": "2026-11-25",
+   "tickers": [
+    "MACRO"
+   ],
+   "direction": "unclear",
+   "importance": "medium",
+   "impact_area": "macro",
+   "reason": "Federal Reserve Minutes October 19 และ 28 2026 ประกาศนโยบายการมัธยมสถาบัน",
+   "title": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
+   "source": "Federal Reserve",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261124a.htm",
+   "paywall": false,
+   "categories": [
+    "fed"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "5e4e24b59f85",
+   "date": "2026-11-25",
+   "tickers": [
+    "XAUUSD"
+   ],
+   "direction": "negative",
+   "importance": "low",
+   "impact_area": "macro",
+   "reason": "Gold ขยายการสูญเสีย เนื่องจาก tech stocks slide และ Fed inflation test",
+   "title": "Gold, silver extend losses as tech stocks slide, Fed inflation test looms - Kitco PM Report",
+   "source": "Kitco",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOU2lqcG5YQlM4N3pRZHUyQkIyM2ZCZ1FLTE9ZTzNLQWNCRkxzdnFZS2VFcHVUY2Nfcjc2TzFPaV83WXNKUzd0SE5YZVZUYXYyMF9nbzBzamo2MjB0M2hUQkRQRzBUTk5wVzBPbU01ZFU0TFhyZktReS1KZ0E1MjNySU1JcHhsaTB3QlFUeGVyRzcyT01xMmxXejJzYW5BcmtJcG13SGFMZ3VKZjM1SmZYV1JFSGttM3l3NWpucw?oc=5",
+   "paywall": false,
+   "categories": [
+    "crypto_gold"
+   ],
+   "model": "claude-haiku-4-5"
+  },
   {
    "id": "0421756033f6",
    "date": "2026-11-24",
@@ -138,6 +348,202 @@
    "paywall": true,
    "categories": [
     "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "206e9a53af20",
+   "date": "2026-11-24",
+   "tickers": [
+    "MSFT"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "other",
+   "reason": "Microsoft ประกาศ Code Red หลังจากระบบ cloud ประสบอุบัติเหตุครั้งใหญ่ที่สุดในประวัติศาสตร์",
+   "title": "EXCLUSIVE: Microsoft declares 'Code Red' after historic outage, internal memos show",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZWlZRm9kdXdaMDkwUWdXZVZPM2NTakFfZTFDa3Iwcm5yNXh4enZZVWRpWjBuc2ZpVERzOElVc0h5NjY4eXZnb0w5YUZ4Wm1nRmUwd04xQmNKZDQxOFlQWk12N0FCd3hSQTVLVFFWZmJKbm01S0pCM1AwRXVRZklpdWJfdkJ1N0FDdS1EZGNqTzd4WjZoUy1qZ1QwNktXdUlMWlBDYW9jYlozNEVDV01DSGZlVVc?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "c74e33f61808",
+   "date": "2026-11-24",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "regulation",
+   "reason": "Waymo recall การทํางานผิดพลาดของ robotaxis 11 ครั้งเข้าสู่ freeway ปิด",
+   "title": "Waymo says recall prompted by 11 new incidents of robotaxis entering closed freeway lanes",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbjBnSXVGODVWenNyYjRlTmhkQTVrNWI3eGtNUkExWjBsLWQ3a2UtUjJQUEd1b1F1OHJpbkY4cEVqOHFwVlZWVmNneC1oUTFOaGFQbmE5MG4tQ1NoTFBFcUJJMnZYWlhodHNOY2RRMTdmRXBCMW16Z0JlcE1Fb1pLUlpIVEFqQ0Z5SUxSTTZMUEItM1ZrY3BrbWFZaHFpazRYR1U2ZmtHUWxMekxKTzFSbk1qSUI2dENta3J3Ujc0ckxrZDV2UjFLOFBCNlV0dw?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "1b6f6f2cd03c",
+   "date": "2026-11-24",
+   "tickers": [
+    "TSM"
+   ],
+   "direction": "unclear",
+   "importance": "medium",
+   "impact_area": "other",
+   "reason": "TSMC ขอลด property tax สำหรับสิ่งอำนวยความสะดวก Texas $22.6 billion แต่ยังไม่ได้อนุมัติ",
+   "title": "TSMC unit seeks Texas property tax limit for proposed $22.6 billion chip making facility",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZGhGRUlVZHA1MXVNbkVDQUZjN3U0aDR4NHRYNlR3cG1ValF0OUNQbU5wWjNrMnBMOWFVN195eUVNaVhiNy14b3YtSVdFWHpRYl9ZQTNmOFE2ZUdjaEtDRUNva1UxeHJFSVJfSWhHU2hJUHFrNUNWekRGSzBqbU1kRFVxQk52bDVGRUVEUGEtR0MyMDRGM0dacjdmNDNEMEFDaGNTMTVlU2JfUEVrTGVCYkJkb0otSVpyd2c?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "c9de545b1e00",
+   "date": "2026-11-24",
+   "tickers": [
+    "AMZN",
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "competitive_advantage",
+   "reason": "Amazon acquire Decart $7.5 billion เพื่อปรับปรุง Trainium chips ลดช่องว่างกับ Nvidia",
+   "title": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
+   "paywall": false,
+   "categories": [
+    "deals",
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "6b303a5a8068",
+   "date": "2026-11-24",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "negative",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Amazon ค้นพบ hackers AI agents ค้นหาและใช้ประโยชน์ 0-day vulnerability",
+   "title": "Amazon says hackers’ AI agents found and exploited 0-day with little human input",
+   "source": "Ars Technica",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbEl5b3ZJMXBEYm5sS0J6cWR4WUhtUnYzaXV1emJQSFFDdERIVTMyVmdPVnpHaV9ubVJDUTVBa3NQOVFlcXBDQjJiWkQyVmJ0X3hxamd1MEFfWC1sZHE4RmVIRy1tUnBMMHBrdXpOMnVoX1JEXzRrVGthRkQtRlI0dFh0VHBSX0t3STlmRFRGbGd2azlMSjlxbnA3Y3lhbWNBWFRwSHN0NjVfbHBPSEVsdWRtNUR5Y1ZtcGJkRHF3?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "7c65b8cc05d5",
+   "date": "2026-11-24",
+   "tickers": [
+    "AMZN",
+    "SPCX"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Amazon ส่งเทียม Amazon Leo satellites เพื่อแข่งขัน Starlink network",
+   "title": "Amazon Launches Satellites for Network to Rival Starlink",
+   "source": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTW5qcGFvdUp6QWVubFp3RTZHNjM4T3FyUWdrci1MRmFUSFZxeVpkcDc1NTBsN1ZCU1pTZjZLSmZKXzZjckc3b3N6bml0RzM1NHlGenJ0aDdLT2hQS2h0SFdfb1lfOVJoNWoxc0hOWnEyNXBGcVNUeE1zVE5UYTBVTDEtdXdIUU5Ja0gyMnQzbl84MGU3SUZXdUtieG1nZk1ISjJoc0FaRkVRQ3dNMUxCdDRjSHQ?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist",
+    "products"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "d411b3c8bed0",
+   "date": "2026-11-24",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "regulation",
+   "reason": "Megaspeed International ถูก US blacklist ห้ามซื้อ advanced AI chips เนื่องจาก Huang scandal",
+   "title": "Megaspeed Faces US Blacklist After Nvidia CEO Ouster, Sources Say",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-23/us-to-blacklist-megaspeed-the-firm-at-center-of-nvidia-scandal",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "40a7370be831",
+   "date": "2026-11-24",
+   "tickers": [
+    "XAUUSD"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "macro",
+   "reason": "Gold ตกลง 2% บน hawkish Fed bets ก่อนข้อมูล US inflation",
+   "title": "Gold falls 2% on hawkish Fed bets, US inflation data in focus",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOX2lLRXdXdmpCM0FsdHVpNkdYTWttMDRZd294U3VSZGtqczloSEN5N1VfTzBpbjJLZGYwWm55RDlXSmY0b2tod0tBUl9lbkl4TW13VDBuWEVDYjgxamc4anBNdGhtWTdvUUNiYUp5MDlJVU81Sl9qa283bUIzTUNCU0lZZ1VBdXo2UW5hQmoyT191dFpWODY2aldnOVJmRzVaaV9tZDF2U0hKbmRubUg0TllIendaRzg?oc=5",
+   "paywall": false,
+   "categories": [
+    "fed",
+    "crypto_gold"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "6d9347f1042c",
+   "date": "2026-11-24",
+   "tickers": [
+    "XAUUSD"
+   ],
+   "direction": "unclear",
+   "importance": "low",
+   "impact_area": "macro",
+   "reason": "Gold ลดลงเล็กน้อยขณะตลาด รอข้อมูล US inflation",
+   "title": "Gold edges lower as markets await US inflation data",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOX2lLRXdXdmpCM0FsdHVpNkdYTWttMDRZd294U3VSZGtqczloSEN5N1VfTzBpbjJLZGYwWm55RDlXSmY0b2tod0tBUl9lbkl4TW13VDBuWEVDYjgxamc4anBNdGhtWTdvUUNiYUp5MDlJVU81Sl9qa283bUIzTUNCU0lZZ1VBdXo2UW5hQmoyT191dFpWODY2aldnOVJmRzVaaV9tZDF2U0hKbmRubUg0TllIendaRzg?oc=5",
+   "paywall": false,
+   "categories": [
+    "fed",
+    "crypto_gold"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "d1efa091d8e9",
+   "date": "2026-11-24",
+   "tickers": [
+    "BTCUSD"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Bitcoin spot ETF outflows เพิ่มขึ้นเป็นสถิติใหม่ $4.71 billion ใน November",
+   "title": "Bitcoin drops as November spot ETF outflows increase to record $4.71 billion",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/daybook-us/2026/11/24/bitcoin-drops-as-november-spot-etf-outflows-increase-to-record-usd4-71-billion",
+   "paywall": false,
+   "categories": [
+    "crypto_gold"
    ],
    "model": "claude-haiku-4-5"
   },
