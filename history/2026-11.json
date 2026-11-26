@@ -2,6 +2,160 @@
  "month": "2026-11",
  "items": [
   {
+   "id": "c550a3f14e5c",
+   "date": "2026-11-26",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "competitive_advantage",
+   "reason": "FCC อนุมัติให้ SpaceX deploy 1 ล้าน orbital data center satellites เพิ่มศักยภาพด้าน AI infrastructure",
+   "title": "US authorizes SpaceX to deploy 1 million satellites for data centers in space",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVk5uRnprd285MEw5V2prcHR6bXljVGN4cUZuOHA4eHJUZkFzOVFnS1QtYnZaal8yYUYxa0t1cW84WjVzQWpub0czSGxUblh3STB6WnZxcThWZUxNRDk2emliZ0tfTmk5U3YxY3FZRXdEYWNyb2VMTmlkZE5RNWZHOS12OWdjSkpNdzhGU0Z4NWo3VmpSZHNXWGNJZUFpZjl2T2xuUkRKRXBpOTFqVFdFLXFvV0xHd1czWDFKbFU3OWFGU21B?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "e0f93b2aa816",
+   "date": "2026-11-26",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "regulation",
+   "reason": "China ได้ access Nvidia AI chips แม้มีกฎห้าม เล่นระบบและ supply chain security ของ Nvidia",
+   "title": "How China got access to Nvidia's AI chips despite rules to stop them",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPU05FY1hvQmJod19oM3p3aTZQaS1CdktCWEZsSnk0TmVWREE1a0tmVW5kVnBxdG5VNU1TX2FmWnZ1aTc1UEQyblFkSklCZ3NlcU1XQUZQVDUwTXZ6R3BoVjlRb1RPY0pTNGdmUUdNZkw0Zi1oanJOcXFieGlBdzRTN05pa3FsaVhUWVk0UWpzc0hkN2kySGF6bGRpU1Y1a2IyNi1iaUFQZThLNVZON0E?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "c614679f9054",
+   "date": "2026-11-26",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Nvidia ตกลง settle investor class action訴訟 ค่า $290 million ประจำ 2018",
+   "title": "Nvidia agrees to settle 2018 US investor class action for $290 million",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQ2cwWG1mYkVmSG5oSTgwZmcxcVY5SWg2ak5aTHBtbG1qWHVvcGxjOGQzTFZKZkNSdWgtOHJtbW1BenVtTWc2UmFrOFpHbTV1Mnh5MWgxWk00R0NrVG5PX0hkNWxmczRRLWdnRUtvRFBhMzVzZUlRN0FXRFVJYlNTVUJaT1U3eVY4SUwtNFd2a1MweTlBZW1ReG9mU0pQa2ZUd3RnaEZtMXNyQmhxeDV0SGN1eWRGcDN2UExZ?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "012850290c60",
+   "date": "2026-11-26",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "management",
+   "reason": "S&P Global วางระบบประเมิน downgrade Nvidia credit rating เพราะ rising governance และ management risk",
+   "title": "S&P warns Nvidia credit rating could be cut over 'rising' management and governance risk",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/26/nvidia-market-governance-risk.html",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "market"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "4c51f235199c",
+   "date": "2026-11-26",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Nvidia GPU sellers หาซื้อใหม่หลังกฎใหม่ของสหรัฐ ห้ามจำกัด remote access AI chips สำหรับลูกค้า China",
+   "title": "Nvidia sellers seek new buyers as U.S. curbs China AI chip access, sources tell CNBC",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/25/nvidia-china-ai-chip-remote-access.html",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "5d007c674d0e",
+   "date": "2026-11-26",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "negative",
+   "importance": "low",
+   "impact_area": "regulation",
+   "reason": "Amazon ไม่สำเร็จในความพยายาม หลีกเลี่ยงการจัดการ recall notices เพิ่มเติม",
+   "title": "Amazon loses its latest attempt to get out of handling more recall notices",
+   "source": "The Verge",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9WcGNDd0V2OWdWekQ4aThZb2ZsVm9pN0VWZ2plZkd6TllHaFBLdEFneVRjMndYY3lsN3E2RVlMY1lPY21tZnktd2VyVFd4c2N0OTlDR0xyWG9yZGNvVU9ENF9Ici1GN2RvX2Vaem16QQ?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "e45abdfb281b",
+   "date": "2026-11-26",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Amazon Leo Network ได้ launch win ผลิตภัณฑ์ AI ใหม่เข้าสู่ตลาด",
+   "title": "Amazon’s Star-Crossed Leo Network Gets a Launch Win",
+   "source": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWXZEc1RteDA0ZHhGY0xFX1NsMENSY1o5Mlo5RGNGdFlYRXRINGdEVkI2bGpCdWxfeHEybUl5aGh0em55and6ekEtUGt5TkRNQm1fNUp6WFJzOFlUdTl0ODhUZmMydlhwbzdBUWlZQ1JQM2NLZzhtTE1JenR1N1dqRzE2cTdBZXd0MUV2WllkaU5QNDNjaUNTMlN2ZU1JZ1pwRWE1V0F5LWhRMzUtUTBV?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist",
+    "products"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "b45df855117a",
+   "date": "2026-11-26",
+   "tickers": [
+    "BTCUSD"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "regulation",
+   "reason": "Bill lock up US government bitcoin 20 ปี codify Trump Strategic Bitcoin Reserve ผ่านคณะกรรมาธิการ",
+   "title": "Bill to lock up U.S. government bitcoin for 20 years advances to full House",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/policy/2026/11/26/strategic-bitcoin-reserve-bill-to-lock-up-u-s-government-held-bitcoin-for-20-years-goes-to-full-house",
+   "paywall": false,
+   "categories": [
+    "crypto_gold"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
    "id": "fbb56a7fad7d",
    "date": "2026-11-25",
    "tickers": [
@@ -205,6 +359,203 @@
    "title": "Gold, silver extend losses as tech stocks slide, Fed inflation test looms - Kitco PM Report",
    "source": "Kitco",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOU2lqcG5YQlM4N3pRZHUyQkIyM2ZCZ1FLTE9ZTzNLQWNCRkxzdnFZS2VFcHVUY2Nfcjc2TzFPaV83WXNKUzd0SE5YZVZUYXYyMF9nbzBzamo2MjB0M2hUQkRQRzBUTk5wVzBPbU01ZFU0TFhyZktReS1KZ0E1MjNySU1JcHhsaTB3QlFUeGVyRzcyT01xMmxXejJzYW5BcmtJcG13SGFMZ3VKZjM1SmZYV1JFSGttM3l3NWpucw?oc=5",
+   "paywall": false,
+   "categories": [
+    "crypto_gold"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "7f143cb2be61",
+   "date": "2026-11-25",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Amazon เตรียม launch Amazon Autos ในสหราชอาณาจักร ในช่วงต้น 2027 ขยายตลาดใหม่",
+   "title": "Amazon to launch Amazon Autos in UK in early 2027 in first expansion beyond US",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWEtzNzh2NUdSdE41Yi1FYUY2Unk4Q3Z6bGlrb1UxVkxScVV5cmJzRmNZaUp4VFhCSEUwcWNOVHM2aUU3LVByVG81UEhHSFBnWWlmbnFqbC10QzhmVW5JMk84Y0RiVXpvZ3dUWElUNWVnWFBYZEN6Nk8xMVFHWlVPOUxPYi1MdHFSa3NXeVJ0ck9RdHVWYTdXSVJHZzBTZ3lNdFdzUU03MzFjaThMREZxaDUwdm8wQ2JjM25UNlR1ODlOb2c0Vk9DRHRKR3Y?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "products"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "de0786abf59d",
+   "date": "2026-11-25",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "regulation",
+   "reason": "Malaysia regulator ร้องสูญหาย Google $146 ล้าน เรื่อง harmful content จากท่องเน็ต",
+   "title": "Malaysia regulator seeks $146 million damages from Google over 'harmful' content",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTE14N1VWUVJlZHQ1QW1ZcDlhOF8ybW5qTlg3VFUyN2x3NkNrdng0SlZaR2kzLVlMT08wN3ZxdWZhTW1Sako5LUE2ZFhxZzdrNllScjdfazh6eFIzN3NmYU9RTmQxTXlpTUNXblQtTjM3eXhNV2FJcWQ5VFpCUHpvUWdNWEsxaVBhVlZVZHVaMGYxb0pFOWVNZGg1cG16MWE5Z2RjanljM2MyTWw3YVNTMmZFZ3hET2E0UW1XVjh3OTdpUnpK?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "cba939264d02",
+   "date": "2026-11-25",
+   "tickers": [
+    "AMZN",
+    "META"
+   ],
+   "direction": "unclear",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Amazon และ Meta หารือยกเลิก blockade ของ Muse AI shopping agent ปลด 2 เดือนบล็อก",
+   "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+   "paywall": false,
+   "categories": [
+    "deals",
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "49046371ce29",
+   "date": "2026-11-25",
+   "tickers": [
+    "MSFT"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Microsoft ประกาศ Code Red หลังจาก massive Outlook outage ส่งผลต่อ customer experience",
+   "title": "Microsoft declares “Code Red” after huge Outlook outage",
+   "source": "The Verge",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBuZ3V4djdZdnFvWXFyZGVFNEYxTTBybmRvMVB2VlRQV3NjWGJaUm9jamtUSHpCYXhiN0VXMFdyOHdycmdWZGQ4ak1abUtBOWc1QUZzMU5IWVptcmY4U1NEM1NFcGdYUUlrLXFFdWN0OHRadWNORDc2cnZpQQ?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "220e6bff9309",
+   "date": "2026-11-25",
+   "tickers": [
+    "NVDA",
+    "TSM"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "revenue",
+   "reason": "Trump นำการ groundbreaking TSMC Arizona เสริมกำลัง chip manufacturing ใน US หลังอนุมัติ Huang",
+   "title": "Trump to Lead TSMC Groundbreaking in Arizona After Nvidia Gambit",
+   "source": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbDNXQmZYQ3VSX1plNFl4Y1pPbVR5elFiNUprUGx6aDRTdkxSS3V3d1NETjM0eEtVZFRaeDU4TnNyME1lY0ViYTk2MmVUWWxvOTg5elk4ajRtTDljczR5TGlNT1otaXVWYzJtR3hWaXhBVFRFVnJCRGVJQXRHN0xpVVVGMzF5eGVUYVZjTl9zb0V1RnA5UEZyaEJlUVZzMWRNaWotTHN6Z2ZGa2xEaVh0YmV0N1phQQ?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "b00198fc7b4e",
+   "date": "2026-11-25",
+   "tickers": [
+    "NVDA",
+    "TSM"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Huang boost fades เมื่อ AI fears sink TSMC SK Hynix shares ตลาดเก็บสต็อก",
+   "title": "Huang Boost Fades Quickly as AI Fears Sink TSMC, SK Hynix Shares",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-25/jensen-huang-boost-fades-fast-as-taiwan-stocks-tumble-8",
+   "paywall": true,
+   "categories": [
+    "watchlist",
+    "market"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "e4cd3441264e",
+   "date": "2026-11-25",
+   "tickers": [
+    "MACRO"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "macro",
+   "reason": "Fed preferred inflation gauge PCE ไป 3.8% ในตุลา 2026 ปรับขึ้นจากคาดหมาย",
+   "title": "Fed’s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
+   "paywall": false,
+   "categories": [
+    "fed",
+    "market"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "424f1411ff9f",
+   "date": "2026-11-25",
+   "tickers": [
+    "MACRO"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "macro",
+   "reason": "US GDP เพิ่มอัตรา 4.3% ประจำปี Q3 2026 ตามการประมาณที่สอง BEA",
+   "title": "GDP, (Second Estimate) and Corporate Profits, 3rd Quarter 2026",
+   "source": "BEA",
+   "link": "https://www.bea.gov/news/2026/gdp-second-estimate-and-corporate-profits-3rd-quarter-2026",
+   "paywall": false,
+   "categories": [
+    "fed"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "aec1de3663bc",
+   "date": "2026-11-25",
+   "tickers": [
+    "XAUUSD"
+   ],
+   "direction": "positive",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "India central bank เพิ่มส่วนแบ่ง domestically held gold reserves ซื้อเพิ่ม",
+   "title": "India central bank raises share of domestically held gold reserves, data shows",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMEMwcHFHV3NkQ1FrTkJiMlUzNGdYVjJ1aXA3YXI0OVlMbWk3cEp3T3Z0ZHhvMUNVZ0k3bjc1bm81T0pnd2V0ZWU3ZjBCeDVDQ1Q0dGhZOGprTUhHeDZDMzlQWXpSQkF5Vkk5UTMwTTNSeDNvVGZsNHZSeE1CNHMzalBfZUZIZjlqNWl1V2pleDdCVHJwLUkwRFRqc2F0czF6ZmlLZWlrS0U2QU5jeThVNGJJb0M5UlJOVHA3aDFxNA?oc=5",
+   "paywall": false,
+   "categories": [
+    "crypto_gold"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "847eb3c3c912",
+   "date": "2026-11-25",
+   "tickers": [
+    "BTCUSD"
+   ],
+   "direction": "unclear",
+   "importance": "low",
+   "impact_area": "other",
+   "reason": "Bitcoin มีสัปดาห์ยากลำบากท่ามกลาง South Korea stablecoin policy shift",
+   "title": "Crypto Weekly: bitcoin's difficult week, South Korea's stablecoin shift",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rcnNMbzBGbXhoUWo3SW8yc3FQekxOeUc2U250SVRHZld6OGdmaGVaQlk0bDQ0UmpnTmJuWGp4OS1ka0ttcW9wN0lQOHRndHZidjRBV3VndXMyNFR0YW1LX3B4ODF3TGs?oc=5",
    "paywall": false,
    "categories": [
     "crypto_gold"
