@@ -1,11 +1,49 @@
 {
- "generated": "2026-11-26T05:57:35Z",
+ "generated": "2026-11-27T05:51:32Z",
  "months": [
   "2026-09",
   "2026-10",
   "2026-11"
  ],
  "items": [
+  {
+   "id": "8ba58aa59e40",
+   "date": "2026-11-27",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "regulation",
+   "reason": "BIS ออก rule ใหม่ห้ามผู้ซื้อ Nvidia GPU ให้ เช่ากับผู้เช่าจากจีน ปิดช่องโหว่",
+   "title": "Nvidia chip buyers told to rule out Chinese renters to purchase GPUs, sources say",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "b2790a4b5518",
+   "date": "2026-11-27",
+   "tickers": [
+    "XAUUSD"
+   ],
+   "direction": "negative",
+   "importance": "low",
+   "impact_area": "macro",
+   "reason": "ธนาคารแห่งชาติอินเดีย นำทองคำกลับมา 60 ตัน หุ้น FX reserves ลดเป็น 14.38%",
+   "title": "India’s central bank repatriates another 60 tonnes of gold in 2026 as share of FX reserves drops to 14.38%",
+   "source": "Kitco",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOGE0WUZ0UVRyeHV2dHBJRzFzTUdnQlVnT0NBQnVwSHpybk5hRV9PVHhWa1E4ak9TaGVFbFlLSVNGRERqbFQ0UVh4WldETUJkLWhnczlOSDBCcDdwMGx0dmJ0QTBvY2d6X3F6SXIxRUxDX0hRWi12ZGxmRms4VzRETlprVHVmaHFjZi1fQjVGRjltZXhCOUo5R3ZPTVNVbWN2NHdWdzc5SERVUndJdU45cXZ6QnU?oc=5",
+   "paywall": false,
+   "categories": [
+    "crypto_gold"
+   ],
+   "model": "claude-haiku-4-5"
+  },
   {
    "id": "c550a3f14e5c",
    "date": "2026-11-26",
@@ -157,6 +195,141 @@
    "paywall": false,
    "categories": [
     "crypto_gold"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "107edfcbb6ac",
+   "date": "2026-11-26",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "regulation",
+   "reason": "Nvidia หยุดการจัดส่ง server ไปยัง 4 ประเทศในเอเชียตะวันออกเฉียงใต้ เนื่องจาก export control ของสหรัฐฯ",
+   "title": "Nvidia halts server shipments to four Southeast Asian countries, FT reports",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOM1ZtZ1FmQ3d0Nk9xZzFmaDNtd3ZURjZ1cm1sWkptUktqcm1aOUc3eWpIYjVpUGoxWGxWd2FjRTZiTzBGRGtaTTA3ZUFsTEJLNk5BV3VfV2VKNHJVbk1mTDJqYkZkdEFPQ09jdzVHRzBHazlKVko5bVp4WDZMSUpUaEpyZk5ZUUUxbm42MjBIRWJCaGZzVXRkNklKN2dfdDRES3RwazQ1UU55Q3Bf?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "83661a579812",
+   "date": "2026-11-26",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "other",
+   "reason": "FCC อนุมัติให้ SpaceX บรรจุดาวเทียมได้ 1 ล้านตัวเพื่อ data centers ในอวกาศ",
+   "title": "FCC says SpaceX can deploy 1 million satellites for data centers in space. Scientists are skeptical",
+   "source": "AP News",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUmh3LVh3RnFNUW5hVjJWcXlzOERNTTloeEdIbnRiRGVSV1B4UzJaWVhudzNvS0Q4YlRvN1pUTThRVjhka1JpYUFBWC1RWW1hYnFxT3RxM0VoMERWRmlJdmd4LXJJR0F5S083cThjNDFWay1zRWVPcmRUeXR5WWVuQ01ObUVGRVZBOGFzTDdobUxMUQ?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "988cd8ac9162",
+   "date": "2026-11-26",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "competitive_advantage",
+   "reason": "โรงงานดาวเทียมที่ใหญ่ที่สุดของยุโรปเปิดตัว ผลิตได้ 500 ดาวเทียมต่อปี แข่งกับ Starlink",
+   "title": "Taking on Starlink: Europe’s largest satellite factory opens in push to rival Musk",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/26/starlink-satellites-aerospacelab-factory-belgium.html",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "07e7be8c03b1",
+   "date": "2026-11-26",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "negative",
+   "importance": "low",
+   "impact_area": "regulation",
+   "reason": "คำร้อง訴訟กล่าวหาข้อตกลง land deal ระหว่าง SpaceX และ ExxonMobil ผิดกฎหมาย open meetings",
+   "title": "Suit alleges Louisiana land deal between SpaceX and ExxonMobil violates open meetings law",
+   "source": "The Guardian",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcm8tVTdfTzZTclNEZTBQSUNvVmF4R3pPcEltZE50NGV3VnloV0NWZ0dVb01xMXBjdlpFbGJGYTZCUE1RdjZQNjYweFlVUWw4YkxkR3JSWmlOaE1CX2ZTM185Q2p5ZHUxMVBsaWYybGZLTjlQUGRpQlJiVVdEVU5ObWtDMG5xM1VXV3ZpcDJadU9ZdWVaZ1Rrcg?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "c8239200f336",
+   "date": "2026-11-26",
+   "tickers": [
+    "ASML"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "regulation",
+   "reason": "เนเธอร์แลนด์ต่อสู้ข้อบังคับ US ที่เสนอว่า ASML ต้องควบคุมการขายเครื่องจักร",
+   "title": "Netherlands to Fight Rollout of Proposed US Curbs on ASML",
+   "source": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTTlUSE4zRFZBaUM4Y3EtX2lDbnZzanVHeDFjeTE0bDk2bTBDM1E2TWVyS1NPUmVBX3BWcG5DWldlcDVFdEtqUTAzSFJpOTdwZ3o5YnlBV0xoUTZyZUNReGdrVXJtbkNUUWd3NDZ2RWZmQzEwWVBxTS1KS0FCeVJEQVNRaVZkSXpPN0tubHVkUG04NWh3dmhwMHMxWWxGVWVDM2ZYMERCcjl0blE4eUxhOUpMZkY?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist",
+    "products"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "dedacf89142e",
+   "date": "2026-11-26",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "competitive_advantage",
+   "reason": "การอนุมัติ SpaceX สำหรับ data centers นั้น ยากที่คู่แข่งจะทำได้",
+   "title": "Why SpaceX’s Approval for Data Centers Is Impossible for Rivals to Copy",
+   "source": "Barron's",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVGxvV2RPV3Uyc3BnOHF6QzlYdGxjM3RCSmJucDR1WFNvZldoSWNwTGp1X0RlZF9jU09uQUpTZHRISUlmNlJ4Vnpsb2dXQWVFbV9QX21id2plQndUSVc3SXlvMDVKbWVUZkIyVV9KSVRpUmFKWnFkNzR0LUF5U0JNb013?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "3e18a203a7c8",
+   "date": "2026-11-26",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "management",
+   "reason": "S&P เตือนอาจลดคะแนน Nvidia เนื่องจาก governance concerns",
+   "title": "Nvidia at Risk of Rating Cut by S&P Over Governance Concerns",
+   "source": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOODhZc1ZaTjRJWFV2emVDd3pSLXljRGVsRXRaSGVTalU5TzFGRVNKdkYweHI5WkdnRGlRZ1c2Z2RuaHZrX1h4dlZzTXFxbkVRdnR4VUp6eFI4YWxmQ21FZUdwMWhlUHI0Q21TSGpxc2trdjFKd1Y0UW9SRTUxdVhFRkt1RVh2R0JuZDFRZG9JTDJRYzlHN1lSVHoxQUJUVU04V1JFSG1rM1pUZjFvQW00em1VWXQ4UQ?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
    ],
    "model": "claude-haiku-4-5"
   },
@@ -563,6 +736,26 @@
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rcnNMbzBGbXhoUWo3SW8yc3FQekxOeUc2U250SVRHZld6OGdmaGVaQlk0bDQ0UmpnTmJuWGp4OS1ka0ttcW9wN0lQOHRndHZidjRBV3VndXMyNFR0YW1LX3B4ODF3TGs?oc=5",
    "paywall": false,
    "categories": [
+    "crypto_gold"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "d50f38383b3d",
+   "date": "2026-11-25",
+   "tickers": [
+    "XAUUSD"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "macro",
+   "reason": "ราคาทองคำตกลงจึงต่ำสุดกว่า 1 ปี เนื่องจาก US inflation ข้อมูลแสดงเพิ่มขึ้นเพิ่มเติม",
+   "title": "Gold falls to more than one-year low after data shows US inflation rose further",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOV1p3ZkduX2FrdGJhMEMtbmNXNTgxN05HeDFsX2xxNDBkWXZQVkFWS3NzNFpITzZ2RnRyYXVZQ1k5bmthekYzdG9aSDVxcGZGS1RxMnNTTHNRRkQyQWFoWm1zNXVfd2hVQW96VHQ1ZFd4eU04cXNTRWk0cFJ4LS1PLUd1eUFmN3Y4ZjJQbXZpVkd3UQ?oc=5",
+   "paywall": false,
+   "categories": [
+    "fed",
     "crypto_gold"
    ],
    "model": "claude-haiku-4-5"
