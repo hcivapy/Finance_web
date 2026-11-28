@@ -1,11 +1,49 @@
 {
- "generated": "2026-11-27T05:51:32Z",
+ "generated": "2026-11-28T05:30:46Z",
  "months": [
   "2026-09",
   "2026-10",
   "2026-11"
  ],
  "items": [
+  {
+   "id": "35c2b4fcdaee",
+   "date": "2026-11-28",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "revenue",
+   "reason": "Los Angeles schools ปฏิเสธ Google AI features และพิจารณา ยกเลิกสัญญา เสียรายได้จากสถาบันการศึกษา",
+   "title": "Los Angeles schools block Google’s AI features, consider dropping tech giant’s products",
+   "source": "AP News",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPX28yVGlpUUl3UEpZMGJaTDRFbXBWR09uX1diWWotVXFuQ2JOTDlZRVVCUXRtN3FyUUNzczI2SG9sTXZXanlELUZfYU1YTHZ3enQ1NUoyUGU4NmwzNzJYV3l5ZjM0cHF0NHlhMDl2R3gwaWROaHREY3Zrd3BBd2hHd202WnFqWTJwSF9pSThfUk5wRV9TQkdBVC1zc09hbHh6M1BVVHJ5MUdmc2JzQmJ2YUJLaEkzSGJXNHc?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "95cc28663179",
+   "date": "2026-11-28",
+   "tickers": [
+    "GOOG"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "regulation",
+   "reason": "Google สั่งหยุด Belgium datacentre construction เนื่องขาด planning permit ทำให้ล่าช้า expansion",
+   "title": "Google told to halt Belgium datacentre construction over lack of planning permit",
+   "source": "The Guardian",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObDlxb085c3A5SVdEVmdRbk1iQ05RTFZ6cHRMZ0VFLU5SR3NlYV9YX084UjNNMWxPMk9JZ1FUd2huNk50V3pwRmRtY1h6dVFfZkRXTjNFcUtHWVhvdmRGaDNIODFnQ1gwd25CXzlxY2RDaVN2aUl6RDdjdWZMV040MXd5VkVxekVOLWhqdGVHS003QWtFbE96MVU2MUd3NlNoLUZTLU9UTi14SHdfbDVBdmdxLVNLbEFQX1FRdzRxTGx1M0VEVjd3aVo3dw?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
   {
    "id": "8ba58aa59e40",
    "date": "2026-11-27",
@@ -41,6 +79,103 @@
    "paywall": false,
    "categories": [
     "crypto_gold"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "bd95f7c0a905",
+   "date": "2026-11-27",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "regulation",
+   "reason": "NVIDIA หยุด server shipment ท่ามกลางความไม่แน่นอนเกี่ยวกับ U.S. export rules ซึ่งอาจลดรายได้",
+   "title": "Nvidia's server shipment halt amid uncertainty over U.S. export rules",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9jbElhcmxNZG14YndaTTZIMjA5TmttV1UzNk9oMU95bGZTVVRCQ0NIUmN6Z1lpRnRhb2FTclhQajg2b0FhWHFVMVNpNEZIX0VxaU5LYjAya2ZmX3dj?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "44db79fc6c5a",
+   "date": "2026-11-27",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "management",
+   "reason": "Jensen Huang กลับมา CEO แต่เกิด governance concerns เกี่ยวกับความเสถียรของการบริหาร",
+   "title": "Jensen Huang's return 'is a governance nightmare' | Market Talk",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yV0FOV1I5ZlJNcnY1c3VVVHhDNkwzM0p2U19nY2lZN2M3bHhTWWJYZU9pcG9wZDNORnVMd0w4N0IyRzcxYTFqVmI3ZEg5TUxKU1JrVVV5V0NMZGl4NDJKdHFCMVpHdTg?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "995366b8d73a",
+   "date": "2026-11-27",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "negative",
+   "importance": "high",
+   "impact_area": "regulation",
+   "reason": "Chinese firms ติดตั้ง NVIDIA Blackwell chips ผ่านบุคคลที่เกี่ยวข้อง ละเมิด U.S. export controls",
+   "title": "Two Chinese firms linked to Alice Huang installed Nvidia Blackwell chips: Report",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOekVEdHo2YjM3d3hkOEpLSWpIT2xTQTZHMVBHcUN0dlBUazhkelhhaW4tUlppT0ZvazlFVXdNWUFTTm5YNzZPZmhacWtfc3hRdUFLb3M3anYyZ0c0Q1BMZ1pWNDIzUnFnenVJZnlCVkJ0Z2FhUWdwZFJSeHN1X0JPOW5FUlg1ZWhyajZJeThCN1NnRWI4VDQ3YUk1b2M2d2dFaEYtaDJHSlotLTkxdFRlM1NyVlZFNm8tT2RRTXR4TQ?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "add39335f909",
+   "date": "2026-11-27",
+   "tickers": [
+    "AMZN"
+   ],
+   "direction": "negative",
+   "importance": "low",
+   "impact_area": "revenue",
+   "reason": "Amazon ถูกกล่าวหา sale deals ทำให้ผู้บริโภคเข้าใจผิด อาจเสียความเชื่อใจ",
+   "title": "Amazon’s sale deals deceive customers, thinktank alleges",
+   "source": "The Guardian",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUC1SNlI5R3dVUHN5Nnp4dzVRMXVTamZzNU5LRlFXSU9KOEowMTRZbWxBTFR0V2hjc2d1RWdYVTBnbzFLRHR1UTRZSEdxZXlfbzMtMjJiN0FGWHBzWGdyNWZXcHZRVnpQSTgwWTF4aHRYc3pkNVg4Z0lJaGxkcm1jUDR2cU5sc19mbGxRMlRfOHI2ZWJsc0FzZUFadVR3R2ZQdjlGTUJBN2kzUUdT?oc=5",
+   "paywall": false,
+   "categories": [
+    "watchlist",
+    "deals"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "834b09dfcb19",
+   "date": "2026-11-27",
+   "tickers": [
+    "SPCX"
+   ],
+   "direction": "positive",
+   "importance": "medium",
+   "impact_area": "competitive_advantage",
+   "reason": "SpaceX อาจเข้า Anterix deal เพื่อเข้าถึง mobile network ขยาย Starlink capabilities",
+   "title": "Anterix Could Be SpaceX’s Next Deal for Mobile Network Access",
+   "source": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOFlabFMyQ2NJcHY0aXppbjdmc1FuMF85X3hFcnptaWhKRld3clEwdmxiaGJScl90aUR1enppQmJJbTRMRjBkUTI2bkU2ZWNUdVJtdDd1c1RoaDNvX3BoczVSMW5SZ05vdjZNSTVFTU56a2FYU29WbmNnVWtQbkJXMVh3Nmtrb0JxV1dSbUY0TDVVSW9kUWotZ2pIVUJUT0ttT3djYnFLTmZMNV9lMmdvRDZB?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist",
+    "deals"
    ],
    "model": "claude-haiku-4-5"
   },
@@ -327,6 +462,44 @@
    "title": "Nvidia at Risk of Rating Cut by S&P Over Governance Concerns",
    "source": "Bloomberg",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOODhZc1ZaTjRJWFV2emVDd3pSLXljRGVsRXRaSGVTalU5TzFGRVNKdkYweHI5WkdnRGlRZ1c2Z2RuaHZrX1h4dlZzTXFxbkVRdnR4VUp6eFI4YWxmQ21FZUdwMWhlUHI0Q21TSGpxc2trdjFKd1Y0UW9SRTUxdVhFRkt1RVh2R0JuZDFRZG9JTDJRYzlHN1lSVHoxQUJUVU04V1JFSG1rM1pUZjFvQW00em1VWXQ4UQ?oc=5",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "6e021f096456",
+   "date": "2026-11-26",
+   "tickers": [
+    "MSFT"
+   ],
+   "direction": "negative",
+   "importance": "medium",
+   "impact_area": "other",
+   "reason": "SAP วางแผน cut 10,000+ roles เพื่อ AI restructure สะท้อน competitive pressure ในตลาด",
+   "title": "SAP Weighs Cutting at Least 10,000 Roles in AI Restructure",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-26/sap-weighs-cutting-at-least-10-000-positions-in-ai-restructuring",
+   "paywall": true,
+   "categories": [
+    "watchlist"
+   ],
+   "model": "claude-haiku-4-5"
+  },
+  {
+   "id": "d6630e585669",
+   "date": "2026-11-26",
+   "tickers": [
+    "NVDA"
+   ],
+   "direction": "positive",
+   "importance": "high",
+   "impact_area": "regulation",
+   "reason": "U.S. ปิด loophole ที่ Chinese companies เข้าถึง NVIDIA chips และเพิ่มการบังคับใช้ ให้ NVIDIA ได้ advantage",
+   "title": "A Game-Changing Move Just Gave America the Edge Over China in AI",
+   "source": "WSJ",
+   "link": "https://www.wsj.com/tech/a-game-changing-move-just-gave-america-the-edge-over-china-in-ai-53492e2c?mod=rss_Technology",
    "paywall": true,
    "categories": [
     "watchlist"
